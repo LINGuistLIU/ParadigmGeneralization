@@ -11,6 +11,8 @@ if not os.path.exists(ppath):
 
 for language in languagelist:
     print(language)
+    if language == 'fi':
+        os.system('cat DurrettDeNero/fi_train_dev2.txt >> DurrettDeNero/fi_train_dev.txt')
     os.system("pypy paradigmextract/pextract.py < DurrettDeNero/" + language + "_train_dev.txt > " + ppath + language + ".p")
 
 #-----------------------------------------------------------------------
