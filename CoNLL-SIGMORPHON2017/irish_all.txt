@@ -1,0 +1,3755 @@
+nuachtán	nuachtán	TAG=N,TAG=LEMMA
+nuachtán	a nuachtáin	TAG=N,TAG=VOC,TAG=SG
+nuachtán	nuachtáin	TAG=N,TAG=NOM,TAG=PL
+nuachtán	nuachtán	TAG=N,TAG=NOM,TAG=SG
+nuachtán	nuachtán	TAG=N,TAG=GEN,TAG=PL
+nuachtán	an nuachtáin	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+nuachtán	an nuachtán	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+nuachtán	leis an nuachtán	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+nuachtán	na nuachtáin	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+nuachtán	nuachtáin	TAG=N,TAG=GEN,TAG=SG
+nuachtán	nuachtán	TAG=N,TAG=DAT,TAG=SG
+nuachtán	a nuachtána	TAG=N,TAG=VOC,TAG=PL
+nuachtán	leis na nuachtáin	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+nuachtán	nuachtáin	TAG=N,TAG=DAT,TAG=PL
+
+síceolaí	síceolaí	TAG=N,TAG=LEMMA
+síceolaí	a shíceolaí	TAG=N,TAG=VOC,TAG=SG
+síceolaí	síceolaithe	TAG=N,TAG=NOM,TAG=PL
+síceolaí	síceolaí	TAG=N,TAG=NOM,TAG=SG
+síceolaí	síceolaithe	TAG=N,TAG=GEN,TAG=PL
+síceolaí	an tsíceolaí	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+síceolaí	an síceolaí	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+síceolaí	leis an síceolaí	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+síceolaí	na síceolaithe	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+síceolaí	síceolaí	TAG=N,TAG=GEN,TAG=SG
+síceolaí	síceolaí	TAG=N,TAG=DAT,TAG=SG
+síceolaí	a shíceolaithe	TAG=N,TAG=VOC,TAG=PL
+síceolaí	leis na síceolaithe	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+síceolaí	síceolaithe	TAG=N,TAG=DAT,TAG=PL
+
+duine	duine	TAG=N,TAG=LEMMA
+duine	a dhuine	TAG=N,TAG=VOC,TAG=SG
+duine	daoine	TAG=N,TAG=NOM,TAG=PL
+duine	duine	TAG=N,TAG=NOM,TAG=SG
+duine	daoine	TAG=N,TAG=GEN,TAG=PL
+duine	an duine	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+duine	an duine	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+duine	leis an duine	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+duine	na daoine	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+duine	duine	TAG=N,TAG=GEN,TAG=SG
+duine	duine	TAG=N,TAG=DAT,TAG=SG
+duine	a dhaoine	TAG=N,TAG=VOC,TAG=PL
+duine	leis na daoine	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+duine	daoine	TAG=N,TAG=DAT,TAG=PL
+
+Críostaí	Críostaí	TAG=N,TAG=LEMMA
+Críostaí	a Chríostaí	TAG=N,TAG=VOC,TAG=SG
+Críostaí	Críostaithe	TAG=N,TAG=NOM,TAG=PL
+Críostaí	Críostaí	TAG=N,TAG=NOM,TAG=SG
+Críostaí	Críostaithe	TAG=N,TAG=GEN,TAG=PL
+Críostaí	an Chríostaí	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+Críostaí	an Críostaí	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+Críostaí	leis an gCríostaí	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+Críostaí	na Críostaithe	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+Críostaí	Críostaí	TAG=N,TAG=GEN,TAG=SG
+Críostaí	Críostaí	TAG=N,TAG=DAT,TAG=SG
+Críostaí	a Chríostaithe	TAG=N,TAG=VOC,TAG=PL
+Críostaí	leis na Críostaithe	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+Críostaí	Críostaithe	TAG=N,TAG=DAT,TAG=PL
+
+turas	turas	TAG=N,TAG=LEMMA
+turas	a thurais	TAG=N,TAG=VOC,TAG=SG
+turas	turais	TAG=N,TAG=NOM,TAG=PL
+turas	turas	TAG=N,TAG=NOM,TAG=SG
+turas	turas	TAG=N,TAG=GEN,TAG=PL
+turas	an turais	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+turas	an turas	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+turas	leis an turas	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+turas	na turais	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+turas	turais	TAG=N,TAG=GEN,TAG=SG
+turas	turas	TAG=N,TAG=DAT,TAG=SG
+turas	a thurasa	TAG=N,TAG=VOC,TAG=PL
+turas	leis na turais	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+turas	turais	TAG=N,TAG=DAT,TAG=PL
+
+iarmhír	iarmhír	TAG=N,TAG=LEMMA
+iarmhír	a iarmhír	TAG=N,TAG=VOC,TAG=SG
+iarmhír	iarmhíreanna	TAG=N,TAG=NOM,TAG=PL
+iarmhír	iarmhír	TAG=N,TAG=NOM,TAG=SG
+iarmhír	iarmhíreanna	TAG=N,TAG=GEN,TAG=PL
+iarmhír	na hiarmhíre	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+iarmhír	an iarmhír	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+iarmhír	leis an iarmhír	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+iarmhír	na hiarmhíreanna	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+iarmhír	iarmhíre	TAG=N,TAG=GEN,TAG=SG
+iarmhír	iarmhír	TAG=N,TAG=DAT,TAG=SG
+iarmhír	a iarmhíreanna	TAG=N,TAG=VOC,TAG=PL
+iarmhír	leis na hiarmhíreanna	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+iarmhír	iarmhíreanna	TAG=N,TAG=DAT,TAG=PL
+
+cath	cath	TAG=N,TAG=LEMMA
+cath	a chath	TAG=N,TAG=VOC,TAG=SG
+cath	cathanna	TAG=N,TAG=NOM,TAG=PL
+cath	cath	TAG=N,TAG=NOM,TAG=SG
+cath	cathanna	TAG=N,TAG=GEN,TAG=PL
+cath	an chatha	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+cath	an cath	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+cath	leis an gcath	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+cath	na cathanna	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+cath	catha	TAG=N,TAG=GEN,TAG=SG
+cath	cath	TAG=N,TAG=DAT,TAG=SG
+cath	a chathanna	TAG=N,TAG=VOC,TAG=PL
+cath	leis na cathanna	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+cath	cathanna	TAG=N,TAG=DAT,TAG=PL
+
+barda	barda	TAG=N,TAG=LEMMA
+barda	a bhárda	TAG=N,TAG=VOC,TAG=SG
+barda	bárdaí	TAG=N,TAG=NOM,TAG=PL
+barda	bárda	TAG=N,TAG=NOM,TAG=SG
+barda	bárdaí	TAG=N,TAG=GEN,TAG=PL
+barda	an bhárda	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+barda	an bárda	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+barda	leis an mbárda	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+barda	na bárdaí	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+barda	bárda	TAG=N,TAG=GEN,TAG=SG
+barda	bárda	TAG=N,TAG=DAT,TAG=SG
+barda	a bhárdaí	TAG=N,TAG=VOC,TAG=PL
+barda	leis na bárdaí	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+barda	bárdaí	TAG=N,TAG=DAT,TAG=PL
+
+ceann	ceann	TAG=N,TAG=LEMMA
+ceann	a chinn	TAG=N,TAG=VOC,TAG=SG
+ceann	cinn	TAG=N,TAG=NOM,TAG=PL
+ceann	ceann	TAG=N,TAG=NOM,TAG=SG
+ceann	ceann	TAG=N,TAG=GEN,TAG=PL
+ceann	an chinn	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+ceann	an ceann	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+ceann	leis an gceann	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+ceann	na cinn	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+ceann	cinn	TAG=N,TAG=GEN,TAG=SG
+ceann	ceann	TAG=N,TAG=DAT,TAG=SG
+ceann	a cheanna	TAG=N,TAG=VOC,TAG=PL
+ceann	leis na cinn	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+ceann	cinn	TAG=N,TAG=DAT,TAG=PL
+
+minic	minic	TAG=ADJ,TAG=LEMMA
+minic	mhinic	TAG=ADJ,TAG=DAT,TAG=SG,TAG=FEM
+minic	minic	TAG=ADJ,TAG=VOC,TAG=PL
+minic	níos minice	TAG=ADJ,TAG=CMPR
+minic	is minice	TAG=ADJ,TAG=SPRL
+minic	mhinic	TAG=ADJ,TAG=NOM~VOC,TAG=SG,TAG=FEM
+minic	minic	TAG=ADJ,TAG=GEN,TAG=PL,TAG=WEAK
+minic	minic	TAG=ADJ,TAG=GEN,TAG=SG,TAG=FEM
+minic	minic	TAG=ADJ,TAG=NOM,TAG=PL
+minic	mhinic	TAG=ADJ,TAG=VOC~GEN,TAG=SG,TAG=MASV
+minic	minic	TAG=ADJ,TAG=DAT,TAG=SG,TAG=MASC
+minic	minic	TAG=ADJ,TAG=DAT,TAG=PL
+minic	minic	TAG=ADJ,TAG=NOM,TAG=SG,TAG=MASC
+minic	minic	TAG=ADJ,TAG=GEN,TAG=PL,TAG=STRONG
+
+peann	peann	TAG=N,TAG=LEMMA
+peann	a phinn	TAG=N,TAG=VOC,TAG=SG
+peann	pinn	TAG=N,TAG=NOM,TAG=PL
+peann	peann	TAG=N,TAG=NOM,TAG=SG
+peann	peann	TAG=N,TAG=GEN,TAG=PL
+peann	an phinn	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+peann	an peann	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+peann	leis an bpeann	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+peann	na pinn	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+peann	pinn	TAG=N,TAG=GEN,TAG=SG
+peann	peann	TAG=N,TAG=DAT,TAG=SG
+peann	a pheanna	TAG=N,TAG=VOC,TAG=PL
+peann	leis na pinn	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+peann	pinn	TAG=N,TAG=DAT,TAG=PL
+
+iontach	iontach	TAG=ADJ,TAG=LEMMA
+iontach	iontach	TAG=ADJ,TAG=DAT,TAG=SG,TAG=FEM
+iontach	iontacha	TAG=ADJ,TAG=VOC,TAG=PL
+iontach	níos iontaí	TAG=ADJ,TAG=CMPR
+iontach	is iontaí	TAG=ADJ,TAG=SPRL
+iontach	iontach	TAG=ADJ,TAG=NOM~VOC,TAG=SG,TAG=FEM
+iontach	iontach	TAG=ADJ,TAG=GEN,TAG=PL,TAG=WEAK
+iontach	iontaí	TAG=ADJ,TAG=GEN,TAG=SG,TAG=FEM
+iontach	iontacha	TAG=ADJ,TAG=NOM,TAG=PL
+iontach	iontaigh	TAG=ADJ,TAG=VOC~GEN,TAG=SG,TAG=MASV
+iontach	iontach	TAG=ADJ,TAG=DAT,TAG=SG,TAG=MASC
+iontach	iontacha	TAG=ADJ,TAG=DAT,TAG=PL
+iontach	iontach	TAG=ADJ,TAG=NOM,TAG=SG,TAG=MASC
+iontach	iontacha	TAG=ADJ,TAG=GEN,TAG=PL,TAG=STRONG
+
+timpeall	timpeall	TAG=N,TAG=LEMMA
+timpeall	a thimpill	TAG=N,TAG=VOC,TAG=SG
+timpeall	timpill	TAG=N,TAG=NOM,TAG=PL
+timpeall	timpeall	TAG=N,TAG=NOM,TAG=SG
+timpeall	timpeall	TAG=N,TAG=GEN,TAG=PL
+timpeall	an timpill	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+timpeall	an timpeall	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+timpeall	leis an timpeall	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+timpeall	na timpill	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+timpeall	timpill	TAG=N,TAG=GEN,TAG=SG
+timpeall	timpeall	TAG=N,TAG=DAT,TAG=SG
+timpeall	a thimpealla	TAG=N,TAG=VOC,TAG=PL
+timpeall	leis na timpill	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+timpeall	timpill	TAG=N,TAG=DAT,TAG=PL
+
+caint	caint	TAG=N,TAG=LEMMA
+caint	a chaint	TAG=N,TAG=VOC,TAG=SG
+caint	cainteanna	TAG=N,TAG=NOM,TAG=PL
+caint	caint	TAG=N,TAG=NOM,TAG=SG
+caint	cainteanna	TAG=N,TAG=GEN,TAG=PL
+caint	na cainte	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+caint	an chaint	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+caint	leis an gcaint	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+caint	na cainteanna	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+caint	cainte	TAG=N,TAG=GEN,TAG=SG
+caint	caint	TAG=N,TAG=DAT,TAG=SG
+caint	a chainteanna	TAG=N,TAG=VOC,TAG=PL
+caint	leis na cainteanna	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+caint	cainteanna	TAG=N,TAG=DAT,TAG=PL
+
+athrú	athrú	TAG=N,TAG=LEMMA
+athrú	a athrú	TAG=N,TAG=VOC,TAG=SG
+athrú	athruithe	TAG=N,TAG=NOM,TAG=PL
+athrú	athrú	TAG=N,TAG=NOM,TAG=SG
+athrú	athruithe	TAG=N,TAG=GEN,TAG=PL
+athrú	an athraithe	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+athrú	an t-athrú	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+athrú	leis an athrú	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+athrú	na hathruithe	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+athrú	athraithe	TAG=N,TAG=GEN,TAG=SG
+athrú	athrú	TAG=N,TAG=DAT,TAG=SG
+athrú	a athruithe	TAG=N,TAG=VOC,TAG=PL
+athrú	leis na hathruithe	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+athrú	athruithe	TAG=N,TAG=DAT,TAG=PL
+
+tar	tar	TAG=V,TAG=LEMMA
+tar	thiocfaimis	TAG=V,TAG=1,TAG=PL,TAG=COND
+tar	tagtar	TAG=V,TAG=AUTO,TAG=PRS,TAG=IND
+tar	go dtagaimid	TAG=V,TAG=1,TAG=PL,TAG=SBJV,TAG=PRS
+tar	dá dtagadh sibh	TAG=V,TAG=2,TAG=PL,TAG=SBJV,TAG=PST
+tar	tháinig tú	TAG=V,TAG=2,TAG=SG,TAG=PST,TAG=IND
+tar	tagann siad	TAG=V,TAG=3,TAG=PL,TAG=PRS,TAG=IND
+tar	tagaim	TAG=V,TAG=1,TAG=SG,TAG=PRS,TAG=IND
+tar	thiocfaí	TAG=V,TAG=AUTO,TAG=COND
+tar	go dtaga sé	TAG=V,TAG=3,TAG=SG,TAG=SBJV,TAG=PRS
+tar	tiocfar	TAG=V,TAG=AUTO,TAG=FUT,TAG=IND
+tar	dá dtagainn	TAG=V,TAG=1,TAG=SG,TAG=SBJV,TAG=PST
+tar	tháinig mé	TAG=V,TAG=1,TAG=SG,TAG=PST,TAG=IND
+tar	thiocfadh sibh	TAG=V,TAG=2,TAG=PL,TAG=COND
+tar	a thagann	TAG=V,TAG=REL,TAG=PRS,TAG=IND
+tar	dá dtagtá	TAG=V,TAG=2~SG,TAG=SBJV,TAG=PST
+tar	tiocfaidh sibh	TAG=V,TAG=2,TAG=PL,TAG=FUT,TAG=IND
+tar	go dtaga mé	TAG=V,TAG=1,TAG=SG,TAG=SBJV,TAG=PRS
+tar	tháinig siad	TAG=V,TAG=3,TAG=PL,TAG=PST,TAG=IND
+tar	tagaidís	TAG=V,TAG=3,TAG=PL,TAG=IMP
+tar	thagadh sibh	TAG=V,TAG=2,TAG=PL,TAG=PST,TAG=HAB,TAG=IND
+tar	dá dtagadh sé	TAG=V,TAG=3,TAG=SG,TAG=SBJV,TAG=PST
+tar	thagadh sé	TAG=V,TAG=3,TAG=SG,TAG=PST,TAG=HAB,TAG=IND
+tar	dá dtagaidís	TAG=V,TAG=3,TAG=PL,TAG=SBJV,TAG=PST
+tar	tiocfaidh siad	TAG=V,TAG=3,TAG=PL,TAG=FUT,TAG=IND
+tar	tagaimid	TAG=V,TAG=1,TAG=PL,TAG=PRS,TAG=IND
+tar	tar	TAG=V,TAG=2,TAG=SG,TAG=IMP
+tar	dá dtagaimis	TAG=V,TAG=1,TAG=PL,TAG=SBJV,TAG=PST
+tar	a tháinig	TAG=V,TAG=REL,TAG=PST,TAG=IND
+tar	thiocfá	TAG=V,TAG=2,TAG=SG,TAG=COND
+tar	tiocfaimid	TAG=V,TAG=1,TAG=PL,TAG=FUT,TAG=IND
+tar	tháinig sibh	TAG=V,TAG=2,TAG=PL,TAG=PST,TAG=IND
+tar	thiocfadh sé	TAG=V,TAG=3,TAG=SG,TAG=COND
+tar	thagtaí	TAG=V,TAG=AUTO,TAG=PST,TAG=HAB,TAG=IND
+tar	tagann tú	TAG=V,TAG=2,TAG=SG,TAG=PRS,TAG=IND
+tar	tagaigí	TAG=V,TAG=2,TAG=PL,TAG=IMP
+tar	tagaim	TAG=V,TAG=1,TAG=SG,TAG=IMP
+tar	tiocfaidh mé	TAG=V,TAG=1,TAG=SG,TAG=FUT,TAG=IND
+tar	dá dtagtaí	TAG=V,TAG=AUTO,TAG=SBJV,TAG=PST
+tar	tiocfaidh tú	TAG=V,TAG=2,TAG=SG,TAG=FUT,TAG=IND
+tar	go dtaga sibh	TAG=V,TAG=2,TAG=PL,TAG=SBJV,TAG=PRS
+tar	thiocfainn	TAG=V,TAG=1,TAG=SG,TAG=COND
+tar	thagainn	TAG=V,TAG=1,TAG=SG,TAG=PST,TAG=HAB,TAG=IND
+tar	thagtá	TAG=V,TAG=2,TAG=SG,TAG=PST,TAG=HAB,TAG=IND
+tar	thángamar	TAG=V,TAG=1,TAG=PL,TAG=PST,TAG=IND
+tar	teacht	TAG=V,TAG=V.MSDR
+tar	tagann sibh	TAG=V,TAG=2,TAG=PL,TAG=PRS,TAG=IND
+tar	go dtaga tú	TAG=V,TAG=2~SG,TAG=SBJV,TAG=PRS
+tar	tagtar	TAG=V,TAG=AUTO,TAG=IMP
+tar	tháinig sé	TAG=V,TAG=3,TAG=SG,TAG=PST,TAG=IND
+tar	thángthas	TAG=V,TAG=AUTO,TAG=PST,TAG=IND
+tar	a thiocfaidh	TAG=V,TAG=REL,TAG=FUT,TAG=IND
+tar	thiocfaidís	TAG=V,TAG=3,TAG=PL,TAG=COND
+tar	go dtagtar	TAG=V,TAG=AUTO,TAG=SBJV,TAG=PRS
+tar	tagtha	TAG=V,TAG=V.PTCP,TAG=PST
+tar	a thagadh	TAG=V,TAG=REL,TAG=PST,TAG=HAB,TAG=IND
+tar	go dtaga siad	TAG=V,TAG=3,TAG=PL,TAG=SBJV,TAG=PRS
+tar	thagaidís	TAG=V,TAG=3,TAG=PL,TAG=PST,TAG=HAB,TAG=IND
+tar	tagaimis	TAG=V,TAG=1,TAG=PL,TAG=IMP
+tar	thagaimis	TAG=V,TAG=1,TAG=PL,TAG=PST,TAG=HAB,TAG=IND
+tar	tagann sé	TAG=V,TAG=3,TAG=SG,TAG=PRS,TAG=IND
+tar	a thiocfadh	TAG=V,TAG=REL,TAG=COND
+tar	tiocfaidh sé	TAG=V,TAG=3,TAG=SG,TAG=FUT,TAG=IND
+tar	tagadh sé	TAG=V,TAG=3,TAG=SG,TAG=IMP
+
+seanadóir	seanadóir	TAG=N,TAG=LEMMA
+seanadóir	a sheanadóir	TAG=N,TAG=VOC,TAG=SG
+seanadóir	seanadóirí	TAG=N,TAG=NOM,TAG=PL
+seanadóir	seanadóir	TAG=N,TAG=NOM,TAG=SG
+seanadóir	seanadóirí	TAG=N,TAG=GEN,TAG=PL
+seanadóir	an tseanadóra	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+seanadóir	an seanadóir	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+seanadóir	leis an seanadóir	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+seanadóir	na seanadóirí	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+seanadóir	seanadóra	TAG=N,TAG=GEN,TAG=SG
+seanadóir	seanadóir	TAG=N,TAG=DAT,TAG=SG
+seanadóir	a sheanadóirí	TAG=N,TAG=VOC,TAG=PL
+seanadóir	leis na seanadóirí	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+seanadóir	seanadóirí	TAG=N,TAG=DAT,TAG=PL
+
+sochaí	sochaí	TAG=N,TAG=LEMMA
+sochaí	a shochaí	TAG=N,TAG=VOC,TAG=SG
+sochaí	sochaithe	TAG=N,TAG=NOM,TAG=PL
+sochaí	sochaí	TAG=N,TAG=NOM,TAG=SG
+sochaí	sochaithe	TAG=N,TAG=GEN,TAG=PL
+sochaí	na sochaí	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+sochaí	an tsochaí	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+sochaí	leis an tsochaí	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+sochaí	na sochaithe	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+sochaí	sochaí	TAG=N,TAG=GEN,TAG=SG
+sochaí	sochaí	TAG=N,TAG=DAT,TAG=SG
+sochaí	a shochaithe	TAG=N,TAG=VOC,TAG=PL
+sochaí	leis na sochaithe	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+sochaí	sochaithe	TAG=N,TAG=DAT,TAG=PL
+
+léiriú	léiriú	TAG=N,TAG=LEMMA
+léiriú	a léiriú	TAG=N,TAG=VOC,TAG=SG
+léiriú	léirithe	TAG=N,TAG=NOM,TAG=PL
+léiriú	léiriú	TAG=N,TAG=NOM,TAG=SG
+léiriú	léirithe	TAG=N,TAG=GEN,TAG=PL
+léiriú	an léirithe	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+léiriú	an léiriú	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+léiriú	leis an léiriú	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+léiriú	na léirithe	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+léiriú	léirithe	TAG=N,TAG=GEN,TAG=SG
+léiriú	léiriú	TAG=N,TAG=DAT,TAG=SG
+léiriú	a léirithe	TAG=N,TAG=VOC,TAG=PL
+léiriú	leis na léirithe	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+léiriú	léirithe	TAG=N,TAG=DAT,TAG=PL
+
+ainmhí	ainmhí	TAG=N,TAG=LEMMA
+ainmhí	a ainmhí	TAG=N,TAG=VOC,TAG=SG
+ainmhí	ainmhithe	TAG=N,TAG=NOM,TAG=PL
+ainmhí	ainmhí	TAG=N,TAG=NOM,TAG=SG
+ainmhí	ainmhithe	TAG=N,TAG=GEN,TAG=PL
+ainmhí	an ainmhí	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+ainmhí	an t-ainmhí	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+ainmhí	leis an ainmhí	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+ainmhí	na hainmhithe	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+ainmhí	ainmhí	TAG=N,TAG=GEN,TAG=SG
+ainmhí	ainmhí	TAG=N,TAG=DAT,TAG=SG
+ainmhí	a ainmhithe	TAG=N,TAG=VOC,TAG=PL
+ainmhí	leis na hainmhithe	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+ainmhí	ainmhithe	TAG=N,TAG=DAT,TAG=PL
+
+coitianta	coitianta	TAG=ADJ,TAG=LEMMA
+coitianta	choitianta	TAG=ADJ,TAG=DAT,TAG=SG,TAG=FEM
+coitianta	coitianta	TAG=ADJ,TAG=VOC,TAG=PL
+coitianta	níos coitianta	TAG=ADJ,TAG=CMPR
+coitianta	is coitianta	TAG=ADJ,TAG=SPRL
+coitianta	choitianta	TAG=ADJ,TAG=NOM~VOC,TAG=SG,TAG=FEM
+coitianta	coitianta	TAG=ADJ,TAG=GEN,TAG=PL,TAG=WEAK
+coitianta	coitianta	TAG=ADJ,TAG=GEN,TAG=SG,TAG=FEM
+coitianta	coitianta	TAG=ADJ,TAG=NOM,TAG=PL
+coitianta	choitianta	TAG=ADJ,TAG=VOC~GEN,TAG=SG,TAG=MASV
+coitianta	coitianta	TAG=ADJ,TAG=DAT,TAG=SG,TAG=MASC
+coitianta	coitianta	TAG=ADJ,TAG=DAT,TAG=PL
+coitianta	coitianta	TAG=ADJ,TAG=NOM,TAG=SG,TAG=MASC
+coitianta	coitianta	TAG=ADJ,TAG=GEN,TAG=PL,TAG=STRONG
+
+acomhal	acomhal	TAG=N,TAG=LEMMA
+acomhal	a acomhail	TAG=N,TAG=VOC,TAG=SG
+acomhal	acomhail	TAG=N,TAG=NOM,TAG=PL
+acomhal	acomhal	TAG=N,TAG=NOM,TAG=SG
+acomhal	acomhal	TAG=N,TAG=GEN,TAG=PL
+acomhal	an acomhail	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+acomhal	an t-acomhal	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+acomhal	leis an acomhal	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+acomhal	na hacomhail	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+acomhal	acomhail	TAG=N,TAG=GEN,TAG=SG
+acomhal	acomhal	TAG=N,TAG=DAT,TAG=SG
+acomhal	a acomhala	TAG=N,TAG=VOC,TAG=PL
+acomhal	leis na hacomhail	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+acomhal	acomhail	TAG=N,TAG=DAT,TAG=PL
+
+leabhar	leabhar	TAG=N,TAG=LEMMA
+leabhar	a leabhair	TAG=N,TAG=VOC,TAG=SG
+leabhar	leabhair	TAG=N,TAG=NOM,TAG=PL
+leabhar	leabhar	TAG=N,TAG=NOM,TAG=SG
+leabhar	leabhar	TAG=N,TAG=GEN,TAG=PL
+leabhar	an leabhair	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+leabhar	an leabhar	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+leabhar	leis an leabhar	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+leabhar	na leabhair	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+leabhar	leabhair	TAG=N,TAG=GEN,TAG=SG
+leabhar	leabhar	TAG=N,TAG=DAT,TAG=SG
+leabhar	a leabhara	TAG=N,TAG=VOC,TAG=PL
+leabhar	leis na leabhair	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+leabhar	leabhair	TAG=N,TAG=DAT,TAG=PL
+
+fada	fada	TAG=ADJ,TAG=LEMMA
+fada	fhada	TAG=ADJ,TAG=DAT,TAG=SG,TAG=FEM
+fada	fada	TAG=ADJ,TAG=VOC,TAG=PL
+fada	níos faide	TAG=ADJ,TAG=CMPR
+fada	is faide	TAG=ADJ,TAG=SPRL
+fada	fhada	TAG=ADJ,TAG=NOM~VOC,TAG=SG,TAG=FEM
+fada	fada	TAG=ADJ,TAG=GEN,TAG=PL,TAG=WEAK
+fada	fada	TAG=ADJ,TAG=GEN,TAG=SG,TAG=FEM
+fada	fada	TAG=ADJ,TAG=NOM,TAG=PL
+fada	fhada	TAG=ADJ,TAG=VOC~GEN,TAG=SG,TAG=MASV
+fada	fada	TAG=ADJ,TAG=DAT,TAG=SG,TAG=MASC
+fada	fada	TAG=ADJ,TAG=DAT,TAG=PL
+fada	fada	TAG=ADJ,TAG=NOM,TAG=SG,TAG=MASC
+fada	fada	TAG=ADJ,TAG=GEN,TAG=PL,TAG=STRONG
+
+casadh	casadh	TAG=N,TAG=LEMMA
+casadh	a chasaidh	TAG=N,TAG=VOC,TAG=SG
+casadh	castaí	TAG=N,TAG=NOM,TAG=PL
+casadh	casadh	TAG=N,TAG=NOM,TAG=SG
+casadh	castaí	TAG=N,TAG=GEN,TAG=PL
+casadh	an chasaidh	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+casadh	an casadh	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+casadh	leis an gcasadh	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+casadh	na castaí	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+casadh	casaidh	TAG=N,TAG=GEN,TAG=SG
+casadh	casadh	TAG=N,TAG=DAT,TAG=SG
+casadh	a chastaí	TAG=N,TAG=VOC,TAG=PL
+casadh	leis na castaí	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+casadh	castaí	TAG=N,TAG=DAT,TAG=PL
+
+cuid	cuid	TAG=N,TAG=LEMMA
+cuid	a chuid	TAG=N,TAG=VOC,TAG=SG
+cuid	codanna	TAG=N,TAG=NOM,TAG=PL
+cuid	cuid	TAG=N,TAG=NOM,TAG=SG
+cuid	codanna	TAG=N,TAG=GEN,TAG=PL
+cuid	na coda	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+cuid	an chuid	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+cuid	leis an gcuid	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+cuid	na codanna	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+cuid	coda	TAG=N,TAG=GEN,TAG=SG
+cuid	cuid	TAG=N,TAG=DAT,TAG=SG
+cuid	a chodanna	TAG=N,TAG=VOC,TAG=PL
+cuid	leis na codanna	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+cuid	codanna	TAG=N,TAG=DAT,TAG=PL
+
+Protastúnach	Protastúnach	TAG=ADJ,TAG=LEMMA
+Protastúnach	Phrotastúnach	TAG=ADJ,TAG=DAT,TAG=SG,TAG=FEM
+Protastúnach	Protastúnacha	TAG=ADJ,TAG=VOC,TAG=PL
+Protastúnach	níos Protastúnaí	TAG=ADJ,TAG=CMPR
+Protastúnach	is Protastúnaí	TAG=ADJ,TAG=SPRL
+Protastúnach	Phrotastúnach	TAG=ADJ,TAG=NOM~VOC,TAG=SG,TAG=FEM
+Protastúnach	Protastúnach	TAG=ADJ,TAG=GEN,TAG=PL,TAG=WEAK
+Protastúnach	Protastúnaí	TAG=ADJ,TAG=GEN,TAG=SG,TAG=FEM
+Protastúnach	Protastúnacha	TAG=ADJ,TAG=NOM,TAG=PL
+Protastúnach	Phrotastúnaigh	TAG=ADJ,TAG=VOC~GEN,TAG=SG,TAG=MASV
+Protastúnach	Protastúnach	TAG=ADJ,TAG=DAT,TAG=SG,TAG=MASC
+Protastúnach	Protastúnacha	TAG=ADJ,TAG=DAT,TAG=PL
+Protastúnach	Protastúnach	TAG=ADJ,TAG=NOM,TAG=SG,TAG=MASC
+Protastúnach	Protastúnacha	TAG=ADJ,TAG=GEN,TAG=PL,TAG=STRONG
+
+páiste	páiste	TAG=N,TAG=LEMMA
+páiste	a pháiste	TAG=N,TAG=VOC,TAG=SG
+páiste	páistí	TAG=N,TAG=NOM,TAG=PL
+páiste	páiste	TAG=N,TAG=NOM,TAG=SG
+páiste	páistí	TAG=N,TAG=GEN,TAG=PL
+páiste	an pháiste	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+páiste	an páiste	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+páiste	leis an bpáiste	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+páiste	na páistí	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+páiste	páiste	TAG=N,TAG=GEN,TAG=SG
+páiste	páiste	TAG=N,TAG=DAT,TAG=SG
+páiste	a pháistí	TAG=N,TAG=VOC,TAG=PL
+páiste	leis na páistí	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+páiste	páistí	TAG=N,TAG=DAT,TAG=PL
+
+measc	measc	TAG=V,TAG=LEMMA
+measc	mheascfaimis	TAG=V,TAG=1,TAG=PL,TAG=COND
+measc	measctar	TAG=V,TAG=AUTO,TAG=PRS,TAG=IND
+measc	go meascaimid	TAG=V,TAG=1,TAG=PL,TAG=SBJV,TAG=PRS
+measc	dá meascadh sibh	TAG=V,TAG=2,TAG=PL,TAG=SBJV,TAG=PST
+measc	mheasc tú	TAG=V,TAG=2,TAG=SG,TAG=PST,TAG=IND
+measc	meascann siad	TAG=V,TAG=3,TAG=PL,TAG=PRS,TAG=IND
+measc	meascaim	TAG=V,TAG=1,TAG=SG,TAG=PRS,TAG=IND
+measc	mheascfaí	TAG=V,TAG=AUTO,TAG=COND
+measc	go measca sé	TAG=V,TAG=3,TAG=SG,TAG=SBJV,TAG=PRS
+measc	meascfar	TAG=V,TAG=AUTO,TAG=FUT,TAG=IND
+measc	dá meascainn	TAG=V,TAG=1,TAG=SG,TAG=SBJV,TAG=PST
+measc	mheasc mé	TAG=V,TAG=1,TAG=SG,TAG=PST,TAG=IND
+measc	mheascfadh sibh	TAG=V,TAG=2,TAG=PL,TAG=COND
+measc	a mheascann	TAG=V,TAG=REL,TAG=PRS,TAG=IND
+measc	dá measctá	TAG=V,TAG=2~SG,TAG=SBJV,TAG=PST
+measc	meascfaidh sibh	TAG=V,TAG=2,TAG=PL,TAG=FUT,TAG=IND
+measc	go measca mé	TAG=V,TAG=1,TAG=SG,TAG=SBJV,TAG=PRS
+measc	mheasc siad	TAG=V,TAG=3,TAG=PL,TAG=PST,TAG=IND
+measc	meascaidís	TAG=V,TAG=3,TAG=PL,TAG=IMP
+measc	mheascadh sibh	TAG=V,TAG=2,TAG=PL,TAG=PST,TAG=HAB,TAG=IND
+measc	dá meascadh sé	TAG=V,TAG=3,TAG=SG,TAG=SBJV,TAG=PST
+measc	mheascadh sé	TAG=V,TAG=3,TAG=SG,TAG=PST,TAG=HAB,TAG=IND
+measc	dá meascaidís	TAG=V,TAG=3,TAG=PL,TAG=SBJV,TAG=PST
+measc	meascfaidh siad	TAG=V,TAG=3,TAG=PL,TAG=FUT,TAG=IND
+measc	meascaimid	TAG=V,TAG=1,TAG=PL,TAG=PRS,TAG=IND
+measc	measc	TAG=V,TAG=2,TAG=SG,TAG=IMP
+measc	dá meascaimis	TAG=V,TAG=1,TAG=PL,TAG=SBJV,TAG=PST
+measc	a mheasc	TAG=V,TAG=REL,TAG=PST,TAG=IND
+measc	mheascfá	TAG=V,TAG=2,TAG=SG,TAG=COND
+measc	meascfaimid	TAG=V,TAG=1,TAG=PL,TAG=FUT,TAG=IND
+measc	mheasc sibh	TAG=V,TAG=2,TAG=PL,TAG=PST,TAG=IND
+measc	mheascfadh sé	TAG=V,TAG=3,TAG=SG,TAG=COND
+measc	mheasctaí	TAG=V,TAG=AUTO,TAG=PST,TAG=HAB,TAG=IND
+measc	meascann tú	TAG=V,TAG=2,TAG=SG,TAG=PRS,TAG=IND
+measc	meascaigí	TAG=V,TAG=2,TAG=PL,TAG=IMP
+measc	meascaim	TAG=V,TAG=1,TAG=SG,TAG=IMP
+measc	meascfaidh mé	TAG=V,TAG=1,TAG=SG,TAG=FUT,TAG=IND
+measc	dá measctaí	TAG=V,TAG=AUTO,TAG=SBJV,TAG=PST
+measc	meascfaidh tú	TAG=V,TAG=2,TAG=SG,TAG=FUT,TAG=IND
+measc	go measca sibh	TAG=V,TAG=2,TAG=PL,TAG=SBJV,TAG=PRS
+measc	mheascfainn	TAG=V,TAG=1,TAG=SG,TAG=COND
+measc	mheascainn	TAG=V,TAG=1,TAG=SG,TAG=PST,TAG=HAB,TAG=IND
+measc	mheasctá	TAG=V,TAG=2,TAG=SG,TAG=PST,TAG=HAB,TAG=IND
+measc	mheascamar	TAG=V,TAG=1,TAG=PL,TAG=PST,TAG=IND
+measc	meascadh	TAG=V,TAG=V.MSDR
+measc	meascann sibh	TAG=V,TAG=2,TAG=PL,TAG=PRS,TAG=IND
+measc	go measca tú	TAG=V,TAG=2~SG,TAG=SBJV,TAG=PRS
+measc	measctar	TAG=V,TAG=AUTO,TAG=IMP
+measc	mheasc sé	TAG=V,TAG=3,TAG=SG,TAG=PST,TAG=IND
+measc	meascadh	TAG=V,TAG=AUTO,TAG=PST,TAG=IND
+measc	a mheascfaidh	TAG=V,TAG=REL,TAG=FUT,TAG=IND
+measc	mheascfaidís	TAG=V,TAG=3,TAG=PL,TAG=COND
+measc	go measctar	TAG=V,TAG=AUTO,TAG=SBJV,TAG=PRS
+measc	measctha	TAG=V,TAG=V.PTCP,TAG=PST
+measc	a mheascadh	TAG=V,TAG=REL,TAG=PST,TAG=HAB,TAG=IND
+measc	go measca siad	TAG=V,TAG=3,TAG=PL,TAG=SBJV,TAG=PRS
+measc	mheascaidís	TAG=V,TAG=3,TAG=PL,TAG=PST,TAG=HAB,TAG=IND
+measc	meascaimis	TAG=V,TAG=1,TAG=PL,TAG=IMP
+measc	mheascaimis	TAG=V,TAG=1,TAG=PL,TAG=PST,TAG=HAB,TAG=IND
+measc	meascann sé	TAG=V,TAG=3,TAG=SG,TAG=PRS,TAG=IND
+measc	a mheascfadh	TAG=V,TAG=REL,TAG=COND
+measc	meascfaidh sé	TAG=V,TAG=3,TAG=SG,TAG=FUT,TAG=IND
+measc	meascadh sé	TAG=V,TAG=3,TAG=SG,TAG=IMP
+
+cumhachtach	cumhachtach	TAG=N,TAG=LEMMA
+cumhachtach	a chumhachtaigh	TAG=N,TAG=VOC,TAG=SG
+cumhachtach	cumhachtaigh	TAG=N,TAG=NOM,TAG=PL
+cumhachtach	cumhachtach	TAG=N,TAG=NOM,TAG=SG
+cumhachtach	cumhachtach	TAG=N,TAG=GEN,TAG=PL
+cumhachtach	an chumhachtaigh	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+cumhachtach	an cumhachtach	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+cumhachtach	leis an gcumhachtach	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+cumhachtach	na cumhachtaigh	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+cumhachtach	cumhachtaigh	TAG=N,TAG=GEN,TAG=SG
+cumhachtach	cumhachtach	TAG=N,TAG=DAT,TAG=SG
+cumhachtach	a chumhachtacha	TAG=N,TAG=VOC,TAG=PL
+cumhachtach	leis na cumhachtaigh	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+cumhachtach	cumhachtaigh	TAG=N,TAG=DAT,TAG=PL
+
+tóir	tóir	TAG=N,TAG=LEMMA
+tóir	a thóir	TAG=N,TAG=VOC,TAG=SG
+tóir	tóireacha	TAG=N,TAG=NOM,TAG=PL
+tóir	tóir	TAG=N,TAG=NOM,TAG=SG
+tóir	tóireacha	TAG=N,TAG=GEN,TAG=PL
+tóir	na tóra	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+tóir	an tóir	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+tóir	leis an tóir	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+tóir	na tóireacha	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+tóir	tóra	TAG=N,TAG=GEN,TAG=SG
+tóir	tóir	TAG=N,TAG=DAT,TAG=SG
+tóir	a thóireacha	TAG=N,TAG=VOC,TAG=PL
+tóir	leis na tóireacha	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+tóir	tóireacha	TAG=N,TAG=DAT,TAG=PL
+
+aghaidh	aghaidh	TAG=N,TAG=LEMMA
+aghaidh	a aghaidh	TAG=N,TAG=VOC,TAG=SG
+aghaidh	aghaidheanna	TAG=N,TAG=NOM,TAG=PL
+aghaidh	aghaidh	TAG=N,TAG=NOM,TAG=SG
+aghaidh	aghaidheanna	TAG=N,TAG=GEN,TAG=PL
+aghaidh	na haghaidhe	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+aghaidh	an aghaidh	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+aghaidh	leis an aghaidh	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+aghaidh	na haghaidheanna	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+aghaidh	aghaidhe	TAG=N,TAG=GEN,TAG=SG
+aghaidh	aghaidh	TAG=N,TAG=DAT,TAG=SG
+aghaidh	a aghaidheanna	TAG=N,TAG=VOC,TAG=PL
+aghaidh	leis na haghaidheanna	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+aghaidh	aghaidheanna	TAG=N,TAG=DAT,TAG=PL
+
+fine	fine	TAG=N,TAG=LEMMA
+fine	a fhine	TAG=N,TAG=VOC,TAG=SG
+fine	finte	TAG=N,TAG=NOM,TAG=PL
+fine	fine	TAG=N,TAG=NOM,TAG=SG
+fine	finte	TAG=N,TAG=GEN,TAG=PL
+fine	na fine	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+fine	an fhine	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+fine	leis an bhfine	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+fine	na finte	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+fine	fine	TAG=N,TAG=GEN,TAG=SG
+fine	fine	TAG=N,TAG=DAT,TAG=SG
+fine	a fhinte	TAG=N,TAG=VOC,TAG=PL
+fine	leis na finte	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+fine	finte	TAG=N,TAG=DAT,TAG=PL
+
+buama	buama	TAG=N,TAG=LEMMA
+buama	a bhuama	TAG=N,TAG=VOC,TAG=SG
+buama	buamaí	TAG=N,TAG=NOM,TAG=PL
+buama	buama	TAG=N,TAG=NOM,TAG=SG
+buama	buamaí	TAG=N,TAG=GEN,TAG=PL
+buama	an bhuama	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+buama	an buama	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+buama	leis an mbuama	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+buama	na buamaí	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+buama	buama	TAG=N,TAG=GEN,TAG=SG
+buama	buama	TAG=N,TAG=DAT,TAG=SG
+buama	a bhuamaí	TAG=N,TAG=VOC,TAG=PL
+buama	leis na buamaí	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+buama	buamaí	TAG=N,TAG=DAT,TAG=PL
+
+eagarthóir	eagarthóir	TAG=N,TAG=LEMMA
+eagarthóir	a eagarthóir	TAG=N,TAG=VOC,TAG=SG
+eagarthóir	eagarthóirí	TAG=N,TAG=NOM,TAG=PL
+eagarthóir	eagarthóir	TAG=N,TAG=NOM,TAG=SG
+eagarthóir	eagarthóirí	TAG=N,TAG=GEN,TAG=PL
+eagarthóir	an eagarthóra	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+eagarthóir	an t-eagarthóir	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+eagarthóir	leis an eagarthóir	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+eagarthóir	na heagarthóirí	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+eagarthóir	eagarthóra	TAG=N,TAG=GEN,TAG=SG
+eagarthóir	eagarthóir	TAG=N,TAG=DAT,TAG=SG
+eagarthóir	a eagarthóirí	TAG=N,TAG=VOC,TAG=PL
+eagarthóir	leis na heagarthóirí	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+eagarthóir	eagarthóirí	TAG=N,TAG=DAT,TAG=PL
+
+síneadh	síneadh	TAG=N,TAG=LEMMA
+síneadh	a shínidh	TAG=N,TAG=VOC,TAG=SG
+síneadh	síntí	TAG=N,TAG=NOM,TAG=PL
+síneadh	síneadh	TAG=N,TAG=NOM,TAG=SG
+síneadh	síntí	TAG=N,TAG=GEN,TAG=PL
+síneadh	an tsínidh	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+síneadh	an síneadh	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+síneadh	leis an síneadh	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+síneadh	na síntí	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+síneadh	sínidh	TAG=N,TAG=GEN,TAG=SG
+síneadh	síneadh	TAG=N,TAG=DAT,TAG=SG
+síneadh	a shíntí	TAG=N,TAG=VOC,TAG=PL
+síneadh	leis na síntí	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+síneadh	síntí	TAG=N,TAG=DAT,TAG=PL
+
+cinntigh	cinntigh	TAG=V,TAG=LEMMA
+cinntigh	chinnteoimis	TAG=V,TAG=1,TAG=PL,TAG=COND
+cinntigh	cinntítear	TAG=V,TAG=AUTO,TAG=PRS,TAG=IND
+cinntigh	go gcinntímid	TAG=V,TAG=1,TAG=PL,TAG=SBJV,TAG=PRS
+cinntigh	dá gcinntíodh sibh	TAG=V,TAG=2,TAG=PL,TAG=SBJV,TAG=PST
+cinntigh	chinntigh tú	TAG=V,TAG=2,TAG=SG,TAG=PST,TAG=IND
+cinntigh	cinntíonn siad	TAG=V,TAG=3,TAG=PL,TAG=PRS,TAG=IND
+cinntigh	cinntím	TAG=V,TAG=1,TAG=SG,TAG=PRS,TAG=IND
+cinntigh	chinnteofaí	TAG=V,TAG=AUTO,TAG=COND
+cinntigh	go gcinntí sé	TAG=V,TAG=3,TAG=SG,TAG=SBJV,TAG=PRS
+cinntigh	cinnteofar	TAG=V,TAG=AUTO,TAG=FUT,TAG=IND
+cinntigh	dá gcinntínn	TAG=V,TAG=1,TAG=SG,TAG=SBJV,TAG=PST
+cinntigh	chinntigh mé	TAG=V,TAG=1,TAG=SG,TAG=PST,TAG=IND
+cinntigh	chinnteodh sibh	TAG=V,TAG=2,TAG=PL,TAG=COND
+cinntigh	a chinntíonn	TAG=V,TAG=REL,TAG=PRS,TAG=IND
+cinntigh	dá gcinntíteá	TAG=V,TAG=2~SG,TAG=SBJV,TAG=PST
+cinntigh	cinnteoidh sibh	TAG=V,TAG=2,TAG=PL,TAG=FUT,TAG=IND
+cinntigh	go gcinntí mé	TAG=V,TAG=1,TAG=SG,TAG=SBJV,TAG=PRS
+cinntigh	chinntigh siad	TAG=V,TAG=3,TAG=PL,TAG=PST,TAG=IND
+cinntigh	cinntídís	TAG=V,TAG=3,TAG=PL,TAG=IMP
+cinntigh	chinntíodh sibh	TAG=V,TAG=2,TAG=PL,TAG=PST,TAG=HAB,TAG=IND
+cinntigh	dá gcinntíodh sé	TAG=V,TAG=3,TAG=SG,TAG=SBJV,TAG=PST
+cinntigh	chinntíodh sé	TAG=V,TAG=3,TAG=SG,TAG=PST,TAG=HAB,TAG=IND
+cinntigh	dá gcinntídís	TAG=V,TAG=3,TAG=PL,TAG=SBJV,TAG=PST
+cinntigh	cinnteoidh siad	TAG=V,TAG=3,TAG=PL,TAG=FUT,TAG=IND
+cinntigh	cinntímid	TAG=V,TAG=1,TAG=PL,TAG=PRS,TAG=IND
+cinntigh	cinntigh	TAG=V,TAG=2,TAG=SG,TAG=IMP
+cinntigh	dá gcinntímis	TAG=V,TAG=1,TAG=PL,TAG=SBJV,TAG=PST
+cinntigh	a chinntigh	TAG=V,TAG=REL,TAG=PST,TAG=IND
+cinntigh	chinnteofá	TAG=V,TAG=2,TAG=SG,TAG=COND
+cinntigh	cinnteoimid	TAG=V,TAG=1,TAG=PL,TAG=FUT,TAG=IND
+cinntigh	chinntigh sibh	TAG=V,TAG=2,TAG=PL,TAG=PST,TAG=IND
+cinntigh	chinnteodh sé	TAG=V,TAG=3,TAG=SG,TAG=COND
+cinntigh	chinntítí	TAG=V,TAG=AUTO,TAG=PST,TAG=HAB,TAG=IND
+cinntigh	cinntíonn tú	TAG=V,TAG=2,TAG=SG,TAG=PRS,TAG=IND
+cinntigh	cinntígí	TAG=V,TAG=2,TAG=PL,TAG=IMP
+cinntigh	cinntím	TAG=V,TAG=1,TAG=SG,TAG=IMP
+cinntigh	cinnteoidh mé	TAG=V,TAG=1,TAG=SG,TAG=FUT,TAG=IND
+cinntigh	dá gcinntítí	TAG=V,TAG=AUTO,TAG=SBJV,TAG=PST
+cinntigh	cinnteoidh tú	TAG=V,TAG=2,TAG=SG,TAG=FUT,TAG=IND
+cinntigh	go gcinntí sibh	TAG=V,TAG=2,TAG=PL,TAG=SBJV,TAG=PRS
+cinntigh	chinnteoinn	TAG=V,TAG=1,TAG=SG,TAG=COND
+cinntigh	chinntínn	TAG=V,TAG=1,TAG=SG,TAG=PST,TAG=HAB,TAG=IND
+cinntigh	chinntíteá	TAG=V,TAG=2,TAG=SG,TAG=PST,TAG=HAB,TAG=IND
+cinntigh	chinntíomar	TAG=V,TAG=1,TAG=PL,TAG=PST,TAG=IND
+cinntigh	cinntiú	TAG=V,TAG=V.MSDR
+cinntigh	cinntíonn sibh	TAG=V,TAG=2,TAG=PL,TAG=PRS,TAG=IND
+cinntigh	go gcinntí tú	TAG=V,TAG=2~SG,TAG=SBJV,TAG=PRS
+cinntigh	cinntítear	TAG=V,TAG=AUTO,TAG=IMP
+cinntigh	chinntigh sé	TAG=V,TAG=3,TAG=SG,TAG=PST,TAG=IND
+cinntigh	cinntíodh	TAG=V,TAG=AUTO,TAG=PST,TAG=IND
+cinntigh	a chinnteoidh	TAG=V,TAG=REL,TAG=FUT,TAG=IND
+cinntigh	chinnteoidís	TAG=V,TAG=3,TAG=PL,TAG=COND
+cinntigh	go gcinntítear	TAG=V,TAG=AUTO,TAG=SBJV,TAG=PRS
+cinntigh	cinntithe	TAG=V,TAG=V.PTCP,TAG=PST
+cinntigh	a chinntíodh	TAG=V,TAG=REL,TAG=PST,TAG=HAB,TAG=IND
+cinntigh	go gcinntí siad	TAG=V,TAG=3,TAG=PL,TAG=SBJV,TAG=PRS
+cinntigh	chinntídís	TAG=V,TAG=3,TAG=PL,TAG=PST,TAG=HAB,TAG=IND
+cinntigh	cinntímis	TAG=V,TAG=1,TAG=PL,TAG=IMP
+cinntigh	chinntímis	TAG=V,TAG=1,TAG=PL,TAG=PST,TAG=HAB,TAG=IND
+cinntigh	cinntíonn sé	TAG=V,TAG=3,TAG=SG,TAG=PRS,TAG=IND
+cinntigh	a chinnteodh	TAG=V,TAG=REL,TAG=COND
+cinntigh	cinnteoidh sé	TAG=V,TAG=3,TAG=SG,TAG=FUT,TAG=IND
+cinntigh	cinntíodh sé	TAG=V,TAG=3,TAG=SG,TAG=IMP
+
+litríocht	litríocht	TAG=N,TAG=LEMMA
+litríocht	a litríocht	TAG=N,TAG=VOC,TAG=SG
+litríocht	litríochtaí	TAG=N,TAG=NOM,TAG=PL
+litríocht	litríocht	TAG=N,TAG=NOM,TAG=SG
+litríocht	litríochtaí	TAG=N,TAG=GEN,TAG=PL
+litríocht	na litríochta	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+litríocht	an litríocht	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+litríocht	leis an litríocht	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+litríocht	na litríochtaí	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+litríocht	litríochta	TAG=N,TAG=GEN,TAG=SG
+litríocht	litríocht	TAG=N,TAG=DAT,TAG=SG
+litríocht	a litríochtaí	TAG=N,TAG=VOC,TAG=PL
+litríocht	leis na litríochtaí	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+litríocht	litríochtaí	TAG=N,TAG=DAT,TAG=PL
+
+sásta	sásta	TAG=ADJ,TAG=LEMMA
+sásta	shásta	TAG=ADJ,TAG=DAT,TAG=SG,TAG=FEM
+sásta	sásta	TAG=ADJ,TAG=VOC,TAG=PL
+sásta	níos sásta	TAG=ADJ,TAG=CMPR
+sásta	is sásta	TAG=ADJ,TAG=SPRL
+sásta	shásta	TAG=ADJ,TAG=NOM~VOC,TAG=SG,TAG=FEM
+sásta	sásta	TAG=ADJ,TAG=GEN,TAG=PL,TAG=WEAK
+sásta	sásta	TAG=ADJ,TAG=GEN,TAG=SG,TAG=FEM
+sásta	sásta	TAG=ADJ,TAG=NOM,TAG=PL
+sásta	shásta	TAG=ADJ,TAG=VOC~GEN,TAG=SG,TAG=MASV
+sásta	sásta	TAG=ADJ,TAG=DAT,TAG=SG,TAG=MASC
+sásta	sásta	TAG=ADJ,TAG=DAT,TAG=PL
+sásta	sásta	TAG=ADJ,TAG=NOM,TAG=SG,TAG=MASC
+sásta	sásta	TAG=ADJ,TAG=GEN,TAG=PL,TAG=STRONG
+
+seachtain	seachtain	TAG=N,TAG=LEMMA
+seachtain	a sheachtain	TAG=N,TAG=VOC,TAG=SG
+seachtain	seachtainí	TAG=N,TAG=NOM,TAG=PL
+seachtain	seachtain	TAG=N,TAG=NOM,TAG=SG
+seachtain	seachtainí	TAG=N,TAG=GEN,TAG=PL
+seachtain	na seachtaine	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+seachtain	an tseachtain	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+seachtain	leis an tseachtain	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+seachtain	na seachtainí	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+seachtain	seachtaine	TAG=N,TAG=GEN,TAG=SG
+seachtain	seachtain	TAG=N,TAG=DAT,TAG=SG
+seachtain	a sheachtainí	TAG=N,TAG=VOC,TAG=PL
+seachtain	leis na seachtainí	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+seachtain	seachtainí	TAG=N,TAG=DAT,TAG=PL
+
+mac	mac	TAG=N,TAG=LEMMA
+mac	a mhic	TAG=N,TAG=VOC,TAG=SG
+mac	mic	TAG=N,TAG=NOM,TAG=PL
+mac	mac	TAG=N,TAG=NOM,TAG=SG
+mac	mac	TAG=N,TAG=GEN,TAG=PL
+mac	an mhic	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+mac	an mac	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+mac	leis an mac	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+mac	na mic	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+mac	mic	TAG=N,TAG=GEN,TAG=SG
+mac	mac	TAG=N,TAG=DAT,TAG=SG
+mac	a mhaca	TAG=N,TAG=VOC,TAG=PL
+mac	leis na mic	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+mac	mic	TAG=N,TAG=DAT,TAG=PL
+
+áit	áit	TAG=N,TAG=LEMMA
+áit	a áit	TAG=N,TAG=VOC,TAG=SG
+áit	áiteanna	TAG=N,TAG=NOM,TAG=PL
+áit	áit	TAG=N,TAG=NOM,TAG=SG
+áit	áiteanna	TAG=N,TAG=GEN,TAG=PL
+áit	na háite	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+áit	an áit	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+áit	leis an áit	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+áit	na háiteanna	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+áit	áite	TAG=N,TAG=GEN,TAG=SG
+áit	áit	TAG=N,TAG=DAT,TAG=SG
+áit	a áiteanna	TAG=N,TAG=VOC,TAG=PL
+áit	leis na háiteanna	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+áit	áiteanna	TAG=N,TAG=DAT,TAG=PL
+
+saol	saol	TAG=N,TAG=LEMMA
+saol	a shaoil	TAG=N,TAG=VOC,TAG=SG
+saol	saolta	TAG=N,TAG=NOM,TAG=PL
+saol	saol	TAG=N,TAG=NOM,TAG=SG
+saol	saolta	TAG=N,TAG=GEN,TAG=PL
+saol	an tsaoil	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+saol	an saol	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+saol	leis an saol	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+saol	na saolta	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+saol	saoil	TAG=N,TAG=GEN,TAG=SG
+saol	saol	TAG=N,TAG=DAT,TAG=SG
+saol	a shaolta	TAG=N,TAG=VOC,TAG=PL
+saol	leis na saolta	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+saol	saolta	TAG=N,TAG=DAT,TAG=PL
+
+tréimhse	tréimhse	TAG=N,TAG=LEMMA
+tréimhse	a thréimhse	TAG=N,TAG=VOC,TAG=SG
+tréimhse	tréimhsí	TAG=N,TAG=NOM,TAG=PL
+tréimhse	tréimhse	TAG=N,TAG=NOM,TAG=SG
+tréimhse	tréimhsí	TAG=N,TAG=GEN,TAG=PL
+tréimhse	na tréimhse	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+tréimhse	an tréimhse	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+tréimhse	leis an tréimhse	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+tréimhse	na tréimhsí	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+tréimhse	tréimhse	TAG=N,TAG=GEN,TAG=SG
+tréimhse	tréimhse	TAG=N,TAG=DAT,TAG=SG
+tréimhse	a thréimhsí	TAG=N,TAG=VOC,TAG=PL
+tréimhse	leis na tréimhsí	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+tréimhse	tréimhsí	TAG=N,TAG=DAT,TAG=PL
+
+scéal	scéal	TAG=N,TAG=LEMMA
+scéal	a scéil	TAG=N,TAG=VOC,TAG=SG
+scéal	scéalta	TAG=N,TAG=NOM,TAG=PL
+scéal	scéal	TAG=N,TAG=NOM,TAG=SG
+scéal	scéalta	TAG=N,TAG=GEN,TAG=PL
+scéal	an scéil	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+scéal	an scéal	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+scéal	leis an scéal	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+scéal	na scéalta	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+scéal	scéil	TAG=N,TAG=GEN,TAG=SG
+scéal	scéal	TAG=N,TAG=DAT,TAG=SG
+scéal	a scéalta	TAG=N,TAG=VOC,TAG=PL
+scéal	leis na scéalta	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+scéal	scéalta	TAG=N,TAG=DAT,TAG=PL
+
+teanga	teanga	TAG=N,TAG=LEMMA
+teanga	a theanga	TAG=N,TAG=VOC,TAG=SG
+teanga	teangacha	TAG=N,TAG=NOM,TAG=PL
+teanga	teanga	TAG=N,TAG=NOM,TAG=SG
+teanga	teangacha	TAG=N,TAG=GEN,TAG=PL
+teanga	na teanga	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+teanga	an teanga	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+teanga	leis an teanga	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+teanga	na teangacha	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+teanga	teanga	TAG=N,TAG=GEN,TAG=SG
+teanga	teanga	TAG=N,TAG=DAT,TAG=SG
+teanga	a theangacha	TAG=N,TAG=VOC,TAG=PL
+teanga	leis na teangacha	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+teanga	teangacha	TAG=N,TAG=DAT,TAG=PL
+
+oidhreacht	oidhreacht	TAG=N,TAG=LEMMA
+oidhreacht	a oidhreacht	TAG=N,TAG=VOC,TAG=SG
+oidhreacht	oidhreachtaí	TAG=N,TAG=NOM,TAG=PL
+oidhreacht	oidhreacht	TAG=N,TAG=NOM,TAG=SG
+oidhreacht	oidhreachtaí	TAG=N,TAG=GEN,TAG=PL
+oidhreacht	na hoidhreachta	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+oidhreacht	an oidhreacht	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+oidhreacht	leis an oidhreacht	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+oidhreacht	na hoidhreachtaí	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+oidhreacht	oidhreachta	TAG=N,TAG=GEN,TAG=SG
+oidhreacht	oidhreacht	TAG=N,TAG=DAT,TAG=SG
+oidhreacht	a oidhreachtaí	TAG=N,TAG=VOC,TAG=PL
+oidhreacht	leis na hoidhreachtaí	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+oidhreacht	oidhreachtaí	TAG=N,TAG=DAT,TAG=PL
+
+úsáid	úsáid	TAG=N,TAG=LEMMA
+úsáid	d'úsáid mé	TAG=N,TAG=VOC,TAG=SG
+úsáid	úsáidim	TAG=N,TAG=NOM,TAG=PL
+úsáid	present	TAG=N,TAG=NOM,TAG=SG
+úsáid	d'úsáidteá	TAG=N,TAG=GEN,TAG=PL
+úsáid	dá n-úsáidinn	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+úsáid	present	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+úsáid	úsáidim	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+úsáid	go n-úsáide mé	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+úsáid	d'úsáidinn	TAG=N,TAG=GEN,TAG=SG
+úsáid	úsáidfidh mé	TAG=N,TAG=DAT,TAG=SG
+úsáid	d'úsáid tú	TAG=N,TAG=VOC,TAG=PL
+úsáid	úsáid	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+úsáid	úsáidfidh tú	TAG=N,TAG=DAT,TAG=PL
+
+leathanach	leathanach	TAG=N,TAG=LEMMA
+leathanach	a leathanaigh	TAG=N,TAG=VOC,TAG=SG
+leathanach	leathanaigh	TAG=N,TAG=NOM,TAG=PL
+leathanach	leathanach	TAG=N,TAG=NOM,TAG=SG
+leathanach	leathanach	TAG=N,TAG=GEN,TAG=PL
+leathanach	an leathanaigh	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+leathanach	an leathanach	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+leathanach	leis an leathanach	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+leathanach	na leathanaigh	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+leathanach	leathanaigh	TAG=N,TAG=GEN,TAG=SG
+leathanach	leathanach	TAG=N,TAG=DAT,TAG=SG
+leathanach	a leathanacha	TAG=N,TAG=VOC,TAG=PL
+leathanach	leis na leathanaigh	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+leathanach	leathanaigh	TAG=N,TAG=DAT,TAG=PL
+
+ríomhaire	ríomhaire	TAG=N,TAG=LEMMA
+ríomhaire	a ríomhaire	TAG=N,TAG=VOC,TAG=SG
+ríomhaire	ríomhairí	TAG=N,TAG=NOM,TAG=PL
+ríomhaire	ríomhaire	TAG=N,TAG=NOM,TAG=SG
+ríomhaire	ríomhairí	TAG=N,TAG=GEN,TAG=PL
+ríomhaire	an ríomhaire	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+ríomhaire	an ríomhaire	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+ríomhaire	leis an ríomhaire	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+ríomhaire	na ríomhairí	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+ríomhaire	ríomhaire	TAG=N,TAG=GEN,TAG=SG
+ríomhaire	ríomhaire	TAG=N,TAG=DAT,TAG=SG
+ríomhaire	a ríomhairí	TAG=N,TAG=VOC,TAG=PL
+ríomhaire	leis na ríomhairí	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+ríomhaire	ríomhairí	TAG=N,TAG=DAT,TAG=PL
+
+ceart	ceart	TAG=ADJ,TAG=LEMMA
+ceart	cheart	TAG=ADJ,TAG=DAT,TAG=SG,TAG=FEM
+ceart	cearta	TAG=ADJ,TAG=VOC,TAG=PL
+ceart	níos cirte	TAG=ADJ,TAG=CMPR
+ceart	is cirte	TAG=ADJ,TAG=SPRL
+ceart	cheart	TAG=ADJ,TAG=NOM~VOC,TAG=SG,TAG=FEM
+ceart	ceart	TAG=ADJ,TAG=GEN,TAG=PL,TAG=WEAK
+ceart	cirte	TAG=ADJ,TAG=GEN,TAG=SG,TAG=FEM
+ceart	cearta	TAG=ADJ,TAG=NOM,TAG=PL
+ceart	chirt	TAG=ADJ,TAG=VOC~GEN,TAG=SG,TAG=MASV
+ceart	ceart	TAG=ADJ,TAG=DAT,TAG=SG,TAG=MASC
+ceart	cearta	TAG=ADJ,TAG=DAT,TAG=PL
+ceart	ceart	TAG=ADJ,TAG=NOM,TAG=SG,TAG=MASC
+ceart	cearta	TAG=ADJ,TAG=GEN,TAG=PL,TAG=STRONG
+
+toghchán	toghchán	TAG=N,TAG=LEMMA
+toghchán	a thoghcháin	TAG=N,TAG=VOC,TAG=SG
+toghchán	toghcháin	TAG=N,TAG=NOM,TAG=PL
+toghchán	toghchán	TAG=N,TAG=NOM,TAG=SG
+toghchán	toghchán	TAG=N,TAG=GEN,TAG=PL
+toghchán	an toghcháin	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+toghchán	an toghchán	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+toghchán	leis an toghchán	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+toghchán	na toghcháin	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+toghchán	toghcháin	TAG=N,TAG=GEN,TAG=SG
+toghchán	toghchán	TAG=N,TAG=DAT,TAG=SG
+toghchán	a thoghchána	TAG=N,TAG=VOC,TAG=PL
+toghchán	leis na toghcháin	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+toghchán	toghcháin	TAG=N,TAG=DAT,TAG=PL
+
+tús	tús	TAG=N,TAG=LEMMA
+tús	a thúis	TAG=N,TAG=VOC,TAG=SG
+tús	túis	TAG=N,TAG=NOM,TAG=PL
+tús	tús	TAG=N,TAG=NOM,TAG=SG
+tús	tús	TAG=N,TAG=GEN,TAG=PL
+tús	an túis	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+tús	an tús	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+tús	leis an tús	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+tús	na túis	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+tús	túis	TAG=N,TAG=GEN,TAG=SG
+tús	tús	TAG=N,TAG=DAT,TAG=SG
+tús	a thúsa	TAG=N,TAG=VOC,TAG=PL
+tús	leis na túis	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+tús	túis	TAG=N,TAG=DAT,TAG=PL
+
+ola	ola	TAG=N,TAG=LEMMA
+ola	a ola	TAG=N,TAG=VOC,TAG=SG
+ola	olaí	TAG=N,TAG=NOM,TAG=PL
+ola	ola	TAG=N,TAG=NOM,TAG=SG
+ola	olaí	TAG=N,TAG=GEN,TAG=PL
+ola	na hola	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+ola	an ola	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+ola	leis an ola	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+ola	na holaí	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+ola	ola	TAG=N,TAG=GEN,TAG=SG
+ola	ola	TAG=N,TAG=DAT,TAG=SG
+ola	a olaí	TAG=N,TAG=VOC,TAG=PL
+ola	leis na holaí	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+ola	olaí	TAG=N,TAG=DAT,TAG=PL
+
+tréith	tréith	TAG=N,TAG=LEMMA
+tréith	a thréith	TAG=N,TAG=VOC,TAG=SG
+tréith	tréithe	TAG=N,TAG=NOM,TAG=PL
+tréith	tréith	TAG=N,TAG=NOM,TAG=SG
+tréith	tréithe	TAG=N,TAG=GEN,TAG=PL
+tréith	na tréithe	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+tréith	an tréith	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+tréith	leis an tréith	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+tréith	na tréithe	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+tréith	tréithe	TAG=N,TAG=GEN,TAG=SG
+tréith	tréith	TAG=N,TAG=DAT,TAG=SG
+tréith	a thréithe	TAG=N,TAG=VOC,TAG=PL
+tréith	leis na tréithe	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+tréith	tréithe	TAG=N,TAG=DAT,TAG=PL
+
+eagraíocht	eagraíocht	TAG=N,TAG=LEMMA
+eagraíocht	a eagraíocht	TAG=N,TAG=VOC,TAG=SG
+eagraíocht	eagraíochtaí	TAG=N,TAG=NOM,TAG=PL
+eagraíocht	eagraíocht	TAG=N,TAG=NOM,TAG=SG
+eagraíocht	eagraíochtaí	TAG=N,TAG=GEN,TAG=PL
+eagraíocht	na heagraíochta	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+eagraíocht	an eagraíocht	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+eagraíocht	leis an eagraíocht	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+eagraíocht	na heagraíochtaí	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+eagraíocht	eagraíochta	TAG=N,TAG=GEN,TAG=SG
+eagraíocht	eagraíocht	TAG=N,TAG=DAT,TAG=SG
+eagraíocht	a eagraíochtaí	TAG=N,TAG=VOC,TAG=PL
+eagraíocht	leis na heagraíochtaí	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+eagraíocht	eagraíochtaí	TAG=N,TAG=DAT,TAG=PL
+
+blas	blas	TAG=N,TAG=LEMMA
+blas	a bhlais	TAG=N,TAG=VOC,TAG=SG
+blas	blasanna	TAG=N,TAG=NOM,TAG=PL
+blas	blas	TAG=N,TAG=NOM,TAG=SG
+blas	blasanna	TAG=N,TAG=GEN,TAG=PL
+blas	an bhlais	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+blas	an blas	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+blas	leis an mblas	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+blas	na blasanna	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+blas	blais	TAG=N,TAG=GEN,TAG=SG
+blas	blas	TAG=N,TAG=DAT,TAG=SG
+blas	a bhlasanna	TAG=N,TAG=VOC,TAG=PL
+blas	leis na blasanna	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+blas	blasanna	TAG=N,TAG=DAT,TAG=PL
+
+rud	rud	TAG=N,TAG=LEMMA
+rud	a rud	TAG=N,TAG=VOC,TAG=SG
+rud	rudaí	TAG=N,TAG=NOM,TAG=PL
+rud	rud	TAG=N,TAG=NOM,TAG=SG
+rud	rudaí	TAG=N,TAG=GEN,TAG=PL
+rud	an ruda	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+rud	an rud	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+rud	leis an rud	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+rud	na rudaí	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+rud	ruda	TAG=N,TAG=GEN,TAG=SG
+rud	rud	TAG=N,TAG=DAT,TAG=SG
+rud	a rudaí	TAG=N,TAG=VOC,TAG=PL
+rud	leis na rudaí	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+rud	rudaí	TAG=N,TAG=DAT,TAG=PL
+
+cine	cine	TAG=N,TAG=LEMMA
+cine	a chine	TAG=N,TAG=VOC,TAG=SG
+cine	ciníocha	TAG=N,TAG=NOM,TAG=PL
+cine	cine	TAG=N,TAG=NOM,TAG=SG
+cine	ciníocha	TAG=N,TAG=GEN,TAG=PL
+cine	an chine	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+cine	an cine	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+cine	leis an gcine	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+cine	na ciníocha	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+cine	cine	TAG=N,TAG=GEN,TAG=SG
+cine	cine	TAG=N,TAG=DAT,TAG=SG
+cine	a chiníocha	TAG=N,TAG=VOC,TAG=PL
+cine	leis na ciníocha	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+cine	ciníocha	TAG=N,TAG=DAT,TAG=PL
+
+púdar	púdar	TAG=N,TAG=LEMMA
+púdar	a phúdair	TAG=N,TAG=VOC,TAG=SG
+púdar	púdair	TAG=N,TAG=NOM,TAG=PL
+púdar	púdar	TAG=N,TAG=NOM,TAG=SG
+púdar	púdar	TAG=N,TAG=GEN,TAG=PL
+púdar	an phúdair	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+púdar	an púdar	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+púdar	leis an bpúdar	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+púdar	na púdair	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+púdar	púdair	TAG=N,TAG=GEN,TAG=SG
+púdar	púdar	TAG=N,TAG=DAT,TAG=SG
+púdar	a phúdara	TAG=N,TAG=VOC,TAG=PL
+púdar	leis na púdair	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+púdar	púdair	TAG=N,TAG=DAT,TAG=PL
+
+roinnt	roinnt	TAG=N,TAG=LEMMA
+roinnt	a roinnt	TAG=N,TAG=VOC,TAG=SG
+roinnt	rannta	TAG=N,TAG=NOM,TAG=PL
+roinnt	roinnt	TAG=N,TAG=NOM,TAG=SG
+roinnt	rannta	TAG=N,TAG=GEN,TAG=PL
+roinnt	na roinnte	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+roinnt	an roinnt	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+roinnt	leis an roinnt	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+roinnt	na rannta	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+roinnt	roinnte	TAG=N,TAG=GEN,TAG=SG
+roinnt	roinnt	TAG=N,TAG=DAT,TAG=SG
+roinnt	a rannta	TAG=N,TAG=VOC,TAG=PL
+roinnt	leis na rannta	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+roinnt	rannta	TAG=N,TAG=DAT,TAG=PL
+
+aigéad	aigéad	TAG=N,TAG=LEMMA
+aigéad	a aigéid	TAG=N,TAG=VOC,TAG=SG
+aigéad	aigéid	TAG=N,TAG=NOM,TAG=PL
+aigéad	aigéad	TAG=N,TAG=NOM,TAG=SG
+aigéad	aigéad	TAG=N,TAG=GEN,TAG=PL
+aigéad	an aigéid	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+aigéad	an t-aigéad	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+aigéad	leis an aigéad	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+aigéad	na haigéid	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+aigéad	aigéid	TAG=N,TAG=GEN,TAG=SG
+aigéad	aigéad	TAG=N,TAG=DAT,TAG=SG
+aigéad	a aigéada	TAG=N,TAG=VOC,TAG=PL
+aigéad	leis na haigéid	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+aigéad	aigéid	TAG=N,TAG=DAT,TAG=PL
+
+rún	rún	TAG=N,TAG=LEMMA
+rún	a rúin	TAG=N,TAG=VOC,TAG=SG
+rún	rúin	TAG=N,TAG=NOM,TAG=PL
+rún	rún	TAG=N,TAG=NOM,TAG=SG
+rún	rún	TAG=N,TAG=GEN,TAG=PL
+rún	an rúin	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+rún	an rún	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+rún	leis an rún	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+rún	na rúin	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+rún	rúin	TAG=N,TAG=GEN,TAG=SG
+rún	rún	TAG=N,TAG=DAT,TAG=SG
+rún	a rúna	TAG=N,TAG=VOC,TAG=PL
+rún	leis na rúin	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+rún	rúin	TAG=N,TAG=DAT,TAG=PL
+
+páirt	páirt	TAG=N,TAG=LEMMA
+páirt	a pháirt	TAG=N,TAG=VOC,TAG=SG
+páirt	páirteanna	TAG=N,TAG=NOM,TAG=PL
+páirt	páirt	TAG=N,TAG=NOM,TAG=SG
+páirt	páirteanna	TAG=N,TAG=GEN,TAG=PL
+páirt	na páirte	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+páirt	an pháirt	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+páirt	leis an bpáirt	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+páirt	na páirteanna	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+páirt	páirte	TAG=N,TAG=GEN,TAG=SG
+páirt	páirt	TAG=N,TAG=DAT,TAG=SG
+páirt	a pháirteanna	TAG=N,TAG=VOC,TAG=PL
+páirt	leis na páirteanna	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+páirt	páirteanna	TAG=N,TAG=DAT,TAG=PL
+
+lucht	lucht	TAG=N,TAG=LEMMA
+lucht	a lucht	TAG=N,TAG=VOC,TAG=SG
+lucht	luchtanna	TAG=N,TAG=NOM,TAG=PL
+lucht	lucht	TAG=N,TAG=NOM,TAG=SG
+lucht	luchtanna	TAG=N,TAG=GEN,TAG=PL
+lucht	an luchta	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+lucht	an lucht	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+lucht	leis an lucht	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+lucht	na luchtanna	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+lucht	luchta	TAG=N,TAG=GEN,TAG=SG
+lucht	lucht	TAG=N,TAG=DAT,TAG=SG
+lucht	a luchtanna	TAG=N,TAG=VOC,TAG=PL
+lucht	leis na luchtanna	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+lucht	luchtanna	TAG=N,TAG=DAT,TAG=PL
+
+bás	bás	TAG=N,TAG=LEMMA
+bás	a bháis	TAG=N,TAG=VOC,TAG=SG
+bás	básanna	TAG=N,TAG=NOM,TAG=PL
+bás	bás	TAG=N,TAG=NOM,TAG=SG
+bás	básanna	TAG=N,TAG=GEN,TAG=PL
+bás	an bháis	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+bás	an bás	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+bás	leis an mbás	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+bás	na básanna	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+bás	báis	TAG=N,TAG=GEN,TAG=SG
+bás	bás	TAG=N,TAG=DAT,TAG=SG
+bás	a bhásanna	TAG=N,TAG=VOC,TAG=PL
+bás	leis na básanna	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+bás	básanna	TAG=N,TAG=DAT,TAG=PL
+
+téarma	téarma	TAG=N,TAG=LEMMA
+téarma	a théarma	TAG=N,TAG=VOC,TAG=SG
+téarma	téarmaí	TAG=N,TAG=NOM,TAG=PL
+téarma	téarma	TAG=N,TAG=NOM,TAG=SG
+téarma	téarmaí	TAG=N,TAG=GEN,TAG=PL
+téarma	an téarma	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+téarma	an téarma	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+téarma	leis an téarma	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+téarma	na téarmaí	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+téarma	téarma	TAG=N,TAG=GEN,TAG=SG
+téarma	téarma	TAG=N,TAG=DAT,TAG=SG
+téarma	a théarmaí	TAG=N,TAG=VOC,TAG=PL
+téarma	leis na téarmaí	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+téarma	téarmaí	TAG=N,TAG=DAT,TAG=PL
+
+canúint	canúint	TAG=N,TAG=LEMMA
+canúint	a chanúint	TAG=N,TAG=VOC,TAG=SG
+canúint	canúintí	TAG=N,TAG=NOM,TAG=PL
+canúint	canúint	TAG=N,TAG=NOM,TAG=SG
+canúint	canúintí	TAG=N,TAG=GEN,TAG=PL
+canúint	na canúna	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+canúint	an chanúint	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+canúint	leis an gcanúint	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+canúint	na canúintí	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+canúint	canúna	TAG=N,TAG=GEN,TAG=SG
+canúint	canúint	TAG=N,TAG=DAT,TAG=SG
+canúint	a chanúintí	TAG=N,TAG=VOC,TAG=PL
+canúint	leis na canúintí	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+canúint	canúintí	TAG=N,TAG=DAT,TAG=PL
+
+tionscal	tionscal	TAG=N,TAG=LEMMA
+tionscal	a thionscail	TAG=N,TAG=VOC,TAG=SG
+tionscal	tionscail	TAG=N,TAG=NOM,TAG=PL
+tionscal	tionscal	TAG=N,TAG=NOM,TAG=SG
+tionscal	tionscal	TAG=N,TAG=GEN,TAG=PL
+tionscal	an tionscail	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+tionscal	an tionscal	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+tionscal	leis an tionscal	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+tionscal	na tionscail	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+tionscal	tionscail	TAG=N,TAG=GEN,TAG=SG
+tionscal	tionscal	TAG=N,TAG=DAT,TAG=SG
+tionscal	a thionscala	TAG=N,TAG=VOC,TAG=PL
+tionscal	leis na tionscail	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+tionscal	tionscail	TAG=N,TAG=DAT,TAG=PL
+
+poll	poll	TAG=N,TAG=LEMMA
+poll	a phoill	TAG=N,TAG=VOC,TAG=SG
+poll	poill	TAG=N,TAG=NOM,TAG=PL
+poll	poll	TAG=N,TAG=NOM,TAG=SG
+poll	poll	TAG=N,TAG=GEN,TAG=PL
+poll	an phoill	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+poll	an poll	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+poll	leis an bpoll	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+poll	na poill	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+poll	poill	TAG=N,TAG=GEN,TAG=SG
+poll	poll	TAG=N,TAG=DAT,TAG=SG
+poll	a pholla	TAG=N,TAG=VOC,TAG=PL
+poll	leis na poill	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+poll	poill	TAG=N,TAG=DAT,TAG=PL
+
+urchóideach	urchóideach	TAG=N,TAG=LEMMA
+urchóideach	a urchóidigh	TAG=N,TAG=VOC,TAG=SG
+urchóideach	urchóidigh	TAG=N,TAG=NOM,TAG=PL
+urchóideach	urchóideach	TAG=N,TAG=NOM,TAG=SG
+urchóideach	urchóideach	TAG=N,TAG=GEN,TAG=PL
+urchóideach	an urchóidigh	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+urchóideach	an t-urchóideach	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+urchóideach	leis an urchóideach	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+urchóideach	na hurchóidigh	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+urchóideach	urchóidigh	TAG=N,TAG=GEN,TAG=SG
+urchóideach	urchóideach	TAG=N,TAG=DAT,TAG=SG
+urchóideach	a urchóideacha	TAG=N,TAG=VOC,TAG=PL
+urchóideach	leis na hurchóidigh	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+urchóideach	urchóidigh	TAG=N,TAG=DAT,TAG=PL
+
+aisteoir	aisteoir	TAG=N,TAG=LEMMA
+aisteoir	a aisteoir	TAG=N,TAG=VOC,TAG=SG
+aisteoir	aisteoirí	TAG=N,TAG=NOM,TAG=PL
+aisteoir	aisteoir	TAG=N,TAG=NOM,TAG=SG
+aisteoir	aisteoirí	TAG=N,TAG=GEN,TAG=PL
+aisteoir	an aisteora	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+aisteoir	an t-aisteoir	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+aisteoir	leis an aisteoir	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+aisteoir	na haisteoirí	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+aisteoir	aisteora	TAG=N,TAG=GEN,TAG=SG
+aisteoir	aisteoir	TAG=N,TAG=DAT,TAG=SG
+aisteoir	a aisteoirí	TAG=N,TAG=VOC,TAG=PL
+aisteoir	leis na haisteoirí	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+aisteoir	aisteoirí	TAG=N,TAG=DAT,TAG=PL
+
+dream	dream	TAG=N,TAG=LEMMA
+dream	a dhream	TAG=N,TAG=VOC,TAG=SG
+dream	dreamanna	TAG=N,TAG=NOM,TAG=PL
+dream	dream	TAG=N,TAG=NOM,TAG=SG
+dream	dreamanna	TAG=N,TAG=GEN,TAG=PL
+dream	an dreama	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+dream	an dream	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+dream	leis an dream	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+dream	na dreamanna	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+dream	dreama	TAG=N,TAG=GEN,TAG=SG
+dream	dream	TAG=N,TAG=DAT,TAG=SG
+dream	a dhreamanna	TAG=N,TAG=VOC,TAG=PL
+dream	leis na dreamanna	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+dream	dreamanna	TAG=N,TAG=DAT,TAG=PL
+
+véarsa	véarsa	TAG=N,TAG=LEMMA
+véarsa	a véarsa	TAG=N,TAG=VOC,TAG=SG
+véarsa	véarsaí	TAG=N,TAG=NOM,TAG=PL
+véarsa	véarsa	TAG=N,TAG=NOM,TAG=SG
+véarsa	véarsaí	TAG=N,TAG=GEN,TAG=PL
+véarsa	an véarsa	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+véarsa	an véarsa	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+véarsa	leis an véarsa	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+véarsa	na véarsaí	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+véarsa	véarsa	TAG=N,TAG=GEN,TAG=SG
+véarsa	véarsa	TAG=N,TAG=DAT,TAG=SG
+véarsa	a véarsaí	TAG=N,TAG=VOC,TAG=PL
+véarsa	leis na véarsaí	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+véarsa	véarsaí	TAG=N,TAG=DAT,TAG=PL
+
+suim	suim	TAG=N,TAG=LEMMA
+suim	a shuim	TAG=N,TAG=VOC,TAG=SG
+suim	suimeanna	TAG=N,TAG=NOM,TAG=PL
+suim	suim	TAG=N,TAG=NOM,TAG=SG
+suim	suimeanna	TAG=N,TAG=GEN,TAG=PL
+suim	na suime	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+suim	an tsuim	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+suim	leis an tsuim	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+suim	na suimeanna	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+suim	suime	TAG=N,TAG=GEN,TAG=SG
+suim	suim	TAG=N,TAG=DAT,TAG=SG
+suim	a shuimeanna	TAG=N,TAG=VOC,TAG=PL
+suim	leis na suimeanna	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+suim	suimeanna	TAG=N,TAG=DAT,TAG=PL
+
+léirigh	léirigh	TAG=V,TAG=LEMMA
+léirigh	léireoimis	TAG=V,TAG=1,TAG=PL,TAG=COND
+léirigh	léirítear	TAG=V,TAG=AUTO,TAG=PRS,TAG=IND
+léirigh	go léirímid	TAG=V,TAG=1,TAG=PL,TAG=SBJV,TAG=PRS
+léirigh	dá léiríodh sibh	TAG=V,TAG=2,TAG=PL,TAG=SBJV,TAG=PST
+léirigh	léirigh tú	TAG=V,TAG=2,TAG=SG,TAG=PST,TAG=IND
+léirigh	léiríonn siad	TAG=V,TAG=3,TAG=PL,TAG=PRS,TAG=IND
+léirigh	léirím	TAG=V,TAG=1,TAG=SG,TAG=PRS,TAG=IND
+léirigh	léireofaí	TAG=V,TAG=AUTO,TAG=COND
+léirigh	go léirí sé	TAG=V,TAG=3,TAG=SG,TAG=SBJV,TAG=PRS
+léirigh	léireofar	TAG=V,TAG=AUTO,TAG=FUT,TAG=IND
+léirigh	dá léirínn	TAG=V,TAG=1,TAG=SG,TAG=SBJV,TAG=PST
+léirigh	léirigh mé	TAG=V,TAG=1,TAG=SG,TAG=PST,TAG=IND
+léirigh	léireodh sibh	TAG=V,TAG=2,TAG=PL,TAG=COND
+léirigh	a léiríonn	TAG=V,TAG=REL,TAG=PRS,TAG=IND
+léirigh	dá léiríteá	TAG=V,TAG=2~SG,TAG=SBJV,TAG=PST
+léirigh	léireoidh sibh	TAG=V,TAG=2,TAG=PL,TAG=FUT,TAG=IND
+léirigh	go léirí mé	TAG=V,TAG=1,TAG=SG,TAG=SBJV,TAG=PRS
+léirigh	léirigh siad	TAG=V,TAG=3,TAG=PL,TAG=PST,TAG=IND
+léirigh	léirídís	TAG=V,TAG=3,TAG=PL,TAG=IMP
+léirigh	léiríodh sibh	TAG=V,TAG=2,TAG=PL,TAG=PST,TAG=HAB,TAG=IND
+léirigh	dá léiríodh sé	TAG=V,TAG=3,TAG=SG,TAG=SBJV,TAG=PST
+léirigh	léiríodh sé	TAG=V,TAG=3,TAG=SG,TAG=PST,TAG=HAB,TAG=IND
+léirigh	dá léirídís	TAG=V,TAG=3,TAG=PL,TAG=SBJV,TAG=PST
+léirigh	léireoidh siad	TAG=V,TAG=3,TAG=PL,TAG=FUT,TAG=IND
+léirigh	léirímid	TAG=V,TAG=1,TAG=PL,TAG=PRS,TAG=IND
+léirigh	léirigh	TAG=V,TAG=2,TAG=SG,TAG=IMP
+léirigh	dá léirímis	TAG=V,TAG=1,TAG=PL,TAG=SBJV,TAG=PST
+léirigh	a léirigh	TAG=V,TAG=REL,TAG=PST,TAG=IND
+léirigh	léireofá	TAG=V,TAG=2,TAG=SG,TAG=COND
+léirigh	léireoimid	TAG=V,TAG=1,TAG=PL,TAG=FUT,TAG=IND
+léirigh	léirigh sibh	TAG=V,TAG=2,TAG=PL,TAG=PST,TAG=IND
+léirigh	léireodh sé	TAG=V,TAG=3,TAG=SG,TAG=COND
+léirigh	léirítí	TAG=V,TAG=AUTO,TAG=PST,TAG=HAB,TAG=IND
+léirigh	léiríonn tú	TAG=V,TAG=2,TAG=SG,TAG=PRS,TAG=IND
+léirigh	léirígí	TAG=V,TAG=2,TAG=PL,TAG=IMP
+léirigh	léirím	TAG=V,TAG=1,TAG=SG,TAG=IMP
+léirigh	léireoidh mé	TAG=V,TAG=1,TAG=SG,TAG=FUT,TAG=IND
+léirigh	dá léirítí	TAG=V,TAG=AUTO,TAG=SBJV,TAG=PST
+léirigh	léireoidh tú	TAG=V,TAG=2,TAG=SG,TAG=FUT,TAG=IND
+léirigh	go léirí sibh	TAG=V,TAG=2,TAG=PL,TAG=SBJV,TAG=PRS
+léirigh	léireoinn	TAG=V,TAG=1,TAG=SG,TAG=COND
+léirigh	léirínn	TAG=V,TAG=1,TAG=SG,TAG=PST,TAG=HAB,TAG=IND
+léirigh	léiríteá	TAG=V,TAG=2,TAG=SG,TAG=PST,TAG=HAB,TAG=IND
+léirigh	léiríomar	TAG=V,TAG=1,TAG=PL,TAG=PST,TAG=IND
+léirigh	léiriú	TAG=V,TAG=V.MSDR
+léirigh	léiríonn sibh	TAG=V,TAG=2,TAG=PL,TAG=PRS,TAG=IND
+léirigh	go léirí tú	TAG=V,TAG=2~SG,TAG=SBJV,TAG=PRS
+léirigh	léirítear	TAG=V,TAG=AUTO,TAG=IMP
+léirigh	léirigh sé	TAG=V,TAG=3,TAG=SG,TAG=PST,TAG=IND
+léirigh	léiríodh	TAG=V,TAG=AUTO,TAG=PST,TAG=IND
+léirigh	a léireoidh	TAG=V,TAG=REL,TAG=FUT,TAG=IND
+léirigh	léireoidís	TAG=V,TAG=3,TAG=PL,TAG=COND
+léirigh	go léirítear	TAG=V,TAG=AUTO,TAG=SBJV,TAG=PRS
+léirigh	léirithe	TAG=V,TAG=V.PTCP,TAG=PST
+léirigh	a léiríodh	TAG=V,TAG=REL,TAG=PST,TAG=HAB,TAG=IND
+léirigh	go léirí siad	TAG=V,TAG=3,TAG=PL,TAG=SBJV,TAG=PRS
+léirigh	léirídís	TAG=V,TAG=3,TAG=PL,TAG=PST,TAG=HAB,TAG=IND
+léirigh	léirímis	TAG=V,TAG=1,TAG=PL,TAG=IMP
+léirigh	léirímis	TAG=V,TAG=1,TAG=PL,TAG=PST,TAG=HAB,TAG=IND
+léirigh	léiríonn sé	TAG=V,TAG=3,TAG=SG,TAG=PRS,TAG=IND
+léirigh	a léireodh	TAG=V,TAG=REL,TAG=COND
+léirigh	léireoidh sé	TAG=V,TAG=3,TAG=SG,TAG=FUT,TAG=IND
+léirigh	léiríodh sé	TAG=V,TAG=3,TAG=SG,TAG=IMP
+
+díreach	díreach	TAG=ADJ,TAG=LEMMA
+díreach	dhíreach	TAG=ADJ,TAG=DAT,TAG=SG,TAG=FEM
+díreach	díreacha	TAG=ADJ,TAG=VOC,TAG=PL
+díreach	níos dírí	TAG=ADJ,TAG=CMPR
+díreach	is dírí	TAG=ADJ,TAG=SPRL
+díreach	dhíreach	TAG=ADJ,TAG=NOM~VOC,TAG=SG,TAG=FEM
+díreach	díreach	TAG=ADJ,TAG=GEN,TAG=PL,TAG=WEAK
+díreach	dírí	TAG=ADJ,TAG=GEN,TAG=SG,TAG=FEM
+díreach	díreacha	TAG=ADJ,TAG=NOM,TAG=PL
+díreach	dhírigh	TAG=ADJ,TAG=VOC~GEN,TAG=SG,TAG=MASV
+díreach	díreach	TAG=ADJ,TAG=DAT,TAG=SG,TAG=MASC
+díreach	díreacha	TAG=ADJ,TAG=DAT,TAG=PL
+díreach	díreach	TAG=ADJ,TAG=NOM,TAG=SG,TAG=MASC
+díreach	díreacha	TAG=ADJ,TAG=GEN,TAG=PL,TAG=STRONG
+
+Uachtarán	Uachtarán	TAG=N,TAG=LEMMA
+Uachtarán	a Uachtaráin	TAG=N,TAG=VOC,TAG=SG
+Uachtarán	Uachtaráin	TAG=N,TAG=NOM,TAG=PL
+Uachtarán	Uachtarán	TAG=N,TAG=NOM,TAG=SG
+Uachtarán	Uachtarán	TAG=N,TAG=GEN,TAG=PL
+Uachtarán	an Uachtaráin	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+Uachtarán	an tUachtarán	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+Uachtarán	leis an Uachtarán	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+Uachtarán	na hUachtaráin	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+Uachtarán	Uachtaráin	TAG=N,TAG=GEN,TAG=SG
+Uachtarán	Uachtarán	TAG=N,TAG=DAT,TAG=SG
+Uachtarán	a Uachtarána	TAG=N,TAG=VOC,TAG=PL
+Uachtarán	leis na hUachtaráin	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+Uachtarán	Uachtaráin	TAG=N,TAG=DAT,TAG=PL
+
+Meitheamh	Meitheamh	TAG=N,TAG=LEMMA
+Meitheamh	a Mheithimh	TAG=N,TAG=VOC,TAG=SG
+Meitheamh	Meithimh	TAG=N,TAG=NOM,TAG=PL
+Meitheamh	Meitheamh	TAG=N,TAG=NOM,TAG=SG
+Meitheamh	Meitheamh	TAG=N,TAG=GEN,TAG=PL
+Meitheamh	an Mheithimh	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+Meitheamh	an Meitheamh	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+Meitheamh	leis an Meitheamh	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+Meitheamh	na Meithimh	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+Meitheamh	Meithimh	TAG=N,TAG=GEN,TAG=SG
+Meitheamh	Meitheamh	TAG=N,TAG=DAT,TAG=SG
+Meitheamh	a Mheitheamha	TAG=N,TAG=VOC,TAG=PL
+Meitheamh	leis na Meithimh	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+Meitheamh	Meithimh	TAG=N,TAG=DAT,TAG=PL
+
+Sasanach	Sasanach	TAG=N,TAG=LEMMA
+Sasanach	a Shasanaigh	TAG=N,TAG=VOC,TAG=SG
+Sasanach	Sasanaigh	TAG=N,TAG=NOM,TAG=PL
+Sasanach	Sasanach	TAG=N,TAG=NOM,TAG=SG
+Sasanach	Sasanach	TAG=N,TAG=GEN,TAG=PL
+Sasanach	an tSasanaigh	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+Sasanach	an Sasanach	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+Sasanach	leis an Sasanach	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+Sasanach	na Sasanaigh	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+Sasanach	Sasanaigh	TAG=N,TAG=GEN,TAG=SG
+Sasanach	Sasanach	TAG=N,TAG=DAT,TAG=SG
+Sasanach	a Shasanacha	TAG=N,TAG=VOC,TAG=PL
+Sasanach	leis na Sasanaigh	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+Sasanach	Sasanaigh	TAG=N,TAG=DAT,TAG=PL
+
+trealamh	trealamh	TAG=N,TAG=LEMMA
+trealamh	a threalaimh	TAG=N,TAG=VOC,TAG=SG
+trealamh	trealaimh	TAG=N,TAG=NOM,TAG=PL
+trealamh	trealamh	TAG=N,TAG=NOM,TAG=SG
+trealamh	trealamh	TAG=N,TAG=GEN,TAG=PL
+trealamh	an trealaimh	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+trealamh	an trealamh	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+trealamh	leis an trealamh	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+trealamh	na trealaimh	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+trealamh	trealaimh	TAG=N,TAG=GEN,TAG=SG
+trealamh	trealamh	TAG=N,TAG=DAT,TAG=SG
+trealamh	a threalamha	TAG=N,TAG=VOC,TAG=PL
+trealamh	leis na trealaimh	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+trealamh	trealaimh	TAG=N,TAG=DAT,TAG=PL
+
+clasaiceach	clasaiceach	TAG=N,TAG=LEMMA
+clasaiceach	a chlasaicigh	TAG=N,TAG=VOC,TAG=SG
+clasaiceach	clasaicigh	TAG=N,TAG=NOM,TAG=PL
+clasaiceach	clasaiceach	TAG=N,TAG=NOM,TAG=SG
+clasaiceach	clasaiceach	TAG=N,TAG=GEN,TAG=PL
+clasaiceach	an chlasaicigh	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+clasaiceach	an clasaiceach	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+clasaiceach	leis an gclasaiceach	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+clasaiceach	na clasaicigh	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+clasaiceach	clasaicigh	TAG=N,TAG=GEN,TAG=SG
+clasaiceach	clasaiceach	TAG=N,TAG=DAT,TAG=SG
+clasaiceach	a chlasaiceacha	TAG=N,TAG=VOC,TAG=PL
+clasaiceach	leis na clasaicigh	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+clasaiceach	clasaicigh	TAG=N,TAG=DAT,TAG=PL
+
+troid	troid	TAG=N,TAG=LEMMA
+troid	a throid	TAG=N,TAG=VOC,TAG=SG
+troid	troideanna	TAG=N,TAG=NOM,TAG=PL
+troid	troid	TAG=N,TAG=NOM,TAG=SG
+troid	troideanna	TAG=N,TAG=GEN,TAG=PL
+troid	na troda	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+troid	an troid	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+troid	leis an troid	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+troid	na troideanna	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+troid	troda	TAG=N,TAG=GEN,TAG=SG
+troid	troid	TAG=N,TAG=DAT,TAG=SG
+troid	a throideanna	TAG=N,TAG=VOC,TAG=PL
+troid	leis na troideanna	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+troid	troideanna	TAG=N,TAG=DAT,TAG=PL
+
+sinsear	sinsear	TAG=N,TAG=LEMMA
+sinsear	a shinsir	TAG=N,TAG=VOC,TAG=SG
+sinsear	sinsir	TAG=N,TAG=NOM,TAG=PL
+sinsear	sinsear	TAG=N,TAG=NOM,TAG=SG
+sinsear	sinsear	TAG=N,TAG=GEN,TAG=PL
+sinsear	an tsinsir	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+sinsear	an sinsear	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+sinsear	leis an sinsear	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+sinsear	na sinsir	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+sinsear	sinsir	TAG=N,TAG=GEN,TAG=SG
+sinsear	sinsear	TAG=N,TAG=DAT,TAG=SG
+sinsear	a shinseara	TAG=N,TAG=VOC,TAG=PL
+sinsear	leis na sinsir	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+sinsear	sinsir	TAG=N,TAG=DAT,TAG=PL
+
+rialtas	rialtas	TAG=N,TAG=LEMMA
+rialtas	a rialtais	TAG=N,TAG=VOC,TAG=SG
+rialtas	rialtais	TAG=N,TAG=NOM,TAG=PL
+rialtas	rialtas	TAG=N,TAG=NOM,TAG=SG
+rialtas	rialtas	TAG=N,TAG=GEN,TAG=PL
+rialtas	an rialtais	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+rialtas	an rialtas	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+rialtas	leis an rialtas	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+rialtas	na rialtais	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+rialtas	rialtais	TAG=N,TAG=GEN,TAG=SG
+rialtas	rialtas	TAG=N,TAG=DAT,TAG=SG
+rialtas	a rialtasa	TAG=N,TAG=VOC,TAG=PL
+rialtas	leis na rialtais	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+rialtas	rialtais	TAG=N,TAG=DAT,TAG=PL
+
+deireanach	deireanach	TAG=ADJ,TAG=LEMMA
+deireanach	dheireanach	TAG=ADJ,TAG=DAT,TAG=SG,TAG=FEM
+deireanach	deireanacha	TAG=ADJ,TAG=VOC,TAG=PL
+deireanach	níos deireanaí	TAG=ADJ,TAG=CMPR
+deireanach	is deireanaí	TAG=ADJ,TAG=SPRL
+deireanach	dheireanach	TAG=ADJ,TAG=NOM~VOC,TAG=SG,TAG=FEM
+deireanach	deireanach	TAG=ADJ,TAG=GEN,TAG=PL,TAG=WEAK
+deireanach	deireanaí	TAG=ADJ,TAG=GEN,TAG=SG,TAG=FEM
+deireanach	deireanacha	TAG=ADJ,TAG=NOM,TAG=PL
+deireanach	dheireanaigh	TAG=ADJ,TAG=VOC~GEN,TAG=SG,TAG=MASV
+deireanach	deireanach	TAG=ADJ,TAG=DAT,TAG=SG,TAG=MASC
+deireanach	deireanacha	TAG=ADJ,TAG=DAT,TAG=PL
+deireanach	deireanach	TAG=ADJ,TAG=NOM,TAG=SG,TAG=MASC
+deireanach	deireanacha	TAG=ADJ,TAG=GEN,TAG=PL,TAG=STRONG
+
+uimhir	uimhir	TAG=N,TAG=LEMMA
+uimhir	a uimhir	TAG=N,TAG=VOC,TAG=SG
+uimhir	uimhreacha	TAG=N,TAG=NOM,TAG=PL
+uimhir	uimhir	TAG=N,TAG=NOM,TAG=SG
+uimhir	uimhreacha	TAG=N,TAG=GEN,TAG=PL
+uimhir	na huimhreach	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+uimhir	an uimhir	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+uimhir	leis an uimhir	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+uimhir	na huimhreacha	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+uimhir	uimhreach	TAG=N,TAG=GEN,TAG=SG
+uimhir	uimhir	TAG=N,TAG=DAT,TAG=SG
+uimhir	a uimhreacha	TAG=N,TAG=VOC,TAG=PL
+uimhir	leis na huimhreacha	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+uimhir	uimhreacha	TAG=N,TAG=DAT,TAG=PL
+
+scannán	scannán	TAG=N,TAG=LEMMA
+scannán	a scannáin	TAG=N,TAG=VOC,TAG=SG
+scannán	scannáin	TAG=N,TAG=NOM,TAG=PL
+scannán	scannán	TAG=N,TAG=NOM,TAG=SG
+scannán	scannán	TAG=N,TAG=GEN,TAG=PL
+scannán	an scannáin	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+scannán	an scannán	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+scannán	leis an scannán	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+scannán	na scannáin	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+scannán	scannáin	TAG=N,TAG=GEN,TAG=SG
+scannán	scannán	TAG=N,TAG=DAT,TAG=SG
+scannán	a scannána	TAG=N,TAG=VOC,TAG=PL
+scannán	leis na scannáin	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+scannán	scannáin	TAG=N,TAG=DAT,TAG=PL
+
+daonra	daonra	TAG=N,TAG=LEMMA
+daonra	a dhaonra	TAG=N,TAG=VOC,TAG=SG
+daonra	daonraí	TAG=N,TAG=NOM,TAG=PL
+daonra	daonra	TAG=N,TAG=NOM,TAG=SG
+daonra	daonraí	TAG=N,TAG=GEN,TAG=PL
+daonra	an daonra	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+daonra	an daonra	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+daonra	leis an daonra	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+daonra	na daonraí	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+daonra	daonra	TAG=N,TAG=GEN,TAG=SG
+daonra	daonra	TAG=N,TAG=DAT,TAG=SG
+daonra	a dhaonraí	TAG=N,TAG=VOC,TAG=PL
+daonra	leis na daonraí	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+daonra	daonraí	TAG=N,TAG=DAT,TAG=PL
+
+poblacht	poblacht	TAG=N,TAG=LEMMA
+poblacht	a phoblacht	TAG=N,TAG=VOC,TAG=SG
+poblacht	poblachtaí	TAG=N,TAG=NOM,TAG=PL
+poblacht	poblacht	TAG=N,TAG=NOM,TAG=SG
+poblacht	poblachtaí	TAG=N,TAG=GEN,TAG=PL
+poblacht	na poblachta	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+poblacht	an phoblacht	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+poblacht	leis an bpoblacht	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+poblacht	na poblachtaí	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+poblacht	poblachta	TAG=N,TAG=GEN,TAG=SG
+poblacht	poblacht	TAG=N,TAG=DAT,TAG=SG
+poblacht	a phoblachtaí	TAG=N,TAG=VOC,TAG=PL
+poblacht	leis na poblachtaí	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+poblacht	poblachtaí	TAG=N,TAG=DAT,TAG=PL
+
+dráma	dráma	TAG=N,TAG=LEMMA
+dráma	a dhráma	TAG=N,TAG=VOC,TAG=SG
+dráma	drámaí	TAG=N,TAG=NOM,TAG=PL
+dráma	dráma	TAG=N,TAG=NOM,TAG=SG
+dráma	drámaí	TAG=N,TAG=GEN,TAG=PL
+dráma	an dráma	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+dráma	an dráma	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+dráma	leis an dráma	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+dráma	na drámaí	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+dráma	dráma	TAG=N,TAG=GEN,TAG=SG
+dráma	dráma	TAG=N,TAG=DAT,TAG=SG
+dráma	a dhrámaí	TAG=N,TAG=VOC,TAG=PL
+dráma	leis na drámaí	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+dráma	drámaí	TAG=N,TAG=DAT,TAG=PL
+
+albam	albam	TAG=N,TAG=LEMMA
+albam	a albaim	TAG=N,TAG=VOC,TAG=SG
+albam	albaim	TAG=N,TAG=NOM,TAG=PL
+albam	albam	TAG=N,TAG=NOM,TAG=SG
+albam	albam	TAG=N,TAG=GEN,TAG=PL
+albam	an albaim	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+albam	an t-albam	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+albam	leis an albam	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+albam	na halbaim	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+albam	albaim	TAG=N,TAG=GEN,TAG=SG
+albam	albam	TAG=N,TAG=DAT,TAG=SG
+albam	a albama	TAG=N,TAG=VOC,TAG=PL
+albam	leis na halbaim	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+albam	albaim	TAG=N,TAG=DAT,TAG=PL
+
+aerárthach	aerárthach	TAG=N,TAG=LEMMA
+aerárthach	a aerárthaigh	TAG=N,TAG=VOC,TAG=SG
+aerárthach	aerárthaí	TAG=N,TAG=NOM,TAG=PL
+aerárthach	aerárthach	TAG=N,TAG=NOM,TAG=SG
+aerárthach	aerárthaí	TAG=N,TAG=GEN,TAG=PL
+aerárthach	an aerárthaigh	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+aerárthach	an t-aerárthach	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+aerárthach	leis an aerárthach	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+aerárthach	na haerárthaí	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+aerárthach	aerárthaigh	TAG=N,TAG=GEN,TAG=SG
+aerárthach	aerárthach	TAG=N,TAG=DAT,TAG=SG
+aerárthach	a aerárthaí	TAG=N,TAG=VOC,TAG=PL
+aerárthach	leis na haerárthaí	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+aerárthach	aerárthaí	TAG=N,TAG=DAT,TAG=PL
+
+caol	caol	TAG=ADJ,TAG=LEMMA
+caol	chaol	TAG=ADJ,TAG=DAT,TAG=SG,TAG=FEM
+caol	caola	TAG=ADJ,TAG=VOC,TAG=PL
+caol	níos caoile	TAG=ADJ,TAG=CMPR
+caol	is caoile	TAG=ADJ,TAG=SPRL
+caol	chaol	TAG=ADJ,TAG=NOM~VOC,TAG=SG,TAG=FEM
+caol	caol	TAG=ADJ,TAG=GEN,TAG=PL,TAG=WEAK
+caol	caoile	TAG=ADJ,TAG=GEN,TAG=SG,TAG=FEM
+caol	caola	TAG=ADJ,TAG=NOM,TAG=PL
+caol	chaoil	TAG=ADJ,TAG=VOC~GEN,TAG=SG,TAG=MASV
+caol	caol	TAG=ADJ,TAG=DAT,TAG=SG,TAG=MASC
+caol	caola	TAG=ADJ,TAG=DAT,TAG=PL
+caol	caol	TAG=ADJ,TAG=NOM,TAG=SG,TAG=MASC
+caol	caola	TAG=ADJ,TAG=GEN,TAG=PL,TAG=STRONG
+
+labhair	labhair	TAG=V,TAG=LEMMA
+labhair	labhróimis	TAG=V,TAG=1,TAG=PL,TAG=COND
+labhair	labhraítear	TAG=V,TAG=AUTO,TAG=PRS,TAG=IND
+labhair	go labhraímid	TAG=V,TAG=1,TAG=PL,TAG=SBJV,TAG=PRS
+labhair	dá labhraíodh sibh	TAG=V,TAG=2,TAG=PL,TAG=SBJV,TAG=PST
+labhair	labhair tú	TAG=V,TAG=2,TAG=SG,TAG=PST,TAG=IND
+labhair	labhraíonn siad	TAG=V,TAG=3,TAG=PL,TAG=PRS,TAG=IND
+labhair	labhraím	TAG=V,TAG=1,TAG=SG,TAG=PRS,TAG=IND
+labhair	labhrófaí	TAG=V,TAG=AUTO,TAG=COND
+labhair	go labhraí sé	TAG=V,TAG=3,TAG=SG,TAG=SBJV,TAG=PRS
+labhair	labhrófar	TAG=V,TAG=AUTO,TAG=FUT,TAG=IND
+labhair	dá labhraínn	TAG=V,TAG=1,TAG=SG,TAG=SBJV,TAG=PST
+labhair	labhair mé	TAG=V,TAG=1,TAG=SG,TAG=PST,TAG=IND
+labhair	labhródh sibh	TAG=V,TAG=2,TAG=PL,TAG=COND
+labhair	a labhraíonn	TAG=V,TAG=REL,TAG=PRS,TAG=IND
+labhair	dá labhraíteá	TAG=V,TAG=2~SG,TAG=SBJV,TAG=PST
+labhair	labhróidh sibh	TAG=V,TAG=2,TAG=PL,TAG=FUT,TAG=IND
+labhair	go labhraí mé	TAG=V,TAG=1,TAG=SG,TAG=SBJV,TAG=PRS
+labhair	labhair siad	TAG=V,TAG=3,TAG=PL,TAG=PST,TAG=IND
+labhair	labhraídís	TAG=V,TAG=3,TAG=PL,TAG=IMP
+labhair	labhraíodh sibh	TAG=V,TAG=2,TAG=PL,TAG=PST,TAG=HAB,TAG=IND
+labhair	dá labhraíodh sé	TAG=V,TAG=3,TAG=SG,TAG=SBJV,TAG=PST
+labhair	labhraíodh sé	TAG=V,TAG=3,TAG=SG,TAG=PST,TAG=HAB,TAG=IND
+labhair	dá labhraídís	TAG=V,TAG=3,TAG=PL,TAG=SBJV,TAG=PST
+labhair	labhróidh siad	TAG=V,TAG=3,TAG=PL,TAG=FUT,TAG=IND
+labhair	labhraímid	TAG=V,TAG=1,TAG=PL,TAG=PRS,TAG=IND
+labhair	labhair	TAG=V,TAG=2,TAG=SG,TAG=IMP
+labhair	dá labhraímis	TAG=V,TAG=1,TAG=PL,TAG=SBJV,TAG=PST
+labhair	a labhair	TAG=V,TAG=REL,TAG=PST,TAG=IND
+labhair	labhrófá	TAG=V,TAG=2,TAG=SG,TAG=COND
+labhair	labhróimid	TAG=V,TAG=1,TAG=PL,TAG=FUT,TAG=IND
+labhair	labhair sibh	TAG=V,TAG=2,TAG=PL,TAG=PST,TAG=IND
+labhair	labhródh sé	TAG=V,TAG=3,TAG=SG,TAG=COND
+labhair	labhraítí	TAG=V,TAG=AUTO,TAG=PST,TAG=HAB,TAG=IND
+labhair	labhraíonn tú	TAG=V,TAG=2,TAG=SG,TAG=PRS,TAG=IND
+labhair	labhraígí	TAG=V,TAG=2,TAG=PL,TAG=IMP
+labhair	labhraím	TAG=V,TAG=1,TAG=SG,TAG=IMP
+labhair	labhróidh mé	TAG=V,TAG=1,TAG=SG,TAG=FUT,TAG=IND
+labhair	dá labhraítí	TAG=V,TAG=AUTO,TAG=SBJV,TAG=PST
+labhair	labhróidh tú	TAG=V,TAG=2,TAG=SG,TAG=FUT,TAG=IND
+labhair	go labhraí sibh	TAG=V,TAG=2,TAG=PL,TAG=SBJV,TAG=PRS
+labhair	labhróinn	TAG=V,TAG=1,TAG=SG,TAG=COND
+labhair	labhraínn	TAG=V,TAG=1,TAG=SG,TAG=PST,TAG=HAB,TAG=IND
+labhair	labhraíteá	TAG=V,TAG=2,TAG=SG,TAG=PST,TAG=HAB,TAG=IND
+labhair	labhraíomar	TAG=V,TAG=1,TAG=PL,TAG=PST,TAG=IND
+labhair	labhairt	TAG=V,TAG=V.MSDR
+labhair	labhraíonn sibh	TAG=V,TAG=2,TAG=PL,TAG=PRS,TAG=IND
+labhair	go labhraí tú	TAG=V,TAG=2~SG,TAG=SBJV,TAG=PRS
+labhair	labhraítear	TAG=V,TAG=AUTO,TAG=IMP
+labhair	labhair sé	TAG=V,TAG=3,TAG=SG,TAG=PST,TAG=IND
+labhair	labhraíodh	TAG=V,TAG=AUTO,TAG=PST,TAG=IND
+labhair	a labhróidh	TAG=V,TAG=REL,TAG=FUT,TAG=IND
+labhair	labhróidís	TAG=V,TAG=3,TAG=PL,TAG=COND
+labhair	go labhraítear	TAG=V,TAG=AUTO,TAG=SBJV,TAG=PRS
+labhair	labhartha	TAG=V,TAG=V.PTCP,TAG=PST
+labhair	a labhraíodh	TAG=V,TAG=REL,TAG=PST,TAG=HAB,TAG=IND
+labhair	go labhraí siad	TAG=V,TAG=3,TAG=PL,TAG=SBJV,TAG=PRS
+labhair	labhraídís	TAG=V,TAG=3,TAG=PL,TAG=PST,TAG=HAB,TAG=IND
+labhair	labhraímis	TAG=V,TAG=1,TAG=PL,TAG=IMP
+labhair	labhraímis	TAG=V,TAG=1,TAG=PL,TAG=PST,TAG=HAB,TAG=IND
+labhair	labhraíonn sé	TAG=V,TAG=3,TAG=SG,TAG=PRS,TAG=IND
+labhair	a labhródh	TAG=V,TAG=REL,TAG=COND
+labhair	labhróidh sé	TAG=V,TAG=3,TAG=SG,TAG=FUT,TAG=IND
+labhair	labhraíodh sé	TAG=V,TAG=3,TAG=SG,TAG=IMP
+
+réalt	réalt	TAG=N,TAG=LEMMA
+réalt	a réalt	TAG=N,TAG=VOC,TAG=SG
+réalt	réalta	TAG=N,TAG=NOM,TAG=PL
+réalt	réalt	TAG=N,TAG=NOM,TAG=SG
+réalt	réalt	TAG=N,TAG=GEN,TAG=PL
+réalt	na réilte	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+réalt	an réalt	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+réalt	leis an réalt	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+réalt	na réalta	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+réalt	réilte	TAG=N,TAG=GEN,TAG=SG
+réalt	réalt	TAG=N,TAG=DAT,TAG=SG
+réalt	a réalta	TAG=N,TAG=VOC,TAG=PL
+réalt	leis na réalta	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+réalt	réalta	TAG=N,TAG=DAT,TAG=PL
+
+Gearmánach	Gearmánach	TAG=N,TAG=LEMMA
+Gearmánach	a Ghearmánaigh	TAG=N,TAG=VOC,TAG=SG
+Gearmánach	Gearmánaigh	TAG=N,TAG=NOM,TAG=PL
+Gearmánach	Gearmánach	TAG=N,TAG=NOM,TAG=SG
+Gearmánach	Gearmánach	TAG=N,TAG=GEN,TAG=PL
+Gearmánach	an Ghearmánaigh	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+Gearmánach	an Gearmánach	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+Gearmánach	leis an nGearmánach	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+Gearmánach	na Gearmánaigh	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+Gearmánach	Gearmánaigh	TAG=N,TAG=GEN,TAG=SG
+Gearmánach	Gearmánach	TAG=N,TAG=DAT,TAG=SG
+Gearmánach	a Ghearmánacha	TAG=N,TAG=VOC,TAG=PL
+Gearmánach	leis na Gearmánaigh	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+Gearmánach	Gearmánaigh	TAG=N,TAG=DAT,TAG=PL
+
+scéim	scéim	TAG=N,TAG=LEMMA
+scéim	a scéim	TAG=N,TAG=VOC,TAG=SG
+scéim	scéimeanna	TAG=N,TAG=NOM,TAG=PL
+scéim	scéim	TAG=N,TAG=NOM,TAG=SG
+scéim	scéimeanna	TAG=N,TAG=GEN,TAG=PL
+scéim	na scéime	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+scéim	an scéim	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+scéim	leis an scéim	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+scéim	na scéimeanna	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+scéim	scéime	TAG=N,TAG=GEN,TAG=SG
+scéim	scéim	TAG=N,TAG=DAT,TAG=SG
+scéim	a scéimeanna	TAG=N,TAG=VOC,TAG=PL
+scéim	leis na scéimeanna	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+scéim	scéimeanna	TAG=N,TAG=DAT,TAG=PL
+
+cnámh	cnámh	TAG=N,TAG=LEMMA
+cnámh	a chnámh	TAG=N,TAG=VOC,TAG=SG
+cnámh	cnámha	TAG=N,TAG=NOM,TAG=PL
+cnámh	cnámh	TAG=N,TAG=NOM,TAG=SG
+cnámh	cnámh	TAG=N,TAG=GEN,TAG=PL
+cnámh	na cnáimhe	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+cnámh	an chnámh	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+cnámh	leis an gcnámh	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+cnámh	na cnámha	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+cnámh	cnáimhe	TAG=N,TAG=GEN,TAG=SG
+cnámh	cnámh	TAG=N,TAG=DAT,TAG=SG
+cnámh	a chnámha	TAG=N,TAG=VOC,TAG=PL
+cnámh	leis na cnámha	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+cnámh	cnámha	TAG=N,TAG=DAT,TAG=PL
+
+taobh	taobh	TAG=N,TAG=LEMMA
+taobh	a thaoibh	TAG=N,TAG=VOC,TAG=SG
+taobh	taobhanna	TAG=N,TAG=NOM,TAG=PL
+taobh	taobh	TAG=N,TAG=NOM,TAG=SG
+taobh	taobhanna	TAG=N,TAG=GEN,TAG=PL
+taobh	an taoibh	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+taobh	an taobh	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+taobh	leis an taobh	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+taobh	na taobhanna	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+taobh	taoibh	TAG=N,TAG=GEN,TAG=SG
+taobh	taobh	TAG=N,TAG=DAT,TAG=SG
+taobh	a thaobhanna	TAG=N,TAG=VOC,TAG=PL
+taobh	leis na taobhanna	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+taobh	taobhanna	TAG=N,TAG=DAT,TAG=PL
+
+aeróg	aeróg	TAG=N,TAG=LEMMA
+aeróg	a aeróg	TAG=N,TAG=VOC,TAG=SG
+aeróg	aeróga	TAG=N,TAG=NOM,TAG=PL
+aeróg	aeróg	TAG=N,TAG=NOM,TAG=SG
+aeróg	aeróg	TAG=N,TAG=GEN,TAG=PL
+aeróg	na haeróige	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+aeróg	an aeróg	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+aeróg	leis an aeróg	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+aeróg	na haeróga	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+aeróg	aeróige	TAG=N,TAG=GEN,TAG=SG
+aeróg	aeróg	TAG=N,TAG=DAT,TAG=SG
+aeróg	a aeróga	TAG=N,TAG=VOC,TAG=PL
+aeróg	leis na haeróga	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+aeróg	aeróga	TAG=N,TAG=DAT,TAG=PL
+
+singil	singil	TAG=N,TAG=LEMMA
+singil	a shingil	TAG=N,TAG=VOC,TAG=SG
+singil	singlí	TAG=N,TAG=NOM,TAG=PL
+singil	singil	TAG=N,TAG=NOM,TAG=SG
+singil	singlí	TAG=N,TAG=GEN,TAG=PL
+singil	na singil	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+singil	an tsingil	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+singil	leis an tsingil	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+singil	na singlí	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+singil	singil	TAG=N,TAG=GEN,TAG=SG
+singil	singil	TAG=N,TAG=DAT,TAG=SG
+singil	a shinglí	TAG=N,TAG=VOC,TAG=PL
+singil	leis na singlí	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+singil	singlí	TAG=N,TAG=DAT,TAG=PL
+
+miotal	miotal	TAG=N,TAG=LEMMA
+miotal	a mhiotail	TAG=N,TAG=VOC,TAG=SG
+miotal	miotail	TAG=N,TAG=NOM,TAG=PL
+miotal	miotal	TAG=N,TAG=NOM,TAG=SG
+miotal	miotal	TAG=N,TAG=GEN,TAG=PL
+miotal	an mhiotail	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+miotal	an miotal	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+miotal	leis an miotal	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+miotal	na miotail	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+miotal	miotail	TAG=N,TAG=GEN,TAG=SG
+miotal	miotal	TAG=N,TAG=DAT,TAG=SG
+miotal	a mhiotala	TAG=N,TAG=VOC,TAG=PL
+miotal	leis na miotail	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+miotal	miotail	TAG=N,TAG=DAT,TAG=PL
+
+pá	pá	TAG=N,TAG=LEMMA
+pá	a phá	TAG=N,TAG=VOC,TAG=SG
+pá	pánna	TAG=N,TAG=NOM,TAG=PL
+pá	pá	TAG=N,TAG=NOM,TAG=SG
+pá	pánna	TAG=N,TAG=GEN,TAG=PL
+pá	an phá	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+pá	an pá	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+pá	leis an bpá	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+pá	na pánna	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+pá	pá	TAG=N,TAG=GEN,TAG=SG
+pá	pá	TAG=N,TAG=DAT,TAG=SG
+pá	a phánna	TAG=N,TAG=VOC,TAG=PL
+pá	leis na pánna	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+pá	pánna	TAG=N,TAG=DAT,TAG=PL
+
+domhan	domhan	TAG=N,TAG=LEMMA
+domhan	a dhomhain	TAG=N,TAG=VOC,TAG=SG
+domhan	domhain	TAG=N,TAG=NOM,TAG=PL
+domhan	domhan	TAG=N,TAG=NOM,TAG=SG
+domhan	domhan	TAG=N,TAG=GEN,TAG=PL
+domhan	an domhain	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+domhan	an domhan	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+domhan	leis an domhan	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+domhan	na domhain	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+domhan	domhain	TAG=N,TAG=GEN,TAG=SG
+domhan	domhan	TAG=N,TAG=DAT,TAG=SG
+domhan	a dhomhana	TAG=N,TAG=VOC,TAG=PL
+domhan	leis na domhain	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+domhan	domhain	TAG=N,TAG=DAT,TAG=PL
+
+eolaí	eolaí	TAG=N,TAG=LEMMA
+eolaí	a eolaí	TAG=N,TAG=VOC,TAG=SG
+eolaí	eolaithe	TAG=N,TAG=NOM,TAG=PL
+eolaí	eolaí	TAG=N,TAG=NOM,TAG=SG
+eolaí	eolaithe	TAG=N,TAG=GEN,TAG=PL
+eolaí	an eolaí	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+eolaí	an t-eolaí	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+eolaí	leis an eolaí	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+eolaí	na heolaithe	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+eolaí	eolaí	TAG=N,TAG=GEN,TAG=SG
+eolaí	eolaí	TAG=N,TAG=DAT,TAG=SG
+eolaí	a eolaithe	TAG=N,TAG=VOC,TAG=PL
+eolaí	leis na heolaithe	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+eolaí	eolaithe	TAG=N,TAG=DAT,TAG=PL
+
+grúpa	grúpa	TAG=N,TAG=LEMMA
+grúpa	a ghrúpa	TAG=N,TAG=VOC,TAG=SG
+grúpa	grúpaí	TAG=N,TAG=NOM,TAG=PL
+grúpa	grúpa	TAG=N,TAG=NOM,TAG=SG
+grúpa	grúpaí	TAG=N,TAG=GEN,TAG=PL
+grúpa	an ghrúpa	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+grúpa	an grúpa	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+grúpa	leis an ngrúpa	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+grúpa	na grúpaí	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+grúpa	grúpa	TAG=N,TAG=GEN,TAG=SG
+grúpa	grúpa	TAG=N,TAG=DAT,TAG=SG
+grúpa	a ghrúpaí	TAG=N,TAG=VOC,TAG=PL
+grúpa	leis na grúpaí	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+grúpa	grúpaí	TAG=N,TAG=DAT,TAG=PL
+
+galar	galar	TAG=N,TAG=LEMMA
+galar	a ghalair	TAG=N,TAG=VOC,TAG=SG
+galar	galair	TAG=N,TAG=NOM,TAG=PL
+galar	galar	TAG=N,TAG=NOM,TAG=SG
+galar	galar	TAG=N,TAG=GEN,TAG=PL
+galar	an ghalair	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+galar	an galar	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+galar	leis an ngalar	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+galar	na galair	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+galar	galair	TAG=N,TAG=GEN,TAG=SG
+galar	galar	TAG=N,TAG=DAT,TAG=SG
+galar	a ghalara	TAG=N,TAG=VOC,TAG=PL
+galar	leis na galair	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+galar	galair	TAG=N,TAG=DAT,TAG=PL
+
+liopard	liopard	TAG=N,TAG=LEMMA
+liopard	a liopaird	TAG=N,TAG=VOC,TAG=SG
+liopard	liopaird	TAG=N,TAG=NOM,TAG=PL
+liopard	liopard	TAG=N,TAG=NOM,TAG=SG
+liopard	liopard	TAG=N,TAG=GEN,TAG=PL
+liopard	an liopaird	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+liopard	an liopard	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+liopard	leis an liopard	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+liopard	na liopaird	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+liopard	liopaird	TAG=N,TAG=GEN,TAG=SG
+liopard	liopard	TAG=N,TAG=DAT,TAG=SG
+liopard	a lioparda	TAG=N,TAG=VOC,TAG=PL
+liopard	leis na liopaird	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+liopard	liopaird	TAG=N,TAG=DAT,TAG=PL
+
+réimse	réimse	TAG=N,TAG=LEMMA
+réimse	a réimse	TAG=N,TAG=VOC,TAG=SG
+réimse	réimsí	TAG=N,TAG=NOM,TAG=PL
+réimse	réimse	TAG=N,TAG=NOM,TAG=SG
+réimse	réimsí	TAG=N,TAG=GEN,TAG=PL
+réimse	an réimse	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+réimse	an réimse	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+réimse	leis an réimse	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+réimse	na réimsí	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+réimse	réimse	TAG=N,TAG=GEN,TAG=SG
+réimse	réimse	TAG=N,TAG=DAT,TAG=SG
+réimse	a réimsí	TAG=N,TAG=VOC,TAG=PL
+réimse	leis na réimsí	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+réimse	réimsí	TAG=N,TAG=DAT,TAG=PL
+
+Gael	Gael	TAG=N,TAG=LEMMA
+Gael	a Ghaeil	TAG=N,TAG=VOC,TAG=SG
+Gael	Gaeil	TAG=N,TAG=NOM,TAG=PL
+Gael	Gael	TAG=N,TAG=NOM,TAG=SG
+Gael	Gael	TAG=N,TAG=GEN,TAG=PL
+Gael	an Ghaeil	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+Gael	an Gael	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+Gael	leis an nGael	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+Gael	na Gaeil	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+Gael	Gaeil	TAG=N,TAG=GEN,TAG=SG
+Gael	Gael	TAG=N,TAG=DAT,TAG=SG
+Gael	a Ghaela	TAG=N,TAG=VOC,TAG=PL
+Gael	leis na Gaeil	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+Gael	Gaeil	TAG=N,TAG=DAT,TAG=PL
+
+éadan	éadan	TAG=N,TAG=LEMMA
+éadan	a éadain	TAG=N,TAG=VOC,TAG=SG
+éadan	éadain	TAG=N,TAG=NOM,TAG=PL
+éadan	éadan	TAG=N,TAG=NOM,TAG=SG
+éadan	éadan	TAG=N,TAG=GEN,TAG=PL
+éadan	an éadain	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+éadan	an t-éadan	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+éadan	leis an éadan	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+éadan	na héadain	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+éadan	éadain	TAG=N,TAG=GEN,TAG=SG
+éadan	éadan	TAG=N,TAG=DAT,TAG=SG
+éadan	a éadana	TAG=N,TAG=VOC,TAG=PL
+éadan	leis na héadain	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+éadan	éadain	TAG=N,TAG=DAT,TAG=PL
+
+milliún	milliún	TAG=N,TAG=LEMMA
+milliún	a mhilliúin	TAG=N,TAG=VOC,TAG=SG
+milliún	milliúin	TAG=N,TAG=NOM,TAG=PL
+milliún	milliún	TAG=N,TAG=NOM,TAG=SG
+milliún	milliún	TAG=N,TAG=GEN,TAG=PL
+milliún	an mhilliúin	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+milliún	an milliún	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+milliún	leis an milliún	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+milliún	na milliúin	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+milliún	milliúin	TAG=N,TAG=GEN,TAG=SG
+milliún	milliún	TAG=N,TAG=DAT,TAG=SG
+milliún	a mhilliúna	TAG=N,TAG=VOC,TAG=PL
+milliún	leis na milliúin	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+milliún	milliúin	TAG=N,TAG=DAT,TAG=PL
+
+tiarna	tiarna	TAG=N,TAG=LEMMA
+tiarna	a thiarna	TAG=N,TAG=VOC,TAG=SG
+tiarna	tiarnaí	TAG=N,TAG=NOM,TAG=PL
+tiarna	tiarna	TAG=N,TAG=NOM,TAG=SG
+tiarna	tiarnaí	TAG=N,TAG=GEN,TAG=PL
+tiarna	an tiarna	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+tiarna	an tiarna	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+tiarna	leis an tiarna	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+tiarna	na tiarnaí	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+tiarna	tiarna	TAG=N,TAG=GEN,TAG=SG
+tiarna	tiarna	TAG=N,TAG=DAT,TAG=SG
+tiarna	a thiarnaí	TAG=N,TAG=VOC,TAG=PL
+tiarna	leis na tiarnaí	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+tiarna	tiarnaí	TAG=N,TAG=DAT,TAG=PL
+
+lus	lus	TAG=N,TAG=LEMMA
+lus	a lus	TAG=N,TAG=VOC,TAG=SG
+lus	lusanna	TAG=N,TAG=NOM,TAG=PL
+lus	lus	TAG=N,TAG=NOM,TAG=SG
+lus	lusanna	TAG=N,TAG=GEN,TAG=PL
+lus	an lusa	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+lus	an lus	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+lus	leis an lus	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+lus	na lusanna	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+lus	lusa	TAG=N,TAG=GEN,TAG=SG
+lus	lus	TAG=N,TAG=DAT,TAG=SG
+lus	a lusanna	TAG=N,TAG=VOC,TAG=PL
+lus	leis na lusanna	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+lus	lusanna	TAG=N,TAG=DAT,TAG=PL
+
+coileach	coileach	TAG=N,TAG=LEMMA
+coileach	a choiligh	TAG=N,TAG=VOC,TAG=SG
+coileach	coiligh	TAG=N,TAG=NOM,TAG=PL
+coileach	coileach	TAG=N,TAG=NOM,TAG=SG
+coileach	coileach	TAG=N,TAG=GEN,TAG=PL
+coileach	an choiligh	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+coileach	an coileach	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+coileach	leis an gcoileach	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+coileach	na coiligh	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+coileach	coiligh	TAG=N,TAG=GEN,TAG=SG
+coileach	coileach	TAG=N,TAG=DAT,TAG=SG
+coileach	a choileacha	TAG=N,TAG=VOC,TAG=PL
+coileach	leis na coiligh	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+coileach	coiligh	TAG=N,TAG=DAT,TAG=PL
+
+raon	raon	TAG=N,TAG=LEMMA
+raon	a raoin	TAG=N,TAG=VOC,TAG=SG
+raon	raonta	TAG=N,TAG=NOM,TAG=PL
+raon	raon	TAG=N,TAG=NOM,TAG=SG
+raon	raonta	TAG=N,TAG=GEN,TAG=PL
+raon	an raoin	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+raon	an raon	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+raon	leis an raon	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+raon	na raonta	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+raon	raoin	TAG=N,TAG=GEN,TAG=SG
+raon	raon	TAG=N,TAG=DAT,TAG=SG
+raon	a raonta	TAG=N,TAG=VOC,TAG=PL
+raon	leis na raonta	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+raon	raonta	TAG=N,TAG=DAT,TAG=PL
+
+riocht	riocht	TAG=N,TAG=LEMMA
+riocht	a riocht	TAG=N,TAG=VOC,TAG=SG
+riocht	riochtaí	TAG=N,TAG=NOM,TAG=PL
+riocht	riocht	TAG=N,TAG=NOM,TAG=SG
+riocht	riochtaí	TAG=N,TAG=GEN,TAG=PL
+riocht	an reachta	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+riocht	an riocht	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+riocht	leis an riocht	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+riocht	na riochtaí	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+riocht	reachta	TAG=N,TAG=GEN,TAG=SG
+riocht	riocht	TAG=N,TAG=DAT,TAG=SG
+riocht	a riochtaí	TAG=N,TAG=VOC,TAG=PL
+riocht	leis na riochtaí	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+riocht	riochtaí	TAG=N,TAG=DAT,TAG=PL
+
+bord	bord	TAG=N,TAG=LEMMA
+bord	a bhoird	TAG=N,TAG=VOC,TAG=SG
+bord	boird	TAG=N,TAG=NOM,TAG=PL
+bord	bord	TAG=N,TAG=NOM,TAG=SG
+bord	bord	TAG=N,TAG=GEN,TAG=PL
+bord	an bhoird	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+bord	an bord	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+bord	leis an mbord	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+bord	na boird	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+bord	boird	TAG=N,TAG=GEN,TAG=SG
+bord	bord	TAG=N,TAG=DAT,TAG=SG
+bord	a bhorda	TAG=N,TAG=VOC,TAG=PL
+bord	leis na boird	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+bord	boird	TAG=N,TAG=DAT,TAG=PL
+
+aistriúchán	aistriúchán	TAG=N,TAG=LEMMA
+aistriúchán	a aistriúcháin	TAG=N,TAG=VOC,TAG=SG
+aistriúchán	aistriúcháin	TAG=N,TAG=NOM,TAG=PL
+aistriúchán	aistriúchán	TAG=N,TAG=NOM,TAG=SG
+aistriúchán	aistriúchán	TAG=N,TAG=GEN,TAG=PL
+aistriúchán	an aistriúcháin	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+aistriúchán	an t-aistriúchán	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+aistriúchán	leis an aistriúchán	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+aistriúchán	na haistriúcháin	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+aistriúchán	aistriúcháin	TAG=N,TAG=GEN,TAG=SG
+aistriúchán	aistriúchán	TAG=N,TAG=DAT,TAG=SG
+aistriúchán	a aistriúchána	TAG=N,TAG=VOC,TAG=PL
+aistriúchán	leis na haistriúcháin	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+aistriúchán	aistriúcháin	TAG=N,TAG=DAT,TAG=PL
+
+uair	uair	TAG=N,TAG=LEMMA
+uair	a uair	TAG=N,TAG=VOC,TAG=SG
+uair	uaireanta	TAG=N,TAG=NOM,TAG=PL
+uair	uair	TAG=N,TAG=NOM,TAG=SG
+uair	uaireanta	TAG=N,TAG=GEN,TAG=PL
+uair	na huaire	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+uair	an uair	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+uair	leis an uair	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+uair	na huaireanta	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+uair	uaire	TAG=N,TAG=GEN,TAG=SG
+uair	uair	TAG=N,TAG=DAT,TAG=SG
+uair	a uaireanta	TAG=N,TAG=VOC,TAG=PL
+uair	leis na huaireanta	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+uair	uaireanta	TAG=N,TAG=DAT,TAG=PL
+
+córas	córas	TAG=N,TAG=LEMMA
+córas	a chórais	TAG=N,TAG=VOC,TAG=SG
+córas	córais	TAG=N,TAG=NOM,TAG=PL
+córas	córas	TAG=N,TAG=NOM,TAG=SG
+córas	córas	TAG=N,TAG=GEN,TAG=PL
+córas	an chórais	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+córas	an córas	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+córas	leis an gcóras	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+córas	na córais	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+córas	córais	TAG=N,TAG=GEN,TAG=SG
+córas	córas	TAG=N,TAG=DAT,TAG=SG
+córas	a chórasa	TAG=N,TAG=VOC,TAG=PL
+córas	leis na córais	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+córas	córais	TAG=N,TAG=DAT,TAG=PL
+
+freagra	freagra	TAG=N,TAG=LEMMA
+freagra	a fhreagra	TAG=N,TAG=VOC,TAG=SG
+freagra	freagracha	TAG=N,TAG=NOM,TAG=PL
+freagra	freagra	TAG=N,TAG=NOM,TAG=SG
+freagra	freagracha	TAG=N,TAG=GEN,TAG=PL
+freagra	an fhreagra	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+freagra	an freagra	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+freagra	leis an bhfreagra	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+freagra	na freagracha	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+freagra	freagra	TAG=N,TAG=GEN,TAG=SG
+freagra	freagra	TAG=N,TAG=DAT,TAG=SG
+freagra	a fhreagracha	TAG=N,TAG=VOC,TAG=PL
+freagra	leis na freagracha	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+freagra	freagracha	TAG=N,TAG=DAT,TAG=PL
+
+ball	ball	TAG=N,TAG=LEMMA
+ball	a bhaill	TAG=N,TAG=VOC,TAG=SG
+ball	baill	TAG=N,TAG=NOM,TAG=PL
+ball	ball	TAG=N,TAG=NOM,TAG=SG
+ball	ball	TAG=N,TAG=GEN,TAG=PL
+ball	an bhaill	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+ball	an ball	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+ball	leis an mball	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+ball	na baill	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+ball	baill	TAG=N,TAG=GEN,TAG=SG
+ball	ball	TAG=N,TAG=DAT,TAG=SG
+ball	a bhalla	TAG=N,TAG=VOC,TAG=PL
+ball	leis na baill	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+ball	baill	TAG=N,TAG=DAT,TAG=PL
+
+foireann	foireann	TAG=N,TAG=LEMMA
+foireann	a fhoireann	TAG=N,TAG=VOC,TAG=SG
+foireann	foirne	TAG=N,TAG=NOM,TAG=PL
+foireann	foireann	TAG=N,TAG=NOM,TAG=SG
+foireann	foirne	TAG=N,TAG=GEN,TAG=PL
+foireann	na foirne	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+foireann	an fhoireann	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+foireann	leis an bhfoireann	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+foireann	na foirne	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+foireann	foirne	TAG=N,TAG=GEN,TAG=SG
+foireann	foireann	TAG=N,TAG=DAT,TAG=SG
+foireann	a fhoirne	TAG=N,TAG=VOC,TAG=PL
+foireann	leis na foirne	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+foireann	foirne	TAG=N,TAG=DAT,TAG=PL
+
+cineál	cineál	TAG=N,TAG=LEMMA
+cineál	a chineáil	TAG=N,TAG=VOC,TAG=SG
+cineál	cineálacha	TAG=N,TAG=NOM,TAG=PL
+cineál	cineál	TAG=N,TAG=NOM,TAG=SG
+cineál	cineálacha	TAG=N,TAG=GEN,TAG=PL
+cineál	an chineáil	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+cineál	an cineál	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+cineál	leis an gcineál	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+cineál	na cineálacha	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+cineál	cineáil	TAG=N,TAG=GEN,TAG=SG
+cineál	cineál	TAG=N,TAG=DAT,TAG=SG
+cineál	a chineálacha	TAG=N,TAG=VOC,TAG=PL
+cineál	leis na cineálacha	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+cineál	cineálacha	TAG=N,TAG=DAT,TAG=PL
+
+slán	slán	TAG=N,TAG=LEMMA
+slán	a shláin	TAG=N,TAG=VOC,TAG=SG
+slán	slánta	TAG=N,TAG=NOM,TAG=PL
+slán	slán	TAG=N,TAG=NOM,TAG=SG
+slán	slánta	TAG=N,TAG=GEN,TAG=PL
+slán	an tsláin	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+slán	an slán	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+slán	leis an slán	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+slán	na slánta	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+slán	sláin	TAG=N,TAG=GEN,TAG=SG
+slán	slán	TAG=N,TAG=DAT,TAG=SG
+slán	a shlánta	TAG=N,TAG=VOC,TAG=PL
+slán	leis na slánta	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+slán	slánta	TAG=N,TAG=DAT,TAG=PL
+
+ríomhaireacht	ríomhaireacht	TAG=N,TAG=LEMMA
+ríomhaireacht	a ríomhaireacht	TAG=N,TAG=VOC,TAG=SG
+ríomhaireacht	ríomhaireachtaí	TAG=N,TAG=NOM,TAG=PL
+ríomhaireacht	ríomhaireacht	TAG=N,TAG=NOM,TAG=SG
+ríomhaireacht	ríomhaireachtaí	TAG=N,TAG=GEN,TAG=PL
+ríomhaireacht	na ríomhaireachta	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+ríomhaireacht	an ríomhaireacht	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+ríomhaireacht	leis an ríomhaireacht	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+ríomhaireacht	na ríomhaireachtaí	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+ríomhaireacht	ríomhaireachta	TAG=N,TAG=GEN,TAG=SG
+ríomhaireacht	ríomhaireacht	TAG=N,TAG=DAT,TAG=SG
+ríomhaireacht	a ríomhaireachtaí	TAG=N,TAG=VOC,TAG=PL
+ríomhaireacht	leis na ríomhaireachtaí	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+ríomhaireacht	ríomhaireachtaí	TAG=N,TAG=DAT,TAG=PL
+
+réamhfhocal	réamhfhocal	TAG=N,TAG=LEMMA
+réamhfhocal	a réamhfhocail	TAG=N,TAG=VOC,TAG=SG
+réamhfhocal	réamhfhocail	TAG=N,TAG=NOM,TAG=PL
+réamhfhocal	réamhfhocal	TAG=N,TAG=NOM,TAG=SG
+réamhfhocal	réamhfhocal	TAG=N,TAG=GEN,TAG=PL
+réamhfhocal	an réamhfhocail	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+réamhfhocal	an réamhfhocal	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+réamhfhocal	leis an réamhfhocal	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+réamhfhocal	na réamhfhocail	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+réamhfhocal	réamhfhocail	TAG=N,TAG=GEN,TAG=SG
+réamhfhocal	réamhfhocal	TAG=N,TAG=DAT,TAG=SG
+réamhfhocal	a réamhfhocala	TAG=N,TAG=VOC,TAG=PL
+réamhfhocal	leis na réamhfhocail	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+réamhfhocal	réamhfhocail	TAG=N,TAG=DAT,TAG=PL
+
+gléas	gléas	TAG=N,TAG=LEMMA
+gléas	a ghléis	TAG=N,TAG=VOC,TAG=SG
+gléas	gléasanna	TAG=N,TAG=NOM,TAG=PL
+gléas	gléas	TAG=N,TAG=NOM,TAG=SG
+gléas	gléasanna	TAG=N,TAG=GEN,TAG=PL
+gléas	an ghléis	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+gléas	an gléas	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+gléas	leis an ngléas	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+gléas	na gléasanna	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+gléas	gléis	TAG=N,TAG=GEN,TAG=SG
+gléas	gléas	TAG=N,TAG=DAT,TAG=SG
+gléas	a ghléasanna	TAG=N,TAG=VOC,TAG=PL
+gléas	leis na gléasanna	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+gléas	gléasanna	TAG=N,TAG=DAT,TAG=PL
+
+stoirm	stoirm	TAG=N,TAG=LEMMA
+stoirm	a stoirm	TAG=N,TAG=VOC,TAG=SG
+stoirm	stoirmeacha	TAG=N,TAG=NOM,TAG=PL
+stoirm	stoirm	TAG=N,TAG=NOM,TAG=SG
+stoirm	stoirmeacha	TAG=N,TAG=GEN,TAG=PL
+stoirm	na stoirme	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+stoirm	an stoirm	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+stoirm	leis an stoirm	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+stoirm	na stoirmeacha	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+stoirm	stoirme	TAG=N,TAG=GEN,TAG=SG
+stoirm	stoirm	TAG=N,TAG=DAT,TAG=SG
+stoirm	a stoirmeacha	TAG=N,TAG=VOC,TAG=PL
+stoirm	leis na stoirmeacha	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+stoirm	stoirmeacha	TAG=N,TAG=DAT,TAG=PL
+
+bratach	bratach	TAG=N,TAG=LEMMA
+bratach	a bhratach	TAG=N,TAG=VOC,TAG=SG
+bratach	bratacha	TAG=N,TAG=NOM,TAG=PL
+bratach	bratach	TAG=N,TAG=NOM,TAG=SG
+bratach	bratach	TAG=N,TAG=GEN,TAG=PL
+bratach	na brataí	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+bratach	an bhratach	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+bratach	leis an mbratach	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+bratach	na bratacha	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+bratach	brataí	TAG=N,TAG=GEN,TAG=SG
+bratach	bratach	TAG=N,TAG=DAT,TAG=SG
+bratach	a bhratacha	TAG=N,TAG=VOC,TAG=PL
+bratach	leis na bratacha	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+bratach	bratacha	TAG=N,TAG=DAT,TAG=PL
+
+scríbhneoir	scríbhneoir	TAG=N,TAG=LEMMA
+scríbhneoir	a scríbhneoir	TAG=N,TAG=VOC,TAG=SG
+scríbhneoir	scríbhneoirí	TAG=N,TAG=NOM,TAG=PL
+scríbhneoir	scríbhneoir	TAG=N,TAG=NOM,TAG=SG
+scríbhneoir	scríbhneoirí	TAG=N,TAG=GEN,TAG=PL
+scríbhneoir	an scríbhneora	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+scríbhneoir	an scríbhneoir	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+scríbhneoir	leis an scríbhneoir	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+scríbhneoir	na scríbhneoirí	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+scríbhneoir	scríbhneora	TAG=N,TAG=GEN,TAG=SG
+scríbhneoir	scríbhneoir	TAG=N,TAG=DAT,TAG=SG
+scríbhneoir	a scríbhneoirí	TAG=N,TAG=VOC,TAG=PL
+scríbhneoir	leis na scríbhneoirí	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+scríbhneoir	scríbhneoirí	TAG=N,TAG=DAT,TAG=PL
+
+spás	spás	TAG=N,TAG=LEMMA
+spás	a spáis	TAG=N,TAG=VOC,TAG=SG
+spás	spásanna	TAG=N,TAG=NOM,TAG=PL
+spás	spás	TAG=N,TAG=NOM,TAG=SG
+spás	spásanna	TAG=N,TAG=GEN,TAG=PL
+spás	an spáis	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+spás	an spás	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+spás	leis an spás	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+spás	na spásanna	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+spás	spáis	TAG=N,TAG=GEN,TAG=SG
+spás	spás	TAG=N,TAG=DAT,TAG=SG
+spás	a spásanna	TAG=N,TAG=VOC,TAG=PL
+spás	leis na spásanna	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+spás	spásanna	TAG=N,TAG=DAT,TAG=PL
+
+gaol	gaol	TAG=N,TAG=LEMMA
+gaol	a ghaoil	TAG=N,TAG=VOC,TAG=SG
+gaol	gaolta	TAG=N,TAG=NOM,TAG=PL
+gaol	gaol	TAG=N,TAG=NOM,TAG=SG
+gaol	gaolta	TAG=N,TAG=GEN,TAG=PL
+gaol	an ghaoil	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+gaol	an gaol	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+gaol	leis an ngaol	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+gaol	na gaolta	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+gaol	gaoil	TAG=N,TAG=GEN,TAG=SG
+gaol	gaol	TAG=N,TAG=DAT,TAG=SG
+gaol	a ghaolta	TAG=N,TAG=VOC,TAG=PL
+gaol	leis na gaolta	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+gaol	gaolta	TAG=N,TAG=DAT,TAG=PL
+
+rás	rás	TAG=N,TAG=LEMMA
+rás	a rás	TAG=N,TAG=VOC,TAG=SG
+rás	rása	TAG=N,TAG=NOM,TAG=PL
+rás	rás	TAG=N,TAG=NOM,TAG=SG
+rás	rása	TAG=N,TAG=GEN,TAG=PL
+rás	an rás	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+rás	an rás	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+rás	leis an rás	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+rás	na rása	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+rás	rás	TAG=N,TAG=GEN,TAG=SG
+rás	rás	TAG=N,TAG=DAT,TAG=SG
+rás	a rása	TAG=N,TAG=VOC,TAG=PL
+rás	leis na rása	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+rás	rása	TAG=N,TAG=DAT,TAG=PL
+
+luaidhe	luaidhe	TAG=N,TAG=LEMMA
+luaidhe	a luaidhe	TAG=N,TAG=VOC,TAG=SG
+luaidhe	luaidheanna	TAG=N,TAG=NOM,TAG=PL
+luaidhe	luaidhe	TAG=N,TAG=NOM,TAG=SG
+luaidhe	luaidheanna	TAG=N,TAG=GEN,TAG=PL
+luaidhe	na luaidhe	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+luaidhe	an luaidhe	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+luaidhe	leis an luaidhe	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+luaidhe	na luaidheanna	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+luaidhe	luaidhe	TAG=N,TAG=GEN,TAG=SG
+luaidhe	luaidhe	TAG=N,TAG=DAT,TAG=SG
+luaidhe	a luaidheanna	TAG=N,TAG=VOC,TAG=PL
+luaidhe	leis na luaidheanna	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+luaidhe	luaidheanna	TAG=N,TAG=DAT,TAG=PL
+
+foclóir	foclóir	TAG=N,TAG=LEMMA
+foclóir	a fhoclóir	TAG=N,TAG=VOC,TAG=SG
+foclóir	foclóirí	TAG=N,TAG=NOM,TAG=PL
+foclóir	foclóir	TAG=N,TAG=NOM,TAG=SG
+foclóir	foclóirí	TAG=N,TAG=GEN,TAG=PL
+foclóir	an fhoclóra	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+foclóir	an foclóir	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+foclóir	leis an bhfoclóir	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+foclóir	na foclóirí	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+foclóir	foclóra	TAG=N,TAG=GEN,TAG=SG
+foclóir	foclóir	TAG=N,TAG=DAT,TAG=SG
+foclóir	a fhoclóirí	TAG=N,TAG=VOC,TAG=PL
+foclóir	leis na foclóirí	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+foclóir	foclóirí	TAG=N,TAG=DAT,TAG=PL
+
+contae	contae	TAG=N,TAG=LEMMA
+contae	a chontae	TAG=N,TAG=VOC,TAG=SG
+contae	contaetha	TAG=N,TAG=NOM,TAG=PL
+contae	contae	TAG=N,TAG=NOM,TAG=SG
+contae	contaetha	TAG=N,TAG=GEN,TAG=PL
+contae	an chontae	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+contae	an contae	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+contae	leis an gcontae	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+contae	na contaetha	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+contae	contae	TAG=N,TAG=GEN,TAG=SG
+contae	contae	TAG=N,TAG=DAT,TAG=SG
+contae	a chontaetha	TAG=N,TAG=VOC,TAG=PL
+contae	leis na contaetha	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+contae	contaetha	TAG=N,TAG=DAT,TAG=PL
+
+stát	stát	TAG=N,TAG=LEMMA
+stát	a stáit	TAG=N,TAG=VOC,TAG=SG
+stát	stáit	TAG=N,TAG=NOM,TAG=PL
+stát	stát	TAG=N,TAG=NOM,TAG=SG
+stát	stát	TAG=N,TAG=GEN,TAG=PL
+stát	an stáit	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+stát	an stát	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+stát	leis an stát	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+stát	na stáit	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+stát	stáit	TAG=N,TAG=GEN,TAG=SG
+stát	stát	TAG=N,TAG=DAT,TAG=SG
+stát	a státa	TAG=N,TAG=VOC,TAG=PL
+stát	leis na stáit	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+stát	stáit	TAG=N,TAG=DAT,TAG=PL
+
+bun	bun	TAG=N,TAG=LEMMA
+bun	a bhuin	TAG=N,TAG=VOC,TAG=SG
+bun	bunanna	TAG=N,TAG=NOM,TAG=PL
+bun	bun	TAG=N,TAG=NOM,TAG=SG
+bun	bunanna	TAG=N,TAG=GEN,TAG=PL
+bun	an bhuin	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+bun	an bun	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+bun	leis an mbun	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+bun	na bunanna	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+bun	buin	TAG=N,TAG=GEN,TAG=SG
+bun	bun	TAG=N,TAG=DAT,TAG=SG
+bun	a bhunanna	TAG=N,TAG=VOC,TAG=PL
+bun	leis na bunanna	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+bun	bunanna	TAG=N,TAG=DAT,TAG=PL
+
+Eorpach	Eorpach	TAG=N,TAG=LEMMA
+Eorpach	a Eorpaigh	TAG=N,TAG=VOC,TAG=SG
+Eorpach	Eorpaigh	TAG=N,TAG=NOM,TAG=PL
+Eorpach	Eorpach	TAG=N,TAG=NOM,TAG=SG
+Eorpach	Eorpach	TAG=N,TAG=GEN,TAG=PL
+Eorpach	an Eorpaigh	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+Eorpach	an tEorpach	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+Eorpach	leis an Eorpach	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+Eorpach	na hEorpaigh	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+Eorpach	Eorpaigh	TAG=N,TAG=GEN,TAG=SG
+Eorpach	Eorpach	TAG=N,TAG=DAT,TAG=SG
+Eorpach	a Eorpacha	TAG=N,TAG=VOC,TAG=PL
+Eorpach	leis na hEorpaigh	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+Eorpach	Eorpaigh	TAG=N,TAG=DAT,TAG=PL
+
+breosla	breosla	TAG=N,TAG=LEMMA
+breosla	a bhreosla	TAG=N,TAG=VOC,TAG=SG
+breosla	breoslaí	TAG=N,TAG=NOM,TAG=PL
+breosla	breosla	TAG=N,TAG=NOM,TAG=SG
+breosla	breoslaí	TAG=N,TAG=GEN,TAG=PL
+breosla	an bhreosla	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+breosla	an breosla	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+breosla	leis an mbreosla	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+breosla	na breoslaí	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+breosla	breosla	TAG=N,TAG=GEN,TAG=SG
+breosla	breosla	TAG=N,TAG=DAT,TAG=SG
+breosla	a bhreoslaí	TAG=N,TAG=VOC,TAG=PL
+breosla	leis na breoslaí	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+breosla	breoslaí	TAG=N,TAG=DAT,TAG=PL
+
+tine	tine	TAG=N,TAG=LEMMA
+tine	a thine	TAG=N,TAG=VOC,TAG=SG
+tine	tinte	TAG=N,TAG=NOM,TAG=PL
+tine	tine	TAG=N,TAG=NOM,TAG=SG
+tine	tinte	TAG=N,TAG=GEN,TAG=PL
+tine	na tine	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+tine	an tine	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+tine	leis an tine	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+tine	na tinte	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+tine	tine	TAG=N,TAG=GEN,TAG=SG
+tine	tine	TAG=N,TAG=DAT,TAG=SG
+tine	a thinte	TAG=N,TAG=VOC,TAG=PL
+tine	leis na tinte	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+tine	tinte	TAG=N,TAG=DAT,TAG=PL
+
+ispín	ispín	TAG=N,TAG=LEMMA
+ispín	a ispín	TAG=N,TAG=VOC,TAG=SG
+ispín	ispíní	TAG=N,TAG=NOM,TAG=PL
+ispín	ispín	TAG=N,TAG=NOM,TAG=SG
+ispín	ispíní	TAG=N,TAG=GEN,TAG=PL
+ispín	an ispín	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+ispín	an t-ispín	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+ispín	leis an ispín	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+ispín	na hispíní	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+ispín	ispín	TAG=N,TAG=GEN,TAG=SG
+ispín	ispín	TAG=N,TAG=DAT,TAG=SG
+ispín	a ispíní	TAG=N,TAG=VOC,TAG=PL
+ispín	leis na hispíní	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+ispín	ispíní	TAG=N,TAG=DAT,TAG=PL
+
+eiticí	eiticí	TAG=N,TAG=LEMMA
+eiticí	a eiticí	TAG=N,TAG=VOC,TAG=SG
+eiticí	eiticithe	TAG=N,TAG=NOM,TAG=PL
+eiticí	eiticí	TAG=N,TAG=NOM,TAG=SG
+eiticí	eiticithe	TAG=N,TAG=GEN,TAG=PL
+eiticí	an eiticí	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+eiticí	an t-eiticí	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+eiticí	leis an eiticí	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+eiticí	na heiticithe	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+eiticí	eiticí	TAG=N,TAG=GEN,TAG=SG
+eiticí	eiticí	TAG=N,TAG=DAT,TAG=SG
+eiticí	a eiticithe	TAG=N,TAG=VOC,TAG=PL
+eiticí	leis na heiticithe	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+eiticí	eiticithe	TAG=N,TAG=DAT,TAG=PL
+
+sráidbhaile	sráidbhaile	TAG=N,TAG=LEMMA
+sráidbhaile	a shráidbhaile	TAG=N,TAG=VOC,TAG=SG
+sráidbhaile	sráidbhailte	TAG=N,TAG=NOM,TAG=PL
+sráidbhaile	sráidbhaile	TAG=N,TAG=NOM,TAG=SG
+sráidbhaile	sráidbhailte	TAG=N,TAG=GEN,TAG=PL
+sráidbhaile	an tsráidbhaile	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+sráidbhaile	an sráidbhaile	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+sráidbhaile	leis an sráidbhaile	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+sráidbhaile	na sráidbhailte	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+sráidbhaile	sráidbhaile	TAG=N,TAG=GEN,TAG=SG
+sráidbhaile	sráidbhaile	TAG=N,TAG=DAT,TAG=SG
+sráidbhaile	a shráidbhailte	TAG=N,TAG=VOC,TAG=PL
+sráidbhaile	leis na sráidbhailte	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+sráidbhaile	sráidbhailte	TAG=N,TAG=DAT,TAG=PL
+
+teocht	teocht	TAG=N,TAG=LEMMA
+teocht	a theocht	TAG=N,TAG=VOC,TAG=SG
+teocht	teochtaí	TAG=N,TAG=NOM,TAG=PL
+teocht	teocht	TAG=N,TAG=NOM,TAG=SG
+teocht	teochtaí	TAG=N,TAG=GEN,TAG=PL
+teocht	na teochta	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+teocht	an teocht	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+teocht	leis an teocht	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+teocht	na teochtaí	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+teocht	teochta	TAG=N,TAG=GEN,TAG=SG
+teocht	teocht	TAG=N,TAG=DAT,TAG=SG
+teocht	a theochtaí	TAG=N,TAG=VOC,TAG=PL
+teocht	leis na teochtaí	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+teocht	teochtaí	TAG=N,TAG=DAT,TAG=PL
+
+craobh	craobh	TAG=N,TAG=LEMMA
+craobh	a chraobh	TAG=N,TAG=VOC,TAG=SG
+craobh	craobhacha	TAG=N,TAG=NOM,TAG=PL
+craobh	craobh	TAG=N,TAG=NOM,TAG=SG
+craobh	craobhacha	TAG=N,TAG=GEN,TAG=PL
+craobh	na craoibhe	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+craobh	an chraobh	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+craobh	leis an gcraobh	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+craobh	na craobhacha	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+craobh	craoibhe	TAG=N,TAG=GEN,TAG=SG
+craobh	craobh	TAG=N,TAG=DAT,TAG=SG
+craobh	a chraobhacha	TAG=N,TAG=VOC,TAG=PL
+craobh	leis na craobhacha	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+craobh	craobhacha	TAG=N,TAG=DAT,TAG=PL
+
+leibhéal	leibhéal	TAG=N,TAG=LEMMA
+leibhéal	a leibhéil	TAG=N,TAG=VOC,TAG=SG
+leibhéal	leibhéil	TAG=N,TAG=NOM,TAG=PL
+leibhéal	leibhéal	TAG=N,TAG=NOM,TAG=SG
+leibhéal	leibhéal	TAG=N,TAG=GEN,TAG=PL
+leibhéal	an leibhéil	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+leibhéal	an leibhéal	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+leibhéal	leis an leibhéal	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+leibhéal	na leibhéil	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+leibhéal	leibhéil	TAG=N,TAG=GEN,TAG=SG
+leibhéal	leibhéal	TAG=N,TAG=DAT,TAG=SG
+leibhéal	a leibhéala	TAG=N,TAG=VOC,TAG=PL
+leibhéal	leis na leibhéil	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+leibhéal	leibhéil	TAG=N,TAG=DAT,TAG=PL
+
+Meiriceánach	Meiriceánach	TAG=N,TAG=LEMMA
+Meiriceánach	a Mheiriceánaigh	TAG=N,TAG=VOC,TAG=SG
+Meiriceánach	Meiriceánaigh	TAG=N,TAG=NOM,TAG=PL
+Meiriceánach	Meiriceánach	TAG=N,TAG=NOM,TAG=SG
+Meiriceánach	Meiriceánach	TAG=N,TAG=GEN,TAG=PL
+Meiriceánach	an Mheiriceánaigh	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+Meiriceánach	an Meiriceánach	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+Meiriceánach	leis an Meiriceánach	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+Meiriceánach	na Meiriceánaigh	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+Meiriceánach	Meiriceánaigh	TAG=N,TAG=GEN,TAG=SG
+Meiriceánach	Meiriceánach	TAG=N,TAG=DAT,TAG=SG
+Meiriceánach	a Mheiriceánacha	TAG=N,TAG=VOC,TAG=PL
+Meiriceánach	leis na Meiriceánaigh	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+Meiriceánach	Meiriceánaigh	TAG=N,TAG=DAT,TAG=PL
+
+buille	buille	TAG=N,TAG=LEMMA
+buille	a bhuille	TAG=N,TAG=VOC,TAG=SG
+buille	buillí	TAG=N,TAG=NOM,TAG=PL
+buille	buille	TAG=N,TAG=NOM,TAG=SG
+buille	buillí	TAG=N,TAG=GEN,TAG=PL
+buille	an bhuille	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+buille	an buille	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+buille	leis an mbuille	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+buille	na buillí	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+buille	buille	TAG=N,TAG=GEN,TAG=SG
+buille	buille	TAG=N,TAG=DAT,TAG=SG
+buille	a bhuillí	TAG=N,TAG=VOC,TAG=PL
+buille	leis na buillí	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+buille	buillí	TAG=N,TAG=DAT,TAG=PL
+
+loch	loch	TAG=N,TAG=LEMMA
+loch	loch	TAG=N,TAG=VOC,TAG=SG
+loch	Plural	TAG=N,TAG=NOM,TAG=PL
+loch	Singular	TAG=N,TAG=NOM,TAG=SG
+loch	a lochanna	TAG=N,TAG=GEN,TAG=PL
+loch	an loch	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+loch	Singular	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+loch	an locha	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+loch	Plural	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+loch	a loch	TAG=N,TAG=GEN,TAG=SG
+loch	locha	TAG=N,TAG=DAT,TAG=SG
+loch	lochanna	TAG=N,TAG=VOC,TAG=PL
+loch	na lochanna	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+loch	lochanna	TAG=N,TAG=DAT,TAG=PL
+
+Bascach	Bascach	TAG=N,TAG=LEMMA
+Bascach	a Bhascaigh	TAG=N,TAG=VOC,TAG=SG
+Bascach	Bascaigh	TAG=N,TAG=NOM,TAG=PL
+Bascach	Bascach	TAG=N,TAG=NOM,TAG=SG
+Bascach	Bascach	TAG=N,TAG=GEN,TAG=PL
+Bascach	an Bhascaigh	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+Bascach	an Bascach	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+Bascach	leis an mBascach	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+Bascach	na Bascaigh	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+Bascach	Bascaigh	TAG=N,TAG=GEN,TAG=SG
+Bascach	Bascach	TAG=N,TAG=DAT,TAG=SG
+Bascach	a Bhascacha	TAG=N,TAG=VOC,TAG=PL
+Bascach	leis na Bascaigh	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+Bascach	Bascaigh	TAG=N,TAG=DAT,TAG=PL
+
+cillín	cillín	TAG=N,TAG=LEMMA
+cillín	a chillín	TAG=N,TAG=VOC,TAG=SG
+cillín	cillíní	TAG=N,TAG=NOM,TAG=PL
+cillín	cillín	TAG=N,TAG=NOM,TAG=SG
+cillín	cillíní	TAG=N,TAG=GEN,TAG=PL
+cillín	an chillín	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+cillín	an cillín	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+cillín	leis an gcillín	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+cillín	na cillíní	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+cillín	cillín	TAG=N,TAG=GEN,TAG=SG
+cillín	cillín	TAG=N,TAG=DAT,TAG=SG
+cillín	a chillíní	TAG=N,TAG=VOC,TAG=PL
+cillín	leis na cillíní	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+cillín	cillíní	TAG=N,TAG=DAT,TAG=PL
+
+scáileán	scáileán	TAG=N,TAG=LEMMA
+scáileán	a scáileáin	TAG=N,TAG=VOC,TAG=SG
+scáileán	scáileáin	TAG=N,TAG=NOM,TAG=PL
+scáileán	scáileán	TAG=N,TAG=NOM,TAG=SG
+scáileán	scáileán	TAG=N,TAG=GEN,TAG=PL
+scáileán	an scáileáin	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+scáileán	an scáileán	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+scáileán	leis an scáileán	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+scáileán	na scáileáin	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+scáileán	scáileáin	TAG=N,TAG=GEN,TAG=SG
+scáileán	scáileán	TAG=N,TAG=DAT,TAG=SG
+scáileán	a scáileána	TAG=N,TAG=VOC,TAG=PL
+scáileán	leis na scáileáin	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+scáileán	scáileáin	TAG=N,TAG=DAT,TAG=PL
+
+bolcán	bolcán	TAG=N,TAG=LEMMA
+bolcán	a bholcáin	TAG=N,TAG=VOC,TAG=SG
+bolcán	bolcáin	TAG=N,TAG=NOM,TAG=PL
+bolcán	bolcán	TAG=N,TAG=NOM,TAG=SG
+bolcán	bolcán	TAG=N,TAG=GEN,TAG=PL
+bolcán	an bholcáin	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+bolcán	an bolcán	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+bolcán	leis an mbolcán	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+bolcán	na bolcáin	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+bolcán	bolcáin	TAG=N,TAG=GEN,TAG=SG
+bolcán	bolcán	TAG=N,TAG=DAT,TAG=SG
+bolcán	a bholcána	TAG=N,TAG=VOC,TAG=PL
+bolcán	leis na bolcáin	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+bolcán	bolcáin	TAG=N,TAG=DAT,TAG=PL
+
+airgead	airgead	TAG=N,TAG=LEMMA
+airgead	a airgid	TAG=N,TAG=VOC,TAG=SG
+airgead	airgid	TAG=N,TAG=NOM,TAG=PL
+airgead	airgead	TAG=N,TAG=NOM,TAG=SG
+airgead	airgead	TAG=N,TAG=GEN,TAG=PL
+airgead	an airgid	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+airgead	an t-airgead	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+airgead	leis an airgead	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+airgead	na hairgid	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+airgead	airgid	TAG=N,TAG=GEN,TAG=SG
+airgead	airgead	TAG=N,TAG=DAT,TAG=SG
+airgead	a airgeada	TAG=N,TAG=VOC,TAG=PL
+airgead	leis na hairgid	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+airgead	airgid	TAG=N,TAG=DAT,TAG=PL
+
+aois	aois	TAG=N,TAG=LEMMA
+aois	a aois	TAG=N,TAG=VOC,TAG=SG
+aois	aoiseanna	TAG=N,TAG=NOM,TAG=PL
+aois	aois	TAG=N,TAG=NOM,TAG=SG
+aois	aoiseanna	TAG=N,TAG=GEN,TAG=PL
+aois	na haoise	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+aois	an aois	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+aois	leis an aois	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+aois	na haoiseanna	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+aois	aoise	TAG=N,TAG=GEN,TAG=SG
+aois	aois	TAG=N,TAG=DAT,TAG=SG
+aois	a aoiseanna	TAG=N,TAG=VOC,TAG=PL
+aois	leis na haoiseanna	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+aois	aoiseanna	TAG=N,TAG=DAT,TAG=PL
+
+Albanach	Albanach	TAG=N,TAG=LEMMA
+Albanach	a Albanaigh	TAG=N,TAG=VOC,TAG=SG
+Albanach	Albanaigh	TAG=N,TAG=NOM,TAG=PL
+Albanach	Albanach	TAG=N,TAG=NOM,TAG=SG
+Albanach	Albanach	TAG=N,TAG=GEN,TAG=PL
+Albanach	an Albanaigh	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+Albanach	an tAlbanach	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+Albanach	leis an Albanach	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+Albanach	na hAlbanaigh	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+Albanach	Albanaigh	TAG=N,TAG=GEN,TAG=SG
+Albanach	Albanach	TAG=N,TAG=DAT,TAG=SG
+Albanach	a Albanacha	TAG=N,TAG=VOC,TAG=PL
+Albanach	leis na hAlbanaigh	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+Albanach	Albanaigh	TAG=N,TAG=DAT,TAG=PL
+
+aidiúnach	aidiúnach	TAG=N,TAG=LEMMA
+aidiúnach	a aidiúnaigh	TAG=N,TAG=VOC,TAG=SG
+aidiúnach	aidiúnaigh	TAG=N,TAG=NOM,TAG=PL
+aidiúnach	aidiúnach	TAG=N,TAG=NOM,TAG=SG
+aidiúnach	aidiúnach	TAG=N,TAG=GEN,TAG=PL
+aidiúnach	an aidiúnaigh	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+aidiúnach	an t-aidiúnach	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+aidiúnach	leis an aidiúnach	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+aidiúnach	na haidiúnaigh	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+aidiúnach	aidiúnaigh	TAG=N,TAG=GEN,TAG=SG
+aidiúnach	aidiúnach	TAG=N,TAG=DAT,TAG=SG
+aidiúnach	a aidiúnacha	TAG=N,TAG=VOC,TAG=PL
+aidiúnach	leis na haidiúnaigh	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+aidiúnach	aidiúnaigh	TAG=N,TAG=DAT,TAG=PL
+
+luas	luas	TAG=N,TAG=LEMMA
+luas	a luais	TAG=N,TAG=VOC,TAG=SG
+luas	luasanna	TAG=N,TAG=NOM,TAG=PL
+luas	luas	TAG=N,TAG=NOM,TAG=SG
+luas	luasanna	TAG=N,TAG=GEN,TAG=PL
+luas	an luais	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+luas	an luas	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+luas	leis an luas	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+luas	na luasanna	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+luas	luais	TAG=N,TAG=GEN,TAG=SG
+luas	luas	TAG=N,TAG=DAT,TAG=SG
+luas	a luasanna	TAG=N,TAG=VOC,TAG=PL
+luas	leis na luasanna	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+luas	luasanna	TAG=N,TAG=DAT,TAG=PL
+
+treo	treo	TAG=N,TAG=LEMMA
+treo	a threo	TAG=N,TAG=VOC,TAG=SG
+treo	treonna	TAG=N,TAG=NOM,TAG=PL
+treo	treo	TAG=N,TAG=NOM,TAG=SG
+treo	treonna	TAG=N,TAG=GEN,TAG=PL
+treo	an treo	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+treo	an treo	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+treo	leis an treo	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+treo	na treonna	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+treo	treo	TAG=N,TAG=GEN,TAG=SG
+treo	treo	TAG=N,TAG=DAT,TAG=SG
+treo	a threonna	TAG=N,TAG=VOC,TAG=PL
+treo	leis na treonna	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+treo	treonna	TAG=N,TAG=DAT,TAG=PL
+
+daingean	daingean	TAG=ADJ,TAG=LEMMA
+daingean	dhaingean	TAG=ADJ,TAG=DAT,TAG=SG,TAG=FEM
+daingean	ddaingne	TAG=ADJ,TAG=VOC,TAG=PL
+daingean	níos ddaingne	TAG=ADJ,TAG=CMPR
+daingean	is ddaingne	TAG=ADJ,TAG=SPRL
+daingean	dhaingean	TAG=ADJ,TAG=NOM~VOC,TAG=SG,TAG=FEM
+daingean	daingean	TAG=ADJ,TAG=GEN,TAG=PL,TAG=WEAK
+daingean	ddaingne	TAG=ADJ,TAG=GEN,TAG=SG,TAG=FEM
+daingean	ddaingne	TAG=ADJ,TAG=NOM,TAG=PL
+daingean	dhdaingin	TAG=ADJ,TAG=VOC~GEN,TAG=SG,TAG=MASV
+daingean	daingean	TAG=ADJ,TAG=DAT,TAG=SG,TAG=MASC
+daingean	ddaingne	TAG=ADJ,TAG=DAT,TAG=PL
+daingean	daingean	TAG=ADJ,TAG=NOM,TAG=SG,TAG=MASC
+daingean	ddaingne	TAG=ADJ,TAG=GEN,TAG=PL,TAG=STRONG
+
+constábla	constábla	TAG=N,TAG=LEMMA
+constábla	a chonstábla	TAG=N,TAG=VOC,TAG=SG
+constábla	constáblaí	TAG=N,TAG=NOM,TAG=PL
+constábla	constábla	TAG=N,TAG=NOM,TAG=SG
+constábla	constáblaí	TAG=N,TAG=GEN,TAG=PL
+constábla	an chonstábla	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+constábla	an constábla	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+constábla	leis an gconstábla	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+constábla	na constáblaí	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+constábla	constábla	TAG=N,TAG=GEN,TAG=SG
+constábla	constábla	TAG=N,TAG=DAT,TAG=SG
+constábla	a chonstáblaí	TAG=N,TAG=VOC,TAG=PL
+constábla	leis na constáblaí	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+constábla	constáblaí	TAG=N,TAG=DAT,TAG=PL
+
+óg	óg	TAG=ADJ,TAG=LEMMA
+óg	óg	TAG=ADJ,TAG=DAT,TAG=SG,TAG=FEM
+óg	óga	TAG=ADJ,TAG=VOC,TAG=PL
+óg	níos óige	TAG=ADJ,TAG=CMPR
+óg	is óige	TAG=ADJ,TAG=SPRL
+óg	óg	TAG=ADJ,TAG=NOM~VOC,TAG=SG,TAG=FEM
+óg	óg	TAG=ADJ,TAG=GEN,TAG=PL,TAG=WEAK
+óg	óige	TAG=ADJ,TAG=GEN,TAG=SG,TAG=FEM
+óg	óga	TAG=ADJ,TAG=NOM,TAG=PL
+óg	óig	TAG=ADJ,TAG=VOC~GEN,TAG=SG,TAG=MASV
+óg	óg	TAG=ADJ,TAG=DAT,TAG=SG,TAG=MASC
+óg	óga	TAG=ADJ,TAG=DAT,TAG=PL
+óg	óg	TAG=ADJ,TAG=NOM,TAG=SG,TAG=MASC
+óg	óga	TAG=ADJ,TAG=GEN,TAG=PL,TAG=STRONG
+
+liopa	liopa	TAG=N,TAG=LEMMA
+liopa	a liopa	TAG=N,TAG=VOC,TAG=SG
+liopa	liopaí	TAG=N,TAG=NOM,TAG=PL
+liopa	liopa	TAG=N,TAG=NOM,TAG=SG
+liopa	liopaí	TAG=N,TAG=GEN,TAG=PL
+liopa	an liopa	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+liopa	an liopa	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+liopa	leis an liopa	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+liopa	na liopaí	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+liopa	liopa	TAG=N,TAG=GEN,TAG=SG
+liopa	liopa	TAG=N,TAG=DAT,TAG=SG
+liopa	a liopaí	TAG=N,TAG=VOC,TAG=PL
+liopa	leis na liopaí	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+liopa	liopaí	TAG=N,TAG=DAT,TAG=PL
+
+comhaontú	comhaontú	TAG=N,TAG=LEMMA
+comhaontú	a chomhaontú	TAG=N,TAG=VOC,TAG=SG
+comhaontú	comhaontuithe	TAG=N,TAG=NOM,TAG=PL
+comhaontú	comhaontú	TAG=N,TAG=NOM,TAG=SG
+comhaontú	comhaontuithe	TAG=N,TAG=GEN,TAG=PL
+comhaontú	an chomhaontaithe	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+comhaontú	an comhaontú	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+comhaontú	leis an gcomhaontú	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+comhaontú	na comhaontuithe	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+comhaontú	comhaontaithe	TAG=N,TAG=GEN,TAG=SG
+comhaontú	comhaontú	TAG=N,TAG=DAT,TAG=SG
+comhaontú	a chomhaontuithe	TAG=N,TAG=VOC,TAG=PL
+comhaontú	leis na comhaontuithe	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+comhaontú	comhaontuithe	TAG=N,TAG=DAT,TAG=PL
+
+stair	stair	TAG=N,TAG=LEMMA
+stair	a stair	TAG=N,TAG=VOC,TAG=SG
+stair	startha	TAG=N,TAG=NOM,TAG=PL
+stair	stair	TAG=N,TAG=NOM,TAG=SG
+stair	startha	TAG=N,TAG=GEN,TAG=PL
+stair	na staire	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+stair	an stair	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+stair	leis an stair	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+stair	na startha	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+stair	staire	TAG=N,TAG=GEN,TAG=SG
+stair	stair	TAG=N,TAG=DAT,TAG=SG
+stair	a startha	TAG=N,TAG=VOC,TAG=PL
+stair	leis na startha	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+stair	startha	TAG=N,TAG=DAT,TAG=PL
+
+scoil	scoil	TAG=N,TAG=LEMMA
+scoil	a scoil	TAG=N,TAG=VOC,TAG=SG
+scoil	scoileanna	TAG=N,TAG=NOM,TAG=PL
+scoil	scoil	TAG=N,TAG=NOM,TAG=SG
+scoil	scoileanna	TAG=N,TAG=GEN,TAG=PL
+scoil	na scoile	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+scoil	an scoil	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+scoil	leis an scoil	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+scoil	na scoileanna	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+scoil	scoile	TAG=N,TAG=GEN,TAG=SG
+scoil	scoil	TAG=N,TAG=DAT,TAG=SG
+scoil	a scoileanna	TAG=N,TAG=VOC,TAG=PL
+scoil	leis na scoileanna	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+scoil	scoileanna	TAG=N,TAG=DAT,TAG=PL
+
+malairt	malairt	TAG=N,TAG=LEMMA
+malairt	a mhalairt	TAG=N,TAG=VOC,TAG=SG
+malairt	malairta	TAG=N,TAG=NOM,TAG=PL
+malairt	malairt	TAG=N,TAG=NOM,TAG=SG
+malairt	malairt	TAG=N,TAG=GEN,TAG=PL
+malairt	na malairte	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+malairt	an mhalairt	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+malairt	leis an malairt	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+malairt	na malairta	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+malairt	malairte	TAG=N,TAG=GEN,TAG=SG
+malairt	malairt	TAG=N,TAG=DAT,TAG=SG
+malairt	a mhalairta	TAG=N,TAG=VOC,TAG=PL
+malairt	leis na malairta	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+malairt	malairta	TAG=N,TAG=DAT,TAG=PL
+
+aonad	aonad	TAG=N,TAG=LEMMA
+aonad	a aonaid	TAG=N,TAG=VOC,TAG=SG
+aonad	aonaid	TAG=N,TAG=NOM,TAG=PL
+aonad	aonad	TAG=N,TAG=NOM,TAG=SG
+aonad	aonad	TAG=N,TAG=GEN,TAG=PL
+aonad	an aonaid	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+aonad	an t-aonad	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+aonad	leis an aonad	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+aonad	na haonaid	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+aonad	aonaid	TAG=N,TAG=GEN,TAG=SG
+aonad	aonad	TAG=N,TAG=DAT,TAG=SG
+aonad	a aonada	TAG=N,TAG=VOC,TAG=PL
+aonad	leis na haonaid	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+aonad	aonaid	TAG=N,TAG=DAT,TAG=PL
+
+ríocht	ríocht	TAG=N,TAG=LEMMA
+ríocht	a ríocht	TAG=N,TAG=VOC,TAG=SG
+ríocht	ríochtaí	TAG=N,TAG=NOM,TAG=PL
+ríocht	ríocht	TAG=N,TAG=NOM,TAG=SG
+ríocht	ríochtaí	TAG=N,TAG=GEN,TAG=PL
+ríocht	na ríochta	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+ríocht	an ríocht	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+ríocht	leis an ríocht	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+ríocht	na ríochtaí	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+ríocht	ríochta	TAG=N,TAG=GEN,TAG=SG
+ríocht	ríocht	TAG=N,TAG=DAT,TAG=SG
+ríocht	a ríochtaí	TAG=N,TAG=VOC,TAG=PL
+ríocht	leis na ríochtaí	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+ríocht	ríochtaí	TAG=N,TAG=DAT,TAG=PL
+
+ciúin	ciúin	TAG=ADJ,TAG=LEMMA
+ciúin	chiúin	TAG=ADJ,TAG=DAT,TAG=SG,TAG=FEM
+ciúin	ciúine	TAG=ADJ,TAG=VOC,TAG=PL
+ciúin	níos ciúine	TAG=ADJ,TAG=CMPR
+ciúin	is ciúine	TAG=ADJ,TAG=SPRL
+ciúin	chiúin	TAG=ADJ,TAG=NOM~VOC,TAG=SG,TAG=FEM
+ciúin	ciúin	TAG=ADJ,TAG=GEN,TAG=PL,TAG=WEAK
+ciúin	ciúine	TAG=ADJ,TAG=GEN,TAG=SG,TAG=FEM
+ciúin	ciúine	TAG=ADJ,TAG=NOM,TAG=PL
+ciúin	chiúin	TAG=ADJ,TAG=VOC~GEN,TAG=SG,TAG=MASV
+ciúin	ciúin	TAG=ADJ,TAG=DAT,TAG=SG,TAG=MASC
+ciúin	ciúine	TAG=ADJ,TAG=DAT,TAG=PL
+ciúin	ciúin	TAG=ADJ,TAG=NOM,TAG=SG,TAG=MASC
+ciúin	ciúine	TAG=ADJ,TAG=GEN,TAG=PL,TAG=STRONG
+
+béal	béal	TAG=N,TAG=LEMMA
+béal	a bhéil	TAG=N,TAG=VOC,TAG=SG
+béal	béil	TAG=N,TAG=NOM,TAG=PL
+béal	béal	TAG=N,TAG=NOM,TAG=SG
+béal	béal	TAG=N,TAG=GEN,TAG=PL
+béal	an bhéil	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+béal	an béal	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+béal	leis an mbéal	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+béal	na béil	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+béal	béil	TAG=N,TAG=GEN,TAG=SG
+béal	béal	TAG=N,TAG=DAT,TAG=SG
+béal	a bhéala	TAG=N,TAG=VOC,TAG=PL
+béal	leis na béil	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+béal	béil	TAG=N,TAG=DAT,TAG=PL
+
+can	can	TAG=V,TAG=LEMMA
+can	chanfaimis	TAG=V,TAG=1,TAG=PL,TAG=COND
+can	cantar	TAG=V,TAG=AUTO,TAG=PRS,TAG=IND
+can	go gcanaimid	TAG=V,TAG=1,TAG=PL,TAG=SBJV,TAG=PRS
+can	dá gcanadh sibh	TAG=V,TAG=2,TAG=PL,TAG=SBJV,TAG=PST
+can	chan tú	TAG=V,TAG=2,TAG=SG,TAG=PST,TAG=IND
+can	canann siad	TAG=V,TAG=3,TAG=PL,TAG=PRS,TAG=IND
+can	canaim	TAG=V,TAG=1,TAG=SG,TAG=PRS,TAG=IND
+can	chanfaí	TAG=V,TAG=AUTO,TAG=COND
+can	go gcana sé	TAG=V,TAG=3,TAG=SG,TAG=SBJV,TAG=PRS
+can	canfar	TAG=V,TAG=AUTO,TAG=FUT,TAG=IND
+can	dá gcanainn	TAG=V,TAG=1,TAG=SG,TAG=SBJV,TAG=PST
+can	chan mé	TAG=V,TAG=1,TAG=SG,TAG=PST,TAG=IND
+can	chanfadh sibh	TAG=V,TAG=2,TAG=PL,TAG=COND
+can	a chanann	TAG=V,TAG=REL,TAG=PRS,TAG=IND
+can	dá gcantá	TAG=V,TAG=2~SG,TAG=SBJV,TAG=PST
+can	canfaidh sibh	TAG=V,TAG=2,TAG=PL,TAG=FUT,TAG=IND
+can	go gcana mé	TAG=V,TAG=1,TAG=SG,TAG=SBJV,TAG=PRS
+can	chan siad	TAG=V,TAG=3,TAG=PL,TAG=PST,TAG=IND
+can	canaidís	TAG=V,TAG=3,TAG=PL,TAG=IMP
+can	chanadh sibh	TAG=V,TAG=2,TAG=PL,TAG=PST,TAG=HAB,TAG=IND
+can	dá gcanadh sé	TAG=V,TAG=3,TAG=SG,TAG=SBJV,TAG=PST
+can	chanadh sé	TAG=V,TAG=3,TAG=SG,TAG=PST,TAG=HAB,TAG=IND
+can	dá gcanaidís	TAG=V,TAG=3,TAG=PL,TAG=SBJV,TAG=PST
+can	canfaidh siad	TAG=V,TAG=3,TAG=PL,TAG=FUT,TAG=IND
+can	canaimid	TAG=V,TAG=1,TAG=PL,TAG=PRS,TAG=IND
+can	can	TAG=V,TAG=2,TAG=SG,TAG=IMP
+can	dá gcanaimis	TAG=V,TAG=1,TAG=PL,TAG=SBJV,TAG=PST
+can	a chan	TAG=V,TAG=REL,TAG=PST,TAG=IND
+can	chanfá	TAG=V,TAG=2,TAG=SG,TAG=COND
+can	canfaimid	TAG=V,TAG=1,TAG=PL,TAG=FUT,TAG=IND
+can	chan sibh	TAG=V,TAG=2,TAG=PL,TAG=PST,TAG=IND
+can	chanfadh sé	TAG=V,TAG=3,TAG=SG,TAG=COND
+can	chantaí	TAG=V,TAG=AUTO,TAG=PST,TAG=HAB,TAG=IND
+can	canann tú	TAG=V,TAG=2,TAG=SG,TAG=PRS,TAG=IND
+can	canaigí	TAG=V,TAG=2,TAG=PL,TAG=IMP
+can	canaim	TAG=V,TAG=1,TAG=SG,TAG=IMP
+can	canfaidh mé	TAG=V,TAG=1,TAG=SG,TAG=FUT,TAG=IND
+can	dá gcantaí	TAG=V,TAG=AUTO,TAG=SBJV,TAG=PST
+can	canfaidh tú	TAG=V,TAG=2,TAG=SG,TAG=FUT,TAG=IND
+can	go gcana sibh	TAG=V,TAG=2,TAG=PL,TAG=SBJV,TAG=PRS
+can	chanfainn	TAG=V,TAG=1,TAG=SG,TAG=COND
+can	chanainn	TAG=V,TAG=1,TAG=SG,TAG=PST,TAG=HAB,TAG=IND
+can	chantá	TAG=V,TAG=2,TAG=SG,TAG=PST,TAG=HAB,TAG=IND
+can	chanamar	TAG=V,TAG=1,TAG=PL,TAG=PST,TAG=IND
+can	canadh	TAG=V,TAG=V.MSDR
+can	canann sibh	TAG=V,TAG=2,TAG=PL,TAG=PRS,TAG=IND
+can	go gcana tú	TAG=V,TAG=2~SG,TAG=SBJV,TAG=PRS
+can	cantar	TAG=V,TAG=AUTO,TAG=IMP
+can	chan sé	TAG=V,TAG=3,TAG=SG,TAG=PST,TAG=IND
+can	canadh	TAG=V,TAG=AUTO,TAG=PST,TAG=IND
+can	a chanfaidh	TAG=V,TAG=REL,TAG=FUT,TAG=IND
+can	chanfaidís	TAG=V,TAG=3,TAG=PL,TAG=COND
+can	go gcantar	TAG=V,TAG=AUTO,TAG=SBJV,TAG=PRS
+can	canta	TAG=V,TAG=V.PTCP,TAG=PST
+can	a chanadh	TAG=V,TAG=REL,TAG=PST,TAG=HAB,TAG=IND
+can	go gcana siad	TAG=V,TAG=3,TAG=PL,TAG=SBJV,TAG=PRS
+can	chanaidís	TAG=V,TAG=3,TAG=PL,TAG=PST,TAG=HAB,TAG=IND
+can	canaimis	TAG=V,TAG=1,TAG=PL,TAG=IMP
+can	chanaimis	TAG=V,TAG=1,TAG=PL,TAG=PST,TAG=HAB,TAG=IND
+can	canann sé	TAG=V,TAG=3,TAG=SG,TAG=PRS,TAG=IND
+can	a chanfadh	TAG=V,TAG=REL,TAG=COND
+can	canfaidh sé	TAG=V,TAG=3,TAG=SG,TAG=FUT,TAG=IND
+can	canadh sé	TAG=V,TAG=3,TAG=SG,TAG=IMP
+
+súil	súil	TAG=N,TAG=LEMMA
+súil	a shúil	TAG=N,TAG=VOC,TAG=SG
+súil	súile	TAG=N,TAG=NOM,TAG=PL
+súil	súil	TAG=N,TAG=NOM,TAG=SG
+súil	súl	TAG=N,TAG=GEN,TAG=PL
+súil	na súile	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+súil	an tsúil	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+súil	leis an tsúil	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+súil	na súile	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+súil	súile	TAG=N,TAG=GEN,TAG=SG
+súil	súil	TAG=N,TAG=DAT,TAG=SG
+súil	a shúile	TAG=N,TAG=VOC,TAG=PL
+súil	leis na súile	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+súil	súile	TAG=N,TAG=DAT,TAG=PL
+
+údar	údar	TAG=N,TAG=LEMMA
+údar	a údair	TAG=N,TAG=VOC,TAG=SG
+údar	údair	TAG=N,TAG=NOM,TAG=PL
+údar	údar	TAG=N,TAG=NOM,TAG=SG
+údar	údar	TAG=N,TAG=GEN,TAG=PL
+údar	an údair	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+údar	an t-údar	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+údar	leis an údar	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+údar	na húdair	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+údar	údair	TAG=N,TAG=GEN,TAG=SG
+údar	údar	TAG=N,TAG=DAT,TAG=SG
+údar	a údara	TAG=N,TAG=VOC,TAG=PL
+údar	leis na húdair	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+údar	údair	TAG=N,TAG=DAT,TAG=PL
+
+post	post	TAG=N,TAG=LEMMA
+post	a phoist	TAG=N,TAG=VOC,TAG=SG
+post	poist	TAG=N,TAG=NOM,TAG=PL
+post	post	TAG=N,TAG=NOM,TAG=SG
+post	post	TAG=N,TAG=GEN,TAG=PL
+post	an phoist	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+post	an post	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+post	leis an bpost	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+post	na poist	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+post	poist	TAG=N,TAG=GEN,TAG=SG
+post	post	TAG=N,TAG=DAT,TAG=SG
+post	a phosta	TAG=N,TAG=VOC,TAG=PL
+post	leis na poist	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+post	poist	TAG=N,TAG=DAT,TAG=PL
+
+craiceann	craiceann	TAG=N,TAG=LEMMA
+craiceann	a chraicinn	TAG=N,TAG=VOC,TAG=SG
+craiceann	craicne	TAG=N,TAG=NOM,TAG=PL
+craiceann	craiceann	TAG=N,TAG=NOM,TAG=SG
+craiceann	craicne	TAG=N,TAG=GEN,TAG=PL
+craiceann	an chraicinn	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+craiceann	an craiceann	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+craiceann	leis an gcraiceann	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+craiceann	na craicne	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+craiceann	craicinn	TAG=N,TAG=GEN,TAG=SG
+craiceann	craiceann	TAG=N,TAG=DAT,TAG=SG
+craiceann	a chraicne	TAG=N,TAG=VOC,TAG=PL
+craiceann	leis na craicne	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+craiceann	craicne	TAG=N,TAG=DAT,TAG=PL
+
+cluiche	cluiche	TAG=N,TAG=LEMMA
+cluiche	a chluiche	TAG=N,TAG=VOC,TAG=SG
+cluiche	cluichí	TAG=N,TAG=NOM,TAG=PL
+cluiche	cluiche	TAG=N,TAG=NOM,TAG=SG
+cluiche	cluichí	TAG=N,TAG=GEN,TAG=PL
+cluiche	an chluiche	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+cluiche	an cluiche	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+cluiche	leis an gcluiche	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+cluiche	na cluichí	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+cluiche	cluiche	TAG=N,TAG=GEN,TAG=SG
+cluiche	cluiche	TAG=N,TAG=DAT,TAG=SG
+cluiche	a chluichí	TAG=N,TAG=VOC,TAG=PL
+cluiche	leis na cluichí	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+cluiche	cluichí	TAG=N,TAG=DAT,TAG=PL
+
+saighdiúir	saighdiúir	TAG=N,TAG=LEMMA
+saighdiúir	a shaighdiúir	TAG=N,TAG=VOC,TAG=SG
+saighdiúir	saighdiúirí	TAG=N,TAG=NOM,TAG=PL
+saighdiúir	saighdiúir	TAG=N,TAG=NOM,TAG=SG
+saighdiúir	saighdiúirí	TAG=N,TAG=GEN,TAG=PL
+saighdiúir	an tsaighdiúra	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+saighdiúir	an saighdiúir	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+saighdiúir	leis an saighdiúir	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+saighdiúir	na saighdiúirí	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+saighdiúir	saighdiúra	TAG=N,TAG=GEN,TAG=SG
+saighdiúir	saighdiúir	TAG=N,TAG=DAT,TAG=SG
+saighdiúir	a shaighdiúirí	TAG=N,TAG=VOC,TAG=PL
+saighdiúir	leis na saighdiúirí	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+saighdiúir	saighdiúirí	TAG=N,TAG=DAT,TAG=PL
+
+pobal	pobal	TAG=N,TAG=LEMMA
+pobal	a phobail	TAG=N,TAG=VOC,TAG=SG
+pobal	pobail	TAG=N,TAG=NOM,TAG=PL
+pobal	pobal	TAG=N,TAG=NOM,TAG=SG
+pobal	pobal	TAG=N,TAG=GEN,TAG=PL
+pobal	an phobail	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+pobal	an pobal	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+pobal	leis an bpobal	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+pobal	na pobail	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+pobal	pobail	TAG=N,TAG=GEN,TAG=SG
+pobal	pobal	TAG=N,TAG=DAT,TAG=SG
+pobal	a phobala	TAG=N,TAG=VOC,TAG=PL
+pobal	leis na pobail	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+pobal	pobail	TAG=N,TAG=DAT,TAG=PL
+
+lár	lár	TAG=N,TAG=LEMMA
+lár	a láir	TAG=N,TAG=VOC,TAG=SG
+lár	láir	TAG=N,TAG=NOM,TAG=PL
+lár	lár	TAG=N,TAG=NOM,TAG=SG
+lár	lár	TAG=N,TAG=GEN,TAG=PL
+lár	an láir	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+lár	an lár	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+lár	leis an lár	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+lár	na láir	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+lár	láir	TAG=N,TAG=GEN,TAG=SG
+lár	lár	TAG=N,TAG=DAT,TAG=SG
+lár	a lára	TAG=N,TAG=VOC,TAG=PL
+lár	leis na láir	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+lár	láir	TAG=N,TAG=DAT,TAG=PL
+
+féile	féile	TAG=N,TAG=LEMMA
+féile	a fhéile	TAG=N,TAG=VOC,TAG=SG
+féile	féilte	TAG=N,TAG=NOM,TAG=PL
+féile	féile	TAG=N,TAG=NOM,TAG=SG
+féile	féilte	TAG=N,TAG=GEN,TAG=PL
+féile	na féile	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+féile	an fhéile	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+féile	leis an bhféile	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+féile	na féilte	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+féile	féile	TAG=N,TAG=GEN,TAG=SG
+féile	féile	TAG=N,TAG=DAT,TAG=SG
+féile	a fhéilte	TAG=N,TAG=VOC,TAG=PL
+féile	leis na féilte	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+féile	féilte	TAG=N,TAG=DAT,TAG=PL
+
+gnách	gnách	TAG=ADJ,TAG=LEMMA
+gnách	ghnách	TAG=ADJ,TAG=DAT,TAG=SG,TAG=FEM
+gnách	gnácha	TAG=ADJ,TAG=VOC,TAG=PL
+gnách	níos gnáiche	TAG=ADJ,TAG=CMPR
+gnách	is gnáiche	TAG=ADJ,TAG=SPRL
+gnách	ghnách	TAG=ADJ,TAG=NOM~VOC,TAG=SG,TAG=FEM
+gnách	gnách	TAG=ADJ,TAG=GEN,TAG=PL,TAG=WEAK
+gnách	gnáiche	TAG=ADJ,TAG=GEN,TAG=SG,TAG=FEM
+gnách	gnácha	TAG=ADJ,TAG=NOM,TAG=PL
+gnách	ghnách	TAG=ADJ,TAG=VOC~GEN,TAG=SG,TAG=MASV
+gnách	gnách	TAG=ADJ,TAG=DAT,TAG=SG,TAG=MASC
+gnách	gnácha	TAG=ADJ,TAG=DAT,TAG=PL
+gnách	gnách	TAG=ADJ,TAG=NOM,TAG=SG,TAG=MASC
+gnách	gnácha	TAG=ADJ,TAG=GEN,TAG=PL,TAG=STRONG
+
+crua	crua	TAG=ADJ,TAG=LEMMA
+crua	chrua	TAG=ADJ,TAG=DAT,TAG=SG,TAG=FEM
+crua	crua	TAG=ADJ,TAG=VOC,TAG=PL
+crua	níos crua	TAG=ADJ,TAG=CMPR
+crua	is crua	TAG=ADJ,TAG=SPRL
+crua	chrua	TAG=ADJ,TAG=NOM~VOC,TAG=SG,TAG=FEM
+crua	crua	TAG=ADJ,TAG=GEN,TAG=PL,TAG=WEAK
+crua	crua	TAG=ADJ,TAG=GEN,TAG=SG,TAG=FEM
+crua	crua	TAG=ADJ,TAG=NOM,TAG=PL
+crua	chrua	TAG=ADJ,TAG=VOC~GEN,TAG=SG,TAG=MASV
+crua	crua	TAG=ADJ,TAG=DAT,TAG=SG,TAG=MASC
+crua	crua	TAG=ADJ,TAG=DAT,TAG=PL
+crua	crua	TAG=ADJ,TAG=NOM,TAG=SG,TAG=MASC
+crua	crua	TAG=ADJ,TAG=GEN,TAG=PL,TAG=STRONG
+
+urchar	urchar	TAG=N,TAG=LEMMA
+urchar	a urchair	TAG=N,TAG=VOC,TAG=SG
+urchar	urchair	TAG=N,TAG=NOM,TAG=PL
+urchar	urchar	TAG=N,TAG=NOM,TAG=SG
+urchar	urchar	TAG=N,TAG=GEN,TAG=PL
+urchar	an urchair	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+urchar	an t-urchar	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+urchar	leis an urchar	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+urchar	na hurchair	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+urchar	urchair	TAG=N,TAG=GEN,TAG=SG
+urchar	urchar	TAG=N,TAG=DAT,TAG=SG
+urchar	a urchara	TAG=N,TAG=VOC,TAG=PL
+urchar	leis na hurchair	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+urchar	urchair	TAG=N,TAG=DAT,TAG=PL
+
+Rómhánach	Rómhánach	TAG=N,TAG=LEMMA
+Rómhánach	a Rómhánaigh	TAG=N,TAG=VOC,TAG=SG
+Rómhánach	Rómhánaigh	TAG=N,TAG=NOM,TAG=PL
+Rómhánach	Rómhánach	TAG=N,TAG=NOM,TAG=SG
+Rómhánach	Rómhánach	TAG=N,TAG=GEN,TAG=PL
+Rómhánach	an Rómhánaigh	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+Rómhánach	an Rómhánach	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+Rómhánach	leis an Rómhánach	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+Rómhánach	na Rómhánaigh	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+Rómhánach	Rómhánaigh	TAG=N,TAG=GEN,TAG=SG
+Rómhánach	Rómhánach	TAG=N,TAG=DAT,TAG=SG
+Rómhánach	a Rómhánacha	TAG=N,TAG=VOC,TAG=PL
+Rómhánach	leis na Rómhánaigh	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+Rómhánach	Rómhánaigh	TAG=N,TAG=DAT,TAG=PL
+
+saibhir	saibhir	TAG=ADJ,TAG=LEMMA
+saibhir	shaibhir	TAG=ADJ,TAG=DAT,TAG=SG,TAG=FEM
+saibhir	saibhre	TAG=ADJ,TAG=VOC,TAG=PL
+saibhir	níos saibhre	TAG=ADJ,TAG=CMPR
+saibhir	is saibhre	TAG=ADJ,TAG=SPRL
+saibhir	shaibhir	TAG=ADJ,TAG=NOM~VOC,TAG=SG,TAG=FEM
+saibhir	saibhir	TAG=ADJ,TAG=GEN,TAG=PL,TAG=WEAK
+saibhir	saibhre	TAG=ADJ,TAG=GEN,TAG=SG,TAG=FEM
+saibhir	saibhre	TAG=ADJ,TAG=NOM,TAG=PL
+saibhir	shaibhir	TAG=ADJ,TAG=VOC~GEN,TAG=SG,TAG=MASV
+saibhir	saibhir	TAG=ADJ,TAG=DAT,TAG=SG,TAG=MASC
+saibhir	saibhre	TAG=ADJ,TAG=DAT,TAG=PL
+saibhir	saibhir	TAG=ADJ,TAG=NOM,TAG=SG,TAG=MASC
+saibhir	saibhre	TAG=ADJ,TAG=GEN,TAG=PL,TAG=STRONG
+
+máthair	máthair	TAG=N,TAG=LEMMA
+máthair	a mháthair	TAG=N,TAG=VOC,TAG=SG
+máthair	máithreacha	TAG=N,TAG=NOM,TAG=PL
+máthair	máthair	TAG=N,TAG=NOM,TAG=SG
+máthair	máithreacha	TAG=N,TAG=GEN,TAG=PL
+máthair	na máthar	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+máthair	an mháthair	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+máthair	leis an máthair	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+máthair	na máithreacha	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+máthair	máthar	TAG=N,TAG=GEN,TAG=SG
+máthair	máthair	TAG=N,TAG=DAT,TAG=SG
+máthair	a mháithreacha	TAG=N,TAG=VOC,TAG=PL
+máthair	leis na máithreacha	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+máthair	máithreacha	TAG=N,TAG=DAT,TAG=PL
+
+clár	clár	TAG=N,TAG=LEMMA
+clár	a chláir	TAG=N,TAG=VOC,TAG=SG
+clár	cláir	TAG=N,TAG=NOM,TAG=PL
+clár	clár	TAG=N,TAG=NOM,TAG=SG
+clár	clár	TAG=N,TAG=GEN,TAG=PL
+clár	an chláir	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+clár	an clár	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+clár	leis an gclár	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+clár	na cláir	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+clár	cláir	TAG=N,TAG=GEN,TAG=SG
+clár	clár	TAG=N,TAG=DAT,TAG=SG
+clár	a chlára	TAG=N,TAG=VOC,TAG=PL
+clár	leis na cláir	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+clár	cláir	TAG=N,TAG=DAT,TAG=PL
+
+siúl	siúl	TAG=N,TAG=LEMMA
+siúl	a shiúil	TAG=N,TAG=VOC,TAG=SG
+siúl	siúlta	TAG=N,TAG=NOM,TAG=PL
+siúl	siúl	TAG=N,TAG=NOM,TAG=SG
+siúl	siúlta	TAG=N,TAG=GEN,TAG=PL
+siúl	an tsiúil	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+siúl	an siúl	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+siúl	leis an siúl	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+siúl	na siúlta	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+siúl	siúil	TAG=N,TAG=GEN,TAG=SG
+siúl	siúl	TAG=N,TAG=DAT,TAG=SG
+siúl	a shiúlta	TAG=N,TAG=VOC,TAG=PL
+siúl	leis na siúlta	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+siúl	siúlta	TAG=N,TAG=DAT,TAG=PL
+
+núicléas	núicléas	TAG=N,TAG=LEMMA
+núicléas	a núicléis	TAG=N,TAG=VOC,TAG=SG
+núicléas	núicléis	TAG=N,TAG=NOM,TAG=PL
+núicléas	núicléas	TAG=N,TAG=NOM,TAG=SG
+núicléas	núicléas	TAG=N,TAG=GEN,TAG=PL
+núicléas	an núicléis	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+núicléas	an núicléas	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+núicléas	leis an núicléas	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+núicléas	na núicléis	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+núicléas	núicléis	TAG=N,TAG=GEN,TAG=SG
+núicléas	núicléas	TAG=N,TAG=DAT,TAG=SG
+núicléas	a núicléasa	TAG=N,TAG=VOC,TAG=PL
+núicléas	leis na núicléis	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+núicléas	núicléis	TAG=N,TAG=DAT,TAG=PL
+
+stáisiún	stáisiún	TAG=N,TAG=LEMMA
+stáisiún	a stáisiúin	TAG=N,TAG=VOC,TAG=SG
+stáisiún	stáisiúin	TAG=N,TAG=NOM,TAG=PL
+stáisiún	stáisiún	TAG=N,TAG=NOM,TAG=SG
+stáisiún	stáisiún	TAG=N,TAG=GEN,TAG=PL
+stáisiún	an stáisiúin	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+stáisiún	an stáisiún	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+stáisiún	leis an stáisiún	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+stáisiún	na stáisiúin	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+stáisiún	stáisiúin	TAG=N,TAG=GEN,TAG=SG
+stáisiún	stáisiún	TAG=N,TAG=DAT,TAG=SG
+stáisiún	a stáisiúna	TAG=N,TAG=VOC,TAG=PL
+stáisiún	leis na stáisiúin	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+stáisiún	stáisiúin	TAG=N,TAG=DAT,TAG=PL
+
+leathré	leathré	TAG=N,TAG=LEMMA
+leathré	a leathré	TAG=N,TAG=VOC,TAG=SG
+leathré	leathréanna	TAG=N,TAG=NOM,TAG=PL
+leathré	leathré	TAG=N,TAG=NOM,TAG=SG
+leathré	leathréanna	TAG=N,TAG=GEN,TAG=PL
+leathré	na leathré	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+leathré	an leathré	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+leathré	leis an leathré	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+leathré	na leathréanna	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+leathré	leathré	TAG=N,TAG=GEN,TAG=SG
+leathré	leathré	TAG=N,TAG=DAT,TAG=SG
+leathré	a leathréanna	TAG=N,TAG=VOC,TAG=PL
+leathré	leis na leathréanna	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+leathré	leathréanna	TAG=N,TAG=DAT,TAG=PL
+
+veidhlín	veidhlín	TAG=N,TAG=LEMMA
+veidhlín	a veidhlín	TAG=N,TAG=VOC,TAG=SG
+veidhlín	veidhlíní	TAG=N,TAG=NOM,TAG=PL
+veidhlín	veidhlín	TAG=N,TAG=NOM,TAG=SG
+veidhlín	veidhlíní	TAG=N,TAG=GEN,TAG=PL
+veidhlín	an veidhlín	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+veidhlín	an veidhlín	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+veidhlín	leis an veidhlín	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+veidhlín	na veidhlíní	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+veidhlín	veidhlín	TAG=N,TAG=GEN,TAG=SG
+veidhlín	veidhlín	TAG=N,TAG=DAT,TAG=SG
+veidhlín	a veidhlíní	TAG=N,TAG=VOC,TAG=PL
+veidhlín	leis na veidhlíní	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+veidhlín	veidhlíní	TAG=N,TAG=DAT,TAG=PL
+
+Domhnach	Domhnach	TAG=N,TAG=LEMMA
+Domhnach	a Dhomhnaigh	TAG=N,TAG=VOC,TAG=SG
+Domhnach	Domhnaí	TAG=N,TAG=NOM,TAG=PL
+Domhnach	Domhnach	TAG=N,TAG=NOM,TAG=SG
+Domhnach	Domhnaí	TAG=N,TAG=GEN,TAG=PL
+Domhnach	an Domhnaigh	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+Domhnach	an Domhnach	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+Domhnach	leis an Domhnach	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+Domhnach	na Domhnaí	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+Domhnach	Domhnaigh	TAG=N,TAG=GEN,TAG=SG
+Domhnach	Domhnach	TAG=N,TAG=DAT,TAG=SG
+Domhnach	a Dhomhnaí	TAG=N,TAG=VOC,TAG=PL
+Domhnach	leis na Domhnaí	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+Domhnach	Domhnaí	TAG=N,TAG=DAT,TAG=PL
+
+móilín	móilín	TAG=N,TAG=LEMMA
+móilín	a mhóilín	TAG=N,TAG=VOC,TAG=SG
+móilín	móilíní	TAG=N,TAG=NOM,TAG=PL
+móilín	móilín	TAG=N,TAG=NOM,TAG=SG
+móilín	móilíní	TAG=N,TAG=GEN,TAG=PL
+móilín	an mhóilín	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+móilín	an móilín	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+móilín	leis an móilín	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+móilín	na móilíní	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+móilín	móilín	TAG=N,TAG=GEN,TAG=SG
+móilín	móilín	TAG=N,TAG=DAT,TAG=SG
+móilín	a mhóilíní	TAG=N,TAG=VOC,TAG=PL
+móilín	leis na móilíní	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+móilín	móilíní	TAG=N,TAG=DAT,TAG=PL
+
+artaire	artaire	TAG=N,TAG=LEMMA
+artaire	a artaire	TAG=N,TAG=VOC,TAG=SG
+artaire	artairí	TAG=N,TAG=NOM,TAG=PL
+artaire	artaire	TAG=N,TAG=NOM,TAG=SG
+artaire	artairí	TAG=N,TAG=GEN,TAG=PL
+artaire	an artaire	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+artaire	an t-artaire	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+artaire	leis an artaire	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+artaire	na hartairí	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+artaire	artaire	TAG=N,TAG=GEN,TAG=SG
+artaire	artaire	TAG=N,TAG=DAT,TAG=SG
+artaire	a artairí	TAG=N,TAG=VOC,TAG=PL
+artaire	leis na hartairí	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+artaire	artairí	TAG=N,TAG=DAT,TAG=PL
+
+aonteangach	aonteangach	TAG=N,TAG=LEMMA
+aonteangach	a aonteangaigh	TAG=N,TAG=VOC,TAG=SG
+aonteangach	aonteangaigh	TAG=N,TAG=NOM,TAG=PL
+aonteangach	aonteangach	TAG=N,TAG=NOM,TAG=SG
+aonteangach	aonteangach	TAG=N,TAG=GEN,TAG=PL
+aonteangach	an aonteangaigh	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+aonteangach	an t-aonteangach	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+aonteangach	leis an aonteangach	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+aonteangach	na haonteangaigh	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+aonteangach	aonteangaigh	TAG=N,TAG=GEN,TAG=SG
+aonteangach	aonteangach	TAG=N,TAG=DAT,TAG=SG
+aonteangach	a aonteangacha	TAG=N,TAG=VOC,TAG=PL
+aonteangach	leis na haonteangaigh	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+aonteangach	aonteangaigh	TAG=N,TAG=DAT,TAG=PL
+
+moladh	moladh	TAG=N,TAG=LEMMA
+moladh	a mholadh	TAG=N,TAG=VOC,TAG=SG
+moladh	moltaí	TAG=N,TAG=NOM,TAG=PL
+moladh	moladh	TAG=N,TAG=NOM,TAG=SG
+moladh	moltaí	TAG=N,TAG=GEN,TAG=PL
+moladh	an mholta	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+moladh	an moladh	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+moladh	leis an moladh	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+moladh	na moltaí	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+moladh	molta	TAG=N,TAG=GEN,TAG=SG
+moladh	moladh	TAG=N,TAG=DAT,TAG=SG
+moladh	a mholtaí	TAG=N,TAG=VOC,TAG=PL
+moladh	leis na moltaí	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+moladh	moltaí	TAG=N,TAG=DAT,TAG=PL
+
+barúntacht	barúntacht	TAG=N,TAG=LEMMA
+barúntacht	a bharúntacht	TAG=N,TAG=VOC,TAG=SG
+barúntacht	barúntachtaí	TAG=N,TAG=NOM,TAG=PL
+barúntacht	barúntacht	TAG=N,TAG=NOM,TAG=SG
+barúntacht	barúntachtaí	TAG=N,TAG=GEN,TAG=PL
+barúntacht	na barúntachta	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+barúntacht	an bharúntacht	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+barúntacht	leis an mbarúntacht	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+barúntacht	na barúntachtaí	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+barúntacht	barúntachta	TAG=N,TAG=GEN,TAG=SG
+barúntacht	barúntacht	TAG=N,TAG=DAT,TAG=SG
+barúntacht	a bharúntachtaí	TAG=N,TAG=VOC,TAG=PL
+barúntacht	leis na barúntachtaí	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+barúntacht	barúntachtaí	TAG=N,TAG=DAT,TAG=PL
+
+gás	gás	TAG=N,TAG=LEMMA
+gás	a gháis	TAG=N,TAG=VOC,TAG=SG
+gás	gáis	TAG=N,TAG=NOM,TAG=PL
+gás	gás	TAG=N,TAG=NOM,TAG=SG
+gás	gás	TAG=N,TAG=GEN,TAG=PL
+gás	an gháis	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+gás	an gás	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+gás	leis an ngás	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+gás	na gáis	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+gás	gáis	TAG=N,TAG=GEN,TAG=SG
+gás	gás	TAG=N,TAG=DAT,TAG=SG
+gás	a ghása	TAG=N,TAG=VOC,TAG=PL
+gás	leis na gáis	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+gás	gáis	TAG=N,TAG=DAT,TAG=PL
+
+gairid	gairid	TAG=ADJ,TAG=LEMMA
+gairid	ghairid	TAG=ADJ,TAG=DAT,TAG=SG,TAG=FEM
+gairid	gairide	TAG=ADJ,TAG=VOC,TAG=PL
+gairid	níos gairide	TAG=ADJ,TAG=CMPR
+gairid	is gairide	TAG=ADJ,TAG=SPRL
+gairid	ghairid	TAG=ADJ,TAG=NOM~VOC,TAG=SG,TAG=FEM
+gairid	gairid	TAG=ADJ,TAG=GEN,TAG=PL,TAG=WEAK
+gairid	gairide	TAG=ADJ,TAG=GEN,TAG=SG,TAG=FEM
+gairid	gairide	TAG=ADJ,TAG=NOM,TAG=PL
+gairid	ghairid	TAG=ADJ,TAG=VOC~GEN,TAG=SG,TAG=MASV
+gairid	gairid	TAG=ADJ,TAG=DAT,TAG=SG,TAG=MASC
+gairid	gairide	TAG=ADJ,TAG=DAT,TAG=PL
+gairid	gairid	TAG=ADJ,TAG=NOM,TAG=SG,TAG=MASC
+gairid	gairide	TAG=ADJ,TAG=GEN,TAG=PL,TAG=STRONG
+
+deisceartach	deisceartach	TAG=N,TAG=LEMMA
+deisceartach	a dheisceartaigh	TAG=N,TAG=VOC,TAG=SG
+deisceartach	deisceartaigh	TAG=N,TAG=NOM,TAG=PL
+deisceartach	deisceartach	TAG=N,TAG=NOM,TAG=SG
+deisceartach	deisceartach	TAG=N,TAG=GEN,TAG=PL
+deisceartach	an deisceartaigh	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+deisceartach	an deisceartach	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+deisceartach	leis an deisceartach	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+deisceartach	na deisceartaigh	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+deisceartach	deisceartaigh	TAG=N,TAG=GEN,TAG=SG
+deisceartach	deisceartach	TAG=N,TAG=DAT,TAG=SG
+deisceartach	a dheisceartacha	TAG=N,TAG=VOC,TAG=PL
+deisceartach	leis na deisceartaigh	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+deisceartach	deisceartaigh	TAG=N,TAG=DAT,TAG=PL
+
+spreag	spreag	TAG=V,TAG=LEMMA
+spreag	spreagfaimis	TAG=V,TAG=1,TAG=PL,TAG=COND
+spreag	spreagtar	TAG=V,TAG=AUTO,TAG=PRS,TAG=IND
+spreag	go spreagaimid	TAG=V,TAG=1,TAG=PL,TAG=SBJV,TAG=PRS
+spreag	dá spreagadh sibh	TAG=V,TAG=2,TAG=PL,TAG=SBJV,TAG=PST
+spreag	spreag tú	TAG=V,TAG=2,TAG=SG,TAG=PST,TAG=IND
+spreag	spreagann siad	TAG=V,TAG=3,TAG=PL,TAG=PRS,TAG=IND
+spreag	spreagaim	TAG=V,TAG=1,TAG=SG,TAG=PRS,TAG=IND
+spreag	spreagfaí	TAG=V,TAG=AUTO,TAG=COND
+spreag	go spreaga sé	TAG=V,TAG=3,TAG=SG,TAG=SBJV,TAG=PRS
+spreag	spreagfar	TAG=V,TAG=AUTO,TAG=FUT,TAG=IND
+spreag	dá spreagainn	TAG=V,TAG=1,TAG=SG,TAG=SBJV,TAG=PST
+spreag	spreag mé	TAG=V,TAG=1,TAG=SG,TAG=PST,TAG=IND
+spreag	spreagfadh sibh	TAG=V,TAG=2,TAG=PL,TAG=COND
+spreag	a spreagann	TAG=V,TAG=REL,TAG=PRS,TAG=IND
+spreag	dá spreagtá	TAG=V,TAG=2~SG,TAG=SBJV,TAG=PST
+spreag	spreagfaidh sibh	TAG=V,TAG=2,TAG=PL,TAG=FUT,TAG=IND
+spreag	go spreaga mé	TAG=V,TAG=1,TAG=SG,TAG=SBJV,TAG=PRS
+spreag	spreag siad	TAG=V,TAG=3,TAG=PL,TAG=PST,TAG=IND
+spreag	spreagaidís	TAG=V,TAG=3,TAG=PL,TAG=IMP
+spreag	spreagadh sibh	TAG=V,TAG=2,TAG=PL,TAG=PST,TAG=HAB,TAG=IND
+spreag	dá spreagadh sé	TAG=V,TAG=3,TAG=SG,TAG=SBJV,TAG=PST
+spreag	spreagadh sé	TAG=V,TAG=3,TAG=SG,TAG=PST,TAG=HAB,TAG=IND
+spreag	dá spreagaidís	TAG=V,TAG=3,TAG=PL,TAG=SBJV,TAG=PST
+spreag	spreagfaidh siad	TAG=V,TAG=3,TAG=PL,TAG=FUT,TAG=IND
+spreag	spreagaimid	TAG=V,TAG=1,TAG=PL,TAG=PRS,TAG=IND
+spreag	spreag	TAG=V,TAG=2,TAG=SG,TAG=IMP
+spreag	dá spreagaimis	TAG=V,TAG=1,TAG=PL,TAG=SBJV,TAG=PST
+spreag	a spreag	TAG=V,TAG=REL,TAG=PST,TAG=IND
+spreag	spreagfá	TAG=V,TAG=2,TAG=SG,TAG=COND
+spreag	spreagfaimid	TAG=V,TAG=1,TAG=PL,TAG=FUT,TAG=IND
+spreag	spreag sibh	TAG=V,TAG=2,TAG=PL,TAG=PST,TAG=IND
+spreag	spreagfadh sé	TAG=V,TAG=3,TAG=SG,TAG=COND
+spreag	spreagtaí	TAG=V,TAG=AUTO,TAG=PST,TAG=HAB,TAG=IND
+spreag	spreagann tú	TAG=V,TAG=2,TAG=SG,TAG=PRS,TAG=IND
+spreag	spreagaigí	TAG=V,TAG=2,TAG=PL,TAG=IMP
+spreag	spreagaim	TAG=V,TAG=1,TAG=SG,TAG=IMP
+spreag	spreagfaidh mé	TAG=V,TAG=1,TAG=SG,TAG=FUT,TAG=IND
+spreag	dá spreagtaí	TAG=V,TAG=AUTO,TAG=SBJV,TAG=PST
+spreag	spreagfaidh tú	TAG=V,TAG=2,TAG=SG,TAG=FUT,TAG=IND
+spreag	go spreaga sibh	TAG=V,TAG=2,TAG=PL,TAG=SBJV,TAG=PRS
+spreag	spreagfainn	TAG=V,TAG=1,TAG=SG,TAG=COND
+spreag	spreagainn	TAG=V,TAG=1,TAG=SG,TAG=PST,TAG=HAB,TAG=IND
+spreag	spreagtá	TAG=V,TAG=2,TAG=SG,TAG=PST,TAG=HAB,TAG=IND
+spreag	spreagamar	TAG=V,TAG=1,TAG=PL,TAG=PST,TAG=IND
+spreag	spreagadh	TAG=V,TAG=V.MSDR
+spreag	spreagann sibh	TAG=V,TAG=2,TAG=PL,TAG=PRS,TAG=IND
+spreag	go spreaga tú	TAG=V,TAG=2~SG,TAG=SBJV,TAG=PRS
+spreag	spreagtar	TAG=V,TAG=AUTO,TAG=IMP
+spreag	spreag sé	TAG=V,TAG=3,TAG=SG,TAG=PST,TAG=IND
+spreag	spreagadh	TAG=V,TAG=AUTO,TAG=PST,TAG=IND
+spreag	a spreagfaidh	TAG=V,TAG=REL,TAG=FUT,TAG=IND
+spreag	spreagfaidís	TAG=V,TAG=3,TAG=PL,TAG=COND
+spreag	go spreagtar	TAG=V,TAG=AUTO,TAG=SBJV,TAG=PRS
+spreag	spreagtha	TAG=V,TAG=V.PTCP,TAG=PST
+spreag	a spreagadh	TAG=V,TAG=REL,TAG=PST,TAG=HAB,TAG=IND
+spreag	go spreaga siad	TAG=V,TAG=3,TAG=PL,TAG=SBJV,TAG=PRS
+spreag	spreagaidís	TAG=V,TAG=3,TAG=PL,TAG=PST,TAG=HAB,TAG=IND
+spreag	spreagaimis	TAG=V,TAG=1,TAG=PL,TAG=IMP
+spreag	spreagaimis	TAG=V,TAG=1,TAG=PL,TAG=PST,TAG=HAB,TAG=IND
+spreag	spreagann sé	TAG=V,TAG=3,TAG=SG,TAG=PRS,TAG=IND
+spreag	a spreagfadh	TAG=V,TAG=REL,TAG=COND
+spreag	spreagfaidh sé	TAG=V,TAG=3,TAG=SG,TAG=FUT,TAG=IND
+spreag	spreagadh sé	TAG=V,TAG=3,TAG=SG,TAG=IMP
+
+ochtó	ochtó	TAG=N,TAG=LEMMA
+ochtó	a ochtó	TAG=N,TAG=VOC,TAG=SG
+ochtó	ochtóidí	TAG=N,TAG=NOM,TAG=PL
+ochtó	ochtó	TAG=N,TAG=NOM,TAG=SG
+ochtó	ochtóidí	TAG=N,TAG=GEN,TAG=PL
+ochtó	an ochtód	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+ochtó	an t-ochtó	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+ochtó	leis an ochtó	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+ochtó	na hochtóidí	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+ochtó	ochtód	TAG=N,TAG=GEN,TAG=SG
+ochtó	ochtó	TAG=N,TAG=DAT,TAG=SG
+ochtó	a ochtóidí	TAG=N,TAG=VOC,TAG=PL
+ochtó	leis na hochtóidí	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+ochtó	ochtóidí	TAG=N,TAG=DAT,TAG=PL
+
+beagán	beagán	TAG=N,TAG=LEMMA
+beagán	a bheagáin	TAG=N,TAG=VOC,TAG=SG
+beagán	beagáin	TAG=N,TAG=NOM,TAG=PL
+beagán	beagán	TAG=N,TAG=NOM,TAG=SG
+beagán	beagán	TAG=N,TAG=GEN,TAG=PL
+beagán	an bheagáin	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+beagán	an beagán	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+beagán	leis an mbeagán	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+beagán	na beagáin	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+beagán	beagáin	TAG=N,TAG=GEN,TAG=SG
+beagán	beagán	TAG=N,TAG=DAT,TAG=SG
+beagán	a bheagána	TAG=N,TAG=VOC,TAG=PL
+beagán	leis na beagáin	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+beagán	beagáin	TAG=N,TAG=DAT,TAG=PL
+
+bunreacht	bunreacht	TAG=N,TAG=LEMMA
+bunreacht	a bhunreacht	TAG=N,TAG=VOC,TAG=SG
+bunreacht	bunreachtanna	TAG=N,TAG=NOM,TAG=PL
+bunreacht	bunreacht	TAG=N,TAG=NOM,TAG=SG
+bunreacht	bunreachtanna	TAG=N,TAG=GEN,TAG=PL
+bunreacht	an bhunreachta	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+bunreacht	an bunreacht	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+bunreacht	leis an mbunreacht	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+bunreacht	na bunreachtanna	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+bunreacht	bunreachta	TAG=N,TAG=GEN,TAG=SG
+bunreacht	bunreacht	TAG=N,TAG=DAT,TAG=SG
+bunreacht	a bhunreachtanna	TAG=N,TAG=VOC,TAG=PL
+bunreacht	leis na bunreachtanna	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+bunreacht	bunreachtanna	TAG=N,TAG=DAT,TAG=PL
+
+Samhain	Samhain	TAG=N,TAG=LEMMA
+Samhain	a Shamhain	TAG=N,TAG=VOC,TAG=SG
+Samhain	Samhnacha	TAG=N,TAG=NOM,TAG=PL
+Samhain	Samhain	TAG=N,TAG=NOM,TAG=SG
+Samhain	Samhnacha	TAG=N,TAG=GEN,TAG=PL
+Samhain	na Samhna	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+Samhain	an tSamhain	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+Samhain	leis an tSamhain	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+Samhain	na Samhnacha	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+Samhain	Samhna	TAG=N,TAG=GEN,TAG=SG
+Samhain	Samhain	TAG=N,TAG=DAT,TAG=SG
+Samhain	a Shamhnacha	TAG=N,TAG=VOC,TAG=PL
+Samhain	leis na Samhnacha	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+Samhain	Samhnacha	TAG=N,TAG=DAT,TAG=PL
+
+réaltra	réaltra	TAG=N,TAG=LEMMA
+réaltra	a réaltra	TAG=N,TAG=VOC,TAG=SG
+réaltra	réaltraí	TAG=N,TAG=NOM,TAG=PL
+réaltra	réaltra	TAG=N,TAG=NOM,TAG=SG
+réaltra	réaltraí	TAG=N,TAG=GEN,TAG=PL
+réaltra	na réaltra	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+réaltra	an réaltra	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+réaltra	leis an réaltra	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+réaltra	na réaltraí	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+réaltra	réaltra	TAG=N,TAG=GEN,TAG=SG
+réaltra	réaltra	TAG=N,TAG=DAT,TAG=SG
+réaltra	a réaltraí	TAG=N,TAG=VOC,TAG=PL
+réaltra	leis na réaltraí	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+réaltra	réaltraí	TAG=N,TAG=DAT,TAG=PL
+
+trácht	trácht	TAG=N,TAG=LEMMA
+trácht	a thrácht	TAG=N,TAG=VOC,TAG=SG
+trácht	tráchtanna	TAG=N,TAG=NOM,TAG=PL
+trácht	trácht	TAG=N,TAG=NOM,TAG=SG
+trácht	tráchtanna	TAG=N,TAG=GEN,TAG=PL
+trácht	an tráchta	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+trácht	an trácht	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+trácht	leis an trácht	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+trácht	na tráchtanna	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+trácht	tráchta	TAG=N,TAG=GEN,TAG=SG
+trácht	trácht	TAG=N,TAG=DAT,TAG=SG
+trácht	a thráchtanna	TAG=N,TAG=VOC,TAG=PL
+trácht	leis na tráchtanna	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+trácht	tráchtanna	TAG=N,TAG=DAT,TAG=PL
+
+eipeasóid	eipeasóid	TAG=N,TAG=LEMMA
+eipeasóid	a eipeasóid	TAG=N,TAG=VOC,TAG=SG
+eipeasóid	eipeasóidí	TAG=N,TAG=NOM,TAG=PL
+eipeasóid	eipeasóid	TAG=N,TAG=NOM,TAG=SG
+eipeasóid	eipeasóidí	TAG=N,TAG=GEN,TAG=PL
+eipeasóid	na heipeasóide	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+eipeasóid	an eipeasóid	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+eipeasóid	leis an eipeasóid	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+eipeasóid	na heipeasóidí	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+eipeasóid	eipeasóide	TAG=N,TAG=GEN,TAG=SG
+eipeasóid	eipeasóid	TAG=N,TAG=DAT,TAG=SG
+eipeasóid	a eipeasóidí	TAG=N,TAG=VOC,TAG=PL
+eipeasóid	leis na heipeasóidí	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+eipeasóid	eipeasóidí	TAG=N,TAG=DAT,TAG=PL
+
+briseadh	briseadh	TAG=N,TAG=LEMMA
+briseadh	a bhriseadh	TAG=N,TAG=VOC,TAG=SG
+briseadh	bristeacha	TAG=N,TAG=NOM,TAG=PL
+briseadh	briseadh	TAG=N,TAG=NOM,TAG=SG
+briseadh	bristeacha	TAG=N,TAG=GEN,TAG=PL
+briseadh	an bhriste	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+briseadh	an briseadh	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+briseadh	leis an mbriseadh	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+briseadh	na bristeacha	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+briseadh	briste	TAG=N,TAG=GEN,TAG=SG
+briseadh	briseadh	TAG=N,TAG=DAT,TAG=SG
+briseadh	a bhristeacha	TAG=N,TAG=VOC,TAG=PL
+briseadh	leis na bristeacha	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+briseadh	bristeacha	TAG=N,TAG=DAT,TAG=PL
+
+brac	brac	TAG=N,TAG=LEMMA
+brac	a bhraic	TAG=N,TAG=VOC,TAG=SG
+brac	bracanna	TAG=N,TAG=NOM,TAG=PL
+brac	brac	TAG=N,TAG=NOM,TAG=SG
+brac	bracanna	TAG=N,TAG=GEN,TAG=PL
+brac	an bhraic	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+brac	an brac	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+brac	leis an mbrac	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+brac	na bracanna	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+brac	braic	TAG=N,TAG=GEN,TAG=SG
+brac	brac	TAG=N,TAG=DAT,TAG=SG
+brac	a bhracanna	TAG=N,TAG=VOC,TAG=PL
+brac	leis na bracanna	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+brac	bracanna	TAG=N,TAG=DAT,TAG=PL
+
+fear	fear	TAG=N,TAG=LEMMA
+fear	a fhir	TAG=N,TAG=VOC,TAG=SG
+fear	fir	TAG=N,TAG=NOM,TAG=PL
+fear	fear	TAG=N,TAG=NOM,TAG=SG
+fear	fear	TAG=N,TAG=GEN,TAG=PL
+fear	an fhir	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+fear	an fear	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+fear	leis an bhfear	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+fear	na fir	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+fear	fir	TAG=N,TAG=GEN,TAG=SG
+fear	fear	TAG=N,TAG=DAT,TAG=SG
+fear	a fheara	TAG=N,TAG=VOC,TAG=PL
+fear	leis na fir	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+fear	fir	TAG=N,TAG=DAT,TAG=PL
+
+reilig	reilig	TAG=N,TAG=LEMMA
+reilig	a reilig	TAG=N,TAG=VOC,TAG=SG
+reilig	reiligí	TAG=N,TAG=NOM,TAG=PL
+reilig	reilig	TAG=N,TAG=NOM,TAG=SG
+reilig	reiligí	TAG=N,TAG=GEN,TAG=PL
+reilig	na reilige	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+reilig	an reilig	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+reilig	leis an reilig	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+reilig	na reiligí	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+reilig	reilige	TAG=N,TAG=GEN,TAG=SG
+reilig	reilig	TAG=N,TAG=DAT,TAG=SG
+reilig	a reiligí	TAG=N,TAG=VOC,TAG=PL
+reilig	leis na reiligí	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+reilig	reiligí	TAG=N,TAG=DAT,TAG=PL
+
+láthair	láthair	TAG=N,TAG=LEMMA
+láthair	a láthair	TAG=N,TAG=VOC,TAG=SG
+láthair	láithreacha	TAG=N,TAG=NOM,TAG=PL
+láthair	láthair	TAG=N,TAG=NOM,TAG=SG
+láthair	láithreacha	TAG=N,TAG=GEN,TAG=PL
+láthair	na láithreach	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+láthair	an láthair	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+láthair	leis an láthair	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+láthair	na láithreacha	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+láthair	láithreach	TAG=N,TAG=GEN,TAG=SG
+láthair	láthair	TAG=N,TAG=DAT,TAG=SG
+láthair	a láithreacha	TAG=N,TAG=VOC,TAG=PL
+láthair	leis na láithreacha	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+láthair	láithreacha	TAG=N,TAG=DAT,TAG=PL
+
+bua	bua	TAG=N,TAG=LEMMA
+bua	a bhua	TAG=N,TAG=VOC,TAG=SG
+bua	buanna	TAG=N,TAG=NOM,TAG=PL
+bua	bua	TAG=N,TAG=NOM,TAG=SG
+bua	buanna	TAG=N,TAG=GEN,TAG=PL
+bua	an bhua	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+bua	an bua	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+bua	leis an mbua	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+bua	na buanna	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+bua	bua	TAG=N,TAG=GEN,TAG=SG
+bua	bua	TAG=N,TAG=DAT,TAG=SG
+bua	a bhuanna	TAG=N,TAG=VOC,TAG=PL
+bua	leis na buanna	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+bua	buanna	TAG=N,TAG=DAT,TAG=PL
+
+bunscoil	bunscoil	TAG=N,TAG=LEMMA
+bunscoil	a bhunscoil	TAG=N,TAG=VOC,TAG=SG
+bunscoil	bunscoileanna	TAG=N,TAG=NOM,TAG=PL
+bunscoil	bunscoil	TAG=N,TAG=NOM,TAG=SG
+bunscoil	bunscoileanna	TAG=N,TAG=GEN,TAG=PL
+bunscoil	na bunscoile	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+bunscoil	an bhunscoil	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+bunscoil	leis an mbunscoil	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+bunscoil	na bunscoileanna	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+bunscoil	bunscoile	TAG=N,TAG=GEN,TAG=SG
+bunscoil	bunscoil	TAG=N,TAG=DAT,TAG=SG
+bunscoil	a bhunscoileanna	TAG=N,TAG=VOC,TAG=PL
+bunscoil	leis na bunscoileanna	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+bunscoil	bunscoileanna	TAG=N,TAG=DAT,TAG=PL
+
+cois	cois	TAG=N,TAG=LEMMA
+cois	a chois	TAG=N,TAG=VOC,TAG=SG
+cois	cosa	TAG=N,TAG=NOM,TAG=PL
+cois	cois	TAG=N,TAG=NOM,TAG=SG
+cois	cos	TAG=N,TAG=GEN,TAG=PL
+cois	na coise	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+cois	an chois	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+cois	leis an gcois	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+cois	na cosa	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+cois	coise	TAG=N,TAG=GEN,TAG=SG
+cois	cois	TAG=N,TAG=DAT,TAG=SG
+cois	a chosa	TAG=N,TAG=VOC,TAG=PL
+cois	leis na cosa	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+cois	cosa	TAG=N,TAG=DAT,TAG=PL
+
+reiligiún	reiligiún	TAG=N,TAG=LEMMA
+reiligiún	a reiligiúin	TAG=N,TAG=VOC,TAG=SG
+reiligiún	reiligiúin	TAG=N,TAG=NOM,TAG=PL
+reiligiún	reiligiún	TAG=N,TAG=NOM,TAG=SG
+reiligiún	reiligiún	TAG=N,TAG=GEN,TAG=PL
+reiligiún	an reiligiúin	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+reiligiún	an reiligiún	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+reiligiún	leis an reiligiún	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+reiligiún	na reiligiúin	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+reiligiún	reiligiúin	TAG=N,TAG=GEN,TAG=SG
+reiligiún	reiligiún	TAG=N,TAG=DAT,TAG=SG
+reiligiún	a reiligiúna	TAG=N,TAG=VOC,TAG=PL
+reiligiún	leis na reiligiúin	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+reiligiún	reiligiúin	TAG=N,TAG=DAT,TAG=PL
+
+feirmeoir	feirmeoir	TAG=N,TAG=LEMMA
+feirmeoir	a fheirmeoir	TAG=N,TAG=VOC,TAG=SG
+feirmeoir	feirmeoirí	TAG=N,TAG=NOM,TAG=PL
+feirmeoir	feirmeoir	TAG=N,TAG=NOM,TAG=SG
+feirmeoir	feirmeoirí	TAG=N,TAG=GEN,TAG=PL
+feirmeoir	an fheirmeora	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+feirmeoir	an feirmeoir	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+feirmeoir	leis an bhfeirmeoir	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+feirmeoir	na feirmeoirí	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+feirmeoir	feirmeora	TAG=N,TAG=GEN,TAG=SG
+feirmeoir	feirmeoir	TAG=N,TAG=DAT,TAG=SG
+feirmeoir	a fheirmeoirí	TAG=N,TAG=VOC,TAG=PL
+feirmeoir	leis na feirmeoirí	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+feirmeoir	feirmeoirí	TAG=N,TAG=DAT,TAG=PL
+
+fáth	fáth	TAG=N,TAG=LEMMA
+fáth	a fháth	TAG=N,TAG=VOC,TAG=SG
+fáth	fáthanna	TAG=N,TAG=NOM,TAG=PL
+fáth	fáth	TAG=N,TAG=NOM,TAG=SG
+fáth	fáthanna	TAG=N,TAG=GEN,TAG=PL
+fáth	an fhátha	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+fáth	an fáth	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+fáth	leis an bhfáth	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+fáth	na fáthanna	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+fáth	fátha	TAG=N,TAG=GEN,TAG=SG
+fáth	fáth	TAG=N,TAG=DAT,TAG=SG
+fáth	a fháthanna	TAG=N,TAG=VOC,TAG=PL
+fáth	leis na fáthanna	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+fáth	fáthanna	TAG=N,TAG=DAT,TAG=PL
+
+adamh	adamh	TAG=N,TAG=LEMMA
+adamh	a adaimh	TAG=N,TAG=VOC,TAG=SG
+adamh	adaimh	TAG=N,TAG=NOM,TAG=PL
+adamh	adamh	TAG=N,TAG=NOM,TAG=SG
+adamh	adamh	TAG=N,TAG=GEN,TAG=PL
+adamh	an adaimh	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+adamh	an t-adamh	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+adamh	leis an adamh	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+adamh	na hadaimh	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+adamh	adaimh	TAG=N,TAG=GEN,TAG=SG
+adamh	adamh	TAG=N,TAG=DAT,TAG=SG
+adamh	a adamha	TAG=N,TAG=VOC,TAG=PL
+adamh	leis na hadaimh	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+adamh	adaimh	TAG=N,TAG=DAT,TAG=PL
+
+páirc	páirc	TAG=N,TAG=LEMMA
+páirc	a pháirc	TAG=N,TAG=VOC,TAG=SG
+páirc	páirceanna	TAG=N,TAG=NOM,TAG=PL
+páirc	páirc	TAG=N,TAG=NOM,TAG=SG
+páirc	páirceanna	TAG=N,TAG=GEN,TAG=PL
+páirc	na páirce	TAG=N,TAG=GEN,TAG=SG,TAG=DEF
+páirc	an pháirc	TAG=N,TAG=NOM,TAG=SG,TAG=DEF
+páirc	leis an bpáirc	TAG=N,TAG=DAT,TAG=SG,TAG=DEF
+páirc	na páirceanna	TAG=N,TAG=NOM,TAG=PL,TAG=DEF
+páirc	páirce	TAG=N,TAG=GEN,TAG=SG
+páirc	páirc	TAG=N,TAG=DAT,TAG=SG
+páirc	a pháirceanna	TAG=N,TAG=VOC,TAG=PL
+páirc	leis na páirceanna	TAG=N,TAG=DAT,TAG=PL,TAG=DEF
+páirc	páirceanna	TAG=N,TAG=DAT,TAG=PL
+

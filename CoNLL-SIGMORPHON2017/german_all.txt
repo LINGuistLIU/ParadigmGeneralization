@@ -1,0 +1,4240 @@
+Seemacht	Seemacht	TAG=N,TAG=LEMMA
+Seemacht	Seemächte	TAG=N,TAG=GEN,TAG=PL
+Seemacht	Seemächte	TAG=N,TAG=NOM,TAG=PL
+Seemacht	Seemacht	TAG=N,TAG=GEN,TAG=SG
+Seemacht	Seemacht	TAG=N,TAG=NOM,TAG=SG
+Seemacht	Seemacht	TAG=N,TAG=DAT,TAG=SG
+Seemacht	Seemächte	TAG=N,TAG=ACC,TAG=PL
+Seemacht	Seemacht	TAG=N,TAG=ACC,TAG=SG
+Seemacht	Seemächten	TAG=N,TAG=DAT,TAG=PL
+
+Ruthenat	Ruthenat	TAG=N,TAG=LEMMA
+Ruthenat	Ruthenate	TAG=N,TAG=GEN,TAG=PL
+Ruthenat	Ruthenate	TAG=N,TAG=NOM,TAG=PL
+Ruthenat	Ruthenats	TAG=N,TAG=GEN,TAG=SG
+Ruthenat	Ruthenat	TAG=N,TAG=NOM,TAG=SG
+Ruthenat	Ruthenat	TAG=N,TAG=DAT,TAG=SG
+Ruthenat	Ruthenate	TAG=N,TAG=ACC,TAG=PL
+Ruthenat	Ruthenat	TAG=N,TAG=ACC,TAG=SG
+Ruthenat	Ruthenaten	TAG=N,TAG=DAT,TAG=PL
+
+bemühen	bemühen	TAG=V,TAG=LEMMA
+bemühen	bemühen	TAG=V,TAG=SBJV,TAG=PRS,TAG=3,TAG=PL
+bemühen	bemühte	TAG=V,TAG=SBJV,TAG=PST,TAG=1,TAG=SG
+bemühen	bemühen	TAG=V,TAG=IND,TAG=PRS,TAG=1,TAG=PL
+bemühen	bemühend	TAG=V.PTCP,TAG=PRS
+bemühen	bemühtet	TAG=V,TAG=IND,TAG=PST,TAG=2,TAG=PL
+bemühen	bemüh	TAG=V,TAG=IMP,TAG=2,TAG=SG
+bemühen	bemühtet	TAG=V,TAG=SBJV,TAG=PST,TAG=2,TAG=PL
+bemühen	bemühte	TAG=V,TAG=SBJV,TAG=PST,TAG=3,TAG=SG
+bemühen	bemühen	TAG=V,TAG=NFIN
+bemühen	bemühen	TAG=V,TAG=IND,TAG=PRS,TAG=3,TAG=PL
+bemühen	bemüht	TAG=V,TAG=IND,TAG=PRS,TAG=2,TAG=PL
+bemühen	bemühen	TAG=V,TAG=SBJV,TAG=PRS,TAG=1,TAG=PL
+bemühen	bemühten	TAG=V,TAG=IND,TAG=PST,TAG=1,TAG=PL
+bemühen	bemühe	TAG=V,TAG=SBJV,TAG=PRS,TAG=3,TAG=SG
+bemühen	bemühten	TAG=V,TAG=IND,TAG=PST,TAG=3,TAG=PL
+bemühen	bemüht	TAG=V,TAG=IMP,TAG=2,TAG=PL
+bemühen	bemüht	TAG=V.PTCP,TAG=PST
+bemühen	bemühten	TAG=V,TAG=SBJV,TAG=PST,TAG=3,TAG=PL
+bemühen	bemühe	TAG=V,TAG=IND,TAG=PRS,TAG=1,TAG=SG
+bemühen	bemühe	TAG=V,TAG=SBJV,TAG=PRS,TAG=1,TAG=SG
+bemühen	bemüht	TAG=V,TAG=IND,TAG=PRS,TAG=3,TAG=SG
+bemühen	bemühet	TAG=V,TAG=SBJV,TAG=PRS,TAG=2,TAG=PL
+bemühen	bemühtest	TAG=V,TAG=IND,TAG=PST,TAG=2,TAG=SG
+bemühen	bemühten	TAG=V,TAG=SBJV,TAG=PST,TAG=1,TAG=PL
+bemühen	bemühte	TAG=V,TAG=IND,TAG=PST,TAG=1,TAG=SG
+bemühen	bemühtest	TAG=V,TAG=SBJV,TAG=PST,TAG=2,TAG=SG
+bemühen	bemühst	TAG=V,TAG=IND,TAG=PRS,TAG=2,TAG=SG
+bemühen	bemühest	TAG=V,TAG=SBJV,TAG=PRS,TAG=2,TAG=SG
+bemühen	bemühte	TAG=V,TAG=IND,TAG=PST,TAG=3,TAG=SG
+
+Weißpunktbuntbarsch	Weißpunktbuntbarsch	TAG=N,TAG=LEMMA
+Weißpunktbuntbarsch	Weißpunktbuntbarsche	TAG=N,TAG=GEN,TAG=PL
+Weißpunktbuntbarsch	Weißpunktbuntbarsche	TAG=N,TAG=NOM,TAG=PL
+Weißpunktbuntbarsch	Weißpunktbuntbarsches	TAG=N,TAG=GEN,TAG=SG
+Weißpunktbuntbarsch	Weißpunktbuntbarsch	TAG=N,TAG=NOM,TAG=SG
+Weißpunktbuntbarsch	Weißpunktbuntbarsch	TAG=N,TAG=DAT,TAG=SG
+Weißpunktbuntbarsch	Weißpunktbuntbarsche	TAG=N,TAG=ACC,TAG=PL
+Weißpunktbuntbarsch	Weißpunktbuntbarsch	TAG=N,TAG=ACC,TAG=SG
+Weißpunktbuntbarsch	Weißpunktbuntbarschen	TAG=N,TAG=DAT,TAG=PL
+
+Reißzwecke	Reißzwecke	TAG=N,TAG=LEMMA
+Reißzwecke	Reißzwecken	TAG=N,TAG=GEN,TAG=PL
+Reißzwecke	Reißzwecken	TAG=N,TAG=NOM,TAG=PL
+Reißzwecke	Reißzwecke	TAG=N,TAG=GEN,TAG=SG
+Reißzwecke	Reißzwecke	TAG=N,TAG=NOM,TAG=SG
+Reißzwecke	Reißzwecke	TAG=N,TAG=DAT,TAG=SG
+Reißzwecke	Reißzwecken	TAG=N,TAG=ACC,TAG=PL
+Reißzwecke	Reißzwecke	TAG=N,TAG=ACC,TAG=SG
+Reißzwecke	Reißzwecken	TAG=N,TAG=DAT,TAG=PL
+
+Donnerstagvormittag	Donnerstagvormittag	TAG=N,TAG=LEMMA
+Donnerstagvormittag	Donnerstagvormittage	TAG=N,TAG=GEN,TAG=PL
+Donnerstagvormittag	Donnerstagvormittage	TAG=N,TAG=NOM,TAG=PL
+Donnerstagvormittag	Donnerstagvormittags	TAG=N,TAG=GEN,TAG=SG
+Donnerstagvormittag	Donnerstagvormittag	TAG=N,TAG=NOM,TAG=SG
+Donnerstagvormittag	Donnerstagvormittag	TAG=N,TAG=DAT,TAG=SG
+Donnerstagvormittag	Donnerstagvormittage	TAG=N,TAG=ACC,TAG=PL
+Donnerstagvormittag	Donnerstagvormittag	TAG=N,TAG=ACC,TAG=SG
+Donnerstagvormittag	Donnerstagvormittagen	TAG=N,TAG=DAT,TAG=PL
+
+Betrachter	Betrachter	TAG=N,TAG=LEMMA
+Betrachter	Betrachter	TAG=N,TAG=GEN,TAG=PL
+Betrachter	Betrachter	TAG=N,TAG=NOM,TAG=PL
+Betrachter	Betrachters	TAG=N,TAG=GEN,TAG=SG
+Betrachter	Betrachter	TAG=N,TAG=NOM,TAG=SG
+Betrachter	Betrachter	TAG=N,TAG=DAT,TAG=SG
+Betrachter	Betrachter	TAG=N,TAG=ACC,TAG=PL
+Betrachter	Betrachter	TAG=N,TAG=ACC,TAG=SG
+Betrachter	Betrachtern	TAG=N,TAG=DAT,TAG=PL
+
+Richter	Richter	TAG=N,TAG=LEMMA
+Richter	Richter	TAG=N,TAG=GEN,TAG=PL
+Richter	Richter	TAG=N,TAG=NOM,TAG=PL
+Richter	Richters	TAG=N,TAG=GEN,TAG=SG
+Richter	Richter	TAG=N,TAG=NOM,TAG=SG
+Richter	Richter	TAG=N,TAG=DAT,TAG=SG
+Richter	Richter	TAG=N,TAG=ACC,TAG=PL
+Richter	Richter	TAG=N,TAG=ACC,TAG=SG
+Richter	Richtern	TAG=N,TAG=DAT,TAG=PL
+
+dehnen	dehnen	TAG=V,TAG=LEMMA
+dehnen	dehnen	TAG=V,TAG=SBJV,TAG=PRS,TAG=3,TAG=PL
+dehnen	dehnte	TAG=V,TAG=SBJV,TAG=PST,TAG=1,TAG=SG
+dehnen	dehnen	TAG=V,TAG=IND,TAG=PRS,TAG=1,TAG=PL
+dehnen	dehnend	TAG=V.PTCP,TAG=PRS
+dehnen	dehntet	TAG=V,TAG=IND,TAG=PST,TAG=2,TAG=PL
+dehnen	dehn	TAG=V,TAG=IMP,TAG=2,TAG=SG
+dehnen	dehntet	TAG=V,TAG=SBJV,TAG=PST,TAG=2,TAG=PL
+dehnen	dehnte	TAG=V,TAG=SBJV,TAG=PST,TAG=3,TAG=SG
+dehnen	dehnen	TAG=V,TAG=NFIN
+dehnen	dehnen	TAG=V,TAG=IND,TAG=PRS,TAG=3,TAG=PL
+dehnen	dehnt	TAG=V,TAG=IND,TAG=PRS,TAG=2,TAG=PL
+dehnen	dehnen	TAG=V,TAG=SBJV,TAG=PRS,TAG=1,TAG=PL
+dehnen	dehnten	TAG=V,TAG=IND,TAG=PST,TAG=1,TAG=PL
+dehnen	dehne	TAG=V,TAG=SBJV,TAG=PRS,TAG=3,TAG=SG
+dehnen	dehnten	TAG=V,TAG=IND,TAG=PST,TAG=3,TAG=PL
+dehnen	dehnt	TAG=V,TAG=IMP,TAG=2,TAG=PL
+dehnen	gedehnt	TAG=V.PTCP,TAG=PST
+dehnen	dehnten	TAG=V,TAG=SBJV,TAG=PST,TAG=3,TAG=PL
+dehnen	dehne	TAG=V,TAG=IND,TAG=PRS,TAG=1,TAG=SG
+dehnen	dehne	TAG=V,TAG=SBJV,TAG=PRS,TAG=1,TAG=SG
+dehnen	dehnt	TAG=V,TAG=IND,TAG=PRS,TAG=3,TAG=SG
+dehnen	dehnet	TAG=V,TAG=SBJV,TAG=PRS,TAG=2,TAG=PL
+dehnen	dehntest	TAG=V,TAG=IND,TAG=PST,TAG=2,TAG=SG
+dehnen	dehnten	TAG=V,TAG=SBJV,TAG=PST,TAG=1,TAG=PL
+dehnen	dehnte	TAG=V,TAG=IND,TAG=PST,TAG=1,TAG=SG
+dehnen	dehntest	TAG=V,TAG=SBJV,TAG=PST,TAG=2,TAG=SG
+dehnen	dehnst	TAG=V,TAG=IND,TAG=PRS,TAG=2,TAG=SG
+dehnen	dehnest	TAG=V,TAG=SBJV,TAG=PRS,TAG=2,TAG=SG
+dehnen	dehnte	TAG=V,TAG=IND,TAG=PST,TAG=3,TAG=SG
+
+Realgar	Realgar	TAG=N,TAG=LEMMA
+Realgar	Realgare	TAG=N,TAG=GEN,TAG=PL
+Realgar	Realgare	TAG=N,TAG=NOM,TAG=PL
+Realgar	Realgars	TAG=N,TAG=GEN,TAG=SG
+Realgar	Realgar	TAG=N,TAG=NOM,TAG=SG
+Realgar	Realgar	TAG=N,TAG=DAT,TAG=SG
+Realgar	Realgare	TAG=N,TAG=ACC,TAG=PL
+Realgar	Realgar	TAG=N,TAG=ACC,TAG=SG
+Realgar	Realgaren	TAG=N,TAG=DAT,TAG=PL
+
+Kette	Kette	TAG=N,TAG=LEMMA
+Kette	Ketten	TAG=N,TAG=GEN,TAG=PL
+Kette	Ketten	TAG=N,TAG=NOM,TAG=PL
+Kette	Kette	TAG=N,TAG=GEN,TAG=SG
+Kette	Kette	TAG=N,TAG=NOM,TAG=SG
+Kette	Kette	TAG=N,TAG=DAT,TAG=SG
+Kette	Ketten	TAG=N,TAG=ACC,TAG=PL
+Kette	Kette	TAG=N,TAG=ACC,TAG=SG
+Kette	Ketten	TAG=N,TAG=DAT,TAG=PL
+
+Neuntöter	Neuntöter	TAG=N,TAG=LEMMA
+Neuntöter	Neuntöter	TAG=N,TAG=GEN,TAG=PL
+Neuntöter	Neuntöter	TAG=N,TAG=NOM,TAG=PL
+Neuntöter	Neuntöters	TAG=N,TAG=GEN,TAG=SG
+Neuntöter	Neuntöter	TAG=N,TAG=NOM,TAG=SG
+Neuntöter	Neuntöter	TAG=N,TAG=DAT,TAG=SG
+Neuntöter	Neuntöter	TAG=N,TAG=ACC,TAG=PL
+Neuntöter	Neuntöter	TAG=N,TAG=ACC,TAG=SG
+Neuntöter	Neuntötern	TAG=N,TAG=DAT,TAG=PL
+
+Petersiliensoße	Petersiliensoße	TAG=N,TAG=LEMMA
+Petersiliensoße	Petersiliensoßen	TAG=N,TAG=GEN,TAG=PL
+Petersiliensoße	Petersiliensoßen	TAG=N,TAG=NOM,TAG=PL
+Petersiliensoße	Petersiliensoße	TAG=N,TAG=GEN,TAG=SG
+Petersiliensoße	Petersiliensoße	TAG=N,TAG=NOM,TAG=SG
+Petersiliensoße	Petersiliensoße	TAG=N,TAG=DAT,TAG=SG
+Petersiliensoße	Petersiliensoßen	TAG=N,TAG=ACC,TAG=PL
+Petersiliensoße	Petersiliensoße	TAG=N,TAG=ACC,TAG=SG
+Petersiliensoße	Petersiliensoßen	TAG=N,TAG=DAT,TAG=PL
+
+Fleischsalat	Fleischsalat	TAG=N,TAG=LEMMA
+Fleischsalat	Fleischsalate	TAG=N,TAG=GEN,TAG=PL
+Fleischsalat	Fleischsalate	TAG=N,TAG=NOM,TAG=PL
+Fleischsalat	Fleischsalates	TAG=N,TAG=GEN,TAG=SG
+Fleischsalat	Fleischsalat	TAG=N,TAG=NOM,TAG=SG
+Fleischsalat	Fleischsalat	TAG=N,TAG=DAT,TAG=SG
+Fleischsalat	Fleischsalate	TAG=N,TAG=ACC,TAG=PL
+Fleischsalat	Fleischsalat	TAG=N,TAG=ACC,TAG=SG
+Fleischsalat	Fleischsalaten	TAG=N,TAG=DAT,TAG=PL
+
+häkeln	häkeln	TAG=V,TAG=LEMMA
+häkeln	häkeln	TAG=V,TAG=SBJV,TAG=PRS,TAG=3,TAG=PL
+häkeln	häkelte	TAG=V,TAG=SBJV,TAG=PST,TAG=1,TAG=SG
+häkeln	häkeln	TAG=V,TAG=IND,TAG=PRS,TAG=1,TAG=PL
+häkeln	häkelnd	TAG=V.PTCP,TAG=PRS
+häkeln	häkeltet	TAG=V,TAG=IND,TAG=PST,TAG=2,TAG=PL
+häkeln	häkle	TAG=V,TAG=IMP,TAG=2,TAG=SG
+häkeln	häkeltet	TAG=V,TAG=SBJV,TAG=PST,TAG=2,TAG=PL
+häkeln	häkelte	TAG=V,TAG=SBJV,TAG=PST,TAG=3,TAG=SG
+häkeln	häkeln	TAG=V,TAG=NFIN
+häkeln	häkeln	TAG=V,TAG=IND,TAG=PRS,TAG=3,TAG=PL
+häkeln	häkelt	TAG=V,TAG=IND,TAG=PRS,TAG=2,TAG=PL
+häkeln	häkeln	TAG=V,TAG=SBJV,TAG=PRS,TAG=1,TAG=PL
+häkeln	häkelten	TAG=V,TAG=IND,TAG=PST,TAG=1,TAG=PL
+häkeln	häkele	TAG=V,TAG=SBJV,TAG=PRS,TAG=3,TAG=SG
+häkeln	häkelten	TAG=V,TAG=IND,TAG=PST,TAG=3,TAG=PL
+häkeln	häkelt	TAG=V,TAG=IMP,TAG=2,TAG=PL
+häkeln	gehäkelt	TAG=V.PTCP,TAG=PST
+häkeln	häkelten	TAG=V,TAG=SBJV,TAG=PST,TAG=3,TAG=PL
+häkeln	häkle	TAG=V,TAG=IND,TAG=PRS,TAG=1,TAG=SG
+häkeln	häkele	TAG=V,TAG=SBJV,TAG=PRS,TAG=1,TAG=SG
+häkeln	häkelt	TAG=V,TAG=IND,TAG=PRS,TAG=3,TAG=SG
+häkeln	häkelet	TAG=V,TAG=SBJV,TAG=PRS,TAG=2,TAG=PL
+häkeln	häkeltest	TAG=V,TAG=IND,TAG=PST,TAG=2,TAG=SG
+häkeln	häkelten	TAG=V,TAG=SBJV,TAG=PST,TAG=1,TAG=PL
+häkeln	häkelte	TAG=V,TAG=IND,TAG=PST,TAG=1,TAG=SG
+häkeln	häkeltest	TAG=V,TAG=SBJV,TAG=PST,TAG=2,TAG=SG
+häkeln	häkelst	TAG=V,TAG=IND,TAG=PRS,TAG=2,TAG=SG
+häkeln	häkelest	TAG=V,TAG=SBJV,TAG=PRS,TAG=2,TAG=SG
+häkeln	häkelte	TAG=V,TAG=IND,TAG=PST,TAG=3,TAG=SG
+
+Kabinett	Kabinett	TAG=N,TAG=LEMMA
+Kabinett	Kabinette	TAG=N,TAG=GEN,TAG=PL
+Kabinett	Kabinette	TAG=N,TAG=NOM,TAG=PL
+Kabinett	Kabinetts	TAG=N,TAG=GEN,TAG=SG
+Kabinett	Kabinett	TAG=N,TAG=NOM,TAG=SG
+Kabinett	Kabinett	TAG=N,TAG=DAT,TAG=SG
+Kabinett	Kabinette	TAG=N,TAG=ACC,TAG=PL
+Kabinett	Kabinett	TAG=N,TAG=ACC,TAG=SG
+Kabinett	Kabinetten	TAG=N,TAG=DAT,TAG=PL
+
+festnehmen	festnehmen	TAG=V,TAG=LEMMA
+festnehmen	nehmen fest	TAG=V,TAG=SBJV,TAG=PRS,TAG=3,TAG=PL
+festnehmen	nähme fest	TAG=V,TAG=SBJV,TAG=PST,TAG=1,TAG=SG
+festnehmen	nehmen fest	TAG=V,TAG=IND,TAG=PRS,TAG=1,TAG=PL
+festnehmen	festnehmend	TAG=V.PTCP,TAG=PRS
+festnehmen	nahmt fest	TAG=V,TAG=IND,TAG=PST,TAG=2,TAG=PL
+festnehmen	nimm fest	TAG=V,TAG=IMP,TAG=2,TAG=SG
+festnehmen	nähmet fest	TAG=V,TAG=SBJV,TAG=PST,TAG=2,TAG=PL
+festnehmen	nähme fest	TAG=V,TAG=SBJV,TAG=PST,TAG=3,TAG=SG
+festnehmen	festnehmen	TAG=V,TAG=NFIN
+festnehmen	nehmen fest	TAG=V,TAG=IND,TAG=PRS,TAG=3,TAG=PL
+festnehmen	nehmt fest	TAG=V,TAG=IND,TAG=PRS,TAG=2,TAG=PL
+festnehmen	nehmen fest	TAG=V,TAG=SBJV,TAG=PRS,TAG=1,TAG=PL
+festnehmen	nahmen fest	TAG=V,TAG=IND,TAG=PST,TAG=1,TAG=PL
+festnehmen	nehme fest	TAG=V,TAG=SBJV,TAG=PRS,TAG=3,TAG=SG
+festnehmen	nahmen fest	TAG=V,TAG=IND,TAG=PST,TAG=3,TAG=PL
+festnehmen	nehmt fest	TAG=V,TAG=IMP,TAG=2,TAG=PL
+festnehmen	festgenommen	TAG=V.PTCP,TAG=PST
+festnehmen	nähmen fest	TAG=V,TAG=SBJV,TAG=PST,TAG=3,TAG=PL
+festnehmen	nehme fest	TAG=V,TAG=IND,TAG=PRS,TAG=1,TAG=SG
+festnehmen	nehme fest	TAG=V,TAG=SBJV,TAG=PRS,TAG=1,TAG=SG
+festnehmen	nimmt fest	TAG=V,TAG=IND,TAG=PRS,TAG=3,TAG=SG
+festnehmen	nehmet fest	TAG=V,TAG=SBJV,TAG=PRS,TAG=2,TAG=PL
+festnehmen	nahmst fest	TAG=V,TAG=IND,TAG=PST,TAG=2,TAG=SG
+festnehmen	nähmen fest	TAG=V,TAG=SBJV,TAG=PST,TAG=1,TAG=PL
+festnehmen	nahm fest	TAG=V,TAG=IND,TAG=PST,TAG=1,TAG=SG
+festnehmen	nähmest fest	TAG=V,TAG=SBJV,TAG=PST,TAG=2,TAG=SG
+festnehmen	nimmst fest	TAG=V,TAG=IND,TAG=PRS,TAG=2,TAG=SG
+festnehmen	nehmest fest	TAG=V,TAG=SBJV,TAG=PRS,TAG=2,TAG=SG
+festnehmen	nahm fest	TAG=V,TAG=IND,TAG=PST,TAG=3,TAG=SG
+
+Alarmanlage	Alarmanlage	TAG=N,TAG=LEMMA
+Alarmanlage	Alarmanlagen	TAG=N,TAG=GEN,TAG=PL
+Alarmanlage	Alarmanlagen	TAG=N,TAG=NOM,TAG=PL
+Alarmanlage	Alarmanlage	TAG=N,TAG=GEN,TAG=SG
+Alarmanlage	Alarmanlage	TAG=N,TAG=NOM,TAG=SG
+Alarmanlage	Alarmanlage	TAG=N,TAG=DAT,TAG=SG
+Alarmanlage	Alarmanlagen	TAG=N,TAG=ACC,TAG=PL
+Alarmanlage	Alarmanlage	TAG=N,TAG=ACC,TAG=SG
+Alarmanlage	Alarmanlagen	TAG=N,TAG=DAT,TAG=PL
+
+Motiv	Motiv	TAG=N,TAG=LEMMA
+Motiv	Motive	TAG=N,TAG=GEN,TAG=PL
+Motiv	Motive	TAG=N,TAG=NOM,TAG=PL
+Motiv	Motivs	TAG=N,TAG=GEN,TAG=SG
+Motiv	Motiv	TAG=N,TAG=NOM,TAG=SG
+Motiv	Motiv	TAG=N,TAG=DAT,TAG=SG
+Motiv	Motive	TAG=N,TAG=ACC,TAG=PL
+Motiv	Motiv	TAG=N,TAG=ACC,TAG=SG
+Motiv	Motiven	TAG=N,TAG=DAT,TAG=PL
+
+Griechin	Griechin	TAG=N,TAG=LEMMA
+Griechin	Griechinnen	TAG=N,TAG=GEN,TAG=PL
+Griechin	Griechinnen	TAG=N,TAG=NOM,TAG=PL
+Griechin	Griechin	TAG=N,TAG=GEN,TAG=SG
+Griechin	Griechin	TAG=N,TAG=NOM,TAG=SG
+Griechin	Griechin	TAG=N,TAG=DAT,TAG=SG
+Griechin	Griechinnen	TAG=N,TAG=ACC,TAG=PL
+Griechin	Griechin	TAG=N,TAG=ACC,TAG=SG
+Griechin	Griechinnen	TAG=N,TAG=DAT,TAG=PL
+
+stürmen	stürmen	TAG=V,TAG=LEMMA
+stürmen	stürmen	TAG=V,TAG=SBJV,TAG=PRS,TAG=3,TAG=PL
+stürmen	stürmte	TAG=V,TAG=SBJV,TAG=PST,TAG=1,TAG=SG
+stürmen	stürmen	TAG=V,TAG=IND,TAG=PRS,TAG=1,TAG=PL
+stürmen	stürmend	TAG=V.PTCP,TAG=PRS
+stürmen	stürmtet	TAG=V,TAG=IND,TAG=PST,TAG=2,TAG=PL
+stürmen	stürm	TAG=V,TAG=IMP,TAG=2,TAG=SG
+stürmen	stürmtet	TAG=V,TAG=SBJV,TAG=PST,TAG=2,TAG=PL
+stürmen	stürmte	TAG=V,TAG=SBJV,TAG=PST,TAG=3,TAG=SG
+stürmen	stürmen	TAG=V,TAG=NFIN
+stürmen	stürmen	TAG=V,TAG=IND,TAG=PRS,TAG=3,TAG=PL
+stürmen	stürmt	TAG=V,TAG=IND,TAG=PRS,TAG=2,TAG=PL
+stürmen	stürmen	TAG=V,TAG=SBJV,TAG=PRS,TAG=1,TAG=PL
+stürmen	stürmten	TAG=V,TAG=IND,TAG=PST,TAG=1,TAG=PL
+stürmen	stürme	TAG=V,TAG=SBJV,TAG=PRS,TAG=3,TAG=SG
+stürmen	stürmten	TAG=V,TAG=IND,TAG=PST,TAG=3,TAG=PL
+stürmen	stürmt	TAG=V,TAG=IMP,TAG=2,TAG=PL
+stürmen	gestürmt	TAG=V.PTCP,TAG=PST
+stürmen	stürmten	TAG=V,TAG=SBJV,TAG=PST,TAG=3,TAG=PL
+stürmen	stürme	TAG=V,TAG=IND,TAG=PRS,TAG=1,TAG=SG
+stürmen	stürme	TAG=V,TAG=SBJV,TAG=PRS,TAG=1,TAG=SG
+stürmen	stürmt	TAG=V,TAG=IND,TAG=PRS,TAG=3,TAG=SG
+stürmen	stürmet	TAG=V,TAG=SBJV,TAG=PRS,TAG=2,TAG=PL
+stürmen	stürmtest	TAG=V,TAG=IND,TAG=PST,TAG=2,TAG=SG
+stürmen	stürmten	TAG=V,TAG=SBJV,TAG=PST,TAG=1,TAG=PL
+stürmen	stürmte	TAG=V,TAG=IND,TAG=PST,TAG=1,TAG=SG
+stürmen	stürmtest	TAG=V,TAG=SBJV,TAG=PST,TAG=2,TAG=SG
+stürmen	stürmst	TAG=V,TAG=IND,TAG=PRS,TAG=2,TAG=SG
+stürmen	stürmest	TAG=V,TAG=SBJV,TAG=PRS,TAG=2,TAG=SG
+stürmen	stürmte	TAG=V,TAG=IND,TAG=PST,TAG=3,TAG=SG
+
+entzweien	entzweien	TAG=V,TAG=LEMMA
+entzweien	entzweien	TAG=V,TAG=SBJV,TAG=PRS,TAG=3,TAG=PL
+entzweien	entzweite	TAG=V,TAG=SBJV,TAG=PST,TAG=1,TAG=SG
+entzweien	entzweien	TAG=V,TAG=IND,TAG=PRS,TAG=1,TAG=PL
+entzweien	entzweiend	TAG=V.PTCP,TAG=PRS
+entzweien	entzweitet	TAG=V,TAG=IND,TAG=PST,TAG=2,TAG=PL
+entzweien	entzwei	TAG=V,TAG=IMP,TAG=2,TAG=SG
+entzweien	entzweitet	TAG=V,TAG=SBJV,TAG=PST,TAG=2,TAG=PL
+entzweien	entzweite	TAG=V,TAG=SBJV,TAG=PST,TAG=3,TAG=SG
+entzweien	entzweien	TAG=V,TAG=NFIN
+entzweien	entzweien	TAG=V,TAG=IND,TAG=PRS,TAG=3,TAG=PL
+entzweien	entzweit	TAG=V,TAG=IND,TAG=PRS,TAG=2,TAG=PL
+entzweien	entzweien	TAG=V,TAG=SBJV,TAG=PRS,TAG=1,TAG=PL
+entzweien	entzweiten	TAG=V,TAG=IND,TAG=PST,TAG=1,TAG=PL
+entzweien	entzweie	TAG=V,TAG=SBJV,TAG=PRS,TAG=3,TAG=SG
+entzweien	entzweiten	TAG=V,TAG=IND,TAG=PST,TAG=3,TAG=PL
+entzweien	entzweit	TAG=V,TAG=IMP,TAG=2,TAG=PL
+entzweien	entzweit	TAG=V.PTCP,TAG=PST
+entzweien	entzweiten	TAG=V,TAG=SBJV,TAG=PST,TAG=3,TAG=PL
+entzweien	entzweie	TAG=V,TAG=IND,TAG=PRS,TAG=1,TAG=SG
+entzweien	entzweie	TAG=V,TAG=SBJV,TAG=PRS,TAG=1,TAG=SG
+entzweien	entzweit	TAG=V,TAG=IND,TAG=PRS,TAG=3,TAG=SG
+entzweien	entzweiet	TAG=V,TAG=SBJV,TAG=PRS,TAG=2,TAG=PL
+entzweien	entzweitest	TAG=V,TAG=IND,TAG=PST,TAG=2,TAG=SG
+entzweien	entzweiten	TAG=V,TAG=SBJV,TAG=PST,TAG=1,TAG=PL
+entzweien	entzweite	TAG=V,TAG=IND,TAG=PST,TAG=1,TAG=SG
+entzweien	entzweitest	TAG=V,TAG=SBJV,TAG=PST,TAG=2,TAG=SG
+entzweien	entzweist	TAG=V,TAG=IND,TAG=PRS,TAG=2,TAG=SG
+entzweien	entzweiest	TAG=V,TAG=SBJV,TAG=PRS,TAG=2,TAG=SG
+entzweien	entzweite	TAG=V,TAG=IND,TAG=PST,TAG=3,TAG=SG
+
+Rabbiner	Rabbiner	TAG=N,TAG=LEMMA
+Rabbiner	Rabbiner	TAG=N,TAG=GEN,TAG=PL
+Rabbiner	Rabbiner	TAG=N,TAG=NOM,TAG=PL
+Rabbiner	Rabbiners	TAG=N,TAG=GEN,TAG=SG
+Rabbiner	Rabbiner	TAG=N,TAG=NOM,TAG=SG
+Rabbiner	Rabbiner	TAG=N,TAG=DAT,TAG=SG
+Rabbiner	Rabbiner	TAG=N,TAG=ACC,TAG=PL
+Rabbiner	Rabbiner	TAG=N,TAG=ACC,TAG=SG
+Rabbiner	Rabbinern	TAG=N,TAG=DAT,TAG=PL
+
+Gänseleberwurst	Gänseleberwurst	TAG=N,TAG=LEMMA
+Gänseleberwurst	Gänseleberwürste	TAG=N,TAG=GEN,TAG=PL
+Gänseleberwurst	Gänseleberwürste	TAG=N,TAG=NOM,TAG=PL
+Gänseleberwurst	Gänseleberwurst	TAG=N,TAG=GEN,TAG=SG
+Gänseleberwurst	Gänseleberwurst	TAG=N,TAG=NOM,TAG=SG
+Gänseleberwurst	Gänseleberwurst	TAG=N,TAG=DAT,TAG=SG
+Gänseleberwurst	Gänseleberwürste	TAG=N,TAG=ACC,TAG=PL
+Gänseleberwurst	Gänseleberwurst	TAG=N,TAG=ACC,TAG=SG
+Gänseleberwurst	Gänseleberwürsten	TAG=N,TAG=DAT,TAG=PL
+
+kremieren	kremieren	TAG=V,TAG=LEMMA
+kremieren	kremieren	TAG=V,TAG=SBJV,TAG=PRS,TAG=3,TAG=PL
+kremieren	kremierte	TAG=V,TAG=SBJV,TAG=PST,TAG=1,TAG=SG
+kremieren	kremieren	TAG=V,TAG=IND,TAG=PRS,TAG=1,TAG=PL
+kremieren	kremierend	TAG=V.PTCP,TAG=PRS
+kremieren	kremiertet	TAG=V,TAG=IND,TAG=PST,TAG=2,TAG=PL
+kremieren	kremier	TAG=V,TAG=IMP,TAG=2,TAG=SG
+kremieren	kremiertet	TAG=V,TAG=SBJV,TAG=PST,TAG=2,TAG=PL
+kremieren	kremierte	TAG=V,TAG=SBJV,TAG=PST,TAG=3,TAG=SG
+kremieren	kremieren	TAG=V,TAG=NFIN
+kremieren	kremieren	TAG=V,TAG=IND,TAG=PRS,TAG=3,TAG=PL
+kremieren	kremiert	TAG=V,TAG=IND,TAG=PRS,TAG=2,TAG=PL
+kremieren	kremieren	TAG=V,TAG=SBJV,TAG=PRS,TAG=1,TAG=PL
+kremieren	kremierten	TAG=V,TAG=IND,TAG=PST,TAG=1,TAG=PL
+kremieren	kremiere	TAG=V,TAG=SBJV,TAG=PRS,TAG=3,TAG=SG
+kremieren	kremierten	TAG=V,TAG=IND,TAG=PST,TAG=3,TAG=PL
+kremieren	kremiert	TAG=V,TAG=IMP,TAG=2,TAG=PL
+kremieren	kremiert	TAG=V.PTCP,TAG=PST
+kremieren	kremierten	TAG=V,TAG=SBJV,TAG=PST,TAG=3,TAG=PL
+kremieren	kremiere	TAG=V,TAG=IND,TAG=PRS,TAG=1,TAG=SG
+kremieren	kremiere	TAG=V,TAG=SBJV,TAG=PRS,TAG=1,TAG=SG
+kremieren	kremiert	TAG=V,TAG=IND,TAG=PRS,TAG=3,TAG=SG
+kremieren	kremieret	TAG=V,TAG=SBJV,TAG=PRS,TAG=2,TAG=PL
+kremieren	kremiertest	TAG=V,TAG=IND,TAG=PST,TAG=2,TAG=SG
+kremieren	kremierten	TAG=V,TAG=SBJV,TAG=PST,TAG=1,TAG=PL
+kremieren	kremierte	TAG=V,TAG=IND,TAG=PST,TAG=1,TAG=SG
+kremieren	kremiertest	TAG=V,TAG=SBJV,TAG=PST,TAG=2,TAG=SG
+kremieren	kremierst	TAG=V,TAG=IND,TAG=PRS,TAG=2,TAG=SG
+kremieren	kremierest	TAG=V,TAG=SBJV,TAG=PRS,TAG=2,TAG=SG
+kremieren	kremierte	TAG=V,TAG=IND,TAG=PST,TAG=3,TAG=SG
+
+Kanufahrer	Kanufahrer	TAG=N,TAG=LEMMA
+Kanufahrer	Kanufahrer	TAG=N,TAG=GEN,TAG=PL
+Kanufahrer	Kanufahrer	TAG=N,TAG=NOM,TAG=PL
+Kanufahrer	Kanufahrers	TAG=N,TAG=GEN,TAG=SG
+Kanufahrer	Kanufahrer	TAG=N,TAG=NOM,TAG=SG
+Kanufahrer	Kanufahrer	TAG=N,TAG=DAT,TAG=SG
+Kanufahrer	Kanufahrer	TAG=N,TAG=ACC,TAG=PL
+Kanufahrer	Kanufahrer	TAG=N,TAG=ACC,TAG=SG
+Kanufahrer	Kanufahrern	TAG=N,TAG=DAT,TAG=PL
+
+Bindemittel	Bindemittel	TAG=N,TAG=LEMMA
+Bindemittel	Bindemittel	TAG=N,TAG=GEN,TAG=PL
+Bindemittel	Bindemittel	TAG=N,TAG=NOM,TAG=PL
+Bindemittel	Bindemittels	TAG=N,TAG=GEN,TAG=SG
+Bindemittel	Bindemittel	TAG=N,TAG=NOM,TAG=SG
+Bindemittel	Bindemittel	TAG=N,TAG=DAT,TAG=SG
+Bindemittel	Bindemittel	TAG=N,TAG=ACC,TAG=PL
+Bindemittel	Bindemittel	TAG=N,TAG=ACC,TAG=SG
+Bindemittel	Bindemittel	TAG=N,TAG=DAT,TAG=PL
+
+bölken	bölken	TAG=V,TAG=LEMMA
+bölken	bölken	TAG=V,TAG=SBJV,TAG=PRS,TAG=3,TAG=PL
+bölken	bölkte	TAG=V,TAG=SBJV,TAG=PST,TAG=1,TAG=SG
+bölken	bölken	TAG=V,TAG=IND,TAG=PRS,TAG=1,TAG=PL
+bölken	bölkend	TAG=V.PTCP,TAG=PRS
+bölken	bölktet	TAG=V,TAG=IND,TAG=PST,TAG=2,TAG=PL
+bölken	bölk	TAG=V,TAG=IMP,TAG=2,TAG=SG
+bölken	bölktet	TAG=V,TAG=SBJV,TAG=PST,TAG=2,TAG=PL
+bölken	bölkte	TAG=V,TAG=SBJV,TAG=PST,TAG=3,TAG=SG
+bölken	bölken	TAG=V,TAG=NFIN
+bölken	bölken	TAG=V,TAG=IND,TAG=PRS,TAG=3,TAG=PL
+bölken	bölkt	TAG=V,TAG=IND,TAG=PRS,TAG=2,TAG=PL
+bölken	bölken	TAG=V,TAG=SBJV,TAG=PRS,TAG=1,TAG=PL
+bölken	bölkten	TAG=V,TAG=IND,TAG=PST,TAG=1,TAG=PL
+bölken	bölke	TAG=V,TAG=SBJV,TAG=PRS,TAG=3,TAG=SG
+bölken	bölkten	TAG=V,TAG=IND,TAG=PST,TAG=3,TAG=PL
+bölken	bölkt	TAG=V,TAG=IMP,TAG=2,TAG=PL
+bölken	gebölkt	TAG=V.PTCP,TAG=PST
+bölken	bölkten	TAG=V,TAG=SBJV,TAG=PST,TAG=3,TAG=PL
+bölken	bölke	TAG=V,TAG=IND,TAG=PRS,TAG=1,TAG=SG
+bölken	bölke	TAG=V,TAG=SBJV,TAG=PRS,TAG=1,TAG=SG
+bölken	bölkt	TAG=V,TAG=IND,TAG=PRS,TAG=3,TAG=SG
+bölken	bölket	TAG=V,TAG=SBJV,TAG=PRS,TAG=2,TAG=PL
+bölken	bölktest	TAG=V,TAG=IND,TAG=PST,TAG=2,TAG=SG
+bölken	bölkten	TAG=V,TAG=SBJV,TAG=PST,TAG=1,TAG=PL
+bölken	bölkte	TAG=V,TAG=IND,TAG=PST,TAG=1,TAG=SG
+bölken	bölktest	TAG=V,TAG=SBJV,TAG=PST,TAG=2,TAG=SG
+bölken	bölkst	TAG=V,TAG=IND,TAG=PRS,TAG=2,TAG=SG
+bölken	bölkest	TAG=V,TAG=SBJV,TAG=PRS,TAG=2,TAG=SG
+bölken	bölkte	TAG=V,TAG=IND,TAG=PST,TAG=3,TAG=SG
+
+Fulleren	Fulleren	TAG=N,TAG=LEMMA
+Fulleren	Fullerene	TAG=N,TAG=GEN,TAG=PL
+Fulleren	Fullerene	TAG=N,TAG=NOM,TAG=PL
+Fulleren	Fullerens	TAG=N,TAG=GEN,TAG=SG
+Fulleren	Fulleren	TAG=N,TAG=NOM,TAG=SG
+Fulleren	Fulleren	TAG=N,TAG=DAT,TAG=SG
+Fulleren	Fullerene	TAG=N,TAG=ACC,TAG=PL
+Fulleren	Fulleren	TAG=N,TAG=ACC,TAG=SG
+Fulleren	Fullerenen	TAG=N,TAG=DAT,TAG=PL
+
+Hängematte	Hängematte	TAG=N,TAG=LEMMA
+Hängematte	Hängematten	TAG=N,TAG=GEN,TAG=PL
+Hängematte	Hängematten	TAG=N,TAG=NOM,TAG=PL
+Hängematte	Hängematte	TAG=N,TAG=GEN,TAG=SG
+Hängematte	Hängematte	TAG=N,TAG=NOM,TAG=SG
+Hängematte	Hängematte	TAG=N,TAG=DAT,TAG=SG
+Hängematte	Hängematten	TAG=N,TAG=ACC,TAG=PL
+Hängematte	Hängematte	TAG=N,TAG=ACC,TAG=SG
+Hängematte	Hängematten	TAG=N,TAG=DAT,TAG=PL
+
+Yttrium-Eisengranat	Yttrium-Eisengranat	TAG=N,TAG=LEMMA
+Yttrium-Eisengranat	Yttrium-Eisengranate	TAG=N,TAG=GEN,TAG=PL
+Yttrium-Eisengranat	Yttrium-Eisengranate	TAG=N,TAG=NOM,TAG=PL
+Yttrium-Eisengranat	Yttrium-Eisengranats	TAG=N,TAG=GEN,TAG=SG
+Yttrium-Eisengranat	Yttrium-Eisengranat	TAG=N,TAG=NOM,TAG=SG
+Yttrium-Eisengranat	Yttrium-Eisengranat	TAG=N,TAG=DAT,TAG=SG
+Yttrium-Eisengranat	Yttrium-Eisengranate	TAG=N,TAG=ACC,TAG=PL
+Yttrium-Eisengranat	Yttrium-Eisengranat	TAG=N,TAG=ACC,TAG=SG
+Yttrium-Eisengranat	Yttrium-Eisengranaten	TAG=N,TAG=DAT,TAG=PL
+
+frickeln	frickeln	TAG=V,TAG=LEMMA
+frickeln	frickeln	TAG=V,TAG=SBJV,TAG=PRS,TAG=3,TAG=PL
+frickeln	frickelte	TAG=V,TAG=SBJV,TAG=PST,TAG=1,TAG=SG
+frickeln	frickeln	TAG=V,TAG=IND,TAG=PRS,TAG=1,TAG=PL
+frickeln	frickelnd	TAG=V.PTCP,TAG=PRS
+frickeln	frickeltet	TAG=V,TAG=IND,TAG=PST,TAG=2,TAG=PL
+frickeln	frickle	TAG=V,TAG=IMP,TAG=2,TAG=SG
+frickeln	frickeltet	TAG=V,TAG=SBJV,TAG=PST,TAG=2,TAG=PL
+frickeln	frickelte	TAG=V,TAG=SBJV,TAG=PST,TAG=3,TAG=SG
+frickeln	frickeln	TAG=V,TAG=NFIN
+frickeln	frickeln	TAG=V,TAG=IND,TAG=PRS,TAG=3,TAG=PL
+frickeln	frickelt	TAG=V,TAG=IND,TAG=PRS,TAG=2,TAG=PL
+frickeln	frickeln	TAG=V,TAG=SBJV,TAG=PRS,TAG=1,TAG=PL
+frickeln	frickelten	TAG=V,TAG=IND,TAG=PST,TAG=1,TAG=PL
+frickeln	frickele	TAG=V,TAG=SBJV,TAG=PRS,TAG=3,TAG=SG
+frickeln	frickelten	TAG=V,TAG=IND,TAG=PST,TAG=3,TAG=PL
+frickeln	frickelt	TAG=V,TAG=IMP,TAG=2,TAG=PL
+frickeln	gefrickelt	TAG=V.PTCP,TAG=PST
+frickeln	frickelten	TAG=V,TAG=SBJV,TAG=PST,TAG=3,TAG=PL
+frickeln	frickle	TAG=V,TAG=IND,TAG=PRS,TAG=1,TAG=SG
+frickeln	frickele	TAG=V,TAG=SBJV,TAG=PRS,TAG=1,TAG=SG
+frickeln	frickelt	TAG=V,TAG=IND,TAG=PRS,TAG=3,TAG=SG
+frickeln	frickelet	TAG=V,TAG=SBJV,TAG=PRS,TAG=2,TAG=PL
+frickeln	frickeltest	TAG=V,TAG=IND,TAG=PST,TAG=2,TAG=SG
+frickeln	frickelten	TAG=V,TAG=SBJV,TAG=PST,TAG=1,TAG=PL
+frickeln	frickelte	TAG=V,TAG=IND,TAG=PST,TAG=1,TAG=SG
+frickeln	frickeltest	TAG=V,TAG=SBJV,TAG=PST,TAG=2,TAG=SG
+frickeln	frickelst	TAG=V,TAG=IND,TAG=PRS,TAG=2,TAG=SG
+frickeln	frickelest	TAG=V,TAG=SBJV,TAG=PRS,TAG=2,TAG=SG
+frickeln	frickelte	TAG=V,TAG=IND,TAG=PST,TAG=3,TAG=SG
+
+Babysitter	Babysitter	TAG=N,TAG=LEMMA
+Babysitter	Babysitter	TAG=N,TAG=GEN,TAG=PL
+Babysitter	Babysitter	TAG=N,TAG=NOM,TAG=PL
+Babysitter	Babysitters	TAG=N,TAG=GEN,TAG=SG
+Babysitter	Babysitter	TAG=N,TAG=NOM,TAG=SG
+Babysitter	Babysitter	TAG=N,TAG=DAT,TAG=SG
+Babysitter	Babysitter	TAG=N,TAG=ACC,TAG=PL
+Babysitter	Babysitter	TAG=N,TAG=ACC,TAG=SG
+Babysitter	Babysitter	TAG=N,TAG=DAT,TAG=PL
+
+Überschätzung	Überschätzung	TAG=N,TAG=LEMMA
+Überschätzung	Überschätzungen	TAG=N,TAG=GEN,TAG=PL
+Überschätzung	Überschätzungen	TAG=N,TAG=NOM,TAG=PL
+Überschätzung	Überschätzung	TAG=N,TAG=GEN,TAG=SG
+Überschätzung	Überschätzung	TAG=N,TAG=NOM,TAG=SG
+Überschätzung	Überschätzung	TAG=N,TAG=DAT,TAG=SG
+Überschätzung	Überschätzungen	TAG=N,TAG=ACC,TAG=PL
+Überschätzung	Überschätzung	TAG=N,TAG=ACC,TAG=SG
+Überschätzung	Überschätzungen	TAG=N,TAG=DAT,TAG=PL
+
+Hydrierung	Hydrierung	TAG=N,TAG=LEMMA
+Hydrierung	Hydrierungen	TAG=N,TAG=GEN,TAG=PL
+Hydrierung	Hydrierungen	TAG=N,TAG=NOM,TAG=PL
+Hydrierung	Hydrierung	TAG=N,TAG=GEN,TAG=SG
+Hydrierung	Hydrierung	TAG=N,TAG=NOM,TAG=SG
+Hydrierung	Hydrierung	TAG=N,TAG=DAT,TAG=SG
+Hydrierung	Hydrierungen	TAG=N,TAG=ACC,TAG=PL
+Hydrierung	Hydrierung	TAG=N,TAG=ACC,TAG=SG
+Hydrierung	Hydrierungen	TAG=N,TAG=DAT,TAG=PL
+
+sausen	sausen	TAG=V,TAG=LEMMA
+sausen	sausen	TAG=V,TAG=SBJV,TAG=PRS,TAG=3,TAG=PL
+sausen	sauste	TAG=V,TAG=SBJV,TAG=PST,TAG=1,TAG=SG
+sausen	sausen	TAG=V,TAG=IND,TAG=PRS,TAG=1,TAG=PL
+sausen	sausend	TAG=V.PTCP,TAG=PRS
+sausen	saustet	TAG=V,TAG=IND,TAG=PST,TAG=2,TAG=PL
+sausen	saus	TAG=V,TAG=IMP,TAG=2,TAG=SG
+sausen	saustet	TAG=V,TAG=SBJV,TAG=PST,TAG=2,TAG=PL
+sausen	sauste	TAG=V,TAG=SBJV,TAG=PST,TAG=3,TAG=SG
+sausen	sausen	TAG=V,TAG=NFIN
+sausen	sausen	TAG=V,TAG=IND,TAG=PRS,TAG=3,TAG=PL
+sausen	saust	TAG=V,TAG=IND,TAG=PRS,TAG=2,TAG=PL
+sausen	sausen	TAG=V,TAG=SBJV,TAG=PRS,TAG=1,TAG=PL
+sausen	sausten	TAG=V,TAG=IND,TAG=PST,TAG=1,TAG=PL
+sausen	sause	TAG=V,TAG=SBJV,TAG=PRS,TAG=3,TAG=SG
+sausen	sausten	TAG=V,TAG=IND,TAG=PST,TAG=3,TAG=PL
+sausen	saust	TAG=V,TAG=IMP,TAG=2,TAG=PL
+sausen	gesaust	TAG=V.PTCP,TAG=PST
+sausen	sausten	TAG=V,TAG=SBJV,TAG=PST,TAG=3,TAG=PL
+sausen	sause	TAG=V,TAG=IND,TAG=PRS,TAG=1,TAG=SG
+sausen	sause	TAG=V,TAG=SBJV,TAG=PRS,TAG=1,TAG=SG
+sausen	saust	TAG=V,TAG=IND,TAG=PRS,TAG=3,TAG=SG
+sausen	sauset	TAG=V,TAG=SBJV,TAG=PRS,TAG=2,TAG=PL
+sausen	saustest	TAG=V,TAG=IND,TAG=PST,TAG=2,TAG=SG
+sausen	sausten	TAG=V,TAG=SBJV,TAG=PST,TAG=1,TAG=PL
+sausen	sauste	TAG=V,TAG=IND,TAG=PST,TAG=1,TAG=SG
+sausen	saustest	TAG=V,TAG=SBJV,TAG=PST,TAG=2,TAG=SG
+sausen	saust	TAG=V,TAG=IND,TAG=PRS,TAG=2,TAG=SG
+sausen	sausest	TAG=V,TAG=SBJV,TAG=PRS,TAG=2,TAG=SG
+sausen	sauste	TAG=V,TAG=IND,TAG=PST,TAG=3,TAG=SG
+
+ersuchen	ersuchen	TAG=V,TAG=LEMMA
+ersuchen	ersuchen	TAG=V,TAG=SBJV,TAG=PRS,TAG=3,TAG=PL
+ersuchen	ersuchte	TAG=V,TAG=SBJV,TAG=PST,TAG=1,TAG=SG
+ersuchen	ersuchen	TAG=V,TAG=IND,TAG=PRS,TAG=1,TAG=PL
+ersuchen	ersuchend	TAG=V.PTCP,TAG=PRS
+ersuchen	ersuchtet	TAG=V,TAG=IND,TAG=PST,TAG=2,TAG=PL
+ersuchen	ersuch	TAG=V,TAG=IMP,TAG=2,TAG=SG
+ersuchen	ersuchtet	TAG=V,TAG=SBJV,TAG=PST,TAG=2,TAG=PL
+ersuchen	ersuchte	TAG=V,TAG=SBJV,TAG=PST,TAG=3,TAG=SG
+ersuchen	ersuchen	TAG=V,TAG=NFIN
+ersuchen	ersuchen	TAG=V,TAG=IND,TAG=PRS,TAG=3,TAG=PL
+ersuchen	ersucht	TAG=V,TAG=IND,TAG=PRS,TAG=2,TAG=PL
+ersuchen	ersuchen	TAG=V,TAG=SBJV,TAG=PRS,TAG=1,TAG=PL
+ersuchen	ersuchten	TAG=V,TAG=IND,TAG=PST,TAG=1,TAG=PL
+ersuchen	ersuche	TAG=V,TAG=SBJV,TAG=PRS,TAG=3,TAG=SG
+ersuchen	ersuchten	TAG=V,TAG=IND,TAG=PST,TAG=3,TAG=PL
+ersuchen	ersucht	TAG=V,TAG=IMP,TAG=2,TAG=PL
+ersuchen	ersucht	TAG=V.PTCP,TAG=PST
+ersuchen	ersuchten	TAG=V,TAG=SBJV,TAG=PST,TAG=3,TAG=PL
+ersuchen	ersuche	TAG=V,TAG=IND,TAG=PRS,TAG=1,TAG=SG
+ersuchen	ersuche	TAG=V,TAG=SBJV,TAG=PRS,TAG=1,TAG=SG
+ersuchen	ersucht	TAG=V,TAG=IND,TAG=PRS,TAG=3,TAG=SG
+ersuchen	ersuchet	TAG=V,TAG=SBJV,TAG=PRS,TAG=2,TAG=PL
+ersuchen	ersuchtest	TAG=V,TAG=IND,TAG=PST,TAG=2,TAG=SG
+ersuchen	ersuchten	TAG=V,TAG=SBJV,TAG=PST,TAG=1,TAG=PL
+ersuchen	ersuchte	TAG=V,TAG=IND,TAG=PST,TAG=1,TAG=SG
+ersuchen	ersuchtest	TAG=V,TAG=SBJV,TAG=PST,TAG=2,TAG=SG
+ersuchen	ersuchst	TAG=V,TAG=IND,TAG=PRS,TAG=2,TAG=SG
+ersuchen	ersuchest	TAG=V,TAG=SBJV,TAG=PRS,TAG=2,TAG=SG
+ersuchen	ersuchte	TAG=V,TAG=IND,TAG=PST,TAG=3,TAG=SG
+
+fluchen	fluchen	TAG=V,TAG=LEMMA
+fluchen	fluchen	TAG=V,TAG=SBJV,TAG=PRS,TAG=3,TAG=PL
+fluchen	fluchte	TAG=V,TAG=SBJV,TAG=PST,TAG=1,TAG=SG
+fluchen	fluchen	TAG=V,TAG=IND,TAG=PRS,TAG=1,TAG=PL
+fluchen	fluchend	TAG=V.PTCP,TAG=PRS
+fluchen	fluchtet	TAG=V,TAG=IND,TAG=PST,TAG=2,TAG=PL
+fluchen	fluch	TAG=V,TAG=IMP,TAG=2,TAG=SG
+fluchen	fluchtet	TAG=V,TAG=SBJV,TAG=PST,TAG=2,TAG=PL
+fluchen	fluchte	TAG=V,TAG=SBJV,TAG=PST,TAG=3,TAG=SG
+fluchen	fluchen	TAG=V,TAG=NFIN
+fluchen	fluchen	TAG=V,TAG=IND,TAG=PRS,TAG=3,TAG=PL
+fluchen	flucht	TAG=V,TAG=IND,TAG=PRS,TAG=2,TAG=PL
+fluchen	fluchen	TAG=V,TAG=SBJV,TAG=PRS,TAG=1,TAG=PL
+fluchen	fluchten	TAG=V,TAG=IND,TAG=PST,TAG=1,TAG=PL
+fluchen	fluche	TAG=V,TAG=SBJV,TAG=PRS,TAG=3,TAG=SG
+fluchen	fluchten	TAG=V,TAG=IND,TAG=PST,TAG=3,TAG=PL
+fluchen	flucht	TAG=V,TAG=IMP,TAG=2,TAG=PL
+fluchen	geflucht	TAG=V.PTCP,TAG=PST
+fluchen	fluchten	TAG=V,TAG=SBJV,TAG=PST,TAG=3,TAG=PL
+fluchen	fluche	TAG=V,TAG=IND,TAG=PRS,TAG=1,TAG=SG
+fluchen	fluche	TAG=V,TAG=SBJV,TAG=PRS,TAG=1,TAG=SG
+fluchen	flucht	TAG=V,TAG=IND,TAG=PRS,TAG=3,TAG=SG
+fluchen	fluchet	TAG=V,TAG=SBJV,TAG=PRS,TAG=2,TAG=PL
+fluchen	fluchtest	TAG=V,TAG=IND,TAG=PST,TAG=2,TAG=SG
+fluchen	fluchten	TAG=V,TAG=SBJV,TAG=PST,TAG=1,TAG=PL
+fluchen	fluchte	TAG=V,TAG=IND,TAG=PST,TAG=1,TAG=SG
+fluchen	fluchtest	TAG=V,TAG=SBJV,TAG=PST,TAG=2,TAG=SG
+fluchen	fluchst	TAG=V,TAG=IND,TAG=PRS,TAG=2,TAG=SG
+fluchen	fluchest	TAG=V,TAG=SBJV,TAG=PRS,TAG=2,TAG=SG
+fluchen	fluchte	TAG=V,TAG=IND,TAG=PST,TAG=3,TAG=SG
+
+Lederhose	Lederhose	TAG=N,TAG=LEMMA
+Lederhose	Lederhosen	TAG=N,TAG=GEN,TAG=PL
+Lederhose	Lederhosen	TAG=N,TAG=NOM,TAG=PL
+Lederhose	Lederhose	TAG=N,TAG=GEN,TAG=SG
+Lederhose	Lederhose	TAG=N,TAG=NOM,TAG=SG
+Lederhose	Lederhose	TAG=N,TAG=DAT,TAG=SG
+Lederhose	Lederhosen	TAG=N,TAG=ACC,TAG=PL
+Lederhose	Lederhose	TAG=N,TAG=ACC,TAG=SG
+Lederhose	Lederhosen	TAG=N,TAG=DAT,TAG=PL
+
+blöken	blöken	TAG=V,TAG=LEMMA
+blöken	blöken	TAG=V,TAG=SBJV,TAG=PRS,TAG=3,TAG=PL
+blöken	blökte	TAG=V,TAG=SBJV,TAG=PST,TAG=1,TAG=SG
+blöken	blöken	TAG=V,TAG=IND,TAG=PRS,TAG=1,TAG=PL
+blöken	blökend	TAG=V.PTCP,TAG=PRS
+blöken	blöktet	TAG=V,TAG=IND,TAG=PST,TAG=2,TAG=PL
+blöken	blök	TAG=V,TAG=IMP,TAG=2,TAG=SG
+blöken	blöktet	TAG=V,TAG=SBJV,TAG=PST,TAG=2,TAG=PL
+blöken	blökte	TAG=V,TAG=SBJV,TAG=PST,TAG=3,TAG=SG
+blöken	blöken	TAG=V,TAG=NFIN
+blöken	blöken	TAG=V,TAG=IND,TAG=PRS,TAG=3,TAG=PL
+blöken	blökt	TAG=V,TAG=IND,TAG=PRS,TAG=2,TAG=PL
+blöken	blöken	TAG=V,TAG=SBJV,TAG=PRS,TAG=1,TAG=PL
+blöken	blökten	TAG=V,TAG=IND,TAG=PST,TAG=1,TAG=PL
+blöken	blöke	TAG=V,TAG=SBJV,TAG=PRS,TAG=3,TAG=SG
+blöken	blökten	TAG=V,TAG=IND,TAG=PST,TAG=3,TAG=PL
+blöken	blökt	TAG=V,TAG=IMP,TAG=2,TAG=PL
+blöken	geblökt	TAG=V.PTCP,TAG=PST
+blöken	blökten	TAG=V,TAG=SBJV,TAG=PST,TAG=3,TAG=PL
+blöken	blöke	TAG=V,TAG=IND,TAG=PRS,TAG=1,TAG=SG
+blöken	blöke	TAG=V,TAG=SBJV,TAG=PRS,TAG=1,TAG=SG
+blöken	blökt	TAG=V,TAG=IND,TAG=PRS,TAG=3,TAG=SG
+blöken	blöket	TAG=V,TAG=SBJV,TAG=PRS,TAG=2,TAG=PL
+blöken	blöktest	TAG=V,TAG=IND,TAG=PST,TAG=2,TAG=SG
+blöken	blökten	TAG=V,TAG=SBJV,TAG=PST,TAG=1,TAG=PL
+blöken	blökte	TAG=V,TAG=IND,TAG=PST,TAG=1,TAG=SG
+blöken	blöktest	TAG=V,TAG=SBJV,TAG=PST,TAG=2,TAG=SG
+blöken	blökst	TAG=V,TAG=IND,TAG=PRS,TAG=2,TAG=SG
+blöken	blökest	TAG=V,TAG=SBJV,TAG=PRS,TAG=2,TAG=SG
+blöken	blökte	TAG=V,TAG=IND,TAG=PST,TAG=3,TAG=SG
+
+Redakteurin	Redakteurin	TAG=N,TAG=LEMMA
+Redakteurin	Redakteurinnen	TAG=N,TAG=GEN,TAG=PL
+Redakteurin	Redakteurinnen	TAG=N,TAG=NOM,TAG=PL
+Redakteurin	Redakteurin	TAG=N,TAG=GEN,TAG=SG
+Redakteurin	Redakteurin	TAG=N,TAG=NOM,TAG=SG
+Redakteurin	Redakteurin	TAG=N,TAG=DAT,TAG=SG
+Redakteurin	Redakteurinnen	TAG=N,TAG=ACC,TAG=PL
+Redakteurin	Redakteurin	TAG=N,TAG=ACC,TAG=SG
+Redakteurin	Redakteurinnen	TAG=N,TAG=DAT,TAG=PL
+
+Fagottist	Fagottist	TAG=N,TAG=LEMMA
+Fagottist	Fagottisten	TAG=N,TAG=GEN,TAG=PL
+Fagottist	Fagottisten	TAG=N,TAG=NOM,TAG=PL
+Fagottist	Fagottisten	TAG=N,TAG=GEN,TAG=SG
+Fagottist	Fagottist	TAG=N,TAG=NOM,TAG=SG
+Fagottist	Fagottisten	TAG=N,TAG=DAT,TAG=SG
+Fagottist	Fagottisten	TAG=N,TAG=ACC,TAG=PL
+Fagottist	Fagottisten	TAG=N,TAG=ACC,TAG=SG
+Fagottist	Fagottisten	TAG=N,TAG=DAT,TAG=PL
+
+Gelübde	Gelübde	TAG=N,TAG=LEMMA
+Gelübde	Gelübde	TAG=N,TAG=GEN,TAG=PL
+Gelübde	Gelübde	TAG=N,TAG=NOM,TAG=PL
+Gelübde	Gelübdes	TAG=N,TAG=GEN,TAG=SG
+Gelübde	Gelübde	TAG=N,TAG=NOM,TAG=SG
+Gelübde	Gelübde	TAG=N,TAG=DAT,TAG=SG
+Gelübde	Gelübde	TAG=N,TAG=ACC,TAG=PL
+Gelübde	Gelübde	TAG=N,TAG=ACC,TAG=SG
+Gelübde	Gelübden	TAG=N,TAG=DAT,TAG=PL
+
+Formant	Formant	TAG=N,TAG=LEMMA
+Formant	Formanten	TAG=N,TAG=GEN,TAG=PL
+Formant	Formanten	TAG=N,TAG=NOM,TAG=PL
+Formant	Formanten	TAG=N,TAG=GEN,TAG=SG
+Formant	Formant	TAG=N,TAG=NOM,TAG=SG
+Formant	Formanten	TAG=N,TAG=DAT,TAG=SG
+Formant	Formanten	TAG=N,TAG=ACC,TAG=PL
+Formant	Formanten	TAG=N,TAG=ACC,TAG=SG
+Formant	Formanten	TAG=N,TAG=DAT,TAG=PL
+
+Theistin	Theistin	TAG=N,TAG=LEMMA
+Theistin	Theistinnen	TAG=N,TAG=GEN,TAG=PL
+Theistin	Theistinnen	TAG=N,TAG=NOM,TAG=PL
+Theistin	Theistin	TAG=N,TAG=GEN,TAG=SG
+Theistin	Theistin	TAG=N,TAG=NOM,TAG=SG
+Theistin	Theistin	TAG=N,TAG=DAT,TAG=SG
+Theistin	Theistinnen	TAG=N,TAG=ACC,TAG=PL
+Theistin	Theistin	TAG=N,TAG=ACC,TAG=SG
+Theistin	Theistinnen	TAG=N,TAG=DAT,TAG=PL
+
+Theater	Theater	TAG=N,TAG=LEMMA
+Theater	Theater	TAG=N,TAG=GEN,TAG=PL
+Theater	Theater	TAG=N,TAG=NOM,TAG=PL
+Theater	Theaters	TAG=N,TAG=GEN,TAG=SG
+Theater	Theater	TAG=N,TAG=NOM,TAG=SG
+Theater	Theater	TAG=N,TAG=DAT,TAG=SG
+Theater	Theater	TAG=N,TAG=ACC,TAG=PL
+Theater	Theater	TAG=N,TAG=ACC,TAG=SG
+Theater	Theatern	TAG=N,TAG=DAT,TAG=PL
+
+Schießgewehr	Schießgewehr	TAG=N,TAG=LEMMA
+Schießgewehr	Schießgewehre	TAG=N,TAG=GEN,TAG=PL
+Schießgewehr	Schießgewehre	TAG=N,TAG=NOM,TAG=PL
+Schießgewehr	Schießgewehres	TAG=N,TAG=GEN,TAG=SG
+Schießgewehr	Schießgewehr	TAG=N,TAG=NOM,TAG=SG
+Schießgewehr	Schießgewehr	TAG=N,TAG=DAT,TAG=SG
+Schießgewehr	Schießgewehre	TAG=N,TAG=ACC,TAG=PL
+Schießgewehr	Schießgewehr	TAG=N,TAG=ACC,TAG=SG
+Schießgewehr	Schießgewehren	TAG=N,TAG=DAT,TAG=PL
+
+jubeln	jubeln	TAG=V,TAG=LEMMA
+jubeln	jubeln	TAG=V,TAG=SBJV,TAG=PRS,TAG=3,TAG=PL
+jubeln	jubelte	TAG=V,TAG=SBJV,TAG=PST,TAG=1,TAG=SG
+jubeln	jubeln	TAG=V,TAG=IND,TAG=PRS,TAG=1,TAG=PL
+jubeln	jubelnd	TAG=V.PTCP,TAG=PRS
+jubeln	jubeltet	TAG=V,TAG=IND,TAG=PST,TAG=2,TAG=PL
+jubeln	juble	TAG=V,TAG=IMP,TAG=2,TAG=SG
+jubeln	jubeltet	TAG=V,TAG=SBJV,TAG=PST,TAG=2,TAG=PL
+jubeln	jubelte	TAG=V,TAG=SBJV,TAG=PST,TAG=3,TAG=SG
+jubeln	jubeln	TAG=V,TAG=NFIN
+jubeln	jubeln	TAG=V,TAG=IND,TAG=PRS,TAG=3,TAG=PL
+jubeln	jubelt	TAG=V,TAG=IND,TAG=PRS,TAG=2,TAG=PL
+jubeln	jubeln	TAG=V,TAG=SBJV,TAG=PRS,TAG=1,TAG=PL
+jubeln	jubelten	TAG=V,TAG=IND,TAG=PST,TAG=1,TAG=PL
+jubeln	jubele	TAG=V,TAG=SBJV,TAG=PRS,TAG=3,TAG=SG
+jubeln	jubelten	TAG=V,TAG=IND,TAG=PST,TAG=3,TAG=PL
+jubeln	jubelt	TAG=V,TAG=IMP,TAG=2,TAG=PL
+jubeln	gejubelt	TAG=V.PTCP,TAG=PST
+jubeln	jubelten	TAG=V,TAG=SBJV,TAG=PST,TAG=3,TAG=PL
+jubeln	juble	TAG=V,TAG=IND,TAG=PRS,TAG=1,TAG=SG
+jubeln	jubele	TAG=V,TAG=SBJV,TAG=PRS,TAG=1,TAG=SG
+jubeln	jubelt	TAG=V,TAG=IND,TAG=PRS,TAG=3,TAG=SG
+jubeln	jubelet	TAG=V,TAG=SBJV,TAG=PRS,TAG=2,TAG=PL
+jubeln	jubeltest	TAG=V,TAG=IND,TAG=PST,TAG=2,TAG=SG
+jubeln	jubelten	TAG=V,TAG=SBJV,TAG=PST,TAG=1,TAG=PL
+jubeln	jubelte	TAG=V,TAG=IND,TAG=PST,TAG=1,TAG=SG
+jubeln	jubeltest	TAG=V,TAG=SBJV,TAG=PST,TAG=2,TAG=SG
+jubeln	jubelst	TAG=V,TAG=IND,TAG=PRS,TAG=2,TAG=SG
+jubeln	jubelest	TAG=V,TAG=SBJV,TAG=PRS,TAG=2,TAG=SG
+jubeln	jubelte	TAG=V,TAG=IND,TAG=PST,TAG=3,TAG=SG
+
+Verehrerin	Verehrerin	TAG=N,TAG=LEMMA
+Verehrerin	Verehrerinnen	TAG=N,TAG=GEN,TAG=PL
+Verehrerin	Verehrerinnen	TAG=N,TAG=NOM,TAG=PL
+Verehrerin	Verehrerin	TAG=N,TAG=GEN,TAG=SG
+Verehrerin	Verehrerin	TAG=N,TAG=NOM,TAG=SG
+Verehrerin	Verehrerin	TAG=N,TAG=DAT,TAG=SG
+Verehrerin	Verehrerinnen	TAG=N,TAG=ACC,TAG=PL
+Verehrerin	Verehrerin	TAG=N,TAG=ACC,TAG=SG
+Verehrerin	Verehrerinnen	TAG=N,TAG=DAT,TAG=PL
+
+Grunzer	Grunzer	TAG=N,TAG=LEMMA
+Grunzer	Grunzer	TAG=N,TAG=GEN,TAG=PL
+Grunzer	Grunzer	TAG=N,TAG=NOM,TAG=PL
+Grunzer	Grunzers	TAG=N,TAG=GEN,TAG=SG
+Grunzer	Grunzer	TAG=N,TAG=NOM,TAG=SG
+Grunzer	Grunzer	TAG=N,TAG=DAT,TAG=SG
+Grunzer	Grunzer	TAG=N,TAG=ACC,TAG=PL
+Grunzer	Grunzer	TAG=N,TAG=ACC,TAG=SG
+Grunzer	Grunzern	TAG=N,TAG=DAT,TAG=PL
+
+Spot	Spot	TAG=N,TAG=LEMMA
+Spot	Spots	TAG=N,TAG=GEN,TAG=PL
+Spot	Spots	TAG=N,TAG=NOM,TAG=PL
+Spot	Spots	TAG=N,TAG=GEN,TAG=SG
+Spot	Spot	TAG=N,TAG=NOM,TAG=SG
+Spot	Spot	TAG=N,TAG=DAT,TAG=SG
+Spot	Spots	TAG=N,TAG=ACC,TAG=PL
+Spot	Spot	TAG=N,TAG=ACC,TAG=SG
+Spot	Spots	TAG=N,TAG=DAT,TAG=PL
+
+Albtraum	Albtraum	TAG=N,TAG=LEMMA
+Albtraum	Albträume	TAG=N,TAG=GEN,TAG=PL
+Albtraum	Albträume	TAG=N,TAG=NOM,TAG=PL
+Albtraum	Albtraums	TAG=N,TAG=GEN,TAG=SG
+Albtraum	Albtraum	TAG=N,TAG=NOM,TAG=SG
+Albtraum	Albtraum	TAG=N,TAG=DAT,TAG=SG
+Albtraum	Albträume	TAG=N,TAG=ACC,TAG=PL
+Albtraum	Albtraum	TAG=N,TAG=ACC,TAG=SG
+Albtraum	Albträumen	TAG=N,TAG=DAT,TAG=PL
+
+Befriedigung	Befriedigung	TAG=N,TAG=LEMMA
+Befriedigung	Befriedigungen	TAG=N,TAG=GEN,TAG=PL
+Befriedigung	Befriedigungen	TAG=N,TAG=NOM,TAG=PL
+Befriedigung	Befriedigung	TAG=N,TAG=GEN,TAG=SG
+Befriedigung	Befriedigung	TAG=N,TAG=NOM,TAG=SG
+Befriedigung	Befriedigung	TAG=N,TAG=DAT,TAG=SG
+Befriedigung	Befriedigungen	TAG=N,TAG=ACC,TAG=PL
+Befriedigung	Befriedigung	TAG=N,TAG=ACC,TAG=SG
+Befriedigung	Befriedigungen	TAG=N,TAG=DAT,TAG=PL
+
+Ammenmärchen	Ammenmärchen	TAG=N,TAG=LEMMA
+Ammenmärchen	Ammenmärchen	TAG=N,TAG=GEN,TAG=PL
+Ammenmärchen	Ammenmärchen	TAG=N,TAG=NOM,TAG=PL
+Ammenmärchen	Ammenmärchens	TAG=N,TAG=GEN,TAG=SG
+Ammenmärchen	Ammenmärchen	TAG=N,TAG=NOM,TAG=SG
+Ammenmärchen	Ammenmärchen	TAG=N,TAG=DAT,TAG=SG
+Ammenmärchen	Ammenmärchen	TAG=N,TAG=ACC,TAG=PL
+Ammenmärchen	Ammenmärchen	TAG=N,TAG=ACC,TAG=SG
+Ammenmärchen	Ammenmärchen	TAG=N,TAG=DAT,TAG=PL
+
+Frisur	Frisur	TAG=N,TAG=LEMMA
+Frisur	Frisuren	TAG=N,TAG=GEN,TAG=PL
+Frisur	Frisuren	TAG=N,TAG=NOM,TAG=PL
+Frisur	Frisur	TAG=N,TAG=GEN,TAG=SG
+Frisur	Frisur	TAG=N,TAG=NOM,TAG=SG
+Frisur	Frisur	TAG=N,TAG=DAT,TAG=SG
+Frisur	Frisuren	TAG=N,TAG=ACC,TAG=PL
+Frisur	Frisur	TAG=N,TAG=ACC,TAG=SG
+Frisur	Frisuren	TAG=N,TAG=DAT,TAG=PL
+
+auslachen	auslachen	TAG=V,TAG=LEMMA
+auslachen	lachen aus	TAG=V,TAG=SBJV,TAG=PRS,TAG=3,TAG=PL
+auslachen	lachte aus	TAG=V,TAG=SBJV,TAG=PST,TAG=1,TAG=SG
+auslachen	lachen aus	TAG=V,TAG=IND,TAG=PRS,TAG=1,TAG=PL
+auslachen	auslachend	TAG=V.PTCP,TAG=PRS
+auslachen	lachtet aus	TAG=V,TAG=IND,TAG=PST,TAG=2,TAG=PL
+auslachen	lach aus	TAG=V,TAG=IMP,TAG=2,TAG=SG
+auslachen	lachtet aus	TAG=V,TAG=SBJV,TAG=PST,TAG=2,TAG=PL
+auslachen	lachte aus	TAG=V,TAG=SBJV,TAG=PST,TAG=3,TAG=SG
+auslachen	auslachen	TAG=V,TAG=NFIN
+auslachen	lachen aus	TAG=V,TAG=IND,TAG=PRS,TAG=3,TAG=PL
+auslachen	lacht aus	TAG=V,TAG=IND,TAG=PRS,TAG=2,TAG=PL
+auslachen	lachen aus	TAG=V,TAG=SBJV,TAG=PRS,TAG=1,TAG=PL
+auslachen	lachten aus	TAG=V,TAG=IND,TAG=PST,TAG=1,TAG=PL
+auslachen	lache aus	TAG=V,TAG=SBJV,TAG=PRS,TAG=3,TAG=SG
+auslachen	lachten aus	TAG=V,TAG=IND,TAG=PST,TAG=3,TAG=PL
+auslachen	lacht aus	TAG=V,TAG=IMP,TAG=2,TAG=PL
+auslachen	ausgelacht	TAG=V.PTCP,TAG=PST
+auslachen	lachten aus	TAG=V,TAG=SBJV,TAG=PST,TAG=3,TAG=PL
+auslachen	lache aus	TAG=V,TAG=IND,TAG=PRS,TAG=1,TAG=SG
+auslachen	lache aus	TAG=V,TAG=SBJV,TAG=PRS,TAG=1,TAG=SG
+auslachen	lacht aus	TAG=V,TAG=IND,TAG=PRS,TAG=3,TAG=SG
+auslachen	lachet aus	TAG=V,TAG=SBJV,TAG=PRS,TAG=2,TAG=PL
+auslachen	lachtest aus	TAG=V,TAG=IND,TAG=PST,TAG=2,TAG=SG
+auslachen	lachten aus	TAG=V,TAG=SBJV,TAG=PST,TAG=1,TAG=PL
+auslachen	lachte aus	TAG=V,TAG=IND,TAG=PST,TAG=1,TAG=SG
+auslachen	lachtest aus	TAG=V,TAG=SBJV,TAG=PST,TAG=2,TAG=SG
+auslachen	lachst aus	TAG=V,TAG=IND,TAG=PRS,TAG=2,TAG=SG
+auslachen	lachest aus	TAG=V,TAG=SBJV,TAG=PRS,TAG=2,TAG=SG
+auslachen	lachte aus	TAG=V,TAG=IND,TAG=PST,TAG=3,TAG=SG
+
+wittern	wittern	TAG=V,TAG=LEMMA
+wittern	wittern	TAG=V,TAG=SBJV,TAG=PRS,TAG=3,TAG=PL
+wittern	witterte	TAG=V,TAG=SBJV,TAG=PST,TAG=1,TAG=SG
+wittern	wittern	TAG=V,TAG=IND,TAG=PRS,TAG=1,TAG=PL
+wittern	witternd	TAG=V.PTCP,TAG=PRS
+wittern	wittertet	TAG=V,TAG=IND,TAG=PST,TAG=2,TAG=PL
+wittern	wittre	TAG=V,TAG=IMP,TAG=2,TAG=SG
+wittern	wittertet	TAG=V,TAG=SBJV,TAG=PST,TAG=2,TAG=PL
+wittern	witterte	TAG=V,TAG=SBJV,TAG=PST,TAG=3,TAG=SG
+wittern	wittern	TAG=V,TAG=NFIN
+wittern	wittern	TAG=V,TAG=IND,TAG=PRS,TAG=3,TAG=PL
+wittern	wittert	TAG=V,TAG=IND,TAG=PRS,TAG=2,TAG=PL
+wittern	wittern	TAG=V,TAG=SBJV,TAG=PRS,TAG=1,TAG=PL
+wittern	witterten	TAG=V,TAG=IND,TAG=PST,TAG=1,TAG=PL
+wittern	wittere	TAG=V,TAG=SBJV,TAG=PRS,TAG=3,TAG=SG
+wittern	witterten	TAG=V,TAG=IND,TAG=PST,TAG=3,TAG=PL
+wittern	wittert	TAG=V,TAG=IMP,TAG=2,TAG=PL
+wittern	gewittert	TAG=V.PTCP,TAG=PST
+wittern	witterten	TAG=V,TAG=SBJV,TAG=PST,TAG=3,TAG=PL
+wittern	wittre	TAG=V,TAG=IND,TAG=PRS,TAG=1,TAG=SG
+wittern	wittere	TAG=V,TAG=SBJV,TAG=PRS,TAG=1,TAG=SG
+wittern	wittert	TAG=V,TAG=IND,TAG=PRS,TAG=3,TAG=SG
+wittern	witteret	TAG=V,TAG=SBJV,TAG=PRS,TAG=2,TAG=PL
+wittern	wittertest	TAG=V,TAG=IND,TAG=PST,TAG=2,TAG=SG
+wittern	witterten	TAG=V,TAG=SBJV,TAG=PST,TAG=1,TAG=PL
+wittern	witterte	TAG=V,TAG=IND,TAG=PST,TAG=1,TAG=SG
+wittern	wittertest	TAG=V,TAG=SBJV,TAG=PST,TAG=2,TAG=SG
+wittern	witterst	TAG=V,TAG=IND,TAG=PRS,TAG=2,TAG=SG
+wittern	witterest	TAG=V,TAG=SBJV,TAG=PRS,TAG=2,TAG=SG
+wittern	witterte	TAG=V,TAG=IND,TAG=PST,TAG=3,TAG=SG
+
+Grindwal	Grindwal	TAG=N,TAG=LEMMA
+Grindwal	Grindwale	TAG=N,TAG=GEN,TAG=PL
+Grindwal	Grindwale	TAG=N,TAG=NOM,TAG=PL
+Grindwal	Grindwales	TAG=N,TAG=GEN,TAG=SG
+Grindwal	Grindwal	TAG=N,TAG=NOM,TAG=SG
+Grindwal	Grindwal	TAG=N,TAG=DAT,TAG=SG
+Grindwal	Grindwale	TAG=N,TAG=ACC,TAG=PL
+Grindwal	Grindwal	TAG=N,TAG=ACC,TAG=SG
+Grindwal	Grindwalen	TAG=N,TAG=DAT,TAG=PL
+
+Produktionsmittel	Produktionsmittel	TAG=N,TAG=LEMMA
+Produktionsmittel	Produktionsmittel	TAG=N,TAG=GEN,TAG=PL
+Produktionsmittel	Produktionsmittel	TAG=N,TAG=NOM,TAG=PL
+Produktionsmittel	Produktionsmittels	TAG=N,TAG=GEN,TAG=SG
+Produktionsmittel	Produktionsmittel	TAG=N,TAG=NOM,TAG=SG
+Produktionsmittel	Produktionsmittel	TAG=N,TAG=DAT,TAG=SG
+Produktionsmittel	Produktionsmittel	TAG=N,TAG=ACC,TAG=PL
+Produktionsmittel	Produktionsmittel	TAG=N,TAG=ACC,TAG=SG
+Produktionsmittel	Produktionsmitteln	TAG=N,TAG=DAT,TAG=PL
+
+Rauschgelb	Rauschgelb	TAG=N,TAG=LEMMA
+Rauschgelb	Rauschgelbe	TAG=N,TAG=GEN,TAG=PL
+Rauschgelb	Rauschgelbe	TAG=N,TAG=NOM,TAG=PL
+Rauschgelb	Rauschgelbs	TAG=N,TAG=GEN,TAG=SG
+Rauschgelb	Rauschgelb	TAG=N,TAG=NOM,TAG=SG
+Rauschgelb	Rauschgelb	TAG=N,TAG=DAT,TAG=SG
+Rauschgelb	Rauschgelbe	TAG=N,TAG=ACC,TAG=PL
+Rauschgelb	Rauschgelb	TAG=N,TAG=ACC,TAG=SG
+Rauschgelb	Rauschgelben	TAG=N,TAG=DAT,TAG=PL
+
+erweisen	erweisen	TAG=V,TAG=LEMMA
+erweisen	erweisen	TAG=V,TAG=SBJV,TAG=PRS,TAG=3,TAG=PL
+erweisen	erwiese	TAG=V,TAG=SBJV,TAG=PST,TAG=1,TAG=SG
+erweisen	erweisen	TAG=V,TAG=IND,TAG=PRS,TAG=1,TAG=PL
+erweisen	erweisend	TAG=V.PTCP,TAG=PRS
+erweisen	erwiest	TAG=V,TAG=IND,TAG=PST,TAG=2,TAG=PL
+erweisen	erweis	TAG=V,TAG=IMP,TAG=2,TAG=SG
+erweisen	erwieset	TAG=V,TAG=SBJV,TAG=PST,TAG=2,TAG=PL
+erweisen	erwiese	TAG=V,TAG=SBJV,TAG=PST,TAG=3,TAG=SG
+erweisen	erweisen	TAG=V,TAG=NFIN
+erweisen	erweisen	TAG=V,TAG=IND,TAG=PRS,TAG=3,TAG=PL
+erweisen	erweist	TAG=V,TAG=IND,TAG=PRS,TAG=2,TAG=PL
+erweisen	erweisen	TAG=V,TAG=SBJV,TAG=PRS,TAG=1,TAG=PL
+erweisen	erwiesen	TAG=V,TAG=IND,TAG=PST,TAG=1,TAG=PL
+erweisen	erweise	TAG=V,TAG=SBJV,TAG=PRS,TAG=3,TAG=SG
+erweisen	erwiesen	TAG=V,TAG=IND,TAG=PST,TAG=3,TAG=PL
+erweisen	erweist	TAG=V,TAG=IMP,TAG=2,TAG=PL
+erweisen	erwiesen	TAG=V.PTCP,TAG=PST
+erweisen	erwiesen	TAG=V,TAG=SBJV,TAG=PST,TAG=3,TAG=PL
+erweisen	erweise	TAG=V,TAG=IND,TAG=PRS,TAG=1,TAG=SG
+erweisen	erweise	TAG=V,TAG=SBJV,TAG=PRS,TAG=1,TAG=SG
+erweisen	erweist	TAG=V,TAG=IND,TAG=PRS,TAG=3,TAG=SG
+erweisen	erweiset	TAG=V,TAG=SBJV,TAG=PRS,TAG=2,TAG=PL
+erweisen	erwiest	TAG=V,TAG=IND,TAG=PST,TAG=2,TAG=SG
+erweisen	erwiesen	TAG=V,TAG=SBJV,TAG=PST,TAG=1,TAG=PL
+erweisen	erwies	TAG=V,TAG=IND,TAG=PST,TAG=1,TAG=SG
+erweisen	erwiesest	TAG=V,TAG=SBJV,TAG=PST,TAG=2,TAG=SG
+erweisen	erweist	TAG=V,TAG=IND,TAG=PRS,TAG=2,TAG=SG
+erweisen	erweisest	TAG=V,TAG=SBJV,TAG=PRS,TAG=2,TAG=SG
+erweisen	erwies	TAG=V,TAG=IND,TAG=PST,TAG=3,TAG=SG
+
+Innerorbitalkomplex	Innerorbitalkomplex	TAG=N,TAG=LEMMA
+Innerorbitalkomplex	Innerorbitalkomplexe	TAG=N,TAG=GEN,TAG=PL
+Innerorbitalkomplex	Innerorbitalkomplexe	TAG=N,TAG=NOM,TAG=PL
+Innerorbitalkomplex	Innerorbitalkomplexes	TAG=N,TAG=GEN,TAG=SG
+Innerorbitalkomplex	Innerorbitalkomplex	TAG=N,TAG=NOM,TAG=SG
+Innerorbitalkomplex	Innerorbitalkomplex	TAG=N,TAG=DAT,TAG=SG
+Innerorbitalkomplex	Innerorbitalkomplexe	TAG=N,TAG=ACC,TAG=PL
+Innerorbitalkomplex	Innerorbitalkomplex	TAG=N,TAG=ACC,TAG=SG
+Innerorbitalkomplex	Innerorbitalkomplexen	TAG=N,TAG=DAT,TAG=PL
+
+Wandelstern	Wandelstern	TAG=N,TAG=LEMMA
+Wandelstern	Wandelsterne	TAG=N,TAG=GEN,TAG=PL
+Wandelstern	Wandelsterne	TAG=N,TAG=NOM,TAG=PL
+Wandelstern	Wandelsternes	TAG=N,TAG=GEN,TAG=SG
+Wandelstern	Wandelstern	TAG=N,TAG=NOM,TAG=SG
+Wandelstern	Wandelstern	TAG=N,TAG=DAT,TAG=SG
+Wandelstern	Wandelsterne	TAG=N,TAG=ACC,TAG=PL
+Wandelstern	Wandelstern	TAG=N,TAG=ACC,TAG=SG
+Wandelstern	Wandelsternen	TAG=N,TAG=DAT,TAG=PL
+
+bangen	bangen	TAG=V,TAG=LEMMA
+bangen	bangen	TAG=V,TAG=SBJV,TAG=PRS,TAG=3,TAG=PL
+bangen	bangte	TAG=V,TAG=SBJV,TAG=PST,TAG=1,TAG=SG
+bangen	bangen	TAG=V,TAG=IND,TAG=PRS,TAG=1,TAG=PL
+bangen	bangend	TAG=V.PTCP,TAG=PRS
+bangen	bangtet	TAG=V,TAG=IND,TAG=PST,TAG=2,TAG=PL
+bangen	bang	TAG=V,TAG=IMP,TAG=2,TAG=SG
+bangen	bangtet	TAG=V,TAG=SBJV,TAG=PST,TAG=2,TAG=PL
+bangen	bangte	TAG=V,TAG=SBJV,TAG=PST,TAG=3,TAG=SG
+bangen	bangen	TAG=V,TAG=NFIN
+bangen	bangen	TAG=V,TAG=IND,TAG=PRS,TAG=3,TAG=PL
+bangen	bangt	TAG=V,TAG=IND,TAG=PRS,TAG=2,TAG=PL
+bangen	bangen	TAG=V,TAG=SBJV,TAG=PRS,TAG=1,TAG=PL
+bangen	bangten	TAG=V,TAG=IND,TAG=PST,TAG=1,TAG=PL
+bangen	bange	TAG=V,TAG=SBJV,TAG=PRS,TAG=3,TAG=SG
+bangen	bangten	TAG=V,TAG=IND,TAG=PST,TAG=3,TAG=PL
+bangen	bangt	TAG=V,TAG=IMP,TAG=2,TAG=PL
+bangen	gebangt	TAG=V.PTCP,TAG=PST
+bangen	bangten	TAG=V,TAG=SBJV,TAG=PST,TAG=3,TAG=PL
+bangen	bange	TAG=V,TAG=IND,TAG=PRS,TAG=1,TAG=SG
+bangen	bange	TAG=V,TAG=SBJV,TAG=PRS,TAG=1,TAG=SG
+bangen	bangt	TAG=V,TAG=IND,TAG=PRS,TAG=3,TAG=SG
+bangen	banget	TAG=V,TAG=SBJV,TAG=PRS,TAG=2,TAG=PL
+bangen	bangtest	TAG=V,TAG=IND,TAG=PST,TAG=2,TAG=SG
+bangen	bangten	TAG=V,TAG=SBJV,TAG=PST,TAG=1,TAG=PL
+bangen	bangte	TAG=V,TAG=IND,TAG=PST,TAG=1,TAG=SG
+bangen	bangtest	TAG=V,TAG=SBJV,TAG=PST,TAG=2,TAG=SG
+bangen	bangst	TAG=V,TAG=IND,TAG=PRS,TAG=2,TAG=SG
+bangen	bangest	TAG=V,TAG=SBJV,TAG=PRS,TAG=2,TAG=SG
+bangen	bangte	TAG=V,TAG=IND,TAG=PST,TAG=3,TAG=SG
+
+Stieftochter	Stieftochter	TAG=N,TAG=LEMMA
+Stieftochter	Stieftöchter	TAG=N,TAG=GEN,TAG=PL
+Stieftochter	Stieftöchter	TAG=N,TAG=NOM,TAG=PL
+Stieftochter	Stieftochter	TAG=N,TAG=GEN,TAG=SG
+Stieftochter	Stieftochter	TAG=N,TAG=NOM,TAG=SG
+Stieftochter	Stieftochter	TAG=N,TAG=DAT,TAG=SG
+Stieftochter	Stieftöchter	TAG=N,TAG=ACC,TAG=PL
+Stieftochter	Stieftochter	TAG=N,TAG=ACC,TAG=SG
+Stieftochter	Stieftöchtern	TAG=N,TAG=DAT,TAG=PL
+
+Nachäffung	Nachäffung	TAG=N,TAG=LEMMA
+Nachäffung	Nachäffungen	TAG=N,TAG=GEN,TAG=PL
+Nachäffung	Nachäffungen	TAG=N,TAG=NOM,TAG=PL
+Nachäffung	Nachäffung	TAG=N,TAG=GEN,TAG=SG
+Nachäffung	Nachäffung	TAG=N,TAG=NOM,TAG=SG
+Nachäffung	Nachäffung	TAG=N,TAG=DAT,TAG=SG
+Nachäffung	Nachäffungen	TAG=N,TAG=ACC,TAG=PL
+Nachäffung	Nachäffung	TAG=N,TAG=ACC,TAG=SG
+Nachäffung	Nachäffungen	TAG=N,TAG=DAT,TAG=PL
+
+Gedächtnis	Gedächtnis	TAG=N,TAG=LEMMA
+Gedächtnis	Gedächtnisse	TAG=N,TAG=GEN,TAG=PL
+Gedächtnis	Gedächtnisse	TAG=N,TAG=NOM,TAG=PL
+Gedächtnis	Gedächtnisses	TAG=N,TAG=GEN,TAG=SG
+Gedächtnis	Gedächtnis	TAG=N,TAG=NOM,TAG=SG
+Gedächtnis	Gedächtnis	TAG=N,TAG=DAT,TAG=SG
+Gedächtnis	Gedächtnisse	TAG=N,TAG=ACC,TAG=PL
+Gedächtnis	Gedächtnis	TAG=N,TAG=ACC,TAG=SG
+Gedächtnis	Gedächtnissen	TAG=N,TAG=DAT,TAG=PL
+
+Puppenspieler	Puppenspieler	TAG=N,TAG=LEMMA
+Puppenspieler	Puppenspieler	TAG=N,TAG=GEN,TAG=PL
+Puppenspieler	Puppenspieler	TAG=N,TAG=NOM,TAG=PL
+Puppenspieler	Puppenspielers	TAG=N,TAG=GEN,TAG=SG
+Puppenspieler	Puppenspieler	TAG=N,TAG=NOM,TAG=SG
+Puppenspieler	Puppenspieler	TAG=N,TAG=DAT,TAG=SG
+Puppenspieler	Puppenspieler	TAG=N,TAG=ACC,TAG=PL
+Puppenspieler	Puppenspieler	TAG=N,TAG=ACC,TAG=SG
+Puppenspieler	Puppenspielern	TAG=N,TAG=DAT,TAG=PL
+
+lehnen	lehnen	TAG=V,TAG=LEMMA
+lehnen	lehnen	TAG=V,TAG=SBJV,TAG=PRS,TAG=3,TAG=PL
+lehnen	lehnte	TAG=V,TAG=SBJV,TAG=PST,TAG=1,TAG=SG
+lehnen	lehnen	TAG=V,TAG=IND,TAG=PRS,TAG=1,TAG=PL
+lehnen	lehnend	TAG=V.PTCP,TAG=PRS
+lehnen	lehntet	TAG=V,TAG=IND,TAG=PST,TAG=2,TAG=PL
+lehnen	lehn	TAG=V,TAG=IMP,TAG=2,TAG=SG
+lehnen	lehntet	TAG=V,TAG=SBJV,TAG=PST,TAG=2,TAG=PL
+lehnen	lehnte	TAG=V,TAG=SBJV,TAG=PST,TAG=3,TAG=SG
+lehnen	lehnen	TAG=V,TAG=NFIN
+lehnen	lehnen	TAG=V,TAG=IND,TAG=PRS,TAG=3,TAG=PL
+lehnen	lehnt	TAG=V,TAG=IND,TAG=PRS,TAG=2,TAG=PL
+lehnen	lehnen	TAG=V,TAG=SBJV,TAG=PRS,TAG=1,TAG=PL
+lehnen	lehnten	TAG=V,TAG=IND,TAG=PST,TAG=1,TAG=PL
+lehnen	lehne	TAG=V,TAG=SBJV,TAG=PRS,TAG=3,TAG=SG
+lehnen	lehnten	TAG=V,TAG=IND,TAG=PST,TAG=3,TAG=PL
+lehnen	lehnt	TAG=V,TAG=IMP,TAG=2,TAG=PL
+lehnen	gelehnt	TAG=V.PTCP,TAG=PST
+lehnen	lehnten	TAG=V,TAG=SBJV,TAG=PST,TAG=3,TAG=PL
+lehnen	lehne	TAG=V,TAG=IND,TAG=PRS,TAG=1,TAG=SG
+lehnen	lehne	TAG=V,TAG=SBJV,TAG=PRS,TAG=1,TAG=SG
+lehnen	lehnt	TAG=V,TAG=IND,TAG=PRS,TAG=3,TAG=SG
+lehnen	lehnet	TAG=V,TAG=SBJV,TAG=PRS,TAG=2,TAG=PL
+lehnen	lehntest	TAG=V,TAG=IND,TAG=PST,TAG=2,TAG=SG
+lehnen	lehnten	TAG=V,TAG=SBJV,TAG=PST,TAG=1,TAG=PL
+lehnen	lehnte	TAG=V,TAG=IND,TAG=PST,TAG=1,TAG=SG
+lehnen	lehntest	TAG=V,TAG=SBJV,TAG=PST,TAG=2,TAG=SG
+lehnen	lehnst	TAG=V,TAG=IND,TAG=PRS,TAG=2,TAG=SG
+lehnen	lehnest	TAG=V,TAG=SBJV,TAG=PRS,TAG=2,TAG=SG
+lehnen	lehnte	TAG=V,TAG=IND,TAG=PST,TAG=3,TAG=SG
+
+Apfelblüte	Apfelblüte	TAG=N,TAG=LEMMA
+Apfelblüte	Apfelblüten	TAG=N,TAG=GEN,TAG=PL
+Apfelblüte	Apfelblüten	TAG=N,TAG=NOM,TAG=PL
+Apfelblüte	Apfelblüte	TAG=N,TAG=GEN,TAG=SG
+Apfelblüte	Apfelblüte	TAG=N,TAG=NOM,TAG=SG
+Apfelblüte	Apfelblüte	TAG=N,TAG=DAT,TAG=SG
+Apfelblüte	Apfelblüten	TAG=N,TAG=ACC,TAG=PL
+Apfelblüte	Apfelblüte	TAG=N,TAG=ACC,TAG=SG
+Apfelblüte	Apfelblüten	TAG=N,TAG=DAT,TAG=PL
+
+Dampfturbine	Dampfturbine	TAG=N,TAG=LEMMA
+Dampfturbine	Dampfturbinen	TAG=N,TAG=GEN,TAG=PL
+Dampfturbine	Dampfturbinen	TAG=N,TAG=NOM,TAG=PL
+Dampfturbine	Dampfturbine	TAG=N,TAG=GEN,TAG=SG
+Dampfturbine	Dampfturbine	TAG=N,TAG=NOM,TAG=SG
+Dampfturbine	Dampfturbine	TAG=N,TAG=DAT,TAG=SG
+Dampfturbine	Dampfturbinen	TAG=N,TAG=ACC,TAG=PL
+Dampfturbine	Dampfturbine	TAG=N,TAG=ACC,TAG=SG
+Dampfturbine	Dampfturbinen	TAG=N,TAG=DAT,TAG=PL
+
+Aubergine	Aubergine	TAG=N,TAG=LEMMA
+Aubergine	Auberginen	TAG=N,TAG=GEN,TAG=PL
+Aubergine	Auberginen	TAG=N,TAG=NOM,TAG=PL
+Aubergine	Aubergine	TAG=N,TAG=GEN,TAG=SG
+Aubergine	Aubergine	TAG=N,TAG=NOM,TAG=SG
+Aubergine	Aubergine	TAG=N,TAG=DAT,TAG=SG
+Aubergine	Auberginen	TAG=N,TAG=ACC,TAG=PL
+Aubergine	Aubergine	TAG=N,TAG=ACC,TAG=SG
+Aubergine	Auberginen	TAG=N,TAG=DAT,TAG=PL
+
+Arsentriiodid	Arsentriiodid	TAG=N,TAG=LEMMA
+Arsentriiodid	Arsentriiodide	TAG=N,TAG=GEN,TAG=PL
+Arsentriiodid	Arsentriiodide	TAG=N,TAG=NOM,TAG=PL
+Arsentriiodid	Arsentriiodids	TAG=N,TAG=GEN,TAG=SG
+Arsentriiodid	Arsentriiodid	TAG=N,TAG=NOM,TAG=SG
+Arsentriiodid	Arsentriiodid	TAG=N,TAG=DAT,TAG=SG
+Arsentriiodid	Arsentriiodide	TAG=N,TAG=ACC,TAG=PL
+Arsentriiodid	Arsentriiodid	TAG=N,TAG=ACC,TAG=SG
+Arsentriiodid	Arsentriiodiden	TAG=N,TAG=DAT,TAG=PL
+
+drohen	drohen	TAG=V,TAG=LEMMA
+drohen	drohen	TAG=V,TAG=SBJV,TAG=PRS,TAG=3,TAG=PL
+drohen	drohte	TAG=V,TAG=SBJV,TAG=PST,TAG=1,TAG=SG
+drohen	drohen	TAG=V,TAG=IND,TAG=PRS,TAG=1,TAG=PL
+drohen	drohend	TAG=V.PTCP,TAG=PRS
+drohen	drohtet	TAG=V,TAG=IND,TAG=PST,TAG=2,TAG=PL
+drohen	droh	TAG=V,TAG=IMP,TAG=2,TAG=SG
+drohen	drohtet	TAG=V,TAG=SBJV,TAG=PST,TAG=2,TAG=PL
+drohen	drohte	TAG=V,TAG=SBJV,TAG=PST,TAG=3,TAG=SG
+drohen	drohen	TAG=V,TAG=NFIN
+drohen	drohen	TAG=V,TAG=IND,TAG=PRS,TAG=3,TAG=PL
+drohen	droht	TAG=V,TAG=IND,TAG=PRS,TAG=2,TAG=PL
+drohen	drohen	TAG=V,TAG=SBJV,TAG=PRS,TAG=1,TAG=PL
+drohen	drohten	TAG=V,TAG=IND,TAG=PST,TAG=1,TAG=PL
+drohen	drohe	TAG=V,TAG=SBJV,TAG=PRS,TAG=3,TAG=SG
+drohen	drohten	TAG=V,TAG=IND,TAG=PST,TAG=3,TAG=PL
+drohen	droht	TAG=V,TAG=IMP,TAG=2,TAG=PL
+drohen	gedroht	TAG=V.PTCP,TAG=PST
+drohen	drohten	TAG=V,TAG=SBJV,TAG=PST,TAG=3,TAG=PL
+drohen	drohe	TAG=V,TAG=IND,TAG=PRS,TAG=1,TAG=SG
+drohen	drohe	TAG=V,TAG=SBJV,TAG=PRS,TAG=1,TAG=SG
+drohen	droht	TAG=V,TAG=IND,TAG=PRS,TAG=3,TAG=SG
+drohen	drohet	TAG=V,TAG=SBJV,TAG=PRS,TAG=2,TAG=PL
+drohen	drohtest	TAG=V,TAG=IND,TAG=PST,TAG=2,TAG=SG
+drohen	drohten	TAG=V,TAG=SBJV,TAG=PST,TAG=1,TAG=PL
+drohen	drohte	TAG=V,TAG=IND,TAG=PST,TAG=1,TAG=SG
+drohen	drohtest	TAG=V,TAG=SBJV,TAG=PST,TAG=2,TAG=SG
+drohen	drohst	TAG=V,TAG=IND,TAG=PRS,TAG=2,TAG=SG
+drohen	drohest	TAG=V,TAG=SBJV,TAG=PRS,TAG=2,TAG=SG
+drohen	drohte	TAG=V,TAG=IND,TAG=PST,TAG=3,TAG=SG
+
+Ölquelle	Ölquelle	TAG=N,TAG=LEMMA
+Ölquelle	Ölquellen	TAG=N,TAG=GEN,TAG=PL
+Ölquelle	Ölquellen	TAG=N,TAG=NOM,TAG=PL
+Ölquelle	Ölquelle	TAG=N,TAG=GEN,TAG=SG
+Ölquelle	Ölquelle	TAG=N,TAG=NOM,TAG=SG
+Ölquelle	Ölquelle	TAG=N,TAG=DAT,TAG=SG
+Ölquelle	Ölquellen	TAG=N,TAG=ACC,TAG=PL
+Ölquelle	Ölquelle	TAG=N,TAG=ACC,TAG=SG
+Ölquelle	Ölquellen	TAG=N,TAG=DAT,TAG=PL
+
+Petunie	Petunie	TAG=N,TAG=LEMMA
+Petunie	Petunien	TAG=N,TAG=GEN,TAG=PL
+Petunie	Petunien	TAG=N,TAG=NOM,TAG=PL
+Petunie	Petunie	TAG=N,TAG=GEN,TAG=SG
+Petunie	Petunie	TAG=N,TAG=NOM,TAG=SG
+Petunie	Petunie	TAG=N,TAG=DAT,TAG=SG
+Petunie	Petunien	TAG=N,TAG=ACC,TAG=PL
+Petunie	Petunie	TAG=N,TAG=ACC,TAG=SG
+Petunie	Petunien	TAG=N,TAG=DAT,TAG=PL
+
+Zwecke	Zwecke	TAG=N,TAG=LEMMA
+Zwecke	Zwecken	TAG=N,TAG=GEN,TAG=PL
+Zwecke	Zwecken	TAG=N,TAG=NOM,TAG=PL
+Zwecke	Zwecke	TAG=N,TAG=GEN,TAG=SG
+Zwecke	Zwecke	TAG=N,TAG=NOM,TAG=SG
+Zwecke	Zwecke	TAG=N,TAG=DAT,TAG=SG
+Zwecke	Zwecken	TAG=N,TAG=ACC,TAG=PL
+Zwecke	Zwecke	TAG=N,TAG=ACC,TAG=SG
+Zwecke	Zwecken	TAG=N,TAG=DAT,TAG=PL
+
+Zellkern	Zellkern	TAG=N,TAG=LEMMA
+Zellkern	Zellkerne	TAG=N,TAG=GEN,TAG=PL
+Zellkern	Zellkerne	TAG=N,TAG=NOM,TAG=PL
+Zellkern	Zellkernes	TAG=N,TAG=GEN,TAG=SG
+Zellkern	Zellkern	TAG=N,TAG=NOM,TAG=SG
+Zellkern	Zellkern	TAG=N,TAG=DAT,TAG=SG
+Zellkern	Zellkerne	TAG=N,TAG=ACC,TAG=PL
+Zellkern	Zellkern	TAG=N,TAG=ACC,TAG=SG
+Zellkern	Zellkernen	TAG=N,TAG=DAT,TAG=PL
+
+bekränzen	bekränzen	TAG=V,TAG=LEMMA
+bekränzen	bekränzen	TAG=V,TAG=SBJV,TAG=PRS,TAG=3,TAG=PL
+bekränzen	bekränzte	TAG=V,TAG=SBJV,TAG=PST,TAG=1,TAG=SG
+bekränzen	bekränzen	TAG=V,TAG=IND,TAG=PRS,TAG=1,TAG=PL
+bekränzen	bekränzend	TAG=V.PTCP,TAG=PRS
+bekränzen	bekränztet	TAG=V,TAG=IND,TAG=PST,TAG=2,TAG=PL
+bekränzen	bekränz	TAG=V,TAG=IMP,TAG=2,TAG=SG
+bekränzen	bekränztet	TAG=V,TAG=SBJV,TAG=PST,TAG=2,TAG=PL
+bekränzen	bekränzte	TAG=V,TAG=SBJV,TAG=PST,TAG=3,TAG=SG
+bekränzen	bekränzen	TAG=V,TAG=NFIN
+bekränzen	bekränzen	TAG=V,TAG=IND,TAG=PRS,TAG=3,TAG=PL
+bekränzen	bekränzt	TAG=V,TAG=IND,TAG=PRS,TAG=2,TAG=PL
+bekränzen	bekränzen	TAG=V,TAG=SBJV,TAG=PRS,TAG=1,TAG=PL
+bekränzen	bekränzten	TAG=V,TAG=IND,TAG=PST,TAG=1,TAG=PL
+bekränzen	bekränze	TAG=V,TAG=SBJV,TAG=PRS,TAG=3,TAG=SG
+bekränzen	bekränzten	TAG=V,TAG=IND,TAG=PST,TAG=3,TAG=PL
+bekränzen	bekränzt	TAG=V,TAG=IMP,TAG=2,TAG=PL
+bekränzen	bekränzt	TAG=V.PTCP,TAG=PST
+bekränzen	bekränzten	TAG=V,TAG=SBJV,TAG=PST,TAG=3,TAG=PL
+bekränzen	bekränze	TAG=V,TAG=IND,TAG=PRS,TAG=1,TAG=SG
+bekränzen	bekränze	TAG=V,TAG=SBJV,TAG=PRS,TAG=1,TAG=SG
+bekränzen	bekränzt	TAG=V,TAG=IND,TAG=PRS,TAG=3,TAG=SG
+bekränzen	bekränzet	TAG=V,TAG=SBJV,TAG=PRS,TAG=2,TAG=PL
+bekränzen	bekränztest	TAG=V,TAG=IND,TAG=PST,TAG=2,TAG=SG
+bekränzen	bekränzten	TAG=V,TAG=SBJV,TAG=PST,TAG=1,TAG=PL
+bekränzen	bekränzte	TAG=V,TAG=IND,TAG=PST,TAG=1,TAG=SG
+bekränzen	bekränztest	TAG=V,TAG=SBJV,TAG=PST,TAG=2,TAG=SG
+bekränzen	bekränzt	TAG=V,TAG=IND,TAG=PRS,TAG=2,TAG=SG
+bekränzen	bekränzest	TAG=V,TAG=SBJV,TAG=PRS,TAG=2,TAG=SG
+bekränzen	bekränzte	TAG=V,TAG=IND,TAG=PST,TAG=3,TAG=SG
+
+Entschuldigung	Entschuldigung	TAG=N,TAG=LEMMA
+Entschuldigung	Entschuldigungen	TAG=N,TAG=GEN,TAG=PL
+Entschuldigung	Entschuldigungen	TAG=N,TAG=NOM,TAG=PL
+Entschuldigung	Entschuldigung	TAG=N,TAG=GEN,TAG=SG
+Entschuldigung	Entschuldigung	TAG=N,TAG=NOM,TAG=SG
+Entschuldigung	Entschuldigung	TAG=N,TAG=DAT,TAG=SG
+Entschuldigung	Entschuldigungen	TAG=N,TAG=ACC,TAG=PL
+Entschuldigung	Entschuldigung	TAG=N,TAG=ACC,TAG=SG
+Entschuldigung	Entschuldigungen	TAG=N,TAG=DAT,TAG=PL
+
+Verspätung	Verspätung	TAG=N,TAG=LEMMA
+Verspätung	Verspätungen	TAG=N,TAG=GEN,TAG=PL
+Verspätung	Verspätungen	TAG=N,TAG=NOM,TAG=PL
+Verspätung	Verspätung	TAG=N,TAG=GEN,TAG=SG
+Verspätung	Verspätung	TAG=N,TAG=NOM,TAG=SG
+Verspätung	Verspätung	TAG=N,TAG=DAT,TAG=SG
+Verspätung	Verspätungen	TAG=N,TAG=ACC,TAG=PL
+Verspätung	Verspätung	TAG=N,TAG=ACC,TAG=SG
+Verspätung	Verspätungen	TAG=N,TAG=DAT,TAG=PL
+
+Etage	Etage	TAG=N,TAG=LEMMA
+Etage	Etagen	TAG=N,TAG=GEN,TAG=PL
+Etage	Etagen	TAG=N,TAG=NOM,TAG=PL
+Etage	Etage	TAG=N,TAG=GEN,TAG=SG
+Etage	Etage	TAG=N,TAG=NOM,TAG=SG
+Etage	Etage	TAG=N,TAG=DAT,TAG=SG
+Etage	Etagen	TAG=N,TAG=ACC,TAG=PL
+Etage	Etage	TAG=N,TAG=ACC,TAG=SG
+Etage	Etagen	TAG=N,TAG=DAT,TAG=PL
+
+Reaktorunfall	Reaktorunfall	TAG=N,TAG=LEMMA
+Reaktorunfall	Reaktorunfälle	TAG=N,TAG=GEN,TAG=PL
+Reaktorunfall	Reaktorunfälle	TAG=N,TAG=NOM,TAG=PL
+Reaktorunfall	Reaktorunfalls	TAG=N,TAG=GEN,TAG=SG
+Reaktorunfall	Reaktorunfall	TAG=N,TAG=NOM,TAG=SG
+Reaktorunfall	Reaktorunfall	TAG=N,TAG=DAT,TAG=SG
+Reaktorunfall	Reaktorunfälle	TAG=N,TAG=ACC,TAG=PL
+Reaktorunfall	Reaktorunfall	TAG=N,TAG=ACC,TAG=SG
+Reaktorunfall	Reaktorunfällen	TAG=N,TAG=DAT,TAG=PL
+
+Geigerzähler	Geigerzähler	TAG=N,TAG=LEMMA
+Geigerzähler	Geigerzähler	TAG=N,TAG=GEN,TAG=PL
+Geigerzähler	Geigerzähler	TAG=N,TAG=NOM,TAG=PL
+Geigerzähler	Geigerzählers	TAG=N,TAG=GEN,TAG=SG
+Geigerzähler	Geigerzähler	TAG=N,TAG=NOM,TAG=SG
+Geigerzähler	Geigerzähler	TAG=N,TAG=DAT,TAG=SG
+Geigerzähler	Geigerzähler	TAG=N,TAG=ACC,TAG=PL
+Geigerzähler	Geigerzähler	TAG=N,TAG=ACC,TAG=SG
+Geigerzähler	Geigerzählern	TAG=N,TAG=DAT,TAG=PL
+
+Elastomer	Elastomer	TAG=N,TAG=LEMMA
+Elastomer	Elastomere	TAG=N,TAG=GEN,TAG=PL
+Elastomer	Elastomere	TAG=N,TAG=NOM,TAG=PL
+Elastomer	Elastomeres	TAG=N,TAG=GEN,TAG=SG
+Elastomer	Elastomer	TAG=N,TAG=NOM,TAG=SG
+Elastomer	Elastomer	TAG=N,TAG=DAT,TAG=SG
+Elastomer	Elastomere	TAG=N,TAG=ACC,TAG=PL
+Elastomer	Elastomer	TAG=N,TAG=ACC,TAG=SG
+Elastomer	Elastomeren	TAG=N,TAG=DAT,TAG=PL
+
+evangelisieren	evangelisieren	TAG=V,TAG=LEMMA
+evangelisieren	evangelisieren	TAG=V,TAG=SBJV,TAG=PRS,TAG=3,TAG=PL
+evangelisieren	evangelisierte	TAG=V,TAG=SBJV,TAG=PST,TAG=1,TAG=SG
+evangelisieren	evangelisieren	TAG=V,TAG=IND,TAG=PRS,TAG=1,TAG=PL
+evangelisieren	evangelisierend	TAG=V.PTCP,TAG=PRS
+evangelisieren	evangelisiertet	TAG=V,TAG=IND,TAG=PST,TAG=2,TAG=PL
+evangelisieren	evangelisier	TAG=V,TAG=IMP,TAG=2,TAG=SG
+evangelisieren	evangelisiertet	TAG=V,TAG=SBJV,TAG=PST,TAG=2,TAG=PL
+evangelisieren	evangelisierte	TAG=V,TAG=SBJV,TAG=PST,TAG=3,TAG=SG
+evangelisieren	evangelisieren	TAG=V,TAG=NFIN
+evangelisieren	evangelisieren	TAG=V,TAG=IND,TAG=PRS,TAG=3,TAG=PL
+evangelisieren	evangelisiert	TAG=V,TAG=IND,TAG=PRS,TAG=2,TAG=PL
+evangelisieren	evangelisieren	TAG=V,TAG=SBJV,TAG=PRS,TAG=1,TAG=PL
+evangelisieren	evangelisierten	TAG=V,TAG=IND,TAG=PST,TAG=1,TAG=PL
+evangelisieren	evangelisiere	TAG=V,TAG=SBJV,TAG=PRS,TAG=3,TAG=SG
+evangelisieren	evangelisierten	TAG=V,TAG=IND,TAG=PST,TAG=3,TAG=PL
+evangelisieren	evangelisiert	TAG=V,TAG=IMP,TAG=2,TAG=PL
+evangelisieren	evangelisiert	TAG=V.PTCP,TAG=PST
+evangelisieren	evangelisierten	TAG=V,TAG=SBJV,TAG=PST,TAG=3,TAG=PL
+evangelisieren	evangelisiere	TAG=V,TAG=IND,TAG=PRS,TAG=1,TAG=SG
+evangelisieren	evangelisiere	TAG=V,TAG=SBJV,TAG=PRS,TAG=1,TAG=SG
+evangelisieren	evangelisiert	TAG=V,TAG=IND,TAG=PRS,TAG=3,TAG=SG
+evangelisieren	evangelisieret	TAG=V,TAG=SBJV,TAG=PRS,TAG=2,TAG=PL
+evangelisieren	evangelisiertest	TAG=V,TAG=IND,TAG=PST,TAG=2,TAG=SG
+evangelisieren	evangelisierten	TAG=V,TAG=SBJV,TAG=PST,TAG=1,TAG=PL
+evangelisieren	evangelisierte	TAG=V,TAG=IND,TAG=PST,TAG=1,TAG=SG
+evangelisieren	evangelisiertest	TAG=V,TAG=SBJV,TAG=PST,TAG=2,TAG=SG
+evangelisieren	evangelisierst	TAG=V,TAG=IND,TAG=PRS,TAG=2,TAG=SG
+evangelisieren	evangelisierest	TAG=V,TAG=SBJV,TAG=PRS,TAG=2,TAG=SG
+evangelisieren	evangelisierte	TAG=V,TAG=IND,TAG=PST,TAG=3,TAG=SG
+
+Gruppennachbar	Gruppennachbar	TAG=N,TAG=LEMMA
+Gruppennachbar	Gruppennachbarn	TAG=N,TAG=GEN,TAG=PL
+Gruppennachbar	Gruppennachbarn	TAG=N,TAG=NOM,TAG=PL
+Gruppennachbar	Gruppennachbarn	TAG=N,TAG=GEN,TAG=SG
+Gruppennachbar	Gruppennachbar	TAG=N,TAG=NOM,TAG=SG
+Gruppennachbar	Gruppennachbarn	TAG=N,TAG=DAT,TAG=SG
+Gruppennachbar	Gruppennachbarn	TAG=N,TAG=ACC,TAG=PL
+Gruppennachbar	Gruppennachbarn	TAG=N,TAG=ACC,TAG=SG
+Gruppennachbar	Gruppennachbarn	TAG=N,TAG=DAT,TAG=PL
+
+Bromaromat	Bromaromat	TAG=N,TAG=LEMMA
+Bromaromat	Bromaromaten	TAG=N,TAG=GEN,TAG=PL
+Bromaromat	Bromaromaten	TAG=N,TAG=NOM,TAG=PL
+Bromaromat	Bromaromaten	TAG=N,TAG=GEN,TAG=SG
+Bromaromat	Bromaromat	TAG=N,TAG=NOM,TAG=SG
+Bromaromat	Bromaromaten	TAG=N,TAG=DAT,TAG=SG
+Bromaromat	Bromaromaten	TAG=N,TAG=ACC,TAG=PL
+Bromaromat	Bromaromaten	TAG=N,TAG=ACC,TAG=SG
+Bromaromat	Bromaromaten	TAG=N,TAG=DAT,TAG=PL
+
+weiden	weiden	TAG=V,TAG=LEMMA
+weiden	weiden	TAG=V,TAG=SBJV,TAG=PRS,TAG=3,TAG=PL
+weiden	weidete	TAG=V,TAG=SBJV,TAG=PST,TAG=1,TAG=SG
+weiden	weiden	TAG=V,TAG=IND,TAG=PRS,TAG=1,TAG=PL
+weiden	weidend	TAG=V.PTCP,TAG=PRS
+weiden	weidetet	TAG=V,TAG=IND,TAG=PST,TAG=2,TAG=PL
+weiden	weide	TAG=V,TAG=IMP,TAG=2,TAG=SG
+weiden	weidetet	TAG=V,TAG=SBJV,TAG=PST,TAG=2,TAG=PL
+weiden	weidete	TAG=V,TAG=SBJV,TAG=PST,TAG=3,TAG=SG
+weiden	weiden	TAG=V,TAG=NFIN
+weiden	weiden	TAG=V,TAG=IND,TAG=PRS,TAG=3,TAG=PL
+weiden	weidet	TAG=V,TAG=IND,TAG=PRS,TAG=2,TAG=PL
+weiden	weiden	TAG=V,TAG=SBJV,TAG=PRS,TAG=1,TAG=PL
+weiden	weideten	TAG=V,TAG=IND,TAG=PST,TAG=1,TAG=PL
+weiden	weide	TAG=V,TAG=SBJV,TAG=PRS,TAG=3,TAG=SG
+weiden	weideten	TAG=V,TAG=IND,TAG=PST,TAG=3,TAG=PL
+weiden	weidet	TAG=V,TAG=IMP,TAG=2,TAG=PL
+weiden	geweidet	TAG=V.PTCP,TAG=PST
+weiden	weideten	TAG=V,TAG=SBJV,TAG=PST,TAG=3,TAG=PL
+weiden	weide	TAG=V,TAG=IND,TAG=PRS,TAG=1,TAG=SG
+weiden	weide	TAG=V,TAG=SBJV,TAG=PRS,TAG=1,TAG=SG
+weiden	weidet	TAG=V,TAG=IND,TAG=PRS,TAG=3,TAG=SG
+weiden	weidet	TAG=V,TAG=SBJV,TAG=PRS,TAG=2,TAG=PL
+weiden	weidetest	TAG=V,TAG=IND,TAG=PST,TAG=2,TAG=SG
+weiden	weideten	TAG=V,TAG=SBJV,TAG=PST,TAG=1,TAG=PL
+weiden	weidete	TAG=V,TAG=IND,TAG=PST,TAG=1,TAG=SG
+weiden	weidetest	TAG=V,TAG=SBJV,TAG=PST,TAG=2,TAG=SG
+weiden	weidest	TAG=V,TAG=IND,TAG=PRS,TAG=2,TAG=SG
+weiden	weidest	TAG=V,TAG=SBJV,TAG=PRS,TAG=2,TAG=SG
+weiden	weidete	TAG=V,TAG=IND,TAG=PST,TAG=3,TAG=SG
+
+Rückschluss	Rückschluss	TAG=N,TAG=LEMMA
+Rückschluss	Rückschlüsse	TAG=N,TAG=GEN,TAG=PL
+Rückschluss	Rückschlüsse	TAG=N,TAG=NOM,TAG=PL
+Rückschluss	Rückschlusses	TAG=N,TAG=GEN,TAG=SG
+Rückschluss	Rückschluss	TAG=N,TAG=NOM,TAG=SG
+Rückschluss	Rückschluss	TAG=N,TAG=DAT,TAG=SG
+Rückschluss	Rückschlüsse	TAG=N,TAG=ACC,TAG=PL
+Rückschluss	Rückschluss	TAG=N,TAG=ACC,TAG=SG
+Rückschluss	Rückschlüssen	TAG=N,TAG=DAT,TAG=PL
+
+Otterzivette	Otterzivette	TAG=N,TAG=LEMMA
+Otterzivette	Otterzivetten	TAG=N,TAG=GEN,TAG=PL
+Otterzivette	Otterzivetten	TAG=N,TAG=NOM,TAG=PL
+Otterzivette	Otterzivette	TAG=N,TAG=GEN,TAG=SG
+Otterzivette	Otterzivette	TAG=N,TAG=NOM,TAG=SG
+Otterzivette	Otterzivette	TAG=N,TAG=DAT,TAG=SG
+Otterzivette	Otterzivetten	TAG=N,TAG=ACC,TAG=PL
+Otterzivette	Otterzivette	TAG=N,TAG=ACC,TAG=SG
+Otterzivette	Otterzivetten	TAG=N,TAG=DAT,TAG=PL
+
+einschlafen	einschlafen	TAG=V,TAG=LEMMA
+einschlafen	schlafen ein	TAG=V,TAG=SBJV,TAG=PRS,TAG=3,TAG=PL
+einschlafen	schliefe ein	TAG=V,TAG=SBJV,TAG=PST,TAG=1,TAG=SG
+einschlafen	schlafen ein	TAG=V,TAG=IND,TAG=PRS,TAG=1,TAG=PL
+einschlafen	einschlafend	TAG=V.PTCP,TAG=PRS
+einschlafen	schlieft ein	TAG=V,TAG=IND,TAG=PST,TAG=2,TAG=PL
+einschlafen	schlaf ein	TAG=V,TAG=IMP,TAG=2,TAG=SG
+einschlafen	schliefet ein	TAG=V,TAG=SBJV,TAG=PST,TAG=2,TAG=PL
+einschlafen	schliefe ein	TAG=V,TAG=SBJV,TAG=PST,TAG=3,TAG=SG
+einschlafen	einschlafen	TAG=V,TAG=NFIN
+einschlafen	schlafen ein	TAG=V,TAG=IND,TAG=PRS,TAG=3,TAG=PL
+einschlafen	schlaft ein	TAG=V,TAG=IND,TAG=PRS,TAG=2,TAG=PL
+einschlafen	schlafen ein	TAG=V,TAG=SBJV,TAG=PRS,TAG=1,TAG=PL
+einschlafen	schliefen ein	TAG=V,TAG=IND,TAG=PST,TAG=1,TAG=PL
+einschlafen	schlafe ein	TAG=V,TAG=SBJV,TAG=PRS,TAG=3,TAG=SG
+einschlafen	schliefen ein	TAG=V,TAG=IND,TAG=PST,TAG=3,TAG=PL
+einschlafen	schlaft ein	TAG=V,TAG=IMP,TAG=2,TAG=PL
+einschlafen	eingeschlafen	TAG=V.PTCP,TAG=PST
+einschlafen	schliefen ein	TAG=V,TAG=SBJV,TAG=PST,TAG=3,TAG=PL
+einschlafen	schlafe ein	TAG=V,TAG=IND,TAG=PRS,TAG=1,TAG=SG
+einschlafen	schlafe ein	TAG=V,TAG=SBJV,TAG=PRS,TAG=1,TAG=SG
+einschlafen	schläft ein	TAG=V,TAG=IND,TAG=PRS,TAG=3,TAG=SG
+einschlafen	schlafet ein	TAG=V,TAG=SBJV,TAG=PRS,TAG=2,TAG=PL
+einschlafen	schliefst ein	TAG=V,TAG=IND,TAG=PST,TAG=2,TAG=SG
+einschlafen	schliefen ein	TAG=V,TAG=SBJV,TAG=PST,TAG=1,TAG=PL
+einschlafen	schlief ein	TAG=V,TAG=IND,TAG=PST,TAG=1,TAG=SG
+einschlafen	schliefest ein	TAG=V,TAG=SBJV,TAG=PST,TAG=2,TAG=SG
+einschlafen	schläfst ein	TAG=V,TAG=IND,TAG=PRS,TAG=2,TAG=SG
+einschlafen	schlafest ein	TAG=V,TAG=SBJV,TAG=PRS,TAG=2,TAG=SG
+einschlafen	schlief ein	TAG=V,TAG=IND,TAG=PST,TAG=3,TAG=SG
+
+Schaubühne	Schaubühne	TAG=N,TAG=LEMMA
+Schaubühne	Schaubühnen	TAG=N,TAG=GEN,TAG=PL
+Schaubühne	Schaubühnen	TAG=N,TAG=NOM,TAG=PL
+Schaubühne	Schaubühne	TAG=N,TAG=GEN,TAG=SG
+Schaubühne	Schaubühne	TAG=N,TAG=NOM,TAG=SG
+Schaubühne	Schaubühne	TAG=N,TAG=DAT,TAG=SG
+Schaubühne	Schaubühnen	TAG=N,TAG=ACC,TAG=PL
+Schaubühne	Schaubühne	TAG=N,TAG=ACC,TAG=SG
+Schaubühne	Schaubühnen	TAG=N,TAG=DAT,TAG=PL
+
+Teetasse	Teetasse	TAG=N,TAG=LEMMA
+Teetasse	Teetassen	TAG=N,TAG=GEN,TAG=PL
+Teetasse	Teetassen	TAG=N,TAG=NOM,TAG=PL
+Teetasse	Teetasse	TAG=N,TAG=GEN,TAG=SG
+Teetasse	Teetasse	TAG=N,TAG=NOM,TAG=SG
+Teetasse	Teetasse	TAG=N,TAG=DAT,TAG=SG
+Teetasse	Teetassen	TAG=N,TAG=ACC,TAG=PL
+Teetasse	Teetasse	TAG=N,TAG=ACC,TAG=SG
+Teetasse	Teetassen	TAG=N,TAG=DAT,TAG=PL
+
+Doppelblindstudie	Doppelblindstudie	TAG=N,TAG=LEMMA
+Doppelblindstudie	Doppelblindstudien	TAG=N,TAG=GEN,TAG=PL
+Doppelblindstudie	Doppelblindstudien	TAG=N,TAG=NOM,TAG=PL
+Doppelblindstudie	Doppelblindstudie	TAG=N,TAG=GEN,TAG=SG
+Doppelblindstudie	Doppelblindstudie	TAG=N,TAG=NOM,TAG=SG
+Doppelblindstudie	Doppelblindstudie	TAG=N,TAG=DAT,TAG=SG
+Doppelblindstudie	Doppelblindstudien	TAG=N,TAG=ACC,TAG=PL
+Doppelblindstudie	Doppelblindstudie	TAG=N,TAG=ACC,TAG=SG
+Doppelblindstudie	Doppelblindstudien	TAG=N,TAG=DAT,TAG=PL
+
+ausschütteln	ausschütteln	TAG=V,TAG=LEMMA
+ausschütteln	schütteln aus	TAG=V,TAG=SBJV,TAG=PRS,TAG=3,TAG=PL
+ausschütteln	schüttelte aus	TAG=V,TAG=SBJV,TAG=PST,TAG=1,TAG=SG
+ausschütteln	schütteln aus	TAG=V,TAG=IND,TAG=PRS,TAG=1,TAG=PL
+ausschütteln	ausschüttelnd	TAG=V.PTCP,TAG=PRS
+ausschütteln	schütteltet aus	TAG=V,TAG=IND,TAG=PST,TAG=2,TAG=PL
+ausschütteln	schüttele aus	TAG=V,TAG=IMP,TAG=2,TAG=SG
+ausschütteln	schütteltet aus	TAG=V,TAG=SBJV,TAG=PST,TAG=2,TAG=PL
+ausschütteln	schüttelte aus	TAG=V,TAG=SBJV,TAG=PST,TAG=3,TAG=SG
+ausschütteln	ausschütteln	TAG=V,TAG=NFIN
+ausschütteln	schütteln aus	TAG=V,TAG=IND,TAG=PRS,TAG=3,TAG=PL
+ausschütteln	schüttelt aus	TAG=V,TAG=IND,TAG=PRS,TAG=2,TAG=PL
+ausschütteln	schütteln aus	TAG=V,TAG=SBJV,TAG=PRS,TAG=1,TAG=PL
+ausschütteln	schüttelten aus	TAG=V,TAG=IND,TAG=PST,TAG=1,TAG=PL
+ausschütteln	schüttel aus	TAG=V,TAG=SBJV,TAG=PRS,TAG=3,TAG=SG
+ausschütteln	schüttelten aus	TAG=V,TAG=IND,TAG=PST,TAG=3,TAG=PL
+ausschütteln	schüttelt aus	TAG=V,TAG=IMP,TAG=2,TAG=PL
+ausschütteln	ausgeschüttelt	TAG=V.PTCP,TAG=PST
+ausschütteln	schüttelten aus	TAG=V,TAG=SBJV,TAG=PST,TAG=3,TAG=PL
+ausschütteln	schüttel aus	TAG=V,TAG=IND,TAG=PRS,TAG=1,TAG=SG
+ausschütteln	schüttel aus	TAG=V,TAG=SBJV,TAG=PRS,TAG=1,TAG=SG
+ausschütteln	schüttelt aus	TAG=V,TAG=IND,TAG=PRS,TAG=3,TAG=SG
+ausschütteln	schüttelt aus	TAG=V,TAG=SBJV,TAG=PRS,TAG=2,TAG=PL
+ausschütteln	schütteltest aus	TAG=V,TAG=IND,TAG=PST,TAG=2,TAG=SG
+ausschütteln	schüttelten aus	TAG=V,TAG=SBJV,TAG=PST,TAG=1,TAG=PL
+ausschütteln	schüttelte aus	TAG=V,TAG=IND,TAG=PST,TAG=1,TAG=SG
+ausschütteln	schütteltest aus	TAG=V,TAG=SBJV,TAG=PST,TAG=2,TAG=SG
+ausschütteln	schüttelst aus	TAG=V,TAG=IND,TAG=PRS,TAG=2,TAG=SG
+ausschütteln	schüttelst aus	TAG=V,TAG=SBJV,TAG=PRS,TAG=2,TAG=SG
+ausschütteln	schüttelte aus	TAG=V,TAG=IND,TAG=PST,TAG=3,TAG=SG
+
+notlanden	notlanden	TAG=V,TAG=LEMMA
+notlanden	notlanden	TAG=V,TAG=SBJV,TAG=PRS,TAG=3,TAG=PL
+notlanden	notlandete	TAG=V,TAG=SBJV,TAG=PST,TAG=1,TAG=SG
+notlanden	notlanden	TAG=V,TAG=IND,TAG=PRS,TAG=1,TAG=PL
+notlanden	notlandend	TAG=V.PTCP,TAG=PRS
+notlanden	notlandetet	TAG=V,TAG=IND,TAG=PST,TAG=2,TAG=PL
+notlanden	notlande	TAG=V,TAG=IMP,TAG=2,TAG=SG
+notlanden	notlandetet	TAG=V,TAG=SBJV,TAG=PST,TAG=2,TAG=PL
+notlanden	notlandete	TAG=V,TAG=SBJV,TAG=PST,TAG=3,TAG=SG
+notlanden	notlanden	TAG=V,TAG=NFIN
+notlanden	notlanden	TAG=V,TAG=IND,TAG=PRS,TAG=3,TAG=PL
+notlanden	notlandet	TAG=V,TAG=IND,TAG=PRS,TAG=2,TAG=PL
+notlanden	notlanden	TAG=V,TAG=SBJV,TAG=PRS,TAG=1,TAG=PL
+notlanden	notlandeten	TAG=V,TAG=IND,TAG=PST,TAG=1,TAG=PL
+notlanden	notlande	TAG=V,TAG=SBJV,TAG=PRS,TAG=3,TAG=SG
+notlanden	notlandeten	TAG=V,TAG=IND,TAG=PST,TAG=3,TAG=PL
+notlanden	notlandet	TAG=V,TAG=IMP,TAG=2,TAG=PL
+notlanden	notgelandet	TAG=V.PTCP,TAG=PST
+notlanden	notlandeten	TAG=V,TAG=SBJV,TAG=PST,TAG=3,TAG=PL
+notlanden	notlande	TAG=V,TAG=IND,TAG=PRS,TAG=1,TAG=SG
+notlanden	notlande	TAG=V,TAG=SBJV,TAG=PRS,TAG=1,TAG=SG
+notlanden	notlandet	TAG=V,TAG=IND,TAG=PRS,TAG=3,TAG=SG
+notlanden	notlandet	TAG=V,TAG=SBJV,TAG=PRS,TAG=2,TAG=PL
+notlanden	notlandetest	TAG=V,TAG=IND,TAG=PST,TAG=2,TAG=SG
+notlanden	notlandeten	TAG=V,TAG=SBJV,TAG=PST,TAG=1,TAG=PL
+notlanden	notlandete	TAG=V,TAG=IND,TAG=PST,TAG=1,TAG=SG
+notlanden	notlandetest	TAG=V,TAG=SBJV,TAG=PST,TAG=2,TAG=SG
+notlanden	notlandest	TAG=V,TAG=IND,TAG=PRS,TAG=2,TAG=SG
+notlanden	notlandest	TAG=V,TAG=SBJV,TAG=PRS,TAG=2,TAG=SG
+notlanden	notlandete	TAG=V,TAG=IND,TAG=PST,TAG=3,TAG=SG
+
+Milchprodukt	Milchprodukt	TAG=N,TAG=LEMMA
+Milchprodukt	Milchprodukte	TAG=N,TAG=GEN,TAG=PL
+Milchprodukt	Milchprodukte	TAG=N,TAG=NOM,TAG=PL
+Milchprodukt	Milchproduktes	TAG=N,TAG=GEN,TAG=SG
+Milchprodukt	Milchprodukt	TAG=N,TAG=NOM,TAG=SG
+Milchprodukt	Milchprodukt	TAG=N,TAG=DAT,TAG=SG
+Milchprodukt	Milchprodukte	TAG=N,TAG=ACC,TAG=PL
+Milchprodukt	Milchprodukt	TAG=N,TAG=ACC,TAG=SG
+Milchprodukt	Milchprodukten	TAG=N,TAG=DAT,TAG=PL
+
+erfragen	erfragen	TAG=V,TAG=LEMMA
+erfragen	erfragen	TAG=V,TAG=SBJV,TAG=PRS,TAG=3,TAG=PL
+erfragen	erfragte	TAG=V,TAG=SBJV,TAG=PST,TAG=1,TAG=SG
+erfragen	erfragen	TAG=V,TAG=IND,TAG=PRS,TAG=1,TAG=PL
+erfragen	erfragend	TAG=V.PTCP,TAG=PRS
+erfragen	erfragtet	TAG=V,TAG=IND,TAG=PST,TAG=2,TAG=PL
+erfragen	erfrag	TAG=V,TAG=IMP,TAG=2,TAG=SG
+erfragen	erfragtet	TAG=V,TAG=SBJV,TAG=PST,TAG=2,TAG=PL
+erfragen	erfragte	TAG=V,TAG=SBJV,TAG=PST,TAG=3,TAG=SG
+erfragen	erfragen	TAG=V,TAG=NFIN
+erfragen	erfragen	TAG=V,TAG=IND,TAG=PRS,TAG=3,TAG=PL
+erfragen	erfragt	TAG=V,TAG=IND,TAG=PRS,TAG=2,TAG=PL
+erfragen	erfragen	TAG=V,TAG=SBJV,TAG=PRS,TAG=1,TAG=PL
+erfragen	erfragten	TAG=V,TAG=IND,TAG=PST,TAG=1,TAG=PL
+erfragen	erfrage	TAG=V,TAG=SBJV,TAG=PRS,TAG=3,TAG=SG
+erfragen	erfragten	TAG=V,TAG=IND,TAG=PST,TAG=3,TAG=PL
+erfragen	erfragt	TAG=V,TAG=IMP,TAG=2,TAG=PL
+erfragen	erfragt	TAG=V.PTCP,TAG=PST
+erfragen	erfragten	TAG=V,TAG=SBJV,TAG=PST,TAG=3,TAG=PL
+erfragen	erfrage	TAG=V,TAG=IND,TAG=PRS,TAG=1,TAG=SG
+erfragen	erfrage	TAG=V,TAG=SBJV,TAG=PRS,TAG=1,TAG=SG
+erfragen	erfragt	TAG=V,TAG=IND,TAG=PRS,TAG=3,TAG=SG
+erfragen	erfraget	TAG=V,TAG=SBJV,TAG=PRS,TAG=2,TAG=PL
+erfragen	erfragtest	TAG=V,TAG=IND,TAG=PST,TAG=2,TAG=SG
+erfragen	erfragten	TAG=V,TAG=SBJV,TAG=PST,TAG=1,TAG=PL
+erfragen	erfragte	TAG=V,TAG=IND,TAG=PST,TAG=1,TAG=SG
+erfragen	erfragtest	TAG=V,TAG=SBJV,TAG=PST,TAG=2,TAG=SG
+erfragen	erfragst	TAG=V,TAG=IND,TAG=PRS,TAG=2,TAG=SG
+erfragen	erfragest	TAG=V,TAG=SBJV,TAG=PRS,TAG=2,TAG=SG
+erfragen	erfragte	TAG=V,TAG=IND,TAG=PST,TAG=3,TAG=SG
+
+Implementierung	Implementierung	TAG=N,TAG=LEMMA
+Implementierung	Implementierungen	TAG=N,TAG=GEN,TAG=PL
+Implementierung	Implementierungen	TAG=N,TAG=NOM,TAG=PL
+Implementierung	Implementierung	TAG=N,TAG=GEN,TAG=SG
+Implementierung	Implementierung	TAG=N,TAG=NOM,TAG=SG
+Implementierung	Implementierung	TAG=N,TAG=DAT,TAG=SG
+Implementierung	Implementierungen	TAG=N,TAG=ACC,TAG=PL
+Implementierung	Implementierung	TAG=N,TAG=ACC,TAG=SG
+Implementierung	Implementierungen	TAG=N,TAG=DAT,TAG=PL
+
+Härchen	Härchen	TAG=N,TAG=LEMMA
+Härchen	Härchen	TAG=N,TAG=GEN,TAG=PL
+Härchen	Härchen	TAG=N,TAG=NOM,TAG=PL
+Härchen	Härchens	TAG=N,TAG=GEN,TAG=SG
+Härchen	Härchen	TAG=N,TAG=NOM,TAG=SG
+Härchen	Härchen	TAG=N,TAG=DAT,TAG=SG
+Härchen	Härchen	TAG=N,TAG=ACC,TAG=PL
+Härchen	Härchen	TAG=N,TAG=ACC,TAG=SG
+Härchen	Härchen	TAG=N,TAG=DAT,TAG=PL
+
+Herzmuskelgewebe	Herzmuskelgewebe	TAG=N,TAG=LEMMA
+Herzmuskelgewebe	Herzmuskelgewebe	TAG=N,TAG=GEN,TAG=PL
+Herzmuskelgewebe	Herzmuskelgewebe	TAG=N,TAG=NOM,TAG=PL
+Herzmuskelgewebe	Herzmuskelgewebes	TAG=N,TAG=GEN,TAG=SG
+Herzmuskelgewebe	Herzmuskelgewebe	TAG=N,TAG=NOM,TAG=SG
+Herzmuskelgewebe	Herzmuskelgewebe	TAG=N,TAG=DAT,TAG=SG
+Herzmuskelgewebe	Herzmuskelgewebe	TAG=N,TAG=ACC,TAG=PL
+Herzmuskelgewebe	Herzmuskelgewebe	TAG=N,TAG=ACC,TAG=SG
+Herzmuskelgewebe	Herzmuskelgeweben	TAG=N,TAG=DAT,TAG=PL
+
+Sellerie	Sellerie	TAG=N,TAG=LEMMA
+Sellerie	Sellerien	TAG=N,TAG=GEN,TAG=PL
+Sellerie	Sellerien	TAG=N,TAG=NOM,TAG=PL
+Sellerie	Sellerie	TAG=N,TAG=GEN,TAG=SG
+Sellerie	Sellerie	TAG=N,TAG=NOM,TAG=SG
+Sellerie	Sellerie	TAG=N,TAG=DAT,TAG=SG
+Sellerie	Sellerien	TAG=N,TAG=ACC,TAG=PL
+Sellerie	Sellerie	TAG=N,TAG=ACC,TAG=SG
+Sellerie	Sellerien	TAG=N,TAG=DAT,TAG=PL
+
+Waldbrand	Waldbrand	TAG=N,TAG=LEMMA
+Waldbrand	Waldbrände	TAG=N,TAG=GEN,TAG=PL
+Waldbrand	Waldbrände	TAG=N,TAG=NOM,TAG=PL
+Waldbrand	Waldbrandes	TAG=N,TAG=GEN,TAG=SG
+Waldbrand	Waldbrand	TAG=N,TAG=NOM,TAG=SG
+Waldbrand	Waldbrand	TAG=N,TAG=DAT,TAG=SG
+Waldbrand	Waldbrände	TAG=N,TAG=ACC,TAG=PL
+Waldbrand	Waldbrand	TAG=N,TAG=ACC,TAG=SG
+Waldbrand	Waldbränden	TAG=N,TAG=DAT,TAG=PL
+
+Ideologe	Ideologe	TAG=N,TAG=LEMMA
+Ideologe	Ideologen	TAG=N,TAG=GEN,TAG=PL
+Ideologe	Ideologen	TAG=N,TAG=NOM,TAG=PL
+Ideologe	Ideologen	TAG=N,TAG=GEN,TAG=SG
+Ideologe	Ideologe	TAG=N,TAG=NOM,TAG=SG
+Ideologe	Ideologen	TAG=N,TAG=DAT,TAG=SG
+Ideologe	Ideologen	TAG=N,TAG=ACC,TAG=PL
+Ideologe	Ideologen	TAG=N,TAG=ACC,TAG=SG
+Ideologe	Ideologen	TAG=N,TAG=DAT,TAG=PL
+
+Artischocke	Artischocke	TAG=N,TAG=LEMMA
+Artischocke	Artischocken	TAG=N,TAG=GEN,TAG=PL
+Artischocke	Artischocken	TAG=N,TAG=NOM,TAG=PL
+Artischocke	Artischocke	TAG=N,TAG=GEN,TAG=SG
+Artischocke	Artischocke	TAG=N,TAG=NOM,TAG=SG
+Artischocke	Artischocke	TAG=N,TAG=DAT,TAG=SG
+Artischocke	Artischocken	TAG=N,TAG=ACC,TAG=PL
+Artischocke	Artischocke	TAG=N,TAG=ACC,TAG=SG
+Artischocke	Artischocken	TAG=N,TAG=DAT,TAG=PL
+
+fiebern	fiebern	TAG=V,TAG=LEMMA
+fiebern	fiebern	TAG=V,TAG=SBJV,TAG=PRS,TAG=3,TAG=PL
+fiebern	fieberte	TAG=V,TAG=SBJV,TAG=PST,TAG=1,TAG=SG
+fiebern	fiebern	TAG=V,TAG=IND,TAG=PRS,TAG=1,TAG=PL
+fiebern	fiebernd	TAG=V.PTCP,TAG=PRS
+fiebern	fiebertet	TAG=V,TAG=IND,TAG=PST,TAG=2,TAG=PL
+fiebern	fiebre	TAG=V,TAG=IMP,TAG=2,TAG=SG
+fiebern	fiebertet	TAG=V,TAG=SBJV,TAG=PST,TAG=2,TAG=PL
+fiebern	fieberte	TAG=V,TAG=SBJV,TAG=PST,TAG=3,TAG=SG
+fiebern	fiebern	TAG=V,TAG=NFIN
+fiebern	fiebern	TAG=V,TAG=IND,TAG=PRS,TAG=3,TAG=PL
+fiebern	fiebert	TAG=V,TAG=IND,TAG=PRS,TAG=2,TAG=PL
+fiebern	fiebern	TAG=V,TAG=SBJV,TAG=PRS,TAG=1,TAG=PL
+fiebern	fieberten	TAG=V,TAG=IND,TAG=PST,TAG=1,TAG=PL
+fiebern	fiebere	TAG=V,TAG=SBJV,TAG=PRS,TAG=3,TAG=SG
+fiebern	fieberten	TAG=V,TAG=IND,TAG=PST,TAG=3,TAG=PL
+fiebern	fiebert	TAG=V,TAG=IMP,TAG=2,TAG=PL
+fiebern	gefiebert	TAG=V.PTCP,TAG=PST
+fiebern	fieberten	TAG=V,TAG=SBJV,TAG=PST,TAG=3,TAG=PL
+fiebern	fiebre	TAG=V,TAG=IND,TAG=PRS,TAG=1,TAG=SG
+fiebern	fiebere	TAG=V,TAG=SBJV,TAG=PRS,TAG=1,TAG=SG
+fiebern	fiebert	TAG=V,TAG=IND,TAG=PRS,TAG=3,TAG=SG
+fiebern	fieberet	TAG=V,TAG=SBJV,TAG=PRS,TAG=2,TAG=PL
+fiebern	fiebertest	TAG=V,TAG=IND,TAG=PST,TAG=2,TAG=SG
+fiebern	fieberten	TAG=V,TAG=SBJV,TAG=PST,TAG=1,TAG=PL
+fiebern	fieberte	TAG=V,TAG=IND,TAG=PST,TAG=1,TAG=SG
+fiebern	fiebertest	TAG=V,TAG=SBJV,TAG=PST,TAG=2,TAG=SG
+fiebern	fieberst	TAG=V,TAG=IND,TAG=PRS,TAG=2,TAG=SG
+fiebern	fieberest	TAG=V,TAG=SBJV,TAG=PRS,TAG=2,TAG=SG
+fiebern	fieberte	TAG=V,TAG=IND,TAG=PST,TAG=3,TAG=SG
+
+Eiskunstläufer	Eiskunstläufer	TAG=N,TAG=LEMMA
+Eiskunstläufer	Eiskunstläufer	TAG=N,TAG=GEN,TAG=PL
+Eiskunstläufer	Eiskunstläufer	TAG=N,TAG=NOM,TAG=PL
+Eiskunstläufer	Eiskunstläufers	TAG=N,TAG=GEN,TAG=SG
+Eiskunstläufer	Eiskunstläufer	TAG=N,TAG=NOM,TAG=SG
+Eiskunstläufer	Eiskunstläufer	TAG=N,TAG=DAT,TAG=SG
+Eiskunstläufer	Eiskunstläufer	TAG=N,TAG=ACC,TAG=PL
+Eiskunstläufer	Eiskunstläufer	TAG=N,TAG=ACC,TAG=SG
+Eiskunstläufer	Eiskunstläufern	TAG=N,TAG=DAT,TAG=PL
+
+Teufelswels	Teufelswels	TAG=N,TAG=LEMMA
+Teufelswels	Teufelswelse	TAG=N,TAG=GEN,TAG=PL
+Teufelswels	Teufelswelse	TAG=N,TAG=NOM,TAG=PL
+Teufelswels	Teufelswelses	TAG=N,TAG=GEN,TAG=SG
+Teufelswels	Teufelswels	TAG=N,TAG=NOM,TAG=SG
+Teufelswels	Teufelswels	TAG=N,TAG=DAT,TAG=SG
+Teufelswels	Teufelswelse	TAG=N,TAG=ACC,TAG=PL
+Teufelswels	Teufelswels	TAG=N,TAG=ACC,TAG=SG
+Teufelswels	Teufelswelsen	TAG=N,TAG=DAT,TAG=PL
+
+spitzen	spitzen	TAG=V,TAG=LEMMA
+spitzen	spitzen	TAG=V,TAG=SBJV,TAG=PRS,TAG=3,TAG=PL
+spitzen	spitzte	TAG=V,TAG=SBJV,TAG=PST,TAG=1,TAG=SG
+spitzen	spitzen	TAG=V,TAG=IND,TAG=PRS,TAG=1,TAG=PL
+spitzen	spitzend	TAG=V.PTCP,TAG=PRS
+spitzen	spitztet	TAG=V,TAG=IND,TAG=PST,TAG=2,TAG=PL
+spitzen	spitz	TAG=V,TAG=IMP,TAG=2,TAG=SG
+spitzen	spitztet	TAG=V,TAG=SBJV,TAG=PST,TAG=2,TAG=PL
+spitzen	spitzte	TAG=V,TAG=SBJV,TAG=PST,TAG=3,TAG=SG
+spitzen	spitzen	TAG=V,TAG=NFIN
+spitzen	spitzen	TAG=V,TAG=IND,TAG=PRS,TAG=3,TAG=PL
+spitzen	spitzt	TAG=V,TAG=IND,TAG=PRS,TAG=2,TAG=PL
+spitzen	spitzen	TAG=V,TAG=SBJV,TAG=PRS,TAG=1,TAG=PL
+spitzen	spitzten	TAG=V,TAG=IND,TAG=PST,TAG=1,TAG=PL
+spitzen	spitze	TAG=V,TAG=SBJV,TAG=PRS,TAG=3,TAG=SG
+spitzen	spitzten	TAG=V,TAG=IND,TAG=PST,TAG=3,TAG=PL
+spitzen	spitzt	TAG=V,TAG=IMP,TAG=2,TAG=PL
+spitzen	gespitzt	TAG=V.PTCP,TAG=PST
+spitzen	spitzten	TAG=V,TAG=SBJV,TAG=PST,TAG=3,TAG=PL
+spitzen	spitze	TAG=V,TAG=IND,TAG=PRS,TAG=1,TAG=SG
+spitzen	spitze	TAG=V,TAG=SBJV,TAG=PRS,TAG=1,TAG=SG
+spitzen	spitzt	TAG=V,TAG=IND,TAG=PRS,TAG=3,TAG=SG
+spitzen	spitzet	TAG=V,TAG=SBJV,TAG=PRS,TAG=2,TAG=PL
+spitzen	spitztest	TAG=V,TAG=IND,TAG=PST,TAG=2,TAG=SG
+spitzen	spitzten	TAG=V,TAG=SBJV,TAG=PST,TAG=1,TAG=PL
+spitzen	spitzte	TAG=V,TAG=IND,TAG=PST,TAG=1,TAG=SG
+spitzen	spitztest	TAG=V,TAG=SBJV,TAG=PST,TAG=2,TAG=SG
+spitzen	spitzt	TAG=V,TAG=IND,TAG=PRS,TAG=2,TAG=SG
+spitzen	spitzest	TAG=V,TAG=SBJV,TAG=PRS,TAG=2,TAG=SG
+spitzen	spitzte	TAG=V,TAG=IND,TAG=PST,TAG=3,TAG=SG
+
+Feuerwehr	Feuerwehr	TAG=N,TAG=LEMMA
+Feuerwehr	Feuerwehren	TAG=N,TAG=GEN,TAG=PL
+Feuerwehr	Feuerwehren	TAG=N,TAG=NOM,TAG=PL
+Feuerwehr	Feuerwehr	TAG=N,TAG=GEN,TAG=SG
+Feuerwehr	Feuerwehr	TAG=N,TAG=NOM,TAG=SG
+Feuerwehr	Feuerwehr	TAG=N,TAG=DAT,TAG=SG
+Feuerwehr	Feuerwehren	TAG=N,TAG=ACC,TAG=PL
+Feuerwehr	Feuerwehr	TAG=N,TAG=ACC,TAG=SG
+Feuerwehr	Feuerwehren	TAG=N,TAG=DAT,TAG=PL
+
+gegenzeichnen	gegenzeichnen	TAG=V,TAG=LEMMA
+gegenzeichnen	gegengezeichnen	TAG=V,TAG=SBJV,TAG=PRS,TAG=3,TAG=PL
+gegenzeichnen	gegengezeichnte	TAG=V,TAG=SBJV,TAG=PST,TAG=1,TAG=SG
+gegenzeichnen	gegengezeichnen	TAG=V,TAG=IND,TAG=PRS,TAG=1,TAG=PL
+gegenzeichnen	gegengezeichnend	TAG=V.PTCP,TAG=PRS
+gegenzeichnen	gegengezeichntet	TAG=V,TAG=IND,TAG=PST,TAG=2,TAG=PL
+gegenzeichnen	gegengezeichn	TAG=V,TAG=IMP,TAG=2,TAG=SG
+gegenzeichnen	gegengezeichntet	TAG=V,TAG=SBJV,TAG=PST,TAG=2,TAG=PL
+gegenzeichnen	gegengezeichnte	TAG=V,TAG=SBJV,TAG=PST,TAG=3,TAG=SG
+gegenzeichnen	gegengezeichnen	TAG=V,TAG=NFIN
+gegenzeichnen	gegengezeichnen	TAG=V,TAG=IND,TAG=PRS,TAG=3,TAG=PL
+gegenzeichnen	gegengezeichnt	TAG=V,TAG=IND,TAG=PRS,TAG=2,TAG=PL
+gegenzeichnen	gegengezeichnen	TAG=V,TAG=SBJV,TAG=PRS,TAG=1,TAG=PL
+gegenzeichnen	gegengezeichnten	TAG=V,TAG=IND,TAG=PST,TAG=1,TAG=PL
+gegenzeichnen	gegengezeichne	TAG=V,TAG=SBJV,TAG=PRS,TAG=3,TAG=SG
+gegenzeichnen	gegengezeichnten	TAG=V,TAG=IND,TAG=PST,TAG=3,TAG=PL
+gegenzeichnen	gegengezeichnt	TAG=V,TAG=IMP,TAG=2,TAG=PL
+gegenzeichnen	gegengezeichnet	TAG=V.PTCP,TAG=PST
+gegenzeichnen	gegengezeichnten	TAG=V,TAG=SBJV,TAG=PST,TAG=3,TAG=PL
+gegenzeichnen	gegengezeichne	TAG=V,TAG=IND,TAG=PRS,TAG=1,TAG=SG
+gegenzeichnen	gegengezeichne	TAG=V,TAG=SBJV,TAG=PRS,TAG=1,TAG=SG
+gegenzeichnen	gegengezeichnt	TAG=V,TAG=IND,TAG=PRS,TAG=3,TAG=SG
+gegenzeichnen	gegengezeichnet	TAG=V,TAG=SBJV,TAG=PRS,TAG=2,TAG=PL
+gegenzeichnen	gegengezeichntest	TAG=V,TAG=IND,TAG=PST,TAG=2,TAG=SG
+gegenzeichnen	gegengezeichnten	TAG=V,TAG=SBJV,TAG=PST,TAG=1,TAG=PL
+gegenzeichnen	gegengezeichnte	TAG=V,TAG=IND,TAG=PST,TAG=1,TAG=SG
+gegenzeichnen	gegengezeichntest	TAG=V,TAG=SBJV,TAG=PST,TAG=2,TAG=SG
+gegenzeichnen	gegengezeichnst	TAG=V,TAG=IND,TAG=PRS,TAG=2,TAG=SG
+gegenzeichnen	gegengezeichnest	TAG=V,TAG=SBJV,TAG=PRS,TAG=2,TAG=SG
+gegenzeichnen	gegengezeichnte	TAG=V,TAG=IND,TAG=PST,TAG=3,TAG=SG
+
+Palisade	Palisade	TAG=N,TAG=LEMMA
+Palisade	Palisaden	TAG=N,TAG=GEN,TAG=PL
+Palisade	Palisaden	TAG=N,TAG=NOM,TAG=PL
+Palisade	Palisade	TAG=N,TAG=GEN,TAG=SG
+Palisade	Palisade	TAG=N,TAG=NOM,TAG=SG
+Palisade	Palisade	TAG=N,TAG=DAT,TAG=SG
+Palisade	Palisaden	TAG=N,TAG=ACC,TAG=PL
+Palisade	Palisade	TAG=N,TAG=ACC,TAG=SG
+Palisade	Palisaden	TAG=N,TAG=DAT,TAG=PL
+
+Torhüter	Torhüter	TAG=N,TAG=LEMMA
+Torhüter	Torhüter	TAG=N,TAG=GEN,TAG=PL
+Torhüter	Torhüter	TAG=N,TAG=NOM,TAG=PL
+Torhüter	Torhüters	TAG=N,TAG=GEN,TAG=SG
+Torhüter	Torhüter	TAG=N,TAG=NOM,TAG=SG
+Torhüter	Torhüter	TAG=N,TAG=DAT,TAG=SG
+Torhüter	Torhüter	TAG=N,TAG=ACC,TAG=PL
+Torhüter	Torhüter	TAG=N,TAG=ACC,TAG=SG
+Torhüter	Torhütern	TAG=N,TAG=DAT,TAG=PL
+
+Grünkohl	Grünkohl	TAG=N,TAG=LEMMA
+Grünkohl	Grünkohle	TAG=N,TAG=GEN,TAG=PL
+Grünkohl	Grünkohle	TAG=N,TAG=NOM,TAG=PL
+Grünkohl	Grünkohles	TAG=N,TAG=GEN,TAG=SG
+Grünkohl	Grünkohl	TAG=N,TAG=NOM,TAG=SG
+Grünkohl	Grünkohl	TAG=N,TAG=DAT,TAG=SG
+Grünkohl	Grünkohle	TAG=N,TAG=ACC,TAG=PL
+Grünkohl	Grünkohl	TAG=N,TAG=ACC,TAG=SG
+Grünkohl	Grünkohlen	TAG=N,TAG=DAT,TAG=PL
+
+Briefmarke	Briefmarke	TAG=N,TAG=LEMMA
+Briefmarke	Briefmarken	TAG=N,TAG=GEN,TAG=PL
+Briefmarke	Briefmarken	TAG=N,TAG=NOM,TAG=PL
+Briefmarke	Briefmarke	TAG=N,TAG=GEN,TAG=SG
+Briefmarke	Briefmarke	TAG=N,TAG=NOM,TAG=SG
+Briefmarke	Briefmarke	TAG=N,TAG=DAT,TAG=SG
+Briefmarke	Briefmarken	TAG=N,TAG=ACC,TAG=PL
+Briefmarke	Briefmarke	TAG=N,TAG=ACC,TAG=SG
+Briefmarke	Briefmarken	TAG=N,TAG=DAT,TAG=PL
+
+Hausmaus	Hausmaus	TAG=N,TAG=LEMMA
+Hausmaus	Hausmäuse	TAG=N,TAG=GEN,TAG=PL
+Hausmaus	Hausmäuse	TAG=N,TAG=NOM,TAG=PL
+Hausmaus	Hausmaus	TAG=N,TAG=GEN,TAG=SG
+Hausmaus	Hausmaus	TAG=N,TAG=NOM,TAG=SG
+Hausmaus	Hausmaus	TAG=N,TAG=DAT,TAG=SG
+Hausmaus	Hausmäuse	TAG=N,TAG=ACC,TAG=PL
+Hausmaus	Hausmaus	TAG=N,TAG=ACC,TAG=SG
+Hausmaus	Hausmäusen	TAG=N,TAG=DAT,TAG=PL
+
+Apfelminze	Apfelminze	TAG=N,TAG=LEMMA
+Apfelminze	Apfelminzen	TAG=N,TAG=GEN,TAG=PL
+Apfelminze	Apfelminzen	TAG=N,TAG=NOM,TAG=PL
+Apfelminze	Apfelminze	TAG=N,TAG=GEN,TAG=SG
+Apfelminze	Apfelminze	TAG=N,TAG=NOM,TAG=SG
+Apfelminze	Apfelminze	TAG=N,TAG=DAT,TAG=SG
+Apfelminze	Apfelminzen	TAG=N,TAG=ACC,TAG=PL
+Apfelminze	Apfelminze	TAG=N,TAG=ACC,TAG=SG
+Apfelminze	Apfelminzen	TAG=N,TAG=DAT,TAG=PL
+
+Dorngesträuch	Dorngesträuch	TAG=N,TAG=LEMMA
+Dorngesträuch	Dorngesträuche	TAG=N,TAG=GEN,TAG=PL
+Dorngesträuch	Dorngesträuche	TAG=N,TAG=NOM,TAG=PL
+Dorngesträuch	Dorngesträuches	TAG=N,TAG=GEN,TAG=SG
+Dorngesträuch	Dorngesträuch	TAG=N,TAG=NOM,TAG=SG
+Dorngesträuch	Dorngesträuch	TAG=N,TAG=DAT,TAG=SG
+Dorngesträuch	Dorngesträuche	TAG=N,TAG=ACC,TAG=PL
+Dorngesträuch	Dorngesträuch	TAG=N,TAG=ACC,TAG=SG
+Dorngesträuch	Dorngesträuchen	TAG=N,TAG=DAT,TAG=PL
+
+Irrgarten	Irrgarten	TAG=N,TAG=LEMMA
+Irrgarten	Irrgärten	TAG=N,TAG=GEN,TAG=PL
+Irrgarten	Irrgärten	TAG=N,TAG=NOM,TAG=PL
+Irrgarten	Irrgartens	TAG=N,TAG=GEN,TAG=SG
+Irrgarten	Irrgarten	TAG=N,TAG=NOM,TAG=SG
+Irrgarten	Irrgarten	TAG=N,TAG=DAT,TAG=SG
+Irrgarten	Irrgärten	TAG=N,TAG=ACC,TAG=PL
+Irrgarten	Irrgarten	TAG=N,TAG=ACC,TAG=SG
+Irrgarten	Irrgärten	TAG=N,TAG=DAT,TAG=PL
+
+beunruhigen	beunruhigen	TAG=V,TAG=LEMMA
+beunruhigen	beunruhigen	TAG=V,TAG=SBJV,TAG=PRS,TAG=3,TAG=PL
+beunruhigen	beunruhigte	TAG=V,TAG=SBJV,TAG=PST,TAG=1,TAG=SG
+beunruhigen	beunruhigen	TAG=V,TAG=IND,TAG=PRS,TAG=1,TAG=PL
+beunruhigen	beunruhigend	TAG=V.PTCP,TAG=PRS
+beunruhigen	beunruhigtet	TAG=V,TAG=IND,TAG=PST,TAG=2,TAG=PL
+beunruhigen	beunruhig	TAG=V,TAG=IMP,TAG=2,TAG=SG
+beunruhigen	beunruhigtet	TAG=V,TAG=SBJV,TAG=PST,TAG=2,TAG=PL
+beunruhigen	beunruhigte	TAG=V,TAG=SBJV,TAG=PST,TAG=3,TAG=SG
+beunruhigen	beunruhigen	TAG=V,TAG=NFIN
+beunruhigen	beunruhigen	TAG=V,TAG=IND,TAG=PRS,TAG=3,TAG=PL
+beunruhigen	beunruhigt	TAG=V,TAG=IND,TAG=PRS,TAG=2,TAG=PL
+beunruhigen	beunruhigen	TAG=V,TAG=SBJV,TAG=PRS,TAG=1,TAG=PL
+beunruhigen	beunruhigten	TAG=V,TAG=IND,TAG=PST,TAG=1,TAG=PL
+beunruhigen	beunruhige	TAG=V,TAG=SBJV,TAG=PRS,TAG=3,TAG=SG
+beunruhigen	beunruhigten	TAG=V,TAG=IND,TAG=PST,TAG=3,TAG=PL
+beunruhigen	beunruhigt	TAG=V,TAG=IMP,TAG=2,TAG=PL
+beunruhigen	beunruhigt	TAG=V.PTCP,TAG=PST
+beunruhigen	beunruhigten	TAG=V,TAG=SBJV,TAG=PST,TAG=3,TAG=PL
+beunruhigen	beunruhige	TAG=V,TAG=IND,TAG=PRS,TAG=1,TAG=SG
+beunruhigen	beunruhige	TAG=V,TAG=SBJV,TAG=PRS,TAG=1,TAG=SG
+beunruhigen	beunruhigt	TAG=V,TAG=IND,TAG=PRS,TAG=3,TAG=SG
+beunruhigen	beunruhiget	TAG=V,TAG=SBJV,TAG=PRS,TAG=2,TAG=PL
+beunruhigen	beunruhigtest	TAG=V,TAG=IND,TAG=PST,TAG=2,TAG=SG
+beunruhigen	beunruhigten	TAG=V,TAG=SBJV,TAG=PST,TAG=1,TAG=PL
+beunruhigen	beunruhigte	TAG=V,TAG=IND,TAG=PST,TAG=1,TAG=SG
+beunruhigen	beunruhigtest	TAG=V,TAG=SBJV,TAG=PST,TAG=2,TAG=SG
+beunruhigen	beunruhigst	TAG=V,TAG=IND,TAG=PRS,TAG=2,TAG=SG
+beunruhigen	beunruhigest	TAG=V,TAG=SBJV,TAG=PRS,TAG=2,TAG=SG
+beunruhigen	beunruhigte	TAG=V,TAG=IND,TAG=PST,TAG=3,TAG=SG
+
+meißeln	meißeln	TAG=V,TAG=LEMMA
+meißeln	meißeln	TAG=V,TAG=SBJV,TAG=PRS,TAG=3,TAG=PL
+meißeln	meißelte	TAG=V,TAG=SBJV,TAG=PST,TAG=1,TAG=SG
+meißeln	meißeln	TAG=V,TAG=IND,TAG=PRS,TAG=1,TAG=PL
+meißeln	meißelnd	TAG=V.PTCP,TAG=PRS
+meißeln	meißeltet	TAG=V,TAG=IND,TAG=PST,TAG=2,TAG=PL
+meißeln	meißle	TAG=V,TAG=IMP,TAG=2,TAG=SG
+meißeln	meißeltet	TAG=V,TAG=SBJV,TAG=PST,TAG=2,TAG=PL
+meißeln	meißelte	TAG=V,TAG=SBJV,TAG=PST,TAG=3,TAG=SG
+meißeln	meißeln	TAG=V,TAG=NFIN
+meißeln	meißeln	TAG=V,TAG=IND,TAG=PRS,TAG=3,TAG=PL
+meißeln	meißelt	TAG=V,TAG=IND,TAG=PRS,TAG=2,TAG=PL
+meißeln	meißeln	TAG=V,TAG=SBJV,TAG=PRS,TAG=1,TAG=PL
+meißeln	meißelten	TAG=V,TAG=IND,TAG=PST,TAG=1,TAG=PL
+meißeln	meißele	TAG=V,TAG=SBJV,TAG=PRS,TAG=3,TAG=SG
+meißeln	meißelten	TAG=V,TAG=IND,TAG=PST,TAG=3,TAG=PL
+meißeln	meißelt	TAG=V,TAG=IMP,TAG=2,TAG=PL
+meißeln	gemeißelt	TAG=V.PTCP,TAG=PST
+meißeln	meißelten	TAG=V,TAG=SBJV,TAG=PST,TAG=3,TAG=PL
+meißeln	meißle	TAG=V,TAG=IND,TAG=PRS,TAG=1,TAG=SG
+meißeln	meißele	TAG=V,TAG=SBJV,TAG=PRS,TAG=1,TAG=SG
+meißeln	meißelt	TAG=V,TAG=IND,TAG=PRS,TAG=3,TAG=SG
+meißeln	meißelet	TAG=V,TAG=SBJV,TAG=PRS,TAG=2,TAG=PL
+meißeln	meißeltest	TAG=V,TAG=IND,TAG=PST,TAG=2,TAG=SG
+meißeln	meißelten	TAG=V,TAG=SBJV,TAG=PST,TAG=1,TAG=PL
+meißeln	meißelte	TAG=V,TAG=IND,TAG=PST,TAG=1,TAG=SG
+meißeln	meißeltest	TAG=V,TAG=SBJV,TAG=PST,TAG=2,TAG=SG
+meißeln	meißelst	TAG=V,TAG=IND,TAG=PRS,TAG=2,TAG=SG
+meißeln	meißelest	TAG=V,TAG=SBJV,TAG=PRS,TAG=2,TAG=SG
+meißeln	meißelte	TAG=V,TAG=IND,TAG=PST,TAG=3,TAG=SG
+
+überfischen	überfischen	TAG=V,TAG=LEMMA
+überfischen	überfischen	TAG=V,TAG=SBJV,TAG=PRS,TAG=3,TAG=PL
+überfischen	überfischte	TAG=V,TAG=SBJV,TAG=PST,TAG=1,TAG=SG
+überfischen	überfischen	TAG=V,TAG=IND,TAG=PRS,TAG=1,TAG=PL
+überfischen	überfischend	TAG=V.PTCP,TAG=PRS
+überfischen	überfischtet	TAG=V,TAG=IND,TAG=PST,TAG=2,TAG=PL
+überfischen	überfisch	TAG=V,TAG=IMP,TAG=2,TAG=SG
+überfischen	überfischtet	TAG=V,TAG=SBJV,TAG=PST,TAG=2,TAG=PL
+überfischen	überfischte	TAG=V,TAG=SBJV,TAG=PST,TAG=3,TAG=SG
+überfischen	überfischen	TAG=V,TAG=NFIN
+überfischen	überfischen	TAG=V,TAG=IND,TAG=PRS,TAG=3,TAG=PL
+überfischen	überfischt	TAG=V,TAG=IND,TAG=PRS,TAG=2,TAG=PL
+überfischen	überfischen	TAG=V,TAG=SBJV,TAG=PRS,TAG=1,TAG=PL
+überfischen	überfischten	TAG=V,TAG=IND,TAG=PST,TAG=1,TAG=PL
+überfischen	überfische	TAG=V,TAG=SBJV,TAG=PRS,TAG=3,TAG=SG
+überfischen	überfischten	TAG=V,TAG=IND,TAG=PST,TAG=3,TAG=PL
+überfischen	überfischt	TAG=V,TAG=IMP,TAG=2,TAG=PL
+überfischen	überfischt	TAG=V.PTCP,TAG=PST
+überfischen	überfischten	TAG=V,TAG=SBJV,TAG=PST,TAG=3,TAG=PL
+überfischen	überfische	TAG=V,TAG=IND,TAG=PRS,TAG=1,TAG=SG
+überfischen	überfische	TAG=V,TAG=SBJV,TAG=PRS,TAG=1,TAG=SG
+überfischen	überfischt	TAG=V,TAG=IND,TAG=PRS,TAG=3,TAG=SG
+überfischen	überfischet	TAG=V,TAG=SBJV,TAG=PRS,TAG=2,TAG=PL
+überfischen	überfischtest	TAG=V,TAG=IND,TAG=PST,TAG=2,TAG=SG
+überfischen	überfischten	TAG=V,TAG=SBJV,TAG=PST,TAG=1,TAG=PL
+überfischen	überfischte	TAG=V,TAG=IND,TAG=PST,TAG=1,TAG=SG
+überfischen	überfischtest	TAG=V,TAG=SBJV,TAG=PST,TAG=2,TAG=SG
+überfischen	überfischst	TAG=V,TAG=IND,TAG=PRS,TAG=2,TAG=SG
+überfischen	überfischest	TAG=V,TAG=SBJV,TAG=PRS,TAG=2,TAG=SG
+überfischen	überfischte	TAG=V,TAG=IND,TAG=PST,TAG=3,TAG=SG
+
+Salzlake	Salzlake	TAG=N,TAG=LEMMA
+Salzlake	Salzlaken	TAG=N,TAG=GEN,TAG=PL
+Salzlake	Salzlaken	TAG=N,TAG=NOM,TAG=PL
+Salzlake	Salzlake	TAG=N,TAG=GEN,TAG=SG
+Salzlake	Salzlake	TAG=N,TAG=NOM,TAG=SG
+Salzlake	Salzlake	TAG=N,TAG=DAT,TAG=SG
+Salzlake	Salzlaken	TAG=N,TAG=ACC,TAG=PL
+Salzlake	Salzlake	TAG=N,TAG=ACC,TAG=SG
+Salzlake	Salzlaken	TAG=N,TAG=DAT,TAG=PL
+
+Wirtschaftswissenschaftlerin	Wirtschaftswissenschaftlerin	TAG=N,TAG=LEMMA
+Wirtschaftswissenschaftlerin	Wirtschaftswissenschaftlerinnen	TAG=N,TAG=GEN,TAG=PL
+Wirtschaftswissenschaftlerin	Wirtschaftswissenschaftlerinnen	TAG=N,TAG=NOM,TAG=PL
+Wirtschaftswissenschaftlerin	Wirtschaftswissenschaftlerin	TAG=N,TAG=GEN,TAG=SG
+Wirtschaftswissenschaftlerin	Wirtschaftswissenschaftlerin	TAG=N,TAG=NOM,TAG=SG
+Wirtschaftswissenschaftlerin	Wirtschaftswissenschaftlerin	TAG=N,TAG=DAT,TAG=SG
+Wirtschaftswissenschaftlerin	Wirtschaftswissenschaftlerinnen	TAG=N,TAG=ACC,TAG=PL
+Wirtschaftswissenschaftlerin	Wirtschaftswissenschaftlerin	TAG=N,TAG=ACC,TAG=SG
+Wirtschaftswissenschaftlerin	Wirtschaftswissenschaftlerinnen	TAG=N,TAG=DAT,TAG=PL
+
+Glockenspiel	Glockenspiel	TAG=N,TAG=LEMMA
+Glockenspiel	Glockenspiele	TAG=N,TAG=GEN,TAG=PL
+Glockenspiel	Glockenspiele	TAG=N,TAG=NOM,TAG=PL
+Glockenspiel	Glockenspiels	TAG=N,TAG=GEN,TAG=SG
+Glockenspiel	Glockenspiel	TAG=N,TAG=NOM,TAG=SG
+Glockenspiel	Glockenspiel	TAG=N,TAG=DAT,TAG=SG
+Glockenspiel	Glockenspiele	TAG=N,TAG=ACC,TAG=PL
+Glockenspiel	Glockenspiel	TAG=N,TAG=ACC,TAG=SG
+Glockenspiel	Glockenspielen	TAG=N,TAG=DAT,TAG=PL
+
+Gesims	Gesims	TAG=N,TAG=LEMMA
+Gesims	Gesimse	TAG=N,TAG=GEN,TAG=PL
+Gesims	Gesimse	TAG=N,TAG=NOM,TAG=PL
+Gesims	Gesimses	TAG=N,TAG=GEN,TAG=SG
+Gesims	Gesims	TAG=N,TAG=NOM,TAG=SG
+Gesims	Gesims	TAG=N,TAG=DAT,TAG=SG
+Gesims	Gesimse	TAG=N,TAG=ACC,TAG=PL
+Gesims	Gesims	TAG=N,TAG=ACC,TAG=SG
+Gesims	Gesimsen	TAG=N,TAG=DAT,TAG=PL
+
+Locher	Locher	TAG=N,TAG=LEMMA
+Locher	Locher	TAG=N,TAG=GEN,TAG=PL
+Locher	Locher	TAG=N,TAG=NOM,TAG=PL
+Locher	Lochers	TAG=N,TAG=GEN,TAG=SG
+Locher	Locher	TAG=N,TAG=NOM,TAG=SG
+Locher	Locher	TAG=N,TAG=DAT,TAG=SG
+Locher	Locher	TAG=N,TAG=ACC,TAG=PL
+Locher	Locher	TAG=N,TAG=ACC,TAG=SG
+Locher	Lochern	TAG=N,TAG=DAT,TAG=PL
+
+Platinmetall	Platinmetall	TAG=N,TAG=LEMMA
+Platinmetall	Platinmetalle	TAG=N,TAG=GEN,TAG=PL
+Platinmetall	Platinmetalle	TAG=N,TAG=NOM,TAG=PL
+Platinmetall	Platinmetalls	TAG=N,TAG=GEN,TAG=SG
+Platinmetall	Platinmetall	TAG=N,TAG=NOM,TAG=SG
+Platinmetall	Platinmetall	TAG=N,TAG=DAT,TAG=SG
+Platinmetall	Platinmetalle	TAG=N,TAG=ACC,TAG=PL
+Platinmetall	Platinmetall	TAG=N,TAG=ACC,TAG=SG
+Platinmetall	Platinmetallen	TAG=N,TAG=DAT,TAG=PL
+
+Selenoxid	Selenoxid	TAG=N,TAG=LEMMA
+Selenoxid	Selenoxide	TAG=N,TAG=GEN,TAG=PL
+Selenoxid	Selenoxide	TAG=N,TAG=NOM,TAG=PL
+Selenoxid	Selenoxids	TAG=N,TAG=GEN,TAG=SG
+Selenoxid	Selenoxid	TAG=N,TAG=NOM,TAG=SG
+Selenoxid	Selenoxid	TAG=N,TAG=DAT,TAG=SG
+Selenoxid	Selenoxide	TAG=N,TAG=ACC,TAG=PL
+Selenoxid	Selenoxid	TAG=N,TAG=ACC,TAG=SG
+Selenoxid	Selenoxiden	TAG=N,TAG=DAT,TAG=PL
+
+quaken	quaken	TAG=V,TAG=LEMMA
+quaken	quaken	TAG=V,TAG=SBJV,TAG=PRS,TAG=3,TAG=PL
+quaken	quakte	TAG=V,TAG=SBJV,TAG=PST,TAG=1,TAG=SG
+quaken	quaken	TAG=V,TAG=IND,TAG=PRS,TAG=1,TAG=PL
+quaken	quakend	TAG=V.PTCP,TAG=PRS
+quaken	quaktet	TAG=V,TAG=IND,TAG=PST,TAG=2,TAG=PL
+quaken	quak	TAG=V,TAG=IMP,TAG=2,TAG=SG
+quaken	quaktet	TAG=V,TAG=SBJV,TAG=PST,TAG=2,TAG=PL
+quaken	quakte	TAG=V,TAG=SBJV,TAG=PST,TAG=3,TAG=SG
+quaken	quaken	TAG=V,TAG=NFIN
+quaken	quaken	TAG=V,TAG=IND,TAG=PRS,TAG=3,TAG=PL
+quaken	quakt	TAG=V,TAG=IND,TAG=PRS,TAG=2,TAG=PL
+quaken	quaken	TAG=V,TAG=SBJV,TAG=PRS,TAG=1,TAG=PL
+quaken	quakten	TAG=V,TAG=IND,TAG=PST,TAG=1,TAG=PL
+quaken	quake	TAG=V,TAG=SBJV,TAG=PRS,TAG=3,TAG=SG
+quaken	quakten	TAG=V,TAG=IND,TAG=PST,TAG=3,TAG=PL
+quaken	quakt	TAG=V,TAG=IMP,TAG=2,TAG=PL
+quaken	gequakt	TAG=V.PTCP,TAG=PST
+quaken	quakten	TAG=V,TAG=SBJV,TAG=PST,TAG=3,TAG=PL
+quaken	quake	TAG=V,TAG=IND,TAG=PRS,TAG=1,TAG=SG
+quaken	quake	TAG=V,TAG=SBJV,TAG=PRS,TAG=1,TAG=SG
+quaken	quakt	TAG=V,TAG=IND,TAG=PRS,TAG=3,TAG=SG
+quaken	quaket	TAG=V,TAG=SBJV,TAG=PRS,TAG=2,TAG=PL
+quaken	quaktest	TAG=V,TAG=IND,TAG=PST,TAG=2,TAG=SG
+quaken	quakten	TAG=V,TAG=SBJV,TAG=PST,TAG=1,TAG=PL
+quaken	quakte	TAG=V,TAG=IND,TAG=PST,TAG=1,TAG=SG
+quaken	quaktest	TAG=V,TAG=SBJV,TAG=PST,TAG=2,TAG=SG
+quaken	quakst	TAG=V,TAG=IND,TAG=PRS,TAG=2,TAG=SG
+quaken	quakest	TAG=V,TAG=SBJV,TAG=PRS,TAG=2,TAG=SG
+quaken	quakte	TAG=V,TAG=IND,TAG=PST,TAG=3,TAG=SG
+
+Privatstraße	Privatstraße	TAG=N,TAG=LEMMA
+Privatstraße	Privatstraßen	TAG=N,TAG=GEN,TAG=PL
+Privatstraße	Privatstraßen	TAG=N,TAG=NOM,TAG=PL
+Privatstraße	Privatstraße	TAG=N,TAG=GEN,TAG=SG
+Privatstraße	Privatstraße	TAG=N,TAG=NOM,TAG=SG
+Privatstraße	Privatstraße	TAG=N,TAG=DAT,TAG=SG
+Privatstraße	Privatstraßen	TAG=N,TAG=ACC,TAG=PL
+Privatstraße	Privatstraße	TAG=N,TAG=ACC,TAG=SG
+Privatstraße	Privatstraßen	TAG=N,TAG=DAT,TAG=PL
+
+Chemikerin	Chemikerin	TAG=N,TAG=LEMMA
+Chemikerin	Chemikerinnen	TAG=N,TAG=GEN,TAG=PL
+Chemikerin	Chemikerinnen	TAG=N,TAG=NOM,TAG=PL
+Chemikerin	Chemikerin	TAG=N,TAG=GEN,TAG=SG
+Chemikerin	Chemikerin	TAG=N,TAG=NOM,TAG=SG
+Chemikerin	Chemikerin	TAG=N,TAG=DAT,TAG=SG
+Chemikerin	Chemikerinnen	TAG=N,TAG=ACC,TAG=PL
+Chemikerin	Chemikerin	TAG=N,TAG=ACC,TAG=SG
+Chemikerin	Chemikerinnen	TAG=N,TAG=DAT,TAG=PL
+
+vermeßen	vermeßen	TAG=V,TAG=LEMMA
+vermeßen	vermeßen	TAG=V,TAG=SBJV,TAG=PRS,TAG=3,TAG=PL
+vermeßen	vermäße	TAG=V,TAG=SBJV,TAG=PST,TAG=1,TAG=SG
+vermeßen	vermeßen	TAG=V,TAG=IND,TAG=PRS,TAG=1,TAG=PL
+vermeßen	vermeßend	TAG=V.PTCP,TAG=PRS
+vermeßen	vermaßt	TAG=V,TAG=IND,TAG=PST,TAG=2,TAG=PL
+vermeßen	vermiß	TAG=V,TAG=IMP,TAG=2,TAG=SG
+vermeßen	vermäßet	TAG=V,TAG=SBJV,TAG=PST,TAG=2,TAG=PL
+vermeßen	vermäße	TAG=V,TAG=SBJV,TAG=PST,TAG=3,TAG=SG
+vermeßen	vermeßen	TAG=V,TAG=NFIN
+vermeßen	vermeßen	TAG=V,TAG=IND,TAG=PRS,TAG=3,TAG=PL
+vermeßen	vermeßt	TAG=V,TAG=IND,TAG=PRS,TAG=2,TAG=PL
+vermeßen	vermeßen	TAG=V,TAG=SBJV,TAG=PRS,TAG=1,TAG=PL
+vermeßen	vermaßen	TAG=V,TAG=IND,TAG=PST,TAG=1,TAG=PL
+vermeßen	vermeße	TAG=V,TAG=SBJV,TAG=PRS,TAG=3,TAG=SG
+vermeßen	vermaßen	TAG=V,TAG=IND,TAG=PST,TAG=3,TAG=PL
+vermeßen	vermeßt	TAG=V,TAG=IMP,TAG=2,TAG=PL
+vermeßen	vermeßen	TAG=V.PTCP,TAG=PST
+vermeßen	vermäßen	TAG=V,TAG=SBJV,TAG=PST,TAG=3,TAG=PL
+vermeßen	vermeße	TAG=V,TAG=IND,TAG=PRS,TAG=1,TAG=SG
+vermeßen	vermeße	TAG=V,TAG=SBJV,TAG=PRS,TAG=1,TAG=SG
+vermeßen	vermißt	TAG=V,TAG=IND,TAG=PRS,TAG=3,TAG=SG
+vermeßen	vermeßet	TAG=V,TAG=SBJV,TAG=PRS,TAG=2,TAG=PL
+vermeßen	vermaßt	TAG=V,TAG=IND,TAG=PST,TAG=2,TAG=SG
+vermeßen	vermäßen	TAG=V,TAG=SBJV,TAG=PST,TAG=1,TAG=PL
+vermeßen	vermaß	TAG=V,TAG=IND,TAG=PST,TAG=1,TAG=SG
+vermeßen	vermäßest	TAG=V,TAG=SBJV,TAG=PST,TAG=2,TAG=SG
+vermeßen	vermißt	TAG=V,TAG=IND,TAG=PRS,TAG=2,TAG=SG
+vermeßen	vermeßest	TAG=V,TAG=SBJV,TAG=PRS,TAG=2,TAG=SG
+vermeßen	vermaß	TAG=V,TAG=IND,TAG=PST,TAG=3,TAG=SG
+
+Dienerin	Dienerin	TAG=N,TAG=LEMMA
+Dienerin	Dienerinnen	TAG=N,TAG=GEN,TAG=PL
+Dienerin	Dienerinnen	TAG=N,TAG=NOM,TAG=PL
+Dienerin	Dienerin	TAG=N,TAG=GEN,TAG=SG
+Dienerin	Dienerin	TAG=N,TAG=NOM,TAG=SG
+Dienerin	Dienerin	TAG=N,TAG=DAT,TAG=SG
+Dienerin	Dienerinnen	TAG=N,TAG=ACC,TAG=PL
+Dienerin	Dienerin	TAG=N,TAG=ACC,TAG=SG
+Dienerin	Dienerinnen	TAG=N,TAG=DAT,TAG=PL
+
+Hypothalamus	Hypothalamus	TAG=N,TAG=LEMMA
+Hypothalamus	Hypothalami	TAG=N,TAG=GEN,TAG=PL
+Hypothalamus	Hypothalami	TAG=N,TAG=NOM,TAG=PL
+Hypothalamus	Hypothalamus	TAG=N,TAG=GEN,TAG=SG
+Hypothalamus	Hypothalamus	TAG=N,TAG=NOM,TAG=SG
+Hypothalamus	Hypothalamus	TAG=N,TAG=DAT,TAG=SG
+Hypothalamus	Hypothalami	TAG=N,TAG=ACC,TAG=PL
+Hypothalamus	Hypothalamus	TAG=N,TAG=ACC,TAG=SG
+Hypothalamus	Hypothalamin	TAG=N,TAG=DAT,TAG=PL
+
+jappen	jappen	TAG=V,TAG=LEMMA
+jappen	jappen	TAG=V,TAG=SBJV,TAG=PRS,TAG=3,TAG=PL
+jappen	jappte	TAG=V,TAG=SBJV,TAG=PST,TAG=1,TAG=SG
+jappen	jappen	TAG=V,TAG=IND,TAG=PRS,TAG=1,TAG=PL
+jappen	jappend	TAG=V.PTCP,TAG=PRS
+jappen	japptet	TAG=V,TAG=IND,TAG=PST,TAG=2,TAG=PL
+jappen	japp	TAG=V,TAG=IMP,TAG=2,TAG=SG
+jappen	japptet	TAG=V,TAG=SBJV,TAG=PST,TAG=2,TAG=PL
+jappen	jappte	TAG=V,TAG=SBJV,TAG=PST,TAG=3,TAG=SG
+jappen	jappen	TAG=V,TAG=NFIN
+jappen	jappen	TAG=V,TAG=IND,TAG=PRS,TAG=3,TAG=PL
+jappen	jappt	TAG=V,TAG=IND,TAG=PRS,TAG=2,TAG=PL
+jappen	jappen	TAG=V,TAG=SBJV,TAG=PRS,TAG=1,TAG=PL
+jappen	jappten	TAG=V,TAG=IND,TAG=PST,TAG=1,TAG=PL
+jappen	jappe	TAG=V,TAG=SBJV,TAG=PRS,TAG=3,TAG=SG
+jappen	jappten	TAG=V,TAG=IND,TAG=PST,TAG=3,TAG=PL
+jappen	jappt	TAG=V,TAG=IMP,TAG=2,TAG=PL
+jappen	gejappt	TAG=V.PTCP,TAG=PST
+jappen	jappten	TAG=V,TAG=SBJV,TAG=PST,TAG=3,TAG=PL
+jappen	jappe	TAG=V,TAG=IND,TAG=PRS,TAG=1,TAG=SG
+jappen	jappe	TAG=V,TAG=SBJV,TAG=PRS,TAG=1,TAG=SG
+jappen	jappt	TAG=V,TAG=IND,TAG=PRS,TAG=3,TAG=SG
+jappen	jappet	TAG=V,TAG=SBJV,TAG=PRS,TAG=2,TAG=PL
+jappen	japptest	TAG=V,TAG=IND,TAG=PST,TAG=2,TAG=SG
+jappen	jappten	TAG=V,TAG=SBJV,TAG=PST,TAG=1,TAG=PL
+jappen	jappte	TAG=V,TAG=IND,TAG=PST,TAG=1,TAG=SG
+jappen	japptest	TAG=V,TAG=SBJV,TAG=PST,TAG=2,TAG=SG
+jappen	jappst	TAG=V,TAG=IND,TAG=PRS,TAG=2,TAG=SG
+jappen	jappest	TAG=V,TAG=SBJV,TAG=PRS,TAG=2,TAG=SG
+jappen	jappte	TAG=V,TAG=IND,TAG=PST,TAG=3,TAG=SG
+
+käbbeln	käbbeln	TAG=V,TAG=LEMMA
+käbbeln	käbbeln	TAG=V,TAG=SBJV,TAG=PRS,TAG=3,TAG=PL
+käbbeln	käbbelte	TAG=V,TAG=SBJV,TAG=PST,TAG=1,TAG=SG
+käbbeln	käbbeln	TAG=V,TAG=IND,TAG=PRS,TAG=1,TAG=PL
+käbbeln	käbbelnd	TAG=V.PTCP,TAG=PRS
+käbbeln	käbbeltet	TAG=V,TAG=IND,TAG=PST,TAG=2,TAG=PL
+käbbeln	käbble	TAG=V,TAG=IMP,TAG=2,TAG=SG
+käbbeln	käbbeltet	TAG=V,TAG=SBJV,TAG=PST,TAG=2,TAG=PL
+käbbeln	käbbelte	TAG=V,TAG=SBJV,TAG=PST,TAG=3,TAG=SG
+käbbeln	käbbeln	TAG=V,TAG=NFIN
+käbbeln	käbbeln	TAG=V,TAG=IND,TAG=PRS,TAG=3,TAG=PL
+käbbeln	käbbelt	TAG=V,TAG=IND,TAG=PRS,TAG=2,TAG=PL
+käbbeln	käbbeln	TAG=V,TAG=SBJV,TAG=PRS,TAG=1,TAG=PL
+käbbeln	käbbelten	TAG=V,TAG=IND,TAG=PST,TAG=1,TAG=PL
+käbbeln	käbbele	TAG=V,TAG=SBJV,TAG=PRS,TAG=3,TAG=SG
+käbbeln	käbbelten	TAG=V,TAG=IND,TAG=PST,TAG=3,TAG=PL
+käbbeln	käbbelt	TAG=V,TAG=IMP,TAG=2,TAG=PL
+käbbeln	gekäbbelt	TAG=V.PTCP,TAG=PST
+käbbeln	käbbelten	TAG=V,TAG=SBJV,TAG=PST,TAG=3,TAG=PL
+käbbeln	käbble	TAG=V,TAG=IND,TAG=PRS,TAG=1,TAG=SG
+käbbeln	käbbele	TAG=V,TAG=SBJV,TAG=PRS,TAG=1,TAG=SG
+käbbeln	käbbelt	TAG=V,TAG=IND,TAG=PRS,TAG=3,TAG=SG
+käbbeln	käbbelet	TAG=V,TAG=SBJV,TAG=PRS,TAG=2,TAG=PL
+käbbeln	käbbeltest	TAG=V,TAG=IND,TAG=PST,TAG=2,TAG=SG
+käbbeln	käbbelten	TAG=V,TAG=SBJV,TAG=PST,TAG=1,TAG=PL
+käbbeln	käbbelte	TAG=V,TAG=IND,TAG=PST,TAG=1,TAG=SG
+käbbeln	käbbeltest	TAG=V,TAG=SBJV,TAG=PST,TAG=2,TAG=SG
+käbbeln	käbbelst	TAG=V,TAG=IND,TAG=PRS,TAG=2,TAG=SG
+käbbeln	käbbelest	TAG=V,TAG=SBJV,TAG=PRS,TAG=2,TAG=SG
+käbbeln	käbbelte	TAG=V,TAG=IND,TAG=PST,TAG=3,TAG=SG
+
+Gnu	Gnu	TAG=N,TAG=LEMMA
+Gnu	Gnus	TAG=N,TAG=GEN,TAG=PL
+Gnu	Gnus	TAG=N,TAG=NOM,TAG=PL
+Gnu	Gnus	TAG=N,TAG=GEN,TAG=SG
+Gnu	Gnu	TAG=N,TAG=NOM,TAG=SG
+Gnu	Gnu	TAG=N,TAG=DAT,TAG=SG
+Gnu	Gnus	TAG=N,TAG=ACC,TAG=PL
+Gnu	Gnu	TAG=N,TAG=ACC,TAG=SG
+Gnu	Gnus	TAG=N,TAG=DAT,TAG=PL
+
+Niederlage	Niederlage	TAG=N,TAG=LEMMA
+Niederlage	Niederlagen	TAG=N,TAG=GEN,TAG=PL
+Niederlage	Niederlagen	TAG=N,TAG=NOM,TAG=PL
+Niederlage	Niederlage	TAG=N,TAG=GEN,TAG=SG
+Niederlage	Niederlage	TAG=N,TAG=NOM,TAG=SG
+Niederlage	Niederlage	TAG=N,TAG=DAT,TAG=SG
+Niederlage	Niederlagen	TAG=N,TAG=ACC,TAG=PL
+Niederlage	Niederlage	TAG=N,TAG=ACC,TAG=SG
+Niederlage	Niederlagen	TAG=N,TAG=DAT,TAG=PL
+
+Höchststand	Höchststand	TAG=N,TAG=LEMMA
+Höchststand	Höchststände	TAG=N,TAG=GEN,TAG=PL
+Höchststand	Höchststände	TAG=N,TAG=NOM,TAG=PL
+Höchststand	Höchststands	TAG=N,TAG=GEN,TAG=SG
+Höchststand	Höchststand	TAG=N,TAG=NOM,TAG=SG
+Höchststand	Höchststand	TAG=N,TAG=DAT,TAG=SG
+Höchststand	Höchststände	TAG=N,TAG=ACC,TAG=PL
+Höchststand	Höchststand	TAG=N,TAG=ACC,TAG=SG
+Höchststand	Höchstständen	TAG=N,TAG=DAT,TAG=PL
+
+Stiefmutter	Stiefmutter	TAG=N,TAG=LEMMA
+Stiefmutter	Stiefmütter	TAG=N,TAG=GEN,TAG=PL
+Stiefmutter	Stiefmütter	TAG=N,TAG=NOM,TAG=PL
+Stiefmutter	Stiefmutter	TAG=N,TAG=GEN,TAG=SG
+Stiefmutter	Stiefmutter	TAG=N,TAG=NOM,TAG=SG
+Stiefmutter	Stiefmutter	TAG=N,TAG=DAT,TAG=SG
+Stiefmutter	Stiefmütter	TAG=N,TAG=ACC,TAG=PL
+Stiefmutter	Stiefmutter	TAG=N,TAG=ACC,TAG=SG
+Stiefmutter	Stiefmüttern	TAG=N,TAG=DAT,TAG=PL
+
+chloroformieren	chloroformieren	TAG=V,TAG=LEMMA
+chloroformieren	chloroformieren	TAG=V,TAG=SBJV,TAG=PRS,TAG=3,TAG=PL
+chloroformieren	chloroformierte	TAG=V,TAG=SBJV,TAG=PST,TAG=1,TAG=SG
+chloroformieren	chloroformieren	TAG=V,TAG=IND,TAG=PRS,TAG=1,TAG=PL
+chloroformieren	chloroformierend	TAG=V.PTCP,TAG=PRS
+chloroformieren	chloroformiertet	TAG=V,TAG=IND,TAG=PST,TAG=2,TAG=PL
+chloroformieren	chloroformier	TAG=V,TAG=IMP,TAG=2,TAG=SG
+chloroformieren	chloroformiertet	TAG=V,TAG=SBJV,TAG=PST,TAG=2,TAG=PL
+chloroformieren	chloroformierte	TAG=V,TAG=SBJV,TAG=PST,TAG=3,TAG=SG
+chloroformieren	chloroformieren	TAG=V,TAG=NFIN
+chloroformieren	chloroformieren	TAG=V,TAG=IND,TAG=PRS,TAG=3,TAG=PL
+chloroformieren	chloroformiert	TAG=V,TAG=IND,TAG=PRS,TAG=2,TAG=PL
+chloroformieren	chloroformieren	TAG=V,TAG=SBJV,TAG=PRS,TAG=1,TAG=PL
+chloroformieren	chloroformierten	TAG=V,TAG=IND,TAG=PST,TAG=1,TAG=PL
+chloroformieren	chloroformiere	TAG=V,TAG=SBJV,TAG=PRS,TAG=3,TAG=SG
+chloroformieren	chloroformierten	TAG=V,TAG=IND,TAG=PST,TAG=3,TAG=PL
+chloroformieren	chloroformiert	TAG=V,TAG=IMP,TAG=2,TAG=PL
+chloroformieren	chloroformiert	TAG=V.PTCP,TAG=PST
+chloroformieren	chloroformierten	TAG=V,TAG=SBJV,TAG=PST,TAG=3,TAG=PL
+chloroformieren	chloroformiere	TAG=V,TAG=IND,TAG=PRS,TAG=1,TAG=SG
+chloroformieren	chloroformiere	TAG=V,TAG=SBJV,TAG=PRS,TAG=1,TAG=SG
+chloroformieren	chloroformiert	TAG=V,TAG=IND,TAG=PRS,TAG=3,TAG=SG
+chloroformieren	chloroformieret	TAG=V,TAG=SBJV,TAG=PRS,TAG=2,TAG=PL
+chloroformieren	chloroformiertest	TAG=V,TAG=IND,TAG=PST,TAG=2,TAG=SG
+chloroformieren	chloroformierten	TAG=V,TAG=SBJV,TAG=PST,TAG=1,TAG=PL
+chloroformieren	chloroformierte	TAG=V,TAG=IND,TAG=PST,TAG=1,TAG=SG
+chloroformieren	chloroformiertest	TAG=V,TAG=SBJV,TAG=PST,TAG=2,TAG=SG
+chloroformieren	chloroformierst	TAG=V,TAG=IND,TAG=PRS,TAG=2,TAG=SG
+chloroformieren	chloroformierest	TAG=V,TAG=SBJV,TAG=PRS,TAG=2,TAG=SG
+chloroformieren	chloroformierte	TAG=V,TAG=IND,TAG=PST,TAG=3,TAG=SG
+
+Feldbett	Feldbett	TAG=N,TAG=LEMMA
+Feldbett	Feldbetten	TAG=N,TAG=GEN,TAG=PL
+Feldbett	Feldbetten	TAG=N,TAG=NOM,TAG=PL
+Feldbett	Feldbetts	TAG=N,TAG=GEN,TAG=SG
+Feldbett	Feldbett	TAG=N,TAG=NOM,TAG=SG
+Feldbett	Feldbett	TAG=N,TAG=DAT,TAG=SG
+Feldbett	Feldbetten	TAG=N,TAG=ACC,TAG=PL
+Feldbett	Feldbett	TAG=N,TAG=ACC,TAG=SG
+Feldbett	Feldbetten	TAG=N,TAG=DAT,TAG=PL
+
+Crescendo	Crescendo	TAG=N,TAG=LEMMA
+Crescendo	Crescendos	TAG=N,TAG=GEN,TAG=PL
+Crescendo	Crescendos	TAG=N,TAG=NOM,TAG=PL
+Crescendo	Crescendos	TAG=N,TAG=GEN,TAG=SG
+Crescendo	Crescendo	TAG=N,TAG=NOM,TAG=SG
+Crescendo	Crescendo	TAG=N,TAG=DAT,TAG=SG
+Crescendo	Crescendos	TAG=N,TAG=ACC,TAG=PL
+Crescendo	Crescendo	TAG=N,TAG=ACC,TAG=SG
+Crescendo	Crescendos	TAG=N,TAG=DAT,TAG=PL
+
+Natronfeldspat	Natronfeldspat	TAG=N,TAG=LEMMA
+Natronfeldspat	Natronfeldspate	TAG=N,TAG=GEN,TAG=PL
+Natronfeldspat	Natronfeldspate	TAG=N,TAG=NOM,TAG=PL
+Natronfeldspat	Natronfeldspats	TAG=N,TAG=GEN,TAG=SG
+Natronfeldspat	Natronfeldspat	TAG=N,TAG=NOM,TAG=SG
+Natronfeldspat	Natronfeldspat	TAG=N,TAG=DAT,TAG=SG
+Natronfeldspat	Natronfeldspate	TAG=N,TAG=ACC,TAG=PL
+Natronfeldspat	Natronfeldspat	TAG=N,TAG=ACC,TAG=SG
+Natronfeldspat	Natronfeldspaten	TAG=N,TAG=DAT,TAG=PL
+
+Anpfiff	Anpfiff	TAG=N,TAG=LEMMA
+Anpfiff	Anpfiffe	TAG=N,TAG=GEN,TAG=PL
+Anpfiff	Anpfiffe	TAG=N,TAG=NOM,TAG=PL
+Anpfiff	Anpfiffes	TAG=N,TAG=GEN,TAG=SG
+Anpfiff	Anpfiff	TAG=N,TAG=NOM,TAG=SG
+Anpfiff	Anpfiff	TAG=N,TAG=DAT,TAG=SG
+Anpfiff	Anpfiffe	TAG=N,TAG=ACC,TAG=PL
+Anpfiff	Anpfiff	TAG=N,TAG=ACC,TAG=SG
+Anpfiff	Anpfiffen	TAG=N,TAG=DAT,TAG=PL
+
+Fußabdruck	Fußabdruck	TAG=N,TAG=LEMMA
+Fußabdruck	Fußabdrücke	TAG=N,TAG=GEN,TAG=PL
+Fußabdruck	Fußabdrücke	TAG=N,TAG=NOM,TAG=PL
+Fußabdruck	Fußabdruckes	TAG=N,TAG=GEN,TAG=SG
+Fußabdruck	Fußabdruck	TAG=N,TAG=NOM,TAG=SG
+Fußabdruck	Fußabdruck	TAG=N,TAG=DAT,TAG=SG
+Fußabdruck	Fußabdrücke	TAG=N,TAG=ACC,TAG=PL
+Fußabdruck	Fußabdruck	TAG=N,TAG=ACC,TAG=SG
+Fußabdruck	Fußabdrücken	TAG=N,TAG=DAT,TAG=PL
+
+Bergwerk	Bergwerk	TAG=N,TAG=LEMMA
+Bergwerk	Bergwerke	TAG=N,TAG=GEN,TAG=PL
+Bergwerk	Bergwerke	TAG=N,TAG=NOM,TAG=PL
+Bergwerk	Bergwerkes	TAG=N,TAG=GEN,TAG=SG
+Bergwerk	Bergwerk	TAG=N,TAG=NOM,TAG=SG
+Bergwerk	Bergwerk	TAG=N,TAG=DAT,TAG=SG
+Bergwerk	Bergwerke	TAG=N,TAG=ACC,TAG=PL
+Bergwerk	Bergwerk	TAG=N,TAG=ACC,TAG=SG
+Bergwerk	Bergwerken	TAG=N,TAG=DAT,TAG=PL
+
+Eunuch	Eunuch	TAG=N,TAG=LEMMA
+Eunuch	Eunuchen	TAG=N,TAG=GEN,TAG=PL
+Eunuch	Eunuchen	TAG=N,TAG=NOM,TAG=PL
+Eunuch	Eunuchen	TAG=N,TAG=GEN,TAG=SG
+Eunuch	Eunuch	TAG=N,TAG=NOM,TAG=SG
+Eunuch	Eunuchen	TAG=N,TAG=DAT,TAG=SG
+Eunuch	Eunuchen	TAG=N,TAG=ACC,TAG=PL
+Eunuch	Eunuchen	TAG=N,TAG=ACC,TAG=SG
+Eunuch	Eunuchen	TAG=N,TAG=DAT,TAG=PL
+
+Brautente	Brautente	TAG=N,TAG=LEMMA
+Brautente	Brautenten	TAG=N,TAG=GEN,TAG=PL
+Brautente	Brautenten	TAG=N,TAG=NOM,TAG=PL
+Brautente	Brautente	TAG=N,TAG=GEN,TAG=SG
+Brautente	Brautente	TAG=N,TAG=NOM,TAG=SG
+Brautente	Brautente	TAG=N,TAG=DAT,TAG=SG
+Brautente	Brautenten	TAG=N,TAG=ACC,TAG=PL
+Brautente	Brautente	TAG=N,TAG=ACC,TAG=SG
+Brautente	Brautenten	TAG=N,TAG=DAT,TAG=PL
+
+Aufkommen	Aufkommen	TAG=N,TAG=LEMMA
+Aufkommen	Aufkommen	TAG=N,TAG=GEN,TAG=PL
+Aufkommen	Aufkommen	TAG=N,TAG=NOM,TAG=PL
+Aufkommen	Aufkommens	TAG=N,TAG=GEN,TAG=SG
+Aufkommen	Aufkommen	TAG=N,TAG=NOM,TAG=SG
+Aufkommen	Aufkommen	TAG=N,TAG=DAT,TAG=SG
+Aufkommen	Aufkommen	TAG=N,TAG=ACC,TAG=PL
+Aufkommen	Aufkommen	TAG=N,TAG=ACC,TAG=SG
+Aufkommen	Aufkommen	TAG=N,TAG=DAT,TAG=PL
+
+einführen	einführen	TAG=V,TAG=LEMMA
+einführen	führen ein	TAG=V,TAG=SBJV,TAG=PRS,TAG=3,TAG=PL
+einführen	führte ein	TAG=V,TAG=SBJV,TAG=PST,TAG=1,TAG=SG
+einführen	führen ein	TAG=V,TAG=IND,TAG=PRS,TAG=1,TAG=PL
+einführen	einführend	TAG=V.PTCP,TAG=PRS
+einführen	führtet ein	TAG=V,TAG=IND,TAG=PST,TAG=2,TAG=PL
+einführen	führ ein	TAG=V,TAG=IMP,TAG=2,TAG=SG
+einführen	führtet ein	TAG=V,TAG=SBJV,TAG=PST,TAG=2,TAG=PL
+einführen	führte ein	TAG=V,TAG=SBJV,TAG=PST,TAG=3,TAG=SG
+einführen	einführen	TAG=V,TAG=NFIN
+einführen	führen ein	TAG=V,TAG=IND,TAG=PRS,TAG=3,TAG=PL
+einführen	führt ein	TAG=V,TAG=IND,TAG=PRS,TAG=2,TAG=PL
+einführen	führen ein	TAG=V,TAG=SBJV,TAG=PRS,TAG=1,TAG=PL
+einführen	führten ein	TAG=V,TAG=IND,TAG=PST,TAG=1,TAG=PL
+einführen	führe ein	TAG=V,TAG=SBJV,TAG=PRS,TAG=3,TAG=SG
+einführen	führten ein	TAG=V,TAG=IND,TAG=PST,TAG=3,TAG=PL
+einführen	führt ein	TAG=V,TAG=IMP,TAG=2,TAG=PL
+einführen	eingeführt	TAG=V.PTCP,TAG=PST
+einführen	führten ein	TAG=V,TAG=SBJV,TAG=PST,TAG=3,TAG=PL
+einführen	führe ein	TAG=V,TAG=IND,TAG=PRS,TAG=1,TAG=SG
+einführen	führe ein	TAG=V,TAG=SBJV,TAG=PRS,TAG=1,TAG=SG
+einführen	führt ein	TAG=V,TAG=IND,TAG=PRS,TAG=3,TAG=SG
+einführen	führet ein	TAG=V,TAG=SBJV,TAG=PRS,TAG=2,TAG=PL
+einführen	führtest ein	TAG=V,TAG=IND,TAG=PST,TAG=2,TAG=SG
+einführen	führten ein	TAG=V,TAG=SBJV,TAG=PST,TAG=1,TAG=PL
+einführen	führte ein	TAG=V,TAG=IND,TAG=PST,TAG=1,TAG=SG
+einführen	führtest ein	TAG=V,TAG=SBJV,TAG=PST,TAG=2,TAG=SG
+einführen	führst ein	TAG=V,TAG=IND,TAG=PRS,TAG=2,TAG=SG
+einführen	führest ein	TAG=V,TAG=SBJV,TAG=PRS,TAG=2,TAG=SG
+einführen	führte ein	TAG=V,TAG=IND,TAG=PST,TAG=3,TAG=SG
+
+Lund	Lund	TAG=N,TAG=LEMMA
+Lund	Lunde	TAG=N,TAG=GEN,TAG=PL
+Lund	Lunde	TAG=N,TAG=NOM,TAG=PL
+Lund	Lundes	TAG=N,TAG=GEN,TAG=SG
+Lund	Lund	TAG=N,TAG=NOM,TAG=SG
+Lund	Lund	TAG=N,TAG=DAT,TAG=SG
+Lund	Lunde	TAG=N,TAG=ACC,TAG=PL
+Lund	Lund	TAG=N,TAG=ACC,TAG=SG
+Lund	Lunden	TAG=N,TAG=DAT,TAG=PL
+
+Zeigefinger	Zeigefinger	TAG=N,TAG=LEMMA
+Zeigefinger	Zeigefinger	TAG=N,TAG=GEN,TAG=PL
+Zeigefinger	Zeigefinger	TAG=N,TAG=NOM,TAG=PL
+Zeigefinger	Zeigefingers	TAG=N,TAG=GEN,TAG=SG
+Zeigefinger	Zeigefinger	TAG=N,TAG=NOM,TAG=SG
+Zeigefinger	Zeigefinger	TAG=N,TAG=DAT,TAG=SG
+Zeigefinger	Zeigefinger	TAG=N,TAG=ACC,TAG=PL
+Zeigefinger	Zeigefinger	TAG=N,TAG=ACC,TAG=SG
+Zeigefinger	Zeigefingern	TAG=N,TAG=DAT,TAG=PL
+
+Wicht	Wicht	TAG=N,TAG=LEMMA
+Wicht	Wichter	TAG=N,TAG=GEN,TAG=PL
+Wicht	Wichter	TAG=N,TAG=NOM,TAG=PL
+Wicht	Wichtes	TAG=N,TAG=GEN,TAG=SG
+Wicht	Wicht	TAG=N,TAG=NOM,TAG=SG
+Wicht	Wicht	TAG=N,TAG=DAT,TAG=SG
+Wicht	Wichter	TAG=N,TAG=ACC,TAG=PL
+Wicht	Wicht	TAG=N,TAG=ACC,TAG=SG
+Wicht	Wichtern	TAG=N,TAG=DAT,TAG=PL
+
+fasen	fasen	TAG=V,TAG=LEMMA
+fasen	fasen	TAG=V,TAG=SBJV,TAG=PRS,TAG=3,TAG=PL
+fasen	faste	TAG=V,TAG=SBJV,TAG=PST,TAG=1,TAG=SG
+fasen	fasen	TAG=V,TAG=IND,TAG=PRS,TAG=1,TAG=PL
+fasen	fasend	TAG=V.PTCP,TAG=PRS
+fasen	fastet	TAG=V,TAG=IND,TAG=PST,TAG=2,TAG=PL
+fasen	fas	TAG=V,TAG=IMP,TAG=2,TAG=SG
+fasen	fastet	TAG=V,TAG=SBJV,TAG=PST,TAG=2,TAG=PL
+fasen	faste	TAG=V,TAG=SBJV,TAG=PST,TAG=3,TAG=SG
+fasen	fasen	TAG=V,TAG=NFIN
+fasen	fasen	TAG=V,TAG=IND,TAG=PRS,TAG=3,TAG=PL
+fasen	fast	TAG=V,TAG=IND,TAG=PRS,TAG=2,TAG=PL
+fasen	fasen	TAG=V,TAG=SBJV,TAG=PRS,TAG=1,TAG=PL
+fasen	fasten	TAG=V,TAG=IND,TAG=PST,TAG=1,TAG=PL
+fasen	fase	TAG=V,TAG=SBJV,TAG=PRS,TAG=3,TAG=SG
+fasen	fasten	TAG=V,TAG=IND,TAG=PST,TAG=3,TAG=PL
+fasen	fast	TAG=V,TAG=IMP,TAG=2,TAG=PL
+fasen	gefast	TAG=V.PTCP,TAG=PST
+fasen	fasten	TAG=V,TAG=SBJV,TAG=PST,TAG=3,TAG=PL
+fasen	fase	TAG=V,TAG=IND,TAG=PRS,TAG=1,TAG=SG
+fasen	fase	TAG=V,TAG=SBJV,TAG=PRS,TAG=1,TAG=SG
+fasen	fast	TAG=V,TAG=IND,TAG=PRS,TAG=3,TAG=SG
+fasen	faset	TAG=V,TAG=SBJV,TAG=PRS,TAG=2,TAG=PL
+fasen	fastest	TAG=V,TAG=IND,TAG=PST,TAG=2,TAG=SG
+fasen	fasten	TAG=V,TAG=SBJV,TAG=PST,TAG=1,TAG=PL
+fasen	faste	TAG=V,TAG=IND,TAG=PST,TAG=1,TAG=SG
+fasen	fastest	TAG=V,TAG=SBJV,TAG=PST,TAG=2,TAG=SG
+fasen	fast	TAG=V,TAG=IND,TAG=PRS,TAG=2,TAG=SG
+fasen	fasest	TAG=V,TAG=SBJV,TAG=PRS,TAG=2,TAG=SG
+fasen	faste	TAG=V,TAG=IND,TAG=PST,TAG=3,TAG=SG
+
+Nervenkrieg	Nervenkrieg	TAG=N,TAG=LEMMA
+Nervenkrieg	Nervenkriege	TAG=N,TAG=GEN,TAG=PL
+Nervenkrieg	Nervenkriege	TAG=N,TAG=NOM,TAG=PL
+Nervenkrieg	Nervenkrieges	TAG=N,TAG=GEN,TAG=SG
+Nervenkrieg	Nervenkrieg	TAG=N,TAG=NOM,TAG=SG
+Nervenkrieg	Nervenkrieg	TAG=N,TAG=DAT,TAG=SG
+Nervenkrieg	Nervenkriege	TAG=N,TAG=ACC,TAG=PL
+Nervenkrieg	Nervenkrieg	TAG=N,TAG=ACC,TAG=SG
+Nervenkrieg	Nervenkriegen	TAG=N,TAG=DAT,TAG=PL
+
+zusagen	zusagen	TAG=V,TAG=LEMMA
+zusagen	sagen zu	TAG=V,TAG=SBJV,TAG=PRS,TAG=3,TAG=PL
+zusagen	sagte zu	TAG=V,TAG=SBJV,TAG=PST,TAG=1,TAG=SG
+zusagen	sagen zu	TAG=V,TAG=IND,TAG=PRS,TAG=1,TAG=PL
+zusagen	zusagend	TAG=V.PTCP,TAG=PRS
+zusagen	sagtet zu	TAG=V,TAG=IND,TAG=PST,TAG=2,TAG=PL
+zusagen	sag zu	TAG=V,TAG=IMP,TAG=2,TAG=SG
+zusagen	sagtet zu	TAG=V,TAG=SBJV,TAG=PST,TAG=2,TAG=PL
+zusagen	sagte zu	TAG=V,TAG=SBJV,TAG=PST,TAG=3,TAG=SG
+zusagen	zusagen	TAG=V,TAG=NFIN
+zusagen	sagen zu	TAG=V,TAG=IND,TAG=PRS,TAG=3,TAG=PL
+zusagen	sagt zu	TAG=V,TAG=IND,TAG=PRS,TAG=2,TAG=PL
+zusagen	sagen zu	TAG=V,TAG=SBJV,TAG=PRS,TAG=1,TAG=PL
+zusagen	sagten zu	TAG=V,TAG=IND,TAG=PST,TAG=1,TAG=PL
+zusagen	sage zu	TAG=V,TAG=SBJV,TAG=PRS,TAG=3,TAG=SG
+zusagen	sagten zu	TAG=V,TAG=IND,TAG=PST,TAG=3,TAG=PL
+zusagen	sagt zu	TAG=V,TAG=IMP,TAG=2,TAG=PL
+zusagen	zugesagt	TAG=V.PTCP,TAG=PST
+zusagen	sagten zu	TAG=V,TAG=SBJV,TAG=PST,TAG=3,TAG=PL
+zusagen	sage zu	TAG=V,TAG=IND,TAG=PRS,TAG=1,TAG=SG
+zusagen	sage zu	TAG=V,TAG=SBJV,TAG=PRS,TAG=1,TAG=SG
+zusagen	sagt zu	TAG=V,TAG=IND,TAG=PRS,TAG=3,TAG=SG
+zusagen	saget zu	TAG=V,TAG=SBJV,TAG=PRS,TAG=2,TAG=PL
+zusagen	sagtest zu	TAG=V,TAG=IND,TAG=PST,TAG=2,TAG=SG
+zusagen	sagten zu	TAG=V,TAG=SBJV,TAG=PST,TAG=1,TAG=PL
+zusagen	sagte zu	TAG=V,TAG=IND,TAG=PST,TAG=1,TAG=SG
+zusagen	sagtest zu	TAG=V,TAG=SBJV,TAG=PST,TAG=2,TAG=SG
+zusagen	sagst zu	TAG=V,TAG=IND,TAG=PRS,TAG=2,TAG=SG
+zusagen	sagest zu	TAG=V,TAG=SBJV,TAG=PRS,TAG=2,TAG=SG
+zusagen	sagte zu	TAG=V,TAG=IND,TAG=PST,TAG=3,TAG=SG
+
+antun	antun	TAG=V,TAG=LEMMA
+antun	tuen an	TAG=V,TAG=SBJV,TAG=PRS,TAG=3,TAG=PL
+antun	täte an	TAG=V,TAG=SBJV,TAG=PST,TAG=1,TAG=SG
+antun	tun an	TAG=V,TAG=IND,TAG=PRS,TAG=1,TAG=PL
+antun	antund	TAG=V.PTCP,TAG=PRS
+antun	tatet an	TAG=V,TAG=IND,TAG=PST,TAG=2,TAG=PL
+antun	tu an	TAG=V,TAG=IMP,TAG=2,TAG=SG
+antun	tätet an	TAG=V,TAG=SBJV,TAG=PST,TAG=2,TAG=PL
+antun	täte an	TAG=V,TAG=SBJV,TAG=PST,TAG=3,TAG=SG
+antun	antun	TAG=V,TAG=NFIN
+antun	tun an	TAG=V,TAG=IND,TAG=PRS,TAG=3,TAG=PL
+antun	tut an	TAG=V,TAG=IND,TAG=PRS,TAG=2,TAG=PL
+antun	tuen an	TAG=V,TAG=SBJV,TAG=PRS,TAG=1,TAG=PL
+antun	taten an	TAG=V,TAG=IND,TAG=PST,TAG=1,TAG=PL
+antun	tue an	TAG=V,TAG=SBJV,TAG=PRS,TAG=3,TAG=SG
+antun	taten an	TAG=V,TAG=IND,TAG=PST,TAG=3,TAG=PL
+antun	tut an	TAG=V,TAG=IMP,TAG=2,TAG=PL
+antun	angetan	TAG=V.PTCP,TAG=PST
+antun	täten an	TAG=V,TAG=SBJV,TAG=PST,TAG=3,TAG=PL
+antun	tue an	TAG=V,TAG=IND,TAG=PRS,TAG=1,TAG=SG
+antun	tue an	TAG=V,TAG=SBJV,TAG=PRS,TAG=1,TAG=SG
+antun	tut an	TAG=V,TAG=IND,TAG=PRS,TAG=3,TAG=SG
+antun	tuet an	TAG=V,TAG=SBJV,TAG=PRS,TAG=2,TAG=PL
+antun	tatest an	TAG=V,TAG=IND,TAG=PST,TAG=2,TAG=SG
+antun	täten an	TAG=V,TAG=SBJV,TAG=PST,TAG=1,TAG=PL
+antun	tat an	TAG=V,TAG=IND,TAG=PST,TAG=1,TAG=SG
+antun	tätest an	TAG=V,TAG=SBJV,TAG=PST,TAG=2,TAG=SG
+antun	tust an	TAG=V,TAG=IND,TAG=PRS,TAG=2,TAG=SG
+antun	tuest an	TAG=V,TAG=SBJV,TAG=PRS,TAG=2,TAG=SG
+antun	tat an	TAG=V,TAG=IND,TAG=PST,TAG=3,TAG=SG
+
+Vordenker	Vordenker	TAG=N,TAG=LEMMA
+Vordenker	Vordenker	TAG=N,TAG=GEN,TAG=PL
+Vordenker	Vordenker	TAG=N,TAG=NOM,TAG=PL
+Vordenker	Vordenkers	TAG=N,TAG=GEN,TAG=SG
+Vordenker	Vordenker	TAG=N,TAG=NOM,TAG=SG
+Vordenker	Vordenker	TAG=N,TAG=DAT,TAG=SG
+Vordenker	Vordenker	TAG=N,TAG=ACC,TAG=PL
+Vordenker	Vordenker	TAG=N,TAG=ACC,TAG=SG
+Vordenker	Vordenkern	TAG=N,TAG=DAT,TAG=PL
+
+eintreten	eintreten	TAG=V,TAG=LEMMA
+eintreten	treten ein	TAG=V,TAG=SBJV,TAG=PRS,TAG=3,TAG=PL
+eintreten	träte ein	TAG=V,TAG=SBJV,TAG=PST,TAG=1,TAG=SG
+eintreten	treten ein	TAG=V,TAG=IND,TAG=PRS,TAG=1,TAG=PL
+eintreten	eintretend	TAG=V.PTCP,TAG=PRS
+eintreten	tratet ein	TAG=V,TAG=IND,TAG=PST,TAG=2,TAG=PL
+eintreten	tritt ein	TAG=V,TAG=IMP,TAG=2,TAG=SG
+eintreten	trätet ein	TAG=V,TAG=SBJV,TAG=PST,TAG=2,TAG=PL
+eintreten	träte ein	TAG=V,TAG=SBJV,TAG=PST,TAG=3,TAG=SG
+eintreten	eintreten	TAG=V,TAG=NFIN
+eintreten	treten ein	TAG=V,TAG=IND,TAG=PRS,TAG=3,TAG=PL
+eintreten	tretet ein	TAG=V,TAG=IND,TAG=PRS,TAG=2,TAG=PL
+eintreten	treten ein	TAG=V,TAG=SBJV,TAG=PRS,TAG=1,TAG=PL
+eintreten	traten ein	TAG=V,TAG=IND,TAG=PST,TAG=1,TAG=PL
+eintreten	trete ein	TAG=V,TAG=SBJV,TAG=PRS,TAG=3,TAG=SG
+eintreten	traten ein	TAG=V,TAG=IND,TAG=PST,TAG=3,TAG=PL
+eintreten	tretet ein	TAG=V,TAG=IMP,TAG=2,TAG=PL
+eintreten	eingetreten	TAG=V.PTCP,TAG=PST
+eintreten	träten ein	TAG=V,TAG=SBJV,TAG=PST,TAG=3,TAG=PL
+eintreten	trete ein	TAG=V,TAG=IND,TAG=PRS,TAG=1,TAG=SG
+eintreten	trete ein	TAG=V,TAG=SBJV,TAG=PRS,TAG=1,TAG=SG
+eintreten	tritt ein	TAG=V,TAG=IND,TAG=PRS,TAG=3,TAG=SG
+eintreten	tretet ein	TAG=V,TAG=SBJV,TAG=PRS,TAG=2,TAG=PL
+eintreten	tratest ein	TAG=V,TAG=IND,TAG=PST,TAG=2,TAG=SG
+eintreten	träten ein	TAG=V,TAG=SBJV,TAG=PST,TAG=1,TAG=PL
+eintreten	trat ein	TAG=V,TAG=IND,TAG=PST,TAG=1,TAG=SG
+eintreten	trätest ein	TAG=V,TAG=SBJV,TAG=PST,TAG=2,TAG=SG
+eintreten	trittst ein	TAG=V,TAG=IND,TAG=PRS,TAG=2,TAG=SG
+eintreten	tretest ein	TAG=V,TAG=SBJV,TAG=PRS,TAG=2,TAG=SG
+eintreten	trat ein	TAG=V,TAG=IND,TAG=PST,TAG=3,TAG=SG
+
+Diphosphonat	Diphosphonat	TAG=N,TAG=LEMMA
+Diphosphonat	Diphosphonate	TAG=N,TAG=GEN,TAG=PL
+Diphosphonat	Diphosphonate	TAG=N,TAG=NOM,TAG=PL
+Diphosphonat	Diphosphonats	TAG=N,TAG=GEN,TAG=SG
+Diphosphonat	Diphosphonat	TAG=N,TAG=NOM,TAG=SG
+Diphosphonat	Diphosphonat	TAG=N,TAG=DAT,TAG=SG
+Diphosphonat	Diphosphonate	TAG=N,TAG=ACC,TAG=PL
+Diphosphonat	Diphosphonat	TAG=N,TAG=ACC,TAG=SG
+Diphosphonat	Diphosphonaten	TAG=N,TAG=DAT,TAG=PL
+
+Ostberliner	Ostberliner	TAG=N,TAG=LEMMA
+Ostberliner	Ostberliner	TAG=N,TAG=GEN,TAG=PL
+Ostberliner	Ostberliner	TAG=N,TAG=NOM,TAG=PL
+Ostberliner	Ostberliners	TAG=N,TAG=GEN,TAG=SG
+Ostberliner	Ostberliner	TAG=N,TAG=NOM,TAG=SG
+Ostberliner	Ostberliner	TAG=N,TAG=DAT,TAG=SG
+Ostberliner	Ostberliner	TAG=N,TAG=ACC,TAG=PL
+Ostberliner	Ostberliner	TAG=N,TAG=ACC,TAG=SG
+Ostberliner	Ostberlinern	TAG=N,TAG=DAT,TAG=PL
+
+Amtskollege	Amtskollege	TAG=N,TAG=LEMMA
+Amtskollege	Amtskollegen	TAG=N,TAG=GEN,TAG=PL
+Amtskollege	Amtskollegen	TAG=N,TAG=NOM,TAG=PL
+Amtskollege	Amtskollegen	TAG=N,TAG=GEN,TAG=SG
+Amtskollege	Amtskollege	TAG=N,TAG=NOM,TAG=SG
+Amtskollege	Amtskollegen	TAG=N,TAG=DAT,TAG=SG
+Amtskollege	Amtskollegen	TAG=N,TAG=ACC,TAG=PL
+Amtskollege	Amtskollegen	TAG=N,TAG=ACC,TAG=SG
+Amtskollege	Amtskollegen	TAG=N,TAG=DAT,TAG=PL
+
+Briefwechsel	Briefwechsel	TAG=N,TAG=LEMMA
+Briefwechsel	Briefwechsel	TAG=N,TAG=GEN,TAG=PL
+Briefwechsel	Briefwechsel	TAG=N,TAG=NOM,TAG=PL
+Briefwechsel	Briefwechsels	TAG=N,TAG=GEN,TAG=SG
+Briefwechsel	Briefwechsel	TAG=N,TAG=NOM,TAG=SG
+Briefwechsel	Briefwechsel	TAG=N,TAG=DAT,TAG=SG
+Briefwechsel	Briefwechsel	TAG=N,TAG=ACC,TAG=PL
+Briefwechsel	Briefwechsel	TAG=N,TAG=ACC,TAG=SG
+Briefwechsel	Briefwechseln	TAG=N,TAG=DAT,TAG=PL
+
+Riesenalk	Riesenalk	TAG=N,TAG=LEMMA
+Riesenalk	Riesenalke	TAG=N,TAG=GEN,TAG=PL
+Riesenalk	Riesenalke	TAG=N,TAG=NOM,TAG=PL
+Riesenalk	Riesenalks	TAG=N,TAG=GEN,TAG=SG
+Riesenalk	Riesenalk	TAG=N,TAG=NOM,TAG=SG
+Riesenalk	Riesenalk	TAG=N,TAG=DAT,TAG=SG
+Riesenalk	Riesenalke	TAG=N,TAG=ACC,TAG=PL
+Riesenalk	Riesenalk	TAG=N,TAG=ACC,TAG=SG
+Riesenalk	Riesenalken	TAG=N,TAG=DAT,TAG=PL
+
+vorbeugen	vorbeugen	TAG=V,TAG=LEMMA
+vorbeugen	beugen vor	TAG=V,TAG=SBJV,TAG=PRS,TAG=3,TAG=PL
+vorbeugen	beugte vor	TAG=V,TAG=SBJV,TAG=PST,TAG=1,TAG=SG
+vorbeugen	beugen vor	TAG=V,TAG=IND,TAG=PRS,TAG=1,TAG=PL
+vorbeugen	vorbeugend	TAG=V.PTCP,TAG=PRS
+vorbeugen	beugtet vor	TAG=V,TAG=IND,TAG=PST,TAG=2,TAG=PL
+vorbeugen	beug vor	TAG=V,TAG=IMP,TAG=2,TAG=SG
+vorbeugen	beugtet vor	TAG=V,TAG=SBJV,TAG=PST,TAG=2,TAG=PL
+vorbeugen	beugte vor	TAG=V,TAG=SBJV,TAG=PST,TAG=3,TAG=SG
+vorbeugen	vorbeugen	TAG=V,TAG=NFIN
+vorbeugen	beugen vor	TAG=V,TAG=IND,TAG=PRS,TAG=3,TAG=PL
+vorbeugen	beugt vor	TAG=V,TAG=IND,TAG=PRS,TAG=2,TAG=PL
+vorbeugen	beugen vor	TAG=V,TAG=SBJV,TAG=PRS,TAG=1,TAG=PL
+vorbeugen	beugten vor	TAG=V,TAG=IND,TAG=PST,TAG=1,TAG=PL
+vorbeugen	beuge vor	TAG=V,TAG=SBJV,TAG=PRS,TAG=3,TAG=SG
+vorbeugen	beugten vor	TAG=V,TAG=IND,TAG=PST,TAG=3,TAG=PL
+vorbeugen	beugt vor	TAG=V,TAG=IMP,TAG=2,TAG=PL
+vorbeugen	vorgebeugt	TAG=V.PTCP,TAG=PST
+vorbeugen	beugten vor	TAG=V,TAG=SBJV,TAG=PST,TAG=3,TAG=PL
+vorbeugen	beuge vor	TAG=V,TAG=IND,TAG=PRS,TAG=1,TAG=SG
+vorbeugen	beuge vor	TAG=V,TAG=SBJV,TAG=PRS,TAG=1,TAG=SG
+vorbeugen	beugt vor	TAG=V,TAG=IND,TAG=PRS,TAG=3,TAG=SG
+vorbeugen	beuget vor	TAG=V,TAG=SBJV,TAG=PRS,TAG=2,TAG=PL
+vorbeugen	beugtest vor	TAG=V,TAG=IND,TAG=PST,TAG=2,TAG=SG
+vorbeugen	beugten vor	TAG=V,TAG=SBJV,TAG=PST,TAG=1,TAG=PL
+vorbeugen	beugte vor	TAG=V,TAG=IND,TAG=PST,TAG=1,TAG=SG
+vorbeugen	beugtest vor	TAG=V,TAG=SBJV,TAG=PST,TAG=2,TAG=SG
+vorbeugen	beugst vor	TAG=V,TAG=IND,TAG=PRS,TAG=2,TAG=SG
+vorbeugen	beugest vor	TAG=V,TAG=SBJV,TAG=PRS,TAG=2,TAG=SG
+vorbeugen	beugte vor	TAG=V,TAG=IND,TAG=PST,TAG=3,TAG=SG
+
+Zikade	Zikade	TAG=N,TAG=LEMMA
+Zikade	Zikaden	TAG=N,TAG=GEN,TAG=PL
+Zikade	Zikaden	TAG=N,TAG=NOM,TAG=PL
+Zikade	Zikade	TAG=N,TAG=GEN,TAG=SG
+Zikade	Zikade	TAG=N,TAG=NOM,TAG=SG
+Zikade	Zikade	TAG=N,TAG=DAT,TAG=SG
+Zikade	Zikaden	TAG=N,TAG=ACC,TAG=PL
+Zikade	Zikade	TAG=N,TAG=ACC,TAG=SG
+Zikade	Zikaden	TAG=N,TAG=DAT,TAG=PL
+
+initiieren	initiieren	TAG=V,TAG=LEMMA
+initiieren	initiieren	TAG=V,TAG=SBJV,TAG=PRS,TAG=3,TAG=PL
+initiieren	initiierte	TAG=V,TAG=SBJV,TAG=PST,TAG=1,TAG=SG
+initiieren	initiieren	TAG=V,TAG=IND,TAG=PRS,TAG=1,TAG=PL
+initiieren	initiierend	TAG=V.PTCP,TAG=PRS
+initiieren	initiiertet	TAG=V,TAG=IND,TAG=PST,TAG=2,TAG=PL
+initiieren	initiier	TAG=V,TAG=IMP,TAG=2,TAG=SG
+initiieren	initiiertet	TAG=V,TAG=SBJV,TAG=PST,TAG=2,TAG=PL
+initiieren	initiierte	TAG=V,TAG=SBJV,TAG=PST,TAG=3,TAG=SG
+initiieren	initiieren	TAG=V,TAG=NFIN
+initiieren	initiieren	TAG=V,TAG=IND,TAG=PRS,TAG=3,TAG=PL
+initiieren	initiiert	TAG=V,TAG=IND,TAG=PRS,TAG=2,TAG=PL
+initiieren	initiieren	TAG=V,TAG=SBJV,TAG=PRS,TAG=1,TAG=PL
+initiieren	initiierten	TAG=V,TAG=IND,TAG=PST,TAG=1,TAG=PL
+initiieren	initiiere	TAG=V,TAG=SBJV,TAG=PRS,TAG=3,TAG=SG
+initiieren	initiierten	TAG=V,TAG=IND,TAG=PST,TAG=3,TAG=PL
+initiieren	initiiert	TAG=V,TAG=IMP,TAG=2,TAG=PL
+initiieren	initiiert	TAG=V.PTCP,TAG=PST
+initiieren	initiierten	TAG=V,TAG=SBJV,TAG=PST,TAG=3,TAG=PL
+initiieren	initiiere	TAG=V,TAG=IND,TAG=PRS,TAG=1,TAG=SG
+initiieren	initiiere	TAG=V,TAG=SBJV,TAG=PRS,TAG=1,TAG=SG
+initiieren	initiiert	TAG=V,TAG=IND,TAG=PRS,TAG=3,TAG=SG
+initiieren	initiieret	TAG=V,TAG=SBJV,TAG=PRS,TAG=2,TAG=PL
+initiieren	initiiertest	TAG=V,TAG=IND,TAG=PST,TAG=2,TAG=SG
+initiieren	initiierten	TAG=V,TAG=SBJV,TAG=PST,TAG=1,TAG=PL
+initiieren	initiierte	TAG=V,TAG=IND,TAG=PST,TAG=1,TAG=SG
+initiieren	initiiertest	TAG=V,TAG=SBJV,TAG=PST,TAG=2,TAG=SG
+initiieren	initiierst	TAG=V,TAG=IND,TAG=PRS,TAG=2,TAG=SG
+initiieren	initiierest	TAG=V,TAG=SBJV,TAG=PRS,TAG=2,TAG=SG
+initiieren	initiierte	TAG=V,TAG=IND,TAG=PST,TAG=3,TAG=SG
+
+Winter	Winter	TAG=N,TAG=LEMMA
+Winter	Winter	TAG=N,TAG=GEN,TAG=PL
+Winter	Winter	TAG=N,TAG=NOM,TAG=PL
+Winter	Winters	TAG=N,TAG=GEN,TAG=SG
+Winter	Winter	TAG=N,TAG=NOM,TAG=SG
+Winter	Winter	TAG=N,TAG=DAT,TAG=SG
+Winter	Winter	TAG=N,TAG=ACC,TAG=PL
+Winter	Winter	TAG=N,TAG=ACC,TAG=SG
+Winter	Wintern	TAG=N,TAG=DAT,TAG=PL
+
+Calvinist	Calvinist	TAG=N,TAG=LEMMA
+Calvinist	Calvinisten	TAG=N,TAG=GEN,TAG=PL
+Calvinist	Calvinisten	TAG=N,TAG=NOM,TAG=PL
+Calvinist	Calvinisten	TAG=N,TAG=GEN,TAG=SG
+Calvinist	Calvinist	TAG=N,TAG=NOM,TAG=SG
+Calvinist	Calvinisten	TAG=N,TAG=DAT,TAG=SG
+Calvinist	Calvinisten	TAG=N,TAG=ACC,TAG=PL
+Calvinist	Calvinisten	TAG=N,TAG=ACC,TAG=SG
+Calvinist	Calvinisten	TAG=N,TAG=DAT,TAG=PL
+
+Eremit	Eremit	TAG=N,TAG=LEMMA
+Eremit	Eremiten	TAG=N,TAG=GEN,TAG=PL
+Eremit	Eremiten	TAG=N,TAG=NOM,TAG=PL
+Eremit	Eremiten	TAG=N,TAG=GEN,TAG=SG
+Eremit	Eremit	TAG=N,TAG=NOM,TAG=SG
+Eremit	Eremiten	TAG=N,TAG=DAT,TAG=SG
+Eremit	Eremiten	TAG=N,TAG=ACC,TAG=PL
+Eremit	Eremiten	TAG=N,TAG=ACC,TAG=SG
+Eremit	Eremiten	TAG=N,TAG=DAT,TAG=PL
+
+fixieren	fixieren	TAG=V,TAG=LEMMA
+fixieren	fixieren	TAG=V,TAG=SBJV,TAG=PRS,TAG=3,TAG=PL
+fixieren	fixierte	TAG=V,TAG=SBJV,TAG=PST,TAG=1,TAG=SG
+fixieren	fixieren	TAG=V,TAG=IND,TAG=PRS,TAG=1,TAG=PL
+fixieren	fixierend	TAG=V.PTCP,TAG=PRS
+fixieren	fixiertet	TAG=V,TAG=IND,TAG=PST,TAG=2,TAG=PL
+fixieren	fixier	TAG=V,TAG=IMP,TAG=2,TAG=SG
+fixieren	fixiertet	TAG=V,TAG=SBJV,TAG=PST,TAG=2,TAG=PL
+fixieren	fixierte	TAG=V,TAG=SBJV,TAG=PST,TAG=3,TAG=SG
+fixieren	fixieren	TAG=V,TAG=NFIN
+fixieren	fixieren	TAG=V,TAG=IND,TAG=PRS,TAG=3,TAG=PL
+fixieren	fixiert	TAG=V,TAG=IND,TAG=PRS,TAG=2,TAG=PL
+fixieren	fixieren	TAG=V,TAG=SBJV,TAG=PRS,TAG=1,TAG=PL
+fixieren	fixierten	TAG=V,TAG=IND,TAG=PST,TAG=1,TAG=PL
+fixieren	fixiere	TAG=V,TAG=SBJV,TAG=PRS,TAG=3,TAG=SG
+fixieren	fixierten	TAG=V,TAG=IND,TAG=PST,TAG=3,TAG=PL
+fixieren	fixiert	TAG=V,TAG=IMP,TAG=2,TAG=PL
+fixieren	fixiert	TAG=V.PTCP,TAG=PST
+fixieren	fixierten	TAG=V,TAG=SBJV,TAG=PST,TAG=3,TAG=PL
+fixieren	fixiere	TAG=V,TAG=IND,TAG=PRS,TAG=1,TAG=SG
+fixieren	fixiere	TAG=V,TAG=SBJV,TAG=PRS,TAG=1,TAG=SG
+fixieren	fixiert	TAG=V,TAG=IND,TAG=PRS,TAG=3,TAG=SG
+fixieren	fixieret	TAG=V,TAG=SBJV,TAG=PRS,TAG=2,TAG=PL
+fixieren	fixiertest	TAG=V,TAG=IND,TAG=PST,TAG=2,TAG=SG
+fixieren	fixierten	TAG=V,TAG=SBJV,TAG=PST,TAG=1,TAG=PL
+fixieren	fixierte	TAG=V,TAG=IND,TAG=PST,TAG=1,TAG=SG
+fixieren	fixiertest	TAG=V,TAG=SBJV,TAG=PST,TAG=2,TAG=SG
+fixieren	fixierst	TAG=V,TAG=IND,TAG=PRS,TAG=2,TAG=SG
+fixieren	fixierest	TAG=V,TAG=SBJV,TAG=PRS,TAG=2,TAG=SG
+fixieren	fixierte	TAG=V,TAG=IND,TAG=PST,TAG=3,TAG=SG
+
+Hornisse	Hornisse	TAG=N,TAG=LEMMA
+Hornisse	Hornissen	TAG=N,TAG=GEN,TAG=PL
+Hornisse	Hornissen	TAG=N,TAG=NOM,TAG=PL
+Hornisse	Hornisse	TAG=N,TAG=GEN,TAG=SG
+Hornisse	Hornisse	TAG=N,TAG=NOM,TAG=SG
+Hornisse	Hornisse	TAG=N,TAG=DAT,TAG=SG
+Hornisse	Hornissen	TAG=N,TAG=ACC,TAG=PL
+Hornisse	Hornisse	TAG=N,TAG=ACC,TAG=SG
+Hornisse	Hornissen	TAG=N,TAG=DAT,TAG=PL
+
+Bäcker	Bäcker	TAG=N,TAG=LEMMA
+Bäcker	Bäcker	TAG=N,TAG=GEN,TAG=PL
+Bäcker	Bäcker	TAG=N,TAG=NOM,TAG=PL
+Bäcker	Bäckers	TAG=N,TAG=GEN,TAG=SG
+Bäcker	Bäcker	TAG=N,TAG=NOM,TAG=SG
+Bäcker	Bäcker	TAG=N,TAG=DAT,TAG=SG
+Bäcker	Bäcker	TAG=N,TAG=ACC,TAG=PL
+Bäcker	Bäcker	TAG=N,TAG=ACC,TAG=SG
+Bäcker	Bäckern	TAG=N,TAG=DAT,TAG=PL
+
+Berberlöwe	Berberlöwe	TAG=N,TAG=LEMMA
+Berberlöwe	Berberlöwen	TAG=N,TAG=GEN,TAG=PL
+Berberlöwe	Berberlöwen	TAG=N,TAG=NOM,TAG=PL
+Berberlöwe	Berberlöwen	TAG=N,TAG=GEN,TAG=SG
+Berberlöwe	Berberlöwe	TAG=N,TAG=NOM,TAG=SG
+Berberlöwe	Berberlöwen	TAG=N,TAG=DAT,TAG=SG
+Berberlöwe	Berberlöwen	TAG=N,TAG=ACC,TAG=PL
+Berberlöwe	Berberlöwen	TAG=N,TAG=ACC,TAG=SG
+Berberlöwe	Berberlöwen	TAG=N,TAG=DAT,TAG=PL
+
+brandschatzen	brandschatzen	TAG=V,TAG=LEMMA
+brandschatzen	brandschatzen	TAG=V,TAG=SBJV,TAG=PRS,TAG=3,TAG=PL
+brandschatzen	brandschatzte	TAG=V,TAG=SBJV,TAG=PST,TAG=1,TAG=SG
+brandschatzen	brandschatzen	TAG=V,TAG=IND,TAG=PRS,TAG=1,TAG=PL
+brandschatzen	brandschatzend	TAG=V.PTCP,TAG=PRS
+brandschatzen	brandschatztet	TAG=V,TAG=IND,TAG=PST,TAG=2,TAG=PL
+brandschatzen	brandschatz	TAG=V,TAG=IMP,TAG=2,TAG=SG
+brandschatzen	brandschatztet	TAG=V,TAG=SBJV,TAG=PST,TAG=2,TAG=PL
+brandschatzen	brandschatzte	TAG=V,TAG=SBJV,TAG=PST,TAG=3,TAG=SG
+brandschatzen	brandschatzen	TAG=V,TAG=NFIN
+brandschatzen	brandschatzen	TAG=V,TAG=IND,TAG=PRS,TAG=3,TAG=PL
+brandschatzen	brandschatzt	TAG=V,TAG=IND,TAG=PRS,TAG=2,TAG=PL
+brandschatzen	brandschatzen	TAG=V,TAG=SBJV,TAG=PRS,TAG=1,TAG=PL
+brandschatzen	brandschatzten	TAG=V,TAG=IND,TAG=PST,TAG=1,TAG=PL
+brandschatzen	brandschatze	TAG=V,TAG=SBJV,TAG=PRS,TAG=3,TAG=SG
+brandschatzen	brandschatzten	TAG=V,TAG=IND,TAG=PST,TAG=3,TAG=PL
+brandschatzen	brandschatzt	TAG=V,TAG=IMP,TAG=2,TAG=PL
+brandschatzen	gebrandschatzt	TAG=V.PTCP,TAG=PST
+brandschatzen	brandschatzten	TAG=V,TAG=SBJV,TAG=PST,TAG=3,TAG=PL
+brandschatzen	brandschatze	TAG=V,TAG=IND,TAG=PRS,TAG=1,TAG=SG
+brandschatzen	brandschatze	TAG=V,TAG=SBJV,TAG=PRS,TAG=1,TAG=SG
+brandschatzen	brandschatzt	TAG=V,TAG=IND,TAG=PRS,TAG=3,TAG=SG
+brandschatzen	brandschatzet	TAG=V,TAG=SBJV,TAG=PRS,TAG=2,TAG=PL
+brandschatzen	brandschatztest	TAG=V,TAG=IND,TAG=PST,TAG=2,TAG=SG
+brandschatzen	brandschatzten	TAG=V,TAG=SBJV,TAG=PST,TAG=1,TAG=PL
+brandschatzen	brandschatzte	TAG=V,TAG=IND,TAG=PST,TAG=1,TAG=SG
+brandschatzen	brandschatztest	TAG=V,TAG=SBJV,TAG=PST,TAG=2,TAG=SG
+brandschatzen	brandschatzt	TAG=V,TAG=IND,TAG=PRS,TAG=2,TAG=SG
+brandschatzen	brandschatzest	TAG=V,TAG=SBJV,TAG=PRS,TAG=2,TAG=SG
+brandschatzen	brandschatzte	TAG=V,TAG=IND,TAG=PST,TAG=3,TAG=SG
+
+Markierung	Markierung	TAG=N,TAG=LEMMA
+Markierung	Markierungen	TAG=N,TAG=GEN,TAG=PL
+Markierung	Markierungen	TAG=N,TAG=NOM,TAG=PL
+Markierung	Markierung	TAG=N,TAG=GEN,TAG=SG
+Markierung	Markierung	TAG=N,TAG=NOM,TAG=SG
+Markierung	Markierung	TAG=N,TAG=DAT,TAG=SG
+Markierung	Markierungen	TAG=N,TAG=ACC,TAG=PL
+Markierung	Markierung	TAG=N,TAG=ACC,TAG=SG
+Markierung	Markierungen	TAG=N,TAG=DAT,TAG=PL
+
+Flöte	Flöte	TAG=N,TAG=LEMMA
+Flöte	Flöten	TAG=N,TAG=GEN,TAG=PL
+Flöte	Flöten	TAG=N,TAG=NOM,TAG=PL
+Flöte	Flöte	TAG=N,TAG=GEN,TAG=SG
+Flöte	Flöte	TAG=N,TAG=NOM,TAG=SG
+Flöte	Flöte	TAG=N,TAG=DAT,TAG=SG
+Flöte	Flöten	TAG=N,TAG=ACC,TAG=PL
+Flöte	Flöte	TAG=N,TAG=ACC,TAG=SG
+Flöte	Flöten	TAG=N,TAG=DAT,TAG=PL
+
+Buntwaschmittel	Buntwaschmittel	TAG=N,TAG=LEMMA
+Buntwaschmittel	Buntwaschmittel	TAG=N,TAG=GEN,TAG=PL
+Buntwaschmittel	Buntwaschmittel	TAG=N,TAG=NOM,TAG=PL
+Buntwaschmittel	Buntwaschmittels	TAG=N,TAG=GEN,TAG=SG
+Buntwaschmittel	Buntwaschmittel	TAG=N,TAG=NOM,TAG=SG
+Buntwaschmittel	Buntwaschmittel	TAG=N,TAG=DAT,TAG=SG
+Buntwaschmittel	Buntwaschmittel	TAG=N,TAG=ACC,TAG=PL
+Buntwaschmittel	Buntwaschmittel	TAG=N,TAG=ACC,TAG=SG
+Buntwaschmittel	Buntwaschmittel	TAG=N,TAG=DAT,TAG=PL
+
+Eisstockstiel	Eisstockstiel	TAG=N,TAG=LEMMA
+Eisstockstiel	Eisstockstiele	TAG=N,TAG=GEN,TAG=PL
+Eisstockstiel	Eisstockstiele	TAG=N,TAG=NOM,TAG=PL
+Eisstockstiel	Eisstockstiels	TAG=N,TAG=GEN,TAG=SG
+Eisstockstiel	Eisstockstiel	TAG=N,TAG=NOM,TAG=SG
+Eisstockstiel	Eisstockstiel	TAG=N,TAG=DAT,TAG=SG
+Eisstockstiel	Eisstockstiele	TAG=N,TAG=ACC,TAG=PL
+Eisstockstiel	Eisstockstiel	TAG=N,TAG=ACC,TAG=SG
+Eisstockstiel	Eisstockstielen	TAG=N,TAG=DAT,TAG=PL
+
+entgehen	entgehen	TAG=V,TAG=LEMMA
+entgehen	entgehen	TAG=V,TAG=SBJV,TAG=PRS,TAG=3,TAG=PL
+entgehen	entginge	TAG=V,TAG=SBJV,TAG=PST,TAG=1,TAG=SG
+entgehen	entgehen	TAG=V,TAG=IND,TAG=PRS,TAG=1,TAG=PL
+entgehen	entgehend	TAG=V.PTCP,TAG=PRS
+entgehen	entgingt	TAG=V,TAG=IND,TAG=PST,TAG=2,TAG=PL
+entgehen	entgeh	TAG=V,TAG=IMP,TAG=2,TAG=SG
+entgehen	entginget	TAG=V,TAG=SBJV,TAG=PST,TAG=2,TAG=PL
+entgehen	entginge	TAG=V,TAG=SBJV,TAG=PST,TAG=3,TAG=SG
+entgehen	entgehen	TAG=V,TAG=NFIN
+entgehen	entgehen	TAG=V,TAG=IND,TAG=PRS,TAG=3,TAG=PL
+entgehen	entgeht	TAG=V,TAG=IND,TAG=PRS,TAG=2,TAG=PL
+entgehen	entgehen	TAG=V,TAG=SBJV,TAG=PRS,TAG=1,TAG=PL
+entgehen	entgingen	TAG=V,TAG=IND,TAG=PST,TAG=1,TAG=PL
+entgehen	entgehe	TAG=V,TAG=SBJV,TAG=PRS,TAG=3,TAG=SG
+entgehen	entgingen	TAG=V,TAG=IND,TAG=PST,TAG=3,TAG=PL
+entgehen	entgeht	TAG=V,TAG=IMP,TAG=2,TAG=PL
+entgehen	entgangen	TAG=V.PTCP,TAG=PST
+entgehen	entgingen	TAG=V,TAG=SBJV,TAG=PST,TAG=3,TAG=PL
+entgehen	entgehe	TAG=V,TAG=IND,TAG=PRS,TAG=1,TAG=SG
+entgehen	entgehe	TAG=V,TAG=SBJV,TAG=PRS,TAG=1,TAG=SG
+entgehen	entgeht	TAG=V,TAG=IND,TAG=PRS,TAG=3,TAG=SG
+entgehen	entgehet	TAG=V,TAG=SBJV,TAG=PRS,TAG=2,TAG=PL
+entgehen	entgingst	TAG=V,TAG=IND,TAG=PST,TAG=2,TAG=SG
+entgehen	entgingen	TAG=V,TAG=SBJV,TAG=PST,TAG=1,TAG=PL
+entgehen	entging	TAG=V,TAG=IND,TAG=PST,TAG=1,TAG=SG
+entgehen	entgingest	TAG=V,TAG=SBJV,TAG=PST,TAG=2,TAG=SG
+entgehen	entgehst	TAG=V,TAG=IND,TAG=PRS,TAG=2,TAG=SG
+entgehen	entgehest	TAG=V,TAG=SBJV,TAG=PRS,TAG=2,TAG=SG
+entgehen	entging	TAG=V,TAG=IND,TAG=PST,TAG=3,TAG=SG
+
+Umwälzung	Umwälzung	TAG=N,TAG=LEMMA
+Umwälzung	Umwälzungen	TAG=N,TAG=GEN,TAG=PL
+Umwälzung	Umwälzungen	TAG=N,TAG=NOM,TAG=PL
+Umwälzung	Umwälzung	TAG=N,TAG=GEN,TAG=SG
+Umwälzung	Umwälzung	TAG=N,TAG=NOM,TAG=SG
+Umwälzung	Umwälzung	TAG=N,TAG=DAT,TAG=SG
+Umwälzung	Umwälzungen	TAG=N,TAG=ACC,TAG=PL
+Umwälzung	Umwälzung	TAG=N,TAG=ACC,TAG=SG
+Umwälzung	Umwälzungen	TAG=N,TAG=DAT,TAG=PL
+
+Trümmersprache	Trümmersprache	TAG=N,TAG=LEMMA
+Trümmersprache	Trümmersprachen	TAG=N,TAG=GEN,TAG=PL
+Trümmersprache	Trümmersprachen	TAG=N,TAG=NOM,TAG=PL
+Trümmersprache	Trümmersprache	TAG=N,TAG=GEN,TAG=SG
+Trümmersprache	Trümmersprache	TAG=N,TAG=NOM,TAG=SG
+Trümmersprache	Trümmersprache	TAG=N,TAG=DAT,TAG=SG
+Trümmersprache	Trümmersprachen	TAG=N,TAG=ACC,TAG=PL
+Trümmersprache	Trümmersprache	TAG=N,TAG=ACC,TAG=SG
+Trümmersprache	Trümmersprachen	TAG=N,TAG=DAT,TAG=PL
+
+Alkin	Alkin	TAG=N,TAG=LEMMA
+Alkin	Alkine	TAG=N,TAG=GEN,TAG=PL
+Alkin	Alkine	TAG=N,TAG=NOM,TAG=PL
+Alkin	Alkins	TAG=N,TAG=GEN,TAG=SG
+Alkin	Alkin	TAG=N,TAG=NOM,TAG=SG
+Alkin	Alkin	TAG=N,TAG=DAT,TAG=SG
+Alkin	Alkine	TAG=N,TAG=ACC,TAG=PL
+Alkin	Alkin	TAG=N,TAG=ACC,TAG=SG
+Alkin	Alkinen	TAG=N,TAG=DAT,TAG=PL
+
+ermutigen	ermutigen	TAG=V,TAG=LEMMA
+ermutigen	ermutigen	TAG=V,TAG=SBJV,TAG=PRS,TAG=3,TAG=PL
+ermutigen	ermutigte	TAG=V,TAG=SBJV,TAG=PST,TAG=1,TAG=SG
+ermutigen	ermutigen	TAG=V,TAG=IND,TAG=PRS,TAG=1,TAG=PL
+ermutigen	ermutigend	TAG=V.PTCP,TAG=PRS
+ermutigen	ermutigtet	TAG=V,TAG=IND,TAG=PST,TAG=2,TAG=PL
+ermutigen	ermutig	TAG=V,TAG=IMP,TAG=2,TAG=SG
+ermutigen	ermutigtet	TAG=V,TAG=SBJV,TAG=PST,TAG=2,TAG=PL
+ermutigen	ermutigte	TAG=V,TAG=SBJV,TAG=PST,TAG=3,TAG=SG
+ermutigen	ermutigen	TAG=V,TAG=NFIN
+ermutigen	ermutigen	TAG=V,TAG=IND,TAG=PRS,TAG=3,TAG=PL
+ermutigen	ermutigt	TAG=V,TAG=IND,TAG=PRS,TAG=2,TAG=PL
+ermutigen	ermutigen	TAG=V,TAG=SBJV,TAG=PRS,TAG=1,TAG=PL
+ermutigen	ermutigten	TAG=V,TAG=IND,TAG=PST,TAG=1,TAG=PL
+ermutigen	ermutige	TAG=V,TAG=SBJV,TAG=PRS,TAG=3,TAG=SG
+ermutigen	ermutigten	TAG=V,TAG=IND,TAG=PST,TAG=3,TAG=PL
+ermutigen	ermutigt	TAG=V,TAG=IMP,TAG=2,TAG=PL
+ermutigen	ermutigt	TAG=V.PTCP,TAG=PST
+ermutigen	ermutigten	TAG=V,TAG=SBJV,TAG=PST,TAG=3,TAG=PL
+ermutigen	ermutige	TAG=V,TAG=IND,TAG=PRS,TAG=1,TAG=SG
+ermutigen	ermutige	TAG=V,TAG=SBJV,TAG=PRS,TAG=1,TAG=SG
+ermutigen	ermutigt	TAG=V,TAG=IND,TAG=PRS,TAG=3,TAG=SG
+ermutigen	ermutiget	TAG=V,TAG=SBJV,TAG=PRS,TAG=2,TAG=PL
+ermutigen	ermutigtest	TAG=V,TAG=IND,TAG=PST,TAG=2,TAG=SG
+ermutigen	ermutigten	TAG=V,TAG=SBJV,TAG=PST,TAG=1,TAG=PL
+ermutigen	ermutigte	TAG=V,TAG=IND,TAG=PST,TAG=1,TAG=SG
+ermutigen	ermutigtest	TAG=V,TAG=SBJV,TAG=PST,TAG=2,TAG=SG
+ermutigen	ermutigst	TAG=V,TAG=IND,TAG=PRS,TAG=2,TAG=SG
+ermutigen	ermutigest	TAG=V,TAG=SBJV,TAG=PRS,TAG=2,TAG=SG
+ermutigen	ermutigte	TAG=V,TAG=IND,TAG=PST,TAG=3,TAG=SG
+
+Deo	Deo	TAG=N,TAG=LEMMA
+Deo	Deos	TAG=N,TAG=GEN,TAG=PL
+Deo	Deos	TAG=N,TAG=NOM,TAG=PL
+Deo	Deos	TAG=N,TAG=GEN,TAG=SG
+Deo	Deo	TAG=N,TAG=NOM,TAG=SG
+Deo	Deo	TAG=N,TAG=DAT,TAG=SG
+Deo	Deos	TAG=N,TAG=ACC,TAG=PL
+Deo	Deo	TAG=N,TAG=ACC,TAG=SG
+Deo	Deos	TAG=N,TAG=DAT,TAG=PL
+
+friemeln	friemeln	TAG=V,TAG=LEMMA
+friemeln	friemeln	TAG=V,TAG=SBJV,TAG=PRS,TAG=3,TAG=PL
+friemeln	friemelte	TAG=V,TAG=SBJV,TAG=PST,TAG=1,TAG=SG
+friemeln	friemeln	TAG=V,TAG=IND,TAG=PRS,TAG=1,TAG=PL
+friemeln	friemelnd	TAG=V.PTCP,TAG=PRS
+friemeln	friemeltet	TAG=V,TAG=IND,TAG=PST,TAG=2,TAG=PL
+friemeln	friemle	TAG=V,TAG=IMP,TAG=2,TAG=SG
+friemeln	friemeltet	TAG=V,TAG=SBJV,TAG=PST,TAG=2,TAG=PL
+friemeln	friemelte	TAG=V,TAG=SBJV,TAG=PST,TAG=3,TAG=SG
+friemeln	friemeln	TAG=V,TAG=NFIN
+friemeln	friemeln	TAG=V,TAG=IND,TAG=PRS,TAG=3,TAG=PL
+friemeln	friemelt	TAG=V,TAG=IND,TAG=PRS,TAG=2,TAG=PL
+friemeln	friemeln	TAG=V,TAG=SBJV,TAG=PRS,TAG=1,TAG=PL
+friemeln	friemelten	TAG=V,TAG=IND,TAG=PST,TAG=1,TAG=PL
+friemeln	friemele	TAG=V,TAG=SBJV,TAG=PRS,TAG=3,TAG=SG
+friemeln	friemelten	TAG=V,TAG=IND,TAG=PST,TAG=3,TAG=PL
+friemeln	friemelt	TAG=V,TAG=IMP,TAG=2,TAG=PL
+friemeln	gefriemelt	TAG=V.PTCP,TAG=PST
+friemeln	friemelten	TAG=V,TAG=SBJV,TAG=PST,TAG=3,TAG=PL
+friemeln	friemle	TAG=V,TAG=IND,TAG=PRS,TAG=1,TAG=SG
+friemeln	friemele	TAG=V,TAG=SBJV,TAG=PRS,TAG=1,TAG=SG
+friemeln	friemelt	TAG=V,TAG=IND,TAG=PRS,TAG=3,TAG=SG
+friemeln	friemelet	TAG=V,TAG=SBJV,TAG=PRS,TAG=2,TAG=PL
+friemeln	friemeltest	TAG=V,TAG=IND,TAG=PST,TAG=2,TAG=SG
+friemeln	friemelten	TAG=V,TAG=SBJV,TAG=PST,TAG=1,TAG=PL
+friemeln	friemelte	TAG=V,TAG=IND,TAG=PST,TAG=1,TAG=SG
+friemeln	friemeltest	TAG=V,TAG=SBJV,TAG=PST,TAG=2,TAG=SG
+friemeln	friemelst	TAG=V,TAG=IND,TAG=PRS,TAG=2,TAG=SG
+friemeln	friemelest	TAG=V,TAG=SBJV,TAG=PRS,TAG=2,TAG=SG
+friemeln	friemelte	TAG=V,TAG=IND,TAG=PST,TAG=3,TAG=SG
+
+flitzen	flitzen	TAG=V,TAG=LEMMA
+flitzen	flitzen	TAG=V,TAG=SBJV,TAG=PRS,TAG=3,TAG=PL
+flitzen	flitzte	TAG=V,TAG=SBJV,TAG=PST,TAG=1,TAG=SG
+flitzen	flitzen	TAG=V,TAG=IND,TAG=PRS,TAG=1,TAG=PL
+flitzen	flitzend	TAG=V.PTCP,TAG=PRS
+flitzen	flitztet	TAG=V,TAG=IND,TAG=PST,TAG=2,TAG=PL
+flitzen	flitz	TAG=V,TAG=IMP,TAG=2,TAG=SG
+flitzen	flitztet	TAG=V,TAG=SBJV,TAG=PST,TAG=2,TAG=PL
+flitzen	flitzte	TAG=V,TAG=SBJV,TAG=PST,TAG=3,TAG=SG
+flitzen	flitzen	TAG=V,TAG=NFIN
+flitzen	flitzen	TAG=V,TAG=IND,TAG=PRS,TAG=3,TAG=PL
+flitzen	flitzt	TAG=V,TAG=IND,TAG=PRS,TAG=2,TAG=PL
+flitzen	flitzen	TAG=V,TAG=SBJV,TAG=PRS,TAG=1,TAG=PL
+flitzen	flitzten	TAG=V,TAG=IND,TAG=PST,TAG=1,TAG=PL
+flitzen	flitze	TAG=V,TAG=SBJV,TAG=PRS,TAG=3,TAG=SG
+flitzen	flitzten	TAG=V,TAG=IND,TAG=PST,TAG=3,TAG=PL
+flitzen	flitzt	TAG=V,TAG=IMP,TAG=2,TAG=PL
+flitzen	geflitzt	TAG=V.PTCP,TAG=PST
+flitzen	flitzten	TAG=V,TAG=SBJV,TAG=PST,TAG=3,TAG=PL
+flitzen	flitze	TAG=V,TAG=IND,TAG=PRS,TAG=1,TAG=SG
+flitzen	flitze	TAG=V,TAG=SBJV,TAG=PRS,TAG=1,TAG=SG
+flitzen	flitzt	TAG=V,TAG=IND,TAG=PRS,TAG=3,TAG=SG
+flitzen	flitzet	TAG=V,TAG=SBJV,TAG=PRS,TAG=2,TAG=PL
+flitzen	flitztest	TAG=V,TAG=IND,TAG=PST,TAG=2,TAG=SG
+flitzen	flitzten	TAG=V,TAG=SBJV,TAG=PST,TAG=1,TAG=PL
+flitzen	flitzte	TAG=V,TAG=IND,TAG=PST,TAG=1,TAG=SG
+flitzen	flitztest	TAG=V,TAG=SBJV,TAG=PST,TAG=2,TAG=SG
+flitzen	flitzt	TAG=V,TAG=IND,TAG=PRS,TAG=2,TAG=SG
+flitzen	flitzest	TAG=V,TAG=SBJV,TAG=PRS,TAG=2,TAG=SG
+flitzen	flitzte	TAG=V,TAG=IND,TAG=PST,TAG=3,TAG=SG
+
+Durchschlag	Durchschlag	TAG=N,TAG=LEMMA
+Durchschlag	Durchschläge	TAG=N,TAG=GEN,TAG=PL
+Durchschlag	Durchschläge	TAG=N,TAG=NOM,TAG=PL
+Durchschlag	Durchschlages	TAG=N,TAG=GEN,TAG=SG
+Durchschlag	Durchschlag	TAG=N,TAG=NOM,TAG=SG
+Durchschlag	Durchschlag	TAG=N,TAG=DAT,TAG=SG
+Durchschlag	Durchschläge	TAG=N,TAG=ACC,TAG=PL
+Durchschlag	Durchschlag	TAG=N,TAG=ACC,TAG=SG
+Durchschlag	Durchschlägen	TAG=N,TAG=DAT,TAG=PL
+
+konstatieren	konstatieren	TAG=V,TAG=LEMMA
+konstatieren	konstatieren	TAG=V,TAG=SBJV,TAG=PRS,TAG=3,TAG=PL
+konstatieren	konstatierte	TAG=V,TAG=SBJV,TAG=PST,TAG=1,TAG=SG
+konstatieren	konstatieren	TAG=V,TAG=IND,TAG=PRS,TAG=1,TAG=PL
+konstatieren	konstatierend	TAG=V.PTCP,TAG=PRS
+konstatieren	konstatiertet	TAG=V,TAG=IND,TAG=PST,TAG=2,TAG=PL
+konstatieren	konstatier	TAG=V,TAG=IMP,TAG=2,TAG=SG
+konstatieren	konstatiertet	TAG=V,TAG=SBJV,TAG=PST,TAG=2,TAG=PL
+konstatieren	konstatierte	TAG=V,TAG=SBJV,TAG=PST,TAG=3,TAG=SG
+konstatieren	konstatieren	TAG=V,TAG=NFIN
+konstatieren	konstatieren	TAG=V,TAG=IND,TAG=PRS,TAG=3,TAG=PL
+konstatieren	konstatiert	TAG=V,TAG=IND,TAG=PRS,TAG=2,TAG=PL
+konstatieren	konstatieren	TAG=V,TAG=SBJV,TAG=PRS,TAG=1,TAG=PL
+konstatieren	konstatierten	TAG=V,TAG=IND,TAG=PST,TAG=1,TAG=PL
+konstatieren	konstatiere	TAG=V,TAG=SBJV,TAG=PRS,TAG=3,TAG=SG
+konstatieren	konstatierten	TAG=V,TAG=IND,TAG=PST,TAG=3,TAG=PL
+konstatieren	konstatiert	TAG=V,TAG=IMP,TAG=2,TAG=PL
+konstatieren	konstatiert	TAG=V.PTCP,TAG=PST
+konstatieren	konstatierten	TAG=V,TAG=SBJV,TAG=PST,TAG=3,TAG=PL
+konstatieren	konstatiere	TAG=V,TAG=IND,TAG=PRS,TAG=1,TAG=SG
+konstatieren	konstatiere	TAG=V,TAG=SBJV,TAG=PRS,TAG=1,TAG=SG
+konstatieren	konstatiert	TAG=V,TAG=IND,TAG=PRS,TAG=3,TAG=SG
+konstatieren	konstatieret	TAG=V,TAG=SBJV,TAG=PRS,TAG=2,TAG=PL
+konstatieren	konstatiertest	TAG=V,TAG=IND,TAG=PST,TAG=2,TAG=SG
+konstatieren	konstatierten	TAG=V,TAG=SBJV,TAG=PST,TAG=1,TAG=PL
+konstatieren	konstatierte	TAG=V,TAG=IND,TAG=PST,TAG=1,TAG=SG
+konstatieren	konstatiertest	TAG=V,TAG=SBJV,TAG=PST,TAG=2,TAG=SG
+konstatieren	konstatierst	TAG=V,TAG=IND,TAG=PRS,TAG=2,TAG=SG
+konstatieren	konstatierest	TAG=V,TAG=SBJV,TAG=PRS,TAG=2,TAG=SG
+konstatieren	konstatierte	TAG=V,TAG=IND,TAG=PST,TAG=3,TAG=SG
+
+Käbelchen	Käbelchen	TAG=N,TAG=LEMMA
+Käbelchen	Käbelchen	TAG=N,TAG=GEN,TAG=PL
+Käbelchen	Käbelchen	TAG=N,TAG=NOM,TAG=PL
+Käbelchen	Käbelchens	TAG=N,TAG=GEN,TAG=SG
+Käbelchen	Käbelchen	TAG=N,TAG=NOM,TAG=SG
+Käbelchen	Käbelchen	TAG=N,TAG=DAT,TAG=SG
+Käbelchen	Käbelchen	TAG=N,TAG=ACC,TAG=PL
+Käbelchen	Käbelchen	TAG=N,TAG=ACC,TAG=SG
+Käbelchen	Käbelchen	TAG=N,TAG=DAT,TAG=PL
+
+Koenzym	Koenzym	TAG=N,TAG=LEMMA
+Koenzym	Koenzyme	TAG=N,TAG=GEN,TAG=PL
+Koenzym	Koenzyme	TAG=N,TAG=NOM,TAG=PL
+Koenzym	Koenzyms	TAG=N,TAG=GEN,TAG=SG
+Koenzym	Koenzym	TAG=N,TAG=NOM,TAG=SG
+Koenzym	Koenzym	TAG=N,TAG=DAT,TAG=SG
+Koenzym	Koenzyme	TAG=N,TAG=ACC,TAG=PL
+Koenzym	Koenzym	TAG=N,TAG=ACC,TAG=SG
+Koenzym	Koenzymen	TAG=N,TAG=DAT,TAG=PL
+
+Schneemann	Schneemann	TAG=N,TAG=LEMMA
+Schneemann	Schneemänner	TAG=N,TAG=GEN,TAG=PL
+Schneemann	Schneemänner	TAG=N,TAG=NOM,TAG=PL
+Schneemann	Schneemannes	TAG=N,TAG=GEN,TAG=SG
+Schneemann	Schneemann	TAG=N,TAG=NOM,TAG=SG
+Schneemann	Schneemann	TAG=N,TAG=DAT,TAG=SG
+Schneemann	Schneemänner	TAG=N,TAG=ACC,TAG=PL
+Schneemann	Schneemann	TAG=N,TAG=ACC,TAG=SG
+Schneemann	Schneemännern	TAG=N,TAG=DAT,TAG=PL
+
+Kanzlei	Kanzlei	TAG=N,TAG=LEMMA
+Kanzlei	Kanzleien	TAG=N,TAG=GEN,TAG=PL
+Kanzlei	Kanzleien	TAG=N,TAG=NOM,TAG=PL
+Kanzlei	Kanzlei	TAG=N,TAG=GEN,TAG=SG
+Kanzlei	Kanzlei	TAG=N,TAG=NOM,TAG=SG
+Kanzlei	Kanzlei	TAG=N,TAG=DAT,TAG=SG
+Kanzlei	Kanzleien	TAG=N,TAG=ACC,TAG=PL
+Kanzlei	Kanzlei	TAG=N,TAG=ACC,TAG=SG
+Kanzlei	Kanzleien	TAG=N,TAG=DAT,TAG=PL
+
+Haspel	Haspel	TAG=N,TAG=LEMMA
+Haspel	Haspel	TAG=N,TAG=GEN,TAG=PL
+Haspel	Haspel	TAG=N,TAG=NOM,TAG=PL
+Haspel	Haspels	TAG=N,TAG=GEN,TAG=SG
+Haspel	Haspel	TAG=N,TAG=NOM,TAG=SG
+Haspel	Haspel	TAG=N,TAG=DAT,TAG=SG
+Haspel	Haspel	TAG=N,TAG=ACC,TAG=PL
+Haspel	Haspel	TAG=N,TAG=ACC,TAG=SG
+Haspel	Haspeln	TAG=N,TAG=DAT,TAG=PL
+
+Provokateur	Provokateur	TAG=N,TAG=LEMMA
+Provokateur	Provokateure	TAG=N,TAG=GEN,TAG=PL
+Provokateur	Provokateure	TAG=N,TAG=NOM,TAG=PL
+Provokateur	Provokateurs	TAG=N,TAG=GEN,TAG=SG
+Provokateur	Provokateur	TAG=N,TAG=NOM,TAG=SG
+Provokateur	Provokateur	TAG=N,TAG=DAT,TAG=SG
+Provokateur	Provokateure	TAG=N,TAG=ACC,TAG=PL
+Provokateur	Provokateur	TAG=N,TAG=ACC,TAG=SG
+Provokateur	Provokateuren	TAG=N,TAG=DAT,TAG=PL
+
+Polytheist	Polytheist	TAG=N,TAG=LEMMA
+Polytheist	Polytheisten	TAG=N,TAG=GEN,TAG=PL
+Polytheist	Polytheisten	TAG=N,TAG=NOM,TAG=PL
+Polytheist	Polytheisten	TAG=N,TAG=GEN,TAG=SG
+Polytheist	Polytheist	TAG=N,TAG=NOM,TAG=SG
+Polytheist	Polytheisten	TAG=N,TAG=DAT,TAG=SG
+Polytheist	Polytheisten	TAG=N,TAG=ACC,TAG=PL
+Polytheist	Polytheisten	TAG=N,TAG=ACC,TAG=SG
+Polytheist	Polytheisten	TAG=N,TAG=DAT,TAG=PL
+
+Mangelsymptom	Mangelsymptom	TAG=N,TAG=LEMMA
+Mangelsymptom	Mangelsymptome	TAG=N,TAG=GEN,TAG=PL
+Mangelsymptom	Mangelsymptome	TAG=N,TAG=NOM,TAG=PL
+Mangelsymptom	Mangelsymptoms	TAG=N,TAG=GEN,TAG=SG
+Mangelsymptom	Mangelsymptom	TAG=N,TAG=NOM,TAG=SG
+Mangelsymptom	Mangelsymptom	TAG=N,TAG=DAT,TAG=SG
+Mangelsymptom	Mangelsymptome	TAG=N,TAG=ACC,TAG=PL
+Mangelsymptom	Mangelsymptom	TAG=N,TAG=ACC,TAG=SG
+Mangelsymptom	Mangelsymptomen	TAG=N,TAG=DAT,TAG=PL
+
+Wortstamm	Wortstamm	TAG=N,TAG=LEMMA
+Wortstamm	Wortstämme	TAG=N,TAG=GEN,TAG=PL
+Wortstamm	Wortstämme	TAG=N,TAG=NOM,TAG=PL
+Wortstamm	Wortstammes	TAG=N,TAG=GEN,TAG=SG
+Wortstamm	Wortstamm	TAG=N,TAG=NOM,TAG=SG
+Wortstamm	Wortstamm	TAG=N,TAG=DAT,TAG=SG
+Wortstamm	Wortstämme	TAG=N,TAG=ACC,TAG=PL
+Wortstamm	Wortstamm	TAG=N,TAG=ACC,TAG=SG
+Wortstamm	Wortstämmen	TAG=N,TAG=DAT,TAG=PL
+
+Dinosaurier	Dinosaurier	TAG=N,TAG=LEMMA
+Dinosaurier	Dinosaurier	TAG=N,TAG=GEN,TAG=PL
+Dinosaurier	Dinosaurier	TAG=N,TAG=NOM,TAG=PL
+Dinosaurier	Dinosauriers	TAG=N,TAG=GEN,TAG=SG
+Dinosaurier	Dinosaurier	TAG=N,TAG=NOM,TAG=SG
+Dinosaurier	Dinosaurier	TAG=N,TAG=DAT,TAG=SG
+Dinosaurier	Dinosaurier	TAG=N,TAG=ACC,TAG=PL
+Dinosaurier	Dinosaurier	TAG=N,TAG=ACC,TAG=SG
+Dinosaurier	Dinosaurier	TAG=N,TAG=DAT,TAG=PL
+
+Metronom	Metronom	TAG=N,TAG=LEMMA
+Metronom	Metronome	TAG=N,TAG=GEN,TAG=PL
+Metronom	Metronome	TAG=N,TAG=NOM,TAG=PL
+Metronom	Metronoms	TAG=N,TAG=GEN,TAG=SG
+Metronom	Metronom	TAG=N,TAG=NOM,TAG=SG
+Metronom	Metronom	TAG=N,TAG=DAT,TAG=SG
+Metronom	Metronome	TAG=N,TAG=ACC,TAG=PL
+Metronom	Metronom	TAG=N,TAG=ACC,TAG=SG
+Metronom	Metronomen	TAG=N,TAG=DAT,TAG=PL
+
+kennen lernen	kennen lernen	TAG=V,TAG=LEMMA
+kennen lernen	lernen kennen	TAG=V,TAG=SBJV,TAG=PRS,TAG=3,TAG=PL
+kennen lernen	lernte kennen	TAG=V,TAG=SBJV,TAG=PST,TAG=1,TAG=SG
+kennen lernen	lernen kennen	TAG=V,TAG=IND,TAG=PRS,TAG=1,TAG=PL
+kennen lernen	lernend	TAG=V.PTCP,TAG=PRS
+kennen lernen	lerntet kennen	TAG=V,TAG=IND,TAG=PST,TAG=2,TAG=PL
+kennen lernen	lern kennen	TAG=V,TAG=IMP,TAG=2,TAG=SG
+kennen lernen	lerntet kennen	TAG=V,TAG=SBJV,TAG=PST,TAG=2,TAG=PL
+kennen lernen	lernte kennen	TAG=V,TAG=SBJV,TAG=PST,TAG=3,TAG=SG
+kennen lernen	lernen	TAG=V,TAG=NFIN
+kennen lernen	lernen kennen	TAG=V,TAG=IND,TAG=PRS,TAG=3,TAG=PL
+kennen lernen	lernt kennen	TAG=V,TAG=IND,TAG=PRS,TAG=2,TAG=PL
+kennen lernen	lernen kennen	TAG=V,TAG=SBJV,TAG=PRS,TAG=1,TAG=PL
+kennen lernen	lernten kennen	TAG=V,TAG=IND,TAG=PST,TAG=1,TAG=PL
+kennen lernen	lerne kennen	TAG=V,TAG=SBJV,TAG=PRS,TAG=3,TAG=SG
+kennen lernen	lernten kennen	TAG=V,TAG=IND,TAG=PST,TAG=3,TAG=PL
+kennen lernen	lernt kennen	TAG=V,TAG=IMP,TAG=2,TAG=PL
+kennen lernen	gelernt	TAG=V.PTCP,TAG=PST
+kennen lernen	lernten kennen	TAG=V,TAG=SBJV,TAG=PST,TAG=3,TAG=PL
+kennen lernen	lerne kennen	TAG=V,TAG=IND,TAG=PRS,TAG=1,TAG=SG
+kennen lernen	lerne kennen	TAG=V,TAG=SBJV,TAG=PRS,TAG=1,TAG=SG
+kennen lernen	lernt kennen	TAG=V,TAG=IND,TAG=PRS,TAG=3,TAG=SG
+kennen lernen	lernet kennen	TAG=V,TAG=SBJV,TAG=PRS,TAG=2,TAG=PL
+kennen lernen	lerntest kennen	TAG=V,TAG=IND,TAG=PST,TAG=2,TAG=SG
+kennen lernen	lernten kennen	TAG=V,TAG=SBJV,TAG=PST,TAG=1,TAG=PL
+kennen lernen	lernte kennen	TAG=V,TAG=IND,TAG=PST,TAG=1,TAG=SG
+kennen lernen	lerntest kennen	TAG=V,TAG=SBJV,TAG=PST,TAG=2,TAG=SG
+kennen lernen	lernst kennen	TAG=V,TAG=IND,TAG=PRS,TAG=2,TAG=SG
+kennen lernen	lernest kennen	TAG=V,TAG=SBJV,TAG=PRS,TAG=2,TAG=SG
+kennen lernen	lernte kennen	TAG=V,TAG=IND,TAG=PST,TAG=3,TAG=SG
+
+Cupalit	Cupalit	TAG=N,TAG=LEMMA
+Cupalit	Cupalite	TAG=N,TAG=GEN,TAG=PL
+Cupalit	Cupalite	TAG=N,TAG=NOM,TAG=PL
+Cupalit	Cupalits	TAG=N,TAG=GEN,TAG=SG
+Cupalit	Cupalit	TAG=N,TAG=NOM,TAG=SG
+Cupalit	Cupalit	TAG=N,TAG=DAT,TAG=SG
+Cupalit	Cupalite	TAG=N,TAG=ACC,TAG=PL
+Cupalit	Cupalit	TAG=N,TAG=ACC,TAG=SG
+Cupalit	Cupaliten	TAG=N,TAG=DAT,TAG=PL
+
+Rebhuhn	Rebhuhn	TAG=N,TAG=LEMMA
+Rebhuhn	Rebhühner	TAG=N,TAG=GEN,TAG=PL
+Rebhuhn	Rebhühner	TAG=N,TAG=NOM,TAG=PL
+Rebhuhn	Rebhuhnes	TAG=N,TAG=GEN,TAG=SG
+Rebhuhn	Rebhuhn	TAG=N,TAG=NOM,TAG=SG
+Rebhuhn	Rebhuhn	TAG=N,TAG=DAT,TAG=SG
+Rebhuhn	Rebhühner	TAG=N,TAG=ACC,TAG=PL
+Rebhuhn	Rebhuhn	TAG=N,TAG=ACC,TAG=SG
+Rebhuhn	Rebhühnern	TAG=N,TAG=DAT,TAG=PL
+
+plagiieren	plagiieren	TAG=V,TAG=LEMMA
+plagiieren	plagiieren	TAG=V,TAG=SBJV,TAG=PRS,TAG=3,TAG=PL
+plagiieren	plagiierte	TAG=V,TAG=SBJV,TAG=PST,TAG=1,TAG=SG
+plagiieren	plagiieren	TAG=V,TAG=IND,TAG=PRS,TAG=1,TAG=PL
+plagiieren	plagiierend	TAG=V.PTCP,TAG=PRS
+plagiieren	plagiiertet	TAG=V,TAG=IND,TAG=PST,TAG=2,TAG=PL
+plagiieren	plagiier	TAG=V,TAG=IMP,TAG=2,TAG=SG
+plagiieren	plagiiertet	TAG=V,TAG=SBJV,TAG=PST,TAG=2,TAG=PL
+plagiieren	plagiierte	TAG=V,TAG=SBJV,TAG=PST,TAG=3,TAG=SG
+plagiieren	plagiieren	TAG=V,TAG=NFIN
+plagiieren	plagiieren	TAG=V,TAG=IND,TAG=PRS,TAG=3,TAG=PL
+plagiieren	plagiiert	TAG=V,TAG=IND,TAG=PRS,TAG=2,TAG=PL
+plagiieren	plagiieren	TAG=V,TAG=SBJV,TAG=PRS,TAG=1,TAG=PL
+plagiieren	plagiierten	TAG=V,TAG=IND,TAG=PST,TAG=1,TAG=PL
+plagiieren	plagiiere	TAG=V,TAG=SBJV,TAG=PRS,TAG=3,TAG=SG
+plagiieren	plagiierten	TAG=V,TAG=IND,TAG=PST,TAG=3,TAG=PL
+plagiieren	plagiiert	TAG=V,TAG=IMP,TAG=2,TAG=PL
+plagiieren	plagiiert	TAG=V.PTCP,TAG=PST
+plagiieren	plagiierten	TAG=V,TAG=SBJV,TAG=PST,TAG=3,TAG=PL
+plagiieren	plagiiere	TAG=V,TAG=IND,TAG=PRS,TAG=1,TAG=SG
+plagiieren	plagiiere	TAG=V,TAG=SBJV,TAG=PRS,TAG=1,TAG=SG
+plagiieren	plagiiert	TAG=V,TAG=IND,TAG=PRS,TAG=3,TAG=SG
+plagiieren	plagiieret	TAG=V,TAG=SBJV,TAG=PRS,TAG=2,TAG=PL
+plagiieren	plagiiertest	TAG=V,TAG=IND,TAG=PST,TAG=2,TAG=SG
+plagiieren	plagiierten	TAG=V,TAG=SBJV,TAG=PST,TAG=1,TAG=PL
+plagiieren	plagiierte	TAG=V,TAG=IND,TAG=PST,TAG=1,TAG=SG
+plagiieren	plagiiertest	TAG=V,TAG=SBJV,TAG=PST,TAG=2,TAG=SG
+plagiieren	plagiierst	TAG=V,TAG=IND,TAG=PRS,TAG=2,TAG=SG
+plagiieren	plagiierest	TAG=V,TAG=SBJV,TAG=PRS,TAG=2,TAG=SG
+plagiieren	plagiierte	TAG=V,TAG=IND,TAG=PST,TAG=3,TAG=SG
+
+Kratzer	Kratzer	TAG=N,TAG=LEMMA
+Kratzer	Kratzer	TAG=N,TAG=GEN,TAG=PL
+Kratzer	Kratzer	TAG=N,TAG=NOM,TAG=PL
+Kratzer	Kratzers	TAG=N,TAG=GEN,TAG=SG
+Kratzer	Kratzer	TAG=N,TAG=NOM,TAG=SG
+Kratzer	Kratzer	TAG=N,TAG=DAT,TAG=SG
+Kratzer	Kratzer	TAG=N,TAG=ACC,TAG=PL
+Kratzer	Kratzer	TAG=N,TAG=ACC,TAG=SG
+Kratzer	Kratzern	TAG=N,TAG=DAT,TAG=PL
+
+Glühröhrchen	Glühröhrchen	TAG=N,TAG=LEMMA
+Glühröhrchen	Glühröhrchen	TAG=N,TAG=GEN,TAG=PL
+Glühröhrchen	Glühröhrchen	TAG=N,TAG=NOM,TAG=PL
+Glühröhrchen	Glühröhrchens	TAG=N,TAG=GEN,TAG=SG
+Glühröhrchen	Glühröhrchen	TAG=N,TAG=NOM,TAG=SG
+Glühröhrchen	Glühröhrchen	TAG=N,TAG=DAT,TAG=SG
+Glühröhrchen	Glühröhrchen	TAG=N,TAG=ACC,TAG=PL
+Glühröhrchen	Glühröhrchen	TAG=N,TAG=ACC,TAG=SG
+Glühröhrchen	Glühröhrchen	TAG=N,TAG=DAT,TAG=PL
+
+Klasse	Klasse	TAG=N,TAG=LEMMA
+Klasse	Klassen	TAG=N,TAG=GEN,TAG=PL
+Klasse	Klassen	TAG=N,TAG=NOM,TAG=PL
+Klasse	Klasse	TAG=N,TAG=GEN,TAG=SG
+Klasse	Klasse	TAG=N,TAG=NOM,TAG=SG
+Klasse	Klasse	TAG=N,TAG=DAT,TAG=SG
+Klasse	Klassen	TAG=N,TAG=ACC,TAG=PL
+Klasse	Klasse	TAG=N,TAG=ACC,TAG=SG
+Klasse	Klassen	TAG=N,TAG=DAT,TAG=PL
+
+Brutkasten	Brutkasten	TAG=N,TAG=LEMMA
+Brutkasten	Brutkästen	TAG=N,TAG=GEN,TAG=PL
+Brutkasten	Brutkästen	TAG=N,TAG=NOM,TAG=PL
+Brutkasten	Brutkastens	TAG=N,TAG=GEN,TAG=SG
+Brutkasten	Brutkasten	TAG=N,TAG=NOM,TAG=SG
+Brutkasten	Brutkasten	TAG=N,TAG=DAT,TAG=SG
+Brutkasten	Brutkästen	TAG=N,TAG=ACC,TAG=PL
+Brutkasten	Brutkasten	TAG=N,TAG=ACC,TAG=SG
+Brutkasten	Brutkästen	TAG=N,TAG=DAT,TAG=PL
+
+Umgangssprache	Umgangssprache	TAG=N,TAG=LEMMA
+Umgangssprache	Umgangssprachen	TAG=N,TAG=GEN,TAG=PL
+Umgangssprache	Umgangssprachen	TAG=N,TAG=NOM,TAG=PL
+Umgangssprache	Umgangssprache	TAG=N,TAG=GEN,TAG=SG
+Umgangssprache	Umgangssprache	TAG=N,TAG=NOM,TAG=SG
+Umgangssprache	Umgangssprache	TAG=N,TAG=DAT,TAG=SG
+Umgangssprache	Umgangssprachen	TAG=N,TAG=ACC,TAG=PL
+Umgangssprache	Umgangssprache	TAG=N,TAG=ACC,TAG=SG
+Umgangssprache	Umgangssprachen	TAG=N,TAG=DAT,TAG=PL
+
+verkriechen	verkriechen	TAG=V,TAG=LEMMA
+verkriechen	verkriechen	TAG=V,TAG=SBJV,TAG=PRS,TAG=3,TAG=PL
+verkriechen	verkröche	TAG=V,TAG=SBJV,TAG=PST,TAG=1,TAG=SG
+verkriechen	verkriechen	TAG=V,TAG=IND,TAG=PRS,TAG=1,TAG=PL
+verkriechen	verkriechend	TAG=V.PTCP,TAG=PRS
+verkriechen	verkrocht	TAG=V,TAG=IND,TAG=PST,TAG=2,TAG=PL
+verkriechen	verkriech	TAG=V,TAG=IMP,TAG=2,TAG=SG
+verkriechen	verkröchet	TAG=V,TAG=SBJV,TAG=PST,TAG=2,TAG=PL
+verkriechen	verkröche	TAG=V,TAG=SBJV,TAG=PST,TAG=3,TAG=SG
+verkriechen	verkriechen	TAG=V,TAG=NFIN
+verkriechen	verkriechen	TAG=V,TAG=IND,TAG=PRS,TAG=3,TAG=PL
+verkriechen	verkriecht	TAG=V,TAG=IND,TAG=PRS,TAG=2,TAG=PL
+verkriechen	verkriechen	TAG=V,TAG=SBJV,TAG=PRS,TAG=1,TAG=PL
+verkriechen	verkrochen	TAG=V,TAG=IND,TAG=PST,TAG=1,TAG=PL
+verkriechen	verkrieche	TAG=V,TAG=SBJV,TAG=PRS,TAG=3,TAG=SG
+verkriechen	verkrochen	TAG=V,TAG=IND,TAG=PST,TAG=3,TAG=PL
+verkriechen	verkriecht	TAG=V,TAG=IMP,TAG=2,TAG=PL
+verkriechen	verkrochen	TAG=V.PTCP,TAG=PST
+verkriechen	verkröchen	TAG=V,TAG=SBJV,TAG=PST,TAG=3,TAG=PL
+verkriechen	verkrieche	TAG=V,TAG=IND,TAG=PRS,TAG=1,TAG=SG
+verkriechen	verkrieche	TAG=V,TAG=SBJV,TAG=PRS,TAG=1,TAG=SG
+verkriechen	verkriecht	TAG=V,TAG=IND,TAG=PRS,TAG=3,TAG=SG
+verkriechen	verkriechet	TAG=V,TAG=SBJV,TAG=PRS,TAG=2,TAG=PL
+verkriechen	verkrochst	TAG=V,TAG=IND,TAG=PST,TAG=2,TAG=SG
+verkriechen	verkröchen	TAG=V,TAG=SBJV,TAG=PST,TAG=1,TAG=PL
+verkriechen	verkroch	TAG=V,TAG=IND,TAG=PST,TAG=1,TAG=SG
+verkriechen	verkröchest	TAG=V,TAG=SBJV,TAG=PST,TAG=2,TAG=SG
+verkriechen	verkriechst	TAG=V,TAG=IND,TAG=PRS,TAG=2,TAG=SG
+verkriechen	verkriechest	TAG=V,TAG=SBJV,TAG=PRS,TAG=2,TAG=SG
+verkriechen	verkroch	TAG=V,TAG=IND,TAG=PST,TAG=3,TAG=SG
+
+freisetzen	freisetzen	TAG=V,TAG=LEMMA
+freisetzen	setzen frei	TAG=V,TAG=SBJV,TAG=PRS,TAG=3,TAG=PL
+freisetzen	setzte frei	TAG=V,TAG=SBJV,TAG=PST,TAG=1,TAG=SG
+freisetzen	setzen frei	TAG=V,TAG=IND,TAG=PRS,TAG=1,TAG=PL
+freisetzen	freisetzend	TAG=V.PTCP,TAG=PRS
+freisetzen	setztet frei	TAG=V,TAG=IND,TAG=PST,TAG=2,TAG=PL
+freisetzen	setz frei	TAG=V,TAG=IMP,TAG=2,TAG=SG
+freisetzen	setztet frei	TAG=V,TAG=SBJV,TAG=PST,TAG=2,TAG=PL
+freisetzen	setzte frei	TAG=V,TAG=SBJV,TAG=PST,TAG=3,TAG=SG
+freisetzen	freisetzen	TAG=V,TAG=NFIN
+freisetzen	setzen frei	TAG=V,TAG=IND,TAG=PRS,TAG=3,TAG=PL
+freisetzen	setzt frei	TAG=V,TAG=IND,TAG=PRS,TAG=2,TAG=PL
+freisetzen	setzen frei	TAG=V,TAG=SBJV,TAG=PRS,TAG=1,TAG=PL
+freisetzen	setzten frei	TAG=V,TAG=IND,TAG=PST,TAG=1,TAG=PL
+freisetzen	setze frei	TAG=V,TAG=SBJV,TAG=PRS,TAG=3,TAG=SG
+freisetzen	setzten frei	TAG=V,TAG=IND,TAG=PST,TAG=3,TAG=PL
+freisetzen	setzt frei	TAG=V,TAG=IMP,TAG=2,TAG=PL
+freisetzen	freigesetzt	TAG=V.PTCP,TAG=PST
+freisetzen	setzten frei	TAG=V,TAG=SBJV,TAG=PST,TAG=3,TAG=PL
+freisetzen	setze frei	TAG=V,TAG=IND,TAG=PRS,TAG=1,TAG=SG
+freisetzen	setze frei	TAG=V,TAG=SBJV,TAG=PRS,TAG=1,TAG=SG
+freisetzen	setzt frei	TAG=V,TAG=IND,TAG=PRS,TAG=3,TAG=SG
+freisetzen	setzet frei	TAG=V,TAG=SBJV,TAG=PRS,TAG=2,TAG=PL
+freisetzen	setztest frei	TAG=V,TAG=IND,TAG=PST,TAG=2,TAG=SG
+freisetzen	setzten frei	TAG=V,TAG=SBJV,TAG=PST,TAG=1,TAG=PL
+freisetzen	setzte frei	TAG=V,TAG=IND,TAG=PST,TAG=1,TAG=SG
+freisetzen	setztest frei	TAG=V,TAG=SBJV,TAG=PST,TAG=2,TAG=SG
+freisetzen	setzt frei	TAG=V,TAG=IND,TAG=PRS,TAG=2,TAG=SG
+freisetzen	setzest frei	TAG=V,TAG=SBJV,TAG=PRS,TAG=2,TAG=SG
+freisetzen	setzte frei	TAG=V,TAG=IND,TAG=PST,TAG=3,TAG=SG
+
+Tabak	Tabak	TAG=N,TAG=LEMMA
+Tabak	Tabake	TAG=N,TAG=GEN,TAG=PL
+Tabak	Tabake	TAG=N,TAG=NOM,TAG=PL
+Tabak	Tabaks	TAG=N,TAG=GEN,TAG=SG
+Tabak	Tabak	TAG=N,TAG=NOM,TAG=SG
+Tabak	Tabak	TAG=N,TAG=DAT,TAG=SG
+Tabak	Tabake	TAG=N,TAG=ACC,TAG=PL
+Tabak	Tabak	TAG=N,TAG=ACC,TAG=SG
+Tabak	Tabaken	TAG=N,TAG=DAT,TAG=PL
+
+verminen	verminen	TAG=V,TAG=LEMMA
+verminen	verminen	TAG=V,TAG=SBJV,TAG=PRS,TAG=3,TAG=PL
+verminen	verminte	TAG=V,TAG=SBJV,TAG=PST,TAG=1,TAG=SG
+verminen	verminen	TAG=V,TAG=IND,TAG=PRS,TAG=1,TAG=PL
+verminen	verminend	TAG=V.PTCP,TAG=PRS
+verminen	vermintet	TAG=V,TAG=IND,TAG=PST,TAG=2,TAG=PL
+verminen	vermin	TAG=V,TAG=IMP,TAG=2,TAG=SG
+verminen	vermintet	TAG=V,TAG=SBJV,TAG=PST,TAG=2,TAG=PL
+verminen	verminte	TAG=V,TAG=SBJV,TAG=PST,TAG=3,TAG=SG
+verminen	verminen	TAG=V,TAG=NFIN
+verminen	verminen	TAG=V,TAG=IND,TAG=PRS,TAG=3,TAG=PL
+verminen	vermint	TAG=V,TAG=IND,TAG=PRS,TAG=2,TAG=PL
+verminen	verminen	TAG=V,TAG=SBJV,TAG=PRS,TAG=1,TAG=PL
+verminen	verminten	TAG=V,TAG=IND,TAG=PST,TAG=1,TAG=PL
+verminen	vermine	TAG=V,TAG=SBJV,TAG=PRS,TAG=3,TAG=SG
+verminen	verminten	TAG=V,TAG=IND,TAG=PST,TAG=3,TAG=PL
+verminen	vermint	TAG=V,TAG=IMP,TAG=2,TAG=PL
+verminen	vermint	TAG=V.PTCP,TAG=PST
+verminen	verminten	TAG=V,TAG=SBJV,TAG=PST,TAG=3,TAG=PL
+verminen	vermine	TAG=V,TAG=IND,TAG=PRS,TAG=1,TAG=SG
+verminen	vermine	TAG=V,TAG=SBJV,TAG=PRS,TAG=1,TAG=SG
+verminen	vermint	TAG=V,TAG=IND,TAG=PRS,TAG=3,TAG=SG
+verminen	verminet	TAG=V,TAG=SBJV,TAG=PRS,TAG=2,TAG=PL
+verminen	vermintest	TAG=V,TAG=IND,TAG=PST,TAG=2,TAG=SG
+verminen	verminten	TAG=V,TAG=SBJV,TAG=PST,TAG=1,TAG=PL
+verminen	verminte	TAG=V,TAG=IND,TAG=PST,TAG=1,TAG=SG
+verminen	vermintest	TAG=V,TAG=SBJV,TAG=PST,TAG=2,TAG=SG
+verminen	verminst	TAG=V,TAG=IND,TAG=PRS,TAG=2,TAG=SG
+verminen	verminest	TAG=V,TAG=SBJV,TAG=PRS,TAG=2,TAG=SG
+verminen	verminte	TAG=V,TAG=IND,TAG=PST,TAG=3,TAG=SG
+
+Äthiopierin	Äthiopierin	TAG=N,TAG=LEMMA
+Äthiopierin	Äthiopierinnen	TAG=N,TAG=GEN,TAG=PL
+Äthiopierin	Äthiopierinnen	TAG=N,TAG=NOM,TAG=PL
+Äthiopierin	Äthiopierin	TAG=N,TAG=GEN,TAG=SG
+Äthiopierin	Äthiopierin	TAG=N,TAG=NOM,TAG=SG
+Äthiopierin	Äthiopierin	TAG=N,TAG=DAT,TAG=SG
+Äthiopierin	Äthiopierinnen	TAG=N,TAG=ACC,TAG=PL
+Äthiopierin	Äthiopierin	TAG=N,TAG=ACC,TAG=SG
+Äthiopierin	Äthiopierinnen	TAG=N,TAG=DAT,TAG=PL
+
+Betttuch	Betttuch	TAG=N,TAG=LEMMA
+Betttuch	Betttücher	TAG=N,TAG=GEN,TAG=PL
+Betttuch	Betttücher	TAG=N,TAG=NOM,TAG=PL
+Betttuch	Betttuches	TAG=N,TAG=GEN,TAG=SG
+Betttuch	Betttuch	TAG=N,TAG=NOM,TAG=SG
+Betttuch	Betttuch	TAG=N,TAG=DAT,TAG=SG
+Betttuch	Betttücher	TAG=N,TAG=ACC,TAG=PL
+Betttuch	Betttuch	TAG=N,TAG=ACC,TAG=SG
+Betttuch	Betttüchern	TAG=N,TAG=DAT,TAG=PL
+
+Möglichkeit	Möglichkeit	TAG=N,TAG=LEMMA
+Möglichkeit	Möglichkeiten	TAG=N,TAG=GEN,TAG=PL
+Möglichkeit	Möglichkeiten	TAG=N,TAG=NOM,TAG=PL
+Möglichkeit	Möglichkeit	TAG=N,TAG=GEN,TAG=SG
+Möglichkeit	Möglichkeit	TAG=N,TAG=NOM,TAG=SG
+Möglichkeit	Möglichkeit	TAG=N,TAG=DAT,TAG=SG
+Möglichkeit	Möglichkeiten	TAG=N,TAG=ACC,TAG=PL
+Möglichkeit	Möglichkeit	TAG=N,TAG=ACC,TAG=SG
+Möglichkeit	Möglichkeiten	TAG=N,TAG=DAT,TAG=PL
+
+sengen	sengen	TAG=V,TAG=LEMMA
+sengen	sengen	TAG=V,TAG=SBJV,TAG=PRS,TAG=3,TAG=PL
+sengen	sengte	TAG=V,TAG=SBJV,TAG=PST,TAG=1,TAG=SG
+sengen	sengen	TAG=V,TAG=IND,TAG=PRS,TAG=1,TAG=PL
+sengen	sengend	TAG=V.PTCP,TAG=PRS
+sengen	sengtet	TAG=V,TAG=IND,TAG=PST,TAG=2,TAG=PL
+sengen	seng	TAG=V,TAG=IMP,TAG=2,TAG=SG
+sengen	sengtet	TAG=V,TAG=SBJV,TAG=PST,TAG=2,TAG=PL
+sengen	sengte	TAG=V,TAG=SBJV,TAG=PST,TAG=3,TAG=SG
+sengen	sengen	TAG=V,TAG=NFIN
+sengen	sengen	TAG=V,TAG=IND,TAG=PRS,TAG=3,TAG=PL
+sengen	sengt	TAG=V,TAG=IND,TAG=PRS,TAG=2,TAG=PL
+sengen	sengen	TAG=V,TAG=SBJV,TAG=PRS,TAG=1,TAG=PL
+sengen	sengten	TAG=V,TAG=IND,TAG=PST,TAG=1,TAG=PL
+sengen	senge	TAG=V,TAG=SBJV,TAG=PRS,TAG=3,TAG=SG
+sengen	sengten	TAG=V,TAG=IND,TAG=PST,TAG=3,TAG=PL
+sengen	sengt	TAG=V,TAG=IMP,TAG=2,TAG=PL
+sengen	gesengt	TAG=V.PTCP,TAG=PST
+sengen	sengten	TAG=V,TAG=SBJV,TAG=PST,TAG=3,TAG=PL
+sengen	senge	TAG=V,TAG=IND,TAG=PRS,TAG=1,TAG=SG
+sengen	senge	TAG=V,TAG=SBJV,TAG=PRS,TAG=1,TAG=SG
+sengen	sengt	TAG=V,TAG=IND,TAG=PRS,TAG=3,TAG=SG
+sengen	senget	TAG=V,TAG=SBJV,TAG=PRS,TAG=2,TAG=PL
+sengen	sengtest	TAG=V,TAG=IND,TAG=PST,TAG=2,TAG=SG
+sengen	sengten	TAG=V,TAG=SBJV,TAG=PST,TAG=1,TAG=PL
+sengen	sengte	TAG=V,TAG=IND,TAG=PST,TAG=1,TAG=SG
+sengen	sengtest	TAG=V,TAG=SBJV,TAG=PST,TAG=2,TAG=SG
+sengen	sengst	TAG=V,TAG=IND,TAG=PRS,TAG=2,TAG=SG
+sengen	sengest	TAG=V,TAG=SBJV,TAG=PRS,TAG=2,TAG=SG
+sengen	sengte	TAG=V,TAG=IND,TAG=PST,TAG=3,TAG=SG
+
+Sorge	Sorge	TAG=N,TAG=LEMMA
+Sorge	Sorgen	TAG=N,TAG=GEN,TAG=PL
+Sorge	Sorgen	TAG=N,TAG=NOM,TAG=PL
+Sorge	Sorge	TAG=N,TAG=GEN,TAG=SG
+Sorge	Sorge	TAG=N,TAG=NOM,TAG=SG
+Sorge	Sorge	TAG=N,TAG=DAT,TAG=SG
+Sorge	Sorgen	TAG=N,TAG=ACC,TAG=PL
+Sorge	Sorge	TAG=N,TAG=ACC,TAG=SG
+Sorge	Sorgen	TAG=N,TAG=DAT,TAG=PL
+
+Synekdoche	Synekdoche	TAG=N,TAG=LEMMA
+Synekdoche	Synekdochen	TAG=N,TAG=GEN,TAG=PL
+Synekdoche	Synekdochen	TAG=N,TAG=NOM,TAG=PL
+Synekdoche	Synekdoche	TAG=N,TAG=GEN,TAG=SG
+Synekdoche	Synekdoche	TAG=N,TAG=NOM,TAG=SG
+Synekdoche	Synekdoche	TAG=N,TAG=DAT,TAG=SG
+Synekdoche	Synekdochen	TAG=N,TAG=ACC,TAG=PL
+Synekdoche	Synekdoche	TAG=N,TAG=ACC,TAG=SG
+Synekdoche	Synekdochen	TAG=N,TAG=DAT,TAG=PL
+
+aussprechen	aussprechen	TAG=V,TAG=LEMMA
+aussprechen	sprechen aus	TAG=V,TAG=SBJV,TAG=PRS,TAG=3,TAG=PL
+aussprechen	spräche aus	TAG=V,TAG=SBJV,TAG=PST,TAG=1,TAG=SG
+aussprechen	sprechen aus	TAG=V,TAG=IND,TAG=PRS,TAG=1,TAG=PL
+aussprechen	aussprechend	TAG=V.PTCP,TAG=PRS
+aussprechen	spracht aus	TAG=V,TAG=IND,TAG=PST,TAG=2,TAG=PL
+aussprechen	sprich aus	TAG=V,TAG=IMP,TAG=2,TAG=SG
+aussprechen	sprächet aus	TAG=V,TAG=SBJV,TAG=PST,TAG=2,TAG=PL
+aussprechen	spräche aus	TAG=V,TAG=SBJV,TAG=PST,TAG=3,TAG=SG
+aussprechen	aussprechen	TAG=V,TAG=NFIN
+aussprechen	sprechen aus	TAG=V,TAG=IND,TAG=PRS,TAG=3,TAG=PL
+aussprechen	sprecht aus	TAG=V,TAG=IND,TAG=PRS,TAG=2,TAG=PL
+aussprechen	sprechen aus	TAG=V,TAG=SBJV,TAG=PRS,TAG=1,TAG=PL
+aussprechen	sprachen aus	TAG=V,TAG=IND,TAG=PST,TAG=1,TAG=PL
+aussprechen	spreche aus	TAG=V,TAG=SBJV,TAG=PRS,TAG=3,TAG=SG
+aussprechen	sprachen aus	TAG=V,TAG=IND,TAG=PST,TAG=3,TAG=PL
+aussprechen	sprecht aus	TAG=V,TAG=IMP,TAG=2,TAG=PL
+aussprechen	ausgesprochen	TAG=V.PTCP,TAG=PST
+aussprechen	sprächen aus	TAG=V,TAG=SBJV,TAG=PST,TAG=3,TAG=PL
+aussprechen	spreche aus	TAG=V,TAG=IND,TAG=PRS,TAG=1,TAG=SG
+aussprechen	spreche aus	TAG=V,TAG=SBJV,TAG=PRS,TAG=1,TAG=SG
+aussprechen	spricht aus	TAG=V,TAG=IND,TAG=PRS,TAG=3,TAG=SG
+aussprechen	sprechet aus	TAG=V,TAG=SBJV,TAG=PRS,TAG=2,TAG=PL
+aussprechen	sprachst aus	TAG=V,TAG=IND,TAG=PST,TAG=2,TAG=SG
+aussprechen	sprächen aus	TAG=V,TAG=SBJV,TAG=PST,TAG=1,TAG=PL
+aussprechen	sprach aus	TAG=V,TAG=IND,TAG=PST,TAG=1,TAG=SG
+aussprechen	sprächest aus	TAG=V,TAG=SBJV,TAG=PST,TAG=2,TAG=SG
+aussprechen	sprichst aus	TAG=V,TAG=IND,TAG=PRS,TAG=2,TAG=SG
+aussprechen	sprechest aus	TAG=V,TAG=SBJV,TAG=PRS,TAG=2,TAG=SG
+aussprechen	sprach aus	TAG=V,TAG=IND,TAG=PST,TAG=3,TAG=SG
+
+sputen	sputen	TAG=V,TAG=LEMMA
+sputen	sputen	TAG=V,TAG=SBJV,TAG=PRS,TAG=3,TAG=PL
+sputen	sputete	TAG=V,TAG=SBJV,TAG=PST,TAG=1,TAG=SG
+sputen	sputen	TAG=V,TAG=IND,TAG=PRS,TAG=1,TAG=PL
+sputen	sputend	TAG=V.PTCP,TAG=PRS
+sputen	sputetet	TAG=V,TAG=IND,TAG=PST,TAG=2,TAG=PL
+sputen	spute	TAG=V,TAG=IMP,TAG=2,TAG=SG
+sputen	sputetet	TAG=V,TAG=SBJV,TAG=PST,TAG=2,TAG=PL
+sputen	sputete	TAG=V,TAG=SBJV,TAG=PST,TAG=3,TAG=SG
+sputen	sputen	TAG=V,TAG=NFIN
+sputen	sputen	TAG=V,TAG=IND,TAG=PRS,TAG=3,TAG=PL
+sputen	sputet	TAG=V,TAG=IND,TAG=PRS,TAG=2,TAG=PL
+sputen	sputen	TAG=V,TAG=SBJV,TAG=PRS,TAG=1,TAG=PL
+sputen	sputeten	TAG=V,TAG=IND,TAG=PST,TAG=1,TAG=PL
+sputen	spute	TAG=V,TAG=SBJV,TAG=PRS,TAG=3,TAG=SG
+sputen	sputeten	TAG=V,TAG=IND,TAG=PST,TAG=3,TAG=PL
+sputen	sputet	TAG=V,TAG=IMP,TAG=2,TAG=PL
+sputen	gesputet	TAG=V.PTCP,TAG=PST
+sputen	sputeten	TAG=V,TAG=SBJV,TAG=PST,TAG=3,TAG=PL
+sputen	spute	TAG=V,TAG=IND,TAG=PRS,TAG=1,TAG=SG
+sputen	spute	TAG=V,TAG=SBJV,TAG=PRS,TAG=1,TAG=SG
+sputen	sputet	TAG=V,TAG=IND,TAG=PRS,TAG=3,TAG=SG
+sputen	sputet	TAG=V,TAG=SBJV,TAG=PRS,TAG=2,TAG=PL
+sputen	sputetest	TAG=V,TAG=IND,TAG=PST,TAG=2,TAG=SG
+sputen	sputeten	TAG=V,TAG=SBJV,TAG=PST,TAG=1,TAG=PL
+sputen	sputete	TAG=V,TAG=IND,TAG=PST,TAG=1,TAG=SG
+sputen	sputetest	TAG=V,TAG=SBJV,TAG=PST,TAG=2,TAG=SG
+sputen	sputest	TAG=V,TAG=IND,TAG=PRS,TAG=2,TAG=SG
+sputen	sputest	TAG=V,TAG=SBJV,TAG=PRS,TAG=2,TAG=SG
+sputen	sputete	TAG=V,TAG=IND,TAG=PST,TAG=3,TAG=SG
+
+Fixierbad	Fixierbad	TAG=N,TAG=LEMMA
+Fixierbad	Fixierbäder	TAG=N,TAG=GEN,TAG=PL
+Fixierbad	Fixierbäder	TAG=N,TAG=NOM,TAG=PL
+Fixierbad	Fixierbads	TAG=N,TAG=GEN,TAG=SG
+Fixierbad	Fixierbad	TAG=N,TAG=NOM,TAG=SG
+Fixierbad	Fixierbad	TAG=N,TAG=DAT,TAG=SG
+Fixierbad	Fixierbäder	TAG=N,TAG=ACC,TAG=PL
+Fixierbad	Fixierbad	TAG=N,TAG=ACC,TAG=SG
+Fixierbad	Fixierbädern	TAG=N,TAG=DAT,TAG=PL
+
+Schwarte	Schwarte	TAG=N,TAG=LEMMA
+Schwarte	Schwarten	TAG=N,TAG=GEN,TAG=PL
+Schwarte	Schwarten	TAG=N,TAG=NOM,TAG=PL
+Schwarte	Schwarte	TAG=N,TAG=GEN,TAG=SG
+Schwarte	Schwarte	TAG=N,TAG=NOM,TAG=SG
+Schwarte	Schwarte	TAG=N,TAG=DAT,TAG=SG
+Schwarte	Schwarten	TAG=N,TAG=ACC,TAG=PL
+Schwarte	Schwarte	TAG=N,TAG=ACC,TAG=SG
+Schwarte	Schwarten	TAG=N,TAG=DAT,TAG=PL
+
+Schweizer	Schweizer	TAG=N,TAG=LEMMA
+Schweizer	Schweizer	TAG=N,TAG=GEN,TAG=PL
+Schweizer	Schweizer	TAG=N,TAG=NOM,TAG=PL
+Schweizer	Schweizers	TAG=N,TAG=GEN,TAG=SG
+Schweizer	Schweizer	TAG=N,TAG=NOM,TAG=SG
+Schweizer	Schweizer	TAG=N,TAG=DAT,TAG=SG
+Schweizer	Schweizer	TAG=N,TAG=ACC,TAG=PL
+Schweizer	Schweizer	TAG=N,TAG=ACC,TAG=SG
+Schweizer	Schweizern	TAG=N,TAG=DAT,TAG=PL
+
+Dichtungsmaterial	Dichtungsmaterial	TAG=N,TAG=LEMMA
+Dichtungsmaterial	Dichtungsmaterialien	TAG=N,TAG=GEN,TAG=PL
+Dichtungsmaterial	Dichtungsmaterialien	TAG=N,TAG=NOM,TAG=PL
+Dichtungsmaterial	Dichtungsmaterials	TAG=N,TAG=GEN,TAG=SG
+Dichtungsmaterial	Dichtungsmaterial	TAG=N,TAG=NOM,TAG=SG
+Dichtungsmaterial	Dichtungsmaterial	TAG=N,TAG=DAT,TAG=SG
+Dichtungsmaterial	Dichtungsmaterialien	TAG=N,TAG=ACC,TAG=PL
+Dichtungsmaterial	Dichtungsmaterial	TAG=N,TAG=ACC,TAG=SG
+Dichtungsmaterial	Dichtungsmaterialien	TAG=N,TAG=DAT,TAG=PL
+
+Alphabet	Alphabet	TAG=N,TAG=LEMMA
+Alphabet	Alphabete	TAG=N,TAG=GEN,TAG=PL
+Alphabet	Alphabete	TAG=N,TAG=NOM,TAG=PL
+Alphabet	Alphabetes	TAG=N,TAG=GEN,TAG=SG
+Alphabet	Alphabet	TAG=N,TAG=NOM,TAG=SG
+Alphabet	Alphabet	TAG=N,TAG=DAT,TAG=SG
+Alphabet	Alphabete	TAG=N,TAG=ACC,TAG=PL
+Alphabet	Alphabet	TAG=N,TAG=ACC,TAG=SG
+Alphabet	Alphabeten	TAG=N,TAG=DAT,TAG=PL
+
+Seelöwe	Seelöwe	TAG=N,TAG=LEMMA
+Seelöwe	Seelöwen	TAG=N,TAG=GEN,TAG=PL
+Seelöwe	Seelöwen	TAG=N,TAG=NOM,TAG=PL
+Seelöwe	Seelöwen	TAG=N,TAG=GEN,TAG=SG
+Seelöwe	Seelöwe	TAG=N,TAG=NOM,TAG=SG
+Seelöwe	Seelöwen	TAG=N,TAG=DAT,TAG=SG
+Seelöwe	Seelöwen	TAG=N,TAG=ACC,TAG=PL
+Seelöwe	Seelöwen	TAG=N,TAG=ACC,TAG=SG
+Seelöwe	Seelöwen	TAG=N,TAG=DAT,TAG=PL
+
+Urologe	Urologe	TAG=N,TAG=LEMMA
+Urologe	Urologen	TAG=N,TAG=GEN,TAG=PL
+Urologe	Urologen	TAG=N,TAG=NOM,TAG=PL
+Urologe	Urologen	TAG=N,TAG=GEN,TAG=SG
+Urologe	Urologe	TAG=N,TAG=NOM,TAG=SG
+Urologe	Urologen	TAG=N,TAG=DAT,TAG=SG
+Urologe	Urologen	TAG=N,TAG=ACC,TAG=PL
+Urologe	Urologen	TAG=N,TAG=ACC,TAG=SG
+Urologe	Urologen	TAG=N,TAG=DAT,TAG=PL
+
+Haruspex	Haruspex	TAG=N,TAG=LEMMA
+Haruspex	Haruspizes	TAG=N,TAG=GEN,TAG=PL
+Haruspex	Haruspizes	TAG=N,TAG=NOM,TAG=PL
+Haruspex	Haruspexes	TAG=N,TAG=GEN,TAG=SG
+Haruspex	Haruspex	TAG=N,TAG=NOM,TAG=SG
+Haruspex	Haruspex	TAG=N,TAG=DAT,TAG=SG
+Haruspex	Haruspizes	TAG=N,TAG=ACC,TAG=PL
+Haruspex	Haruspex	TAG=N,TAG=ACC,TAG=SG
+Haruspex	Haruspizes	TAG=N,TAG=DAT,TAG=PL
+
+Perchlorat	Perchlorat	TAG=N,TAG=LEMMA
+Perchlorat	Perchlorate	TAG=N,TAG=GEN,TAG=PL
+Perchlorat	Perchlorate	TAG=N,TAG=NOM,TAG=PL
+Perchlorat	Perchlorats	TAG=N,TAG=GEN,TAG=SG
+Perchlorat	Perchlorat	TAG=N,TAG=NOM,TAG=SG
+Perchlorat	Perchlorat	TAG=N,TAG=DAT,TAG=SG
+Perchlorat	Perchlorate	TAG=N,TAG=ACC,TAG=PL
+Perchlorat	Perchlorat	TAG=N,TAG=ACC,TAG=SG
+Perchlorat	Perchloraten	TAG=N,TAG=DAT,TAG=PL
+
+Butike	Butike	TAG=N,TAG=LEMMA
+Butike	Butiken	TAG=N,TAG=GEN,TAG=PL
+Butike	Butiken	TAG=N,TAG=NOM,TAG=PL
+Butike	Butike	TAG=N,TAG=GEN,TAG=SG
+Butike	Butike	TAG=N,TAG=NOM,TAG=SG
+Butike	Butike	TAG=N,TAG=DAT,TAG=SG
+Butike	Butiken	TAG=N,TAG=ACC,TAG=PL
+Butike	Butike	TAG=N,TAG=ACC,TAG=SG
+Butike	Butiken	TAG=N,TAG=DAT,TAG=PL
+
+Gartenmelde	Gartenmelde	TAG=N,TAG=LEMMA
+Gartenmelde	Gartenmelden	TAG=N,TAG=GEN,TAG=PL
+Gartenmelde	Gartenmelden	TAG=N,TAG=NOM,TAG=PL
+Gartenmelde	Gartenmelde	TAG=N,TAG=GEN,TAG=SG
+Gartenmelde	Gartenmelde	TAG=N,TAG=NOM,TAG=SG
+Gartenmelde	Gartenmelde	TAG=N,TAG=DAT,TAG=SG
+Gartenmelde	Gartenmelden	TAG=N,TAG=ACC,TAG=PL
+Gartenmelde	Gartenmelde	TAG=N,TAG=ACC,TAG=SG
+Gartenmelde	Gartenmelden	TAG=N,TAG=DAT,TAG=PL
+
+Heimlichkeit	Heimlichkeit	TAG=N,TAG=LEMMA
+Heimlichkeit	Heimlichkeiten	TAG=N,TAG=GEN,TAG=PL
+Heimlichkeit	Heimlichkeiten	TAG=N,TAG=NOM,TAG=PL
+Heimlichkeit	Heimlichkeit	TAG=N,TAG=GEN,TAG=SG
+Heimlichkeit	Heimlichkeit	TAG=N,TAG=NOM,TAG=SG
+Heimlichkeit	Heimlichkeit	TAG=N,TAG=DAT,TAG=SG
+Heimlichkeit	Heimlichkeiten	TAG=N,TAG=ACC,TAG=PL
+Heimlichkeit	Heimlichkeit	TAG=N,TAG=ACC,TAG=SG
+Heimlichkeit	Heimlichkeiten	TAG=N,TAG=DAT,TAG=PL
+
+dealen	dealen	TAG=V,TAG=LEMMA
+dealen	dealen	TAG=V,TAG=SBJV,TAG=PRS,TAG=3,TAG=PL
+dealen	dealte	TAG=V,TAG=SBJV,TAG=PST,TAG=1,TAG=SG
+dealen	dealen	TAG=V,TAG=IND,TAG=PRS,TAG=1,TAG=PL
+dealen	dealend	TAG=V.PTCP,TAG=PRS
+dealen	dealtet	TAG=V,TAG=IND,TAG=PST,TAG=2,TAG=PL
+dealen	deal	TAG=V,TAG=IMP,TAG=2,TAG=SG
+dealen	dealtet	TAG=V,TAG=SBJV,TAG=PST,TAG=2,TAG=PL
+dealen	dealte	TAG=V,TAG=SBJV,TAG=PST,TAG=3,TAG=SG
+dealen	dealen	TAG=V,TAG=NFIN
+dealen	dealen	TAG=V,TAG=IND,TAG=PRS,TAG=3,TAG=PL
+dealen	dealt	TAG=V,TAG=IND,TAG=PRS,TAG=2,TAG=PL
+dealen	dealen	TAG=V,TAG=SBJV,TAG=PRS,TAG=1,TAG=PL
+dealen	dealten	TAG=V,TAG=IND,TAG=PST,TAG=1,TAG=PL
+dealen	deale	TAG=V,TAG=SBJV,TAG=PRS,TAG=3,TAG=SG
+dealen	dealten	TAG=V,TAG=IND,TAG=PST,TAG=3,TAG=PL
+dealen	dealt	TAG=V,TAG=IMP,TAG=2,TAG=PL
+dealen	gedealt	TAG=V.PTCP,TAG=PST
+dealen	dealten	TAG=V,TAG=SBJV,TAG=PST,TAG=3,TAG=PL
+dealen	deale	TAG=V,TAG=IND,TAG=PRS,TAG=1,TAG=SG
+dealen	deale	TAG=V,TAG=SBJV,TAG=PRS,TAG=1,TAG=SG
+dealen	dealt	TAG=V,TAG=IND,TAG=PRS,TAG=3,TAG=SG
+dealen	dealet	TAG=V,TAG=SBJV,TAG=PRS,TAG=2,TAG=PL
+dealen	dealtest	TAG=V,TAG=IND,TAG=PST,TAG=2,TAG=SG
+dealen	dealten	TAG=V,TAG=SBJV,TAG=PST,TAG=1,TAG=PL
+dealen	dealte	TAG=V,TAG=IND,TAG=PST,TAG=1,TAG=SG
+dealen	dealtest	TAG=V,TAG=SBJV,TAG=PST,TAG=2,TAG=SG
+dealen	dealst	TAG=V,TAG=IND,TAG=PRS,TAG=2,TAG=SG
+dealen	dealest	TAG=V,TAG=SBJV,TAG=PRS,TAG=2,TAG=SG
+dealen	dealte	TAG=V,TAG=IND,TAG=PST,TAG=3,TAG=SG
+
+Ferritin	Ferritin	TAG=N,TAG=LEMMA
+Ferritin	Ferritine	TAG=N,TAG=GEN,TAG=PL
+Ferritin	Ferritine	TAG=N,TAG=NOM,TAG=PL
+Ferritin	Ferritins	TAG=N,TAG=GEN,TAG=SG
+Ferritin	Ferritin	TAG=N,TAG=NOM,TAG=SG
+Ferritin	Ferritin	TAG=N,TAG=DAT,TAG=SG
+Ferritin	Ferritine	TAG=N,TAG=ACC,TAG=PL
+Ferritin	Ferritin	TAG=N,TAG=ACC,TAG=SG
+Ferritin	Ferritinen	TAG=N,TAG=DAT,TAG=PL
+
+Elfer	Elfer	TAG=N,TAG=LEMMA
+Elfer	Elfer	TAG=N,TAG=GEN,TAG=PL
+Elfer	Elfer	TAG=N,TAG=NOM,TAG=PL
+Elfer	Elfers	TAG=N,TAG=GEN,TAG=SG
+Elfer	Elfer	TAG=N,TAG=NOM,TAG=SG
+Elfer	Elfer	TAG=N,TAG=DAT,TAG=SG
+Elfer	Elfer	TAG=N,TAG=ACC,TAG=PL
+Elfer	Elfer	TAG=N,TAG=ACC,TAG=SG
+Elfer	Elfern	TAG=N,TAG=DAT,TAG=PL
+
+Linksruck	Linksruck	TAG=N,TAG=LEMMA
+Linksruck	Linksrucke	TAG=N,TAG=GEN,TAG=PL
+Linksruck	Linksrucke	TAG=N,TAG=NOM,TAG=PL
+Linksruck	Linksruckes	TAG=N,TAG=GEN,TAG=SG
+Linksruck	Linksruck	TAG=N,TAG=NOM,TAG=SG
+Linksruck	Linksruck	TAG=N,TAG=DAT,TAG=SG
+Linksruck	Linksrucke	TAG=N,TAG=ACC,TAG=PL
+Linksruck	Linksruck	TAG=N,TAG=ACC,TAG=SG
+Linksruck	Linksrucken	TAG=N,TAG=DAT,TAG=PL
+
+Organ	Organ	TAG=N,TAG=LEMMA
+Organ	Organe	TAG=N,TAG=GEN,TAG=PL
+Organ	Organe	TAG=N,TAG=NOM,TAG=PL
+Organ	Organes	TAG=N,TAG=GEN,TAG=SG
+Organ	Organ	TAG=N,TAG=NOM,TAG=SG
+Organ	Organ	TAG=N,TAG=DAT,TAG=SG
+Organ	Organe	TAG=N,TAG=ACC,TAG=PL
+Organ	Organ	TAG=N,TAG=ACC,TAG=SG
+Organ	Organen	TAG=N,TAG=DAT,TAG=PL
+
+Etymologie	Etymologie	TAG=N,TAG=LEMMA
+Etymologie	Etymologien	TAG=N,TAG=GEN,TAG=PL
+Etymologie	Etymologien	TAG=N,TAG=NOM,TAG=PL
+Etymologie	Etymologie	TAG=N,TAG=GEN,TAG=SG
+Etymologie	Etymologie	TAG=N,TAG=NOM,TAG=SG
+Etymologie	Etymologie	TAG=N,TAG=DAT,TAG=SG
+Etymologie	Etymologien	TAG=N,TAG=ACC,TAG=PL
+Etymologie	Etymologie	TAG=N,TAG=ACC,TAG=SG
+Etymologie	Etymologien	TAG=N,TAG=DAT,TAG=PL
+
+Schweinehirte	Schweinehirte	TAG=N,TAG=LEMMA
+Schweinehirte	Schweinehirten	TAG=N,TAG=GEN,TAG=PL
+Schweinehirte	Schweinehirten	TAG=N,TAG=NOM,TAG=PL
+Schweinehirte	Schweinehirten	TAG=N,TAG=GEN,TAG=SG
+Schweinehirte	Schweinehirte	TAG=N,TAG=NOM,TAG=SG
+Schweinehirte	Schweinehirten	TAG=N,TAG=DAT,TAG=SG
+Schweinehirte	Schweinehirten	TAG=N,TAG=ACC,TAG=PL
+Schweinehirte	Schweinehirten	TAG=N,TAG=ACC,TAG=SG
+Schweinehirte	Schweinehirten	TAG=N,TAG=DAT,TAG=PL
+
+Schleiereule	Schleiereule	TAG=N,TAG=LEMMA
+Schleiereule	Schleiereulen	TAG=N,TAG=GEN,TAG=PL
+Schleiereule	Schleiereulen	TAG=N,TAG=NOM,TAG=PL
+Schleiereule	Schleiereule	TAG=N,TAG=GEN,TAG=SG
+Schleiereule	Schleiereule	TAG=N,TAG=NOM,TAG=SG
+Schleiereule	Schleiereule	TAG=N,TAG=DAT,TAG=SG
+Schleiereule	Schleiereulen	TAG=N,TAG=ACC,TAG=PL
+Schleiereule	Schleiereule	TAG=N,TAG=ACC,TAG=SG
+Schleiereule	Schleiereulen	TAG=N,TAG=DAT,TAG=PL
+
+erleben	erleben	TAG=V,TAG=LEMMA
+erleben	erleben	TAG=V,TAG=SBJV,TAG=PRS,TAG=3,TAG=PL
+erleben	erlebte	TAG=V,TAG=SBJV,TAG=PST,TAG=1,TAG=SG
+erleben	erleben	TAG=V,TAG=IND,TAG=PRS,TAG=1,TAG=PL
+erleben	erlebend	TAG=V.PTCP,TAG=PRS
+erleben	erlebtet	TAG=V,TAG=IND,TAG=PST,TAG=2,TAG=PL
+erleben	erleb	TAG=V,TAG=IMP,TAG=2,TAG=SG
+erleben	erlebtet	TAG=V,TAG=SBJV,TAG=PST,TAG=2,TAG=PL
+erleben	erlebte	TAG=V,TAG=SBJV,TAG=PST,TAG=3,TAG=SG
+erleben	erleben	TAG=V,TAG=NFIN
+erleben	erleben	TAG=V,TAG=IND,TAG=PRS,TAG=3,TAG=PL
+erleben	erlebt	TAG=V,TAG=IND,TAG=PRS,TAG=2,TAG=PL
+erleben	erleben	TAG=V,TAG=SBJV,TAG=PRS,TAG=1,TAG=PL
+erleben	erlebten	TAG=V,TAG=IND,TAG=PST,TAG=1,TAG=PL
+erleben	erlebe	TAG=V,TAG=SBJV,TAG=PRS,TAG=3,TAG=SG
+erleben	erlebten	TAG=V,TAG=IND,TAG=PST,TAG=3,TAG=PL
+erleben	erlebt	TAG=V,TAG=IMP,TAG=2,TAG=PL
+erleben	erlebt	TAG=V.PTCP,TAG=PST
+erleben	erlebten	TAG=V,TAG=SBJV,TAG=PST,TAG=3,TAG=PL
+erleben	erlebe	TAG=V,TAG=IND,TAG=PRS,TAG=1,TAG=SG
+erleben	erlebe	TAG=V,TAG=SBJV,TAG=PRS,TAG=1,TAG=SG
+erleben	erlebt	TAG=V,TAG=IND,TAG=PRS,TAG=3,TAG=SG
+erleben	erlebet	TAG=V,TAG=SBJV,TAG=PRS,TAG=2,TAG=PL
+erleben	erlebtest	TAG=V,TAG=IND,TAG=PST,TAG=2,TAG=SG
+erleben	erlebten	TAG=V,TAG=SBJV,TAG=PST,TAG=1,TAG=PL
+erleben	erlebte	TAG=V,TAG=IND,TAG=PST,TAG=1,TAG=SG
+erleben	erlebtest	TAG=V,TAG=SBJV,TAG=PST,TAG=2,TAG=SG
+erleben	erlebst	TAG=V,TAG=IND,TAG=PRS,TAG=2,TAG=SG
+erleben	erlebest	TAG=V,TAG=SBJV,TAG=PRS,TAG=2,TAG=SG
+erleben	erlebte	TAG=V,TAG=IND,TAG=PST,TAG=3,TAG=SG
+
+zusammenbrechen	zusammenbrechen	TAG=V,TAG=LEMMA
+zusammenbrechen	brechen zusammen	TAG=V,TAG=SBJV,TAG=PRS,TAG=3,TAG=PL
+zusammenbrechen	bräche zusammen	TAG=V,TAG=SBJV,TAG=PST,TAG=1,TAG=SG
+zusammenbrechen	brechen zusammen	TAG=V,TAG=IND,TAG=PRS,TAG=1,TAG=PL
+zusammenbrechen	zusammenbrechend	TAG=V.PTCP,TAG=PRS
+zusammenbrechen	bracht zusammen	TAG=V,TAG=IND,TAG=PST,TAG=2,TAG=PL
+zusammenbrechen	brich zusammen	TAG=V,TAG=IMP,TAG=2,TAG=SG
+zusammenbrechen	brächet zusammen	TAG=V,TAG=SBJV,TAG=PST,TAG=2,TAG=PL
+zusammenbrechen	bräche zusammen	TAG=V,TAG=SBJV,TAG=PST,TAG=3,TAG=SG
+zusammenbrechen	zusammenbrechen	TAG=V,TAG=NFIN
+zusammenbrechen	brechen zusammen	TAG=V,TAG=IND,TAG=PRS,TAG=3,TAG=PL
+zusammenbrechen	brecht zusammen	TAG=V,TAG=IND,TAG=PRS,TAG=2,TAG=PL
+zusammenbrechen	brechen zusammen	TAG=V,TAG=SBJV,TAG=PRS,TAG=1,TAG=PL
+zusammenbrechen	brachen zusammen	TAG=V,TAG=IND,TAG=PST,TAG=1,TAG=PL
+zusammenbrechen	breche zusammen	TAG=V,TAG=SBJV,TAG=PRS,TAG=3,TAG=SG
+zusammenbrechen	brachen zusammen	TAG=V,TAG=IND,TAG=PST,TAG=3,TAG=PL
+zusammenbrechen	brecht zusammen	TAG=V,TAG=IMP,TAG=2,TAG=PL
+zusammenbrechen	zusammengebrochen	TAG=V.PTCP,TAG=PST
+zusammenbrechen	brächen zusammen	TAG=V,TAG=SBJV,TAG=PST,TAG=3,TAG=PL
+zusammenbrechen	breche zusammen	TAG=V,TAG=IND,TAG=PRS,TAG=1,TAG=SG
+zusammenbrechen	breche zusammen	TAG=V,TAG=SBJV,TAG=PRS,TAG=1,TAG=SG
+zusammenbrechen	bricht zusammen	TAG=V,TAG=IND,TAG=PRS,TAG=3,TAG=SG
+zusammenbrechen	brechet zusammen	TAG=V,TAG=SBJV,TAG=PRS,TAG=2,TAG=PL
+zusammenbrechen	brachst zusammen	TAG=V,TAG=IND,TAG=PST,TAG=2,TAG=SG
+zusammenbrechen	brächen zusammen	TAG=V,TAG=SBJV,TAG=PST,TAG=1,TAG=PL
+zusammenbrechen	brach zusammen	TAG=V,TAG=IND,TAG=PST,TAG=1,TAG=SG
+zusammenbrechen	brächest zusammen	TAG=V,TAG=SBJV,TAG=PST,TAG=2,TAG=SG
+zusammenbrechen	brichst zusammen	TAG=V,TAG=IND,TAG=PRS,TAG=2,TAG=SG
+zusammenbrechen	brechest zusammen	TAG=V,TAG=SBJV,TAG=PRS,TAG=2,TAG=SG
+zusammenbrechen	brach zusammen	TAG=V,TAG=IND,TAG=PST,TAG=3,TAG=SG
+
+Fuge	Fuge	TAG=N,TAG=LEMMA
+Fuge	Fugen	TAG=N,TAG=GEN,TAG=PL
+Fuge	Fugen	TAG=N,TAG=NOM,TAG=PL
+Fuge	Fuge	TAG=N,TAG=GEN,TAG=SG
+Fuge	Fuge	TAG=N,TAG=NOM,TAG=SG
+Fuge	Fuge	TAG=N,TAG=DAT,TAG=SG
+Fuge	Fugen	TAG=N,TAG=ACC,TAG=PL
+Fuge	Fuge	TAG=N,TAG=ACC,TAG=SG
+Fuge	Fugen	TAG=N,TAG=DAT,TAG=PL
+
+Gesangslehrer	Gesangslehrer	TAG=N,TAG=LEMMA
+Gesangslehrer	Gesangslehrer	TAG=N,TAG=GEN,TAG=PL
+Gesangslehrer	Gesangslehrer	TAG=N,TAG=NOM,TAG=PL
+Gesangslehrer	Gesangslehrers	TAG=N,TAG=GEN,TAG=SG
+Gesangslehrer	Gesangslehrer	TAG=N,TAG=NOM,TAG=SG
+Gesangslehrer	Gesangslehrer	TAG=N,TAG=DAT,TAG=SG
+Gesangslehrer	Gesangslehrer	TAG=N,TAG=ACC,TAG=PL
+Gesangslehrer	Gesangslehrer	TAG=N,TAG=ACC,TAG=SG
+Gesangslehrer	Gesangslehrern	TAG=N,TAG=DAT,TAG=PL
+
+Gasballon	Gasballon	TAG=N,TAG=LEMMA
+Gasballon	Gasballons	TAG=N,TAG=GEN,TAG=PL
+Gasballon	Gasballons	TAG=N,TAG=NOM,TAG=PL
+Gasballon	Gasballones	TAG=N,TAG=GEN,TAG=SG
+Gasballon	Gasballon	TAG=N,TAG=NOM,TAG=SG
+Gasballon	Gasballon	TAG=N,TAG=DAT,TAG=SG
+Gasballon	Gasballons	TAG=N,TAG=ACC,TAG=PL
+Gasballon	Gasballon	TAG=N,TAG=ACC,TAG=SG
+Gasballon	Gasballons	TAG=N,TAG=DAT,TAG=PL
+
+Liberianer	Liberianer	TAG=N,TAG=LEMMA
+Liberianer	Liberianer	TAG=N,TAG=GEN,TAG=PL
+Liberianer	Liberianer	TAG=N,TAG=NOM,TAG=PL
+Liberianer	Liberianers	TAG=N,TAG=GEN,TAG=SG
+Liberianer	Liberianer	TAG=N,TAG=NOM,TAG=SG
+Liberianer	Liberianer	TAG=N,TAG=DAT,TAG=SG
+Liberianer	Liberianer	TAG=N,TAG=ACC,TAG=PL
+Liberianer	Liberianer	TAG=N,TAG=ACC,TAG=SG
+Liberianer	Liberianern	TAG=N,TAG=DAT,TAG=PL
+
+glorifizieren	glorifizieren	TAG=V,TAG=LEMMA
+glorifizieren	glorifizieren	TAG=V,TAG=SBJV,TAG=PRS,TAG=3,TAG=PL
+glorifizieren	glorifizierte	TAG=V,TAG=SBJV,TAG=PST,TAG=1,TAG=SG
+glorifizieren	glorifizieren	TAG=V,TAG=IND,TAG=PRS,TAG=1,TAG=PL
+glorifizieren	glorifizierend	TAG=V.PTCP,TAG=PRS
+glorifizieren	glorifiziertet	TAG=V,TAG=IND,TAG=PST,TAG=2,TAG=PL
+glorifizieren	glorifizier	TAG=V,TAG=IMP,TAG=2,TAG=SG
+glorifizieren	glorifiziertet	TAG=V,TAG=SBJV,TAG=PST,TAG=2,TAG=PL
+glorifizieren	glorifizierte	TAG=V,TAG=SBJV,TAG=PST,TAG=3,TAG=SG
+glorifizieren	glorifizieren	TAG=V,TAG=NFIN
+glorifizieren	glorifizieren	TAG=V,TAG=IND,TAG=PRS,TAG=3,TAG=PL
+glorifizieren	glorifiziert	TAG=V,TAG=IND,TAG=PRS,TAG=2,TAG=PL
+glorifizieren	glorifizieren	TAG=V,TAG=SBJV,TAG=PRS,TAG=1,TAG=PL
+glorifizieren	glorifizierten	TAG=V,TAG=IND,TAG=PST,TAG=1,TAG=PL
+glorifizieren	glorifiziere	TAG=V,TAG=SBJV,TAG=PRS,TAG=3,TAG=SG
+glorifizieren	glorifizierten	TAG=V,TAG=IND,TAG=PST,TAG=3,TAG=PL
+glorifizieren	glorifiziert	TAG=V,TAG=IMP,TAG=2,TAG=PL
+glorifizieren	glorifiziert	TAG=V.PTCP,TAG=PST
+glorifizieren	glorifizierten	TAG=V,TAG=SBJV,TAG=PST,TAG=3,TAG=PL
+glorifizieren	glorifiziere	TAG=V,TAG=IND,TAG=PRS,TAG=1,TAG=SG
+glorifizieren	glorifiziere	TAG=V,TAG=SBJV,TAG=PRS,TAG=1,TAG=SG
+glorifizieren	glorifiziert	TAG=V,TAG=IND,TAG=PRS,TAG=3,TAG=SG
+glorifizieren	glorifizieret	TAG=V,TAG=SBJV,TAG=PRS,TAG=2,TAG=PL
+glorifizieren	glorifiziertest	TAG=V,TAG=IND,TAG=PST,TAG=2,TAG=SG
+glorifizieren	glorifizierten	TAG=V,TAG=SBJV,TAG=PST,TAG=1,TAG=PL
+glorifizieren	glorifizierte	TAG=V,TAG=IND,TAG=PST,TAG=1,TAG=SG
+glorifizieren	glorifiziertest	TAG=V,TAG=SBJV,TAG=PST,TAG=2,TAG=SG
+glorifizieren	glorifizierst	TAG=V,TAG=IND,TAG=PRS,TAG=2,TAG=SG
+glorifizieren	glorifizierest	TAG=V,TAG=SBJV,TAG=PRS,TAG=2,TAG=SG
+glorifizieren	glorifizierte	TAG=V,TAG=IND,TAG=PST,TAG=3,TAG=SG
+
+Einbahnstraße	Einbahnstraße	TAG=N,TAG=LEMMA
+Einbahnstraße	Einbahnstraßen	TAG=N,TAG=GEN,TAG=PL
+Einbahnstraße	Einbahnstraßen	TAG=N,TAG=NOM,TAG=PL
+Einbahnstraße	Einbahnstraße	TAG=N,TAG=GEN,TAG=SG
+Einbahnstraße	Einbahnstraße	TAG=N,TAG=NOM,TAG=SG
+Einbahnstraße	Einbahnstraße	TAG=N,TAG=DAT,TAG=SG
+Einbahnstraße	Einbahnstraßen	TAG=N,TAG=ACC,TAG=PL
+Einbahnstraße	Einbahnstraße	TAG=N,TAG=ACC,TAG=SG
+Einbahnstraße	Einbahnstraßen	TAG=N,TAG=DAT,TAG=PL
+
+Grind	Grind	TAG=N,TAG=LEMMA
+Grind	Grinde	TAG=N,TAG=GEN,TAG=PL
+Grind	Grinde	TAG=N,TAG=NOM,TAG=PL
+Grind	Grindes	TAG=N,TAG=GEN,TAG=SG
+Grind	Grind	TAG=N,TAG=NOM,TAG=SG
+Grind	Grind	TAG=N,TAG=DAT,TAG=SG
+Grind	Grinde	TAG=N,TAG=ACC,TAG=PL
+Grind	Grind	TAG=N,TAG=ACC,TAG=SG
+Grind	Grinden	TAG=N,TAG=DAT,TAG=PL
+
+gackern	gackern	TAG=V,TAG=LEMMA
+gackern	gackern	TAG=V,TAG=SBJV,TAG=PRS,TAG=3,TAG=PL
+gackern	gackerte	TAG=V,TAG=SBJV,TAG=PST,TAG=1,TAG=SG
+gackern	gackern	TAG=V,TAG=IND,TAG=PRS,TAG=1,TAG=PL
+gackern	gackernd	TAG=V.PTCP,TAG=PRS
+gackern	gackertet	TAG=V,TAG=IND,TAG=PST,TAG=2,TAG=PL
+gackern	gackre	TAG=V,TAG=IMP,TAG=2,TAG=SG
+gackern	gackertet	TAG=V,TAG=SBJV,TAG=PST,TAG=2,TAG=PL
+gackern	gackerte	TAG=V,TAG=SBJV,TAG=PST,TAG=3,TAG=SG
+gackern	gackern	TAG=V,TAG=NFIN
+gackern	gackern	TAG=V,TAG=IND,TAG=PRS,TAG=3,TAG=PL
+gackern	gackert	TAG=V,TAG=IND,TAG=PRS,TAG=2,TAG=PL
+gackern	gackern	TAG=V,TAG=SBJV,TAG=PRS,TAG=1,TAG=PL
+gackern	gackerten	TAG=V,TAG=IND,TAG=PST,TAG=1,TAG=PL
+gackern	gackere	TAG=V,TAG=SBJV,TAG=PRS,TAG=3,TAG=SG
+gackern	gackerten	TAG=V,TAG=IND,TAG=PST,TAG=3,TAG=PL
+gackern	gackert	TAG=V,TAG=IMP,TAG=2,TAG=PL
+gackern	gegackert	TAG=V.PTCP,TAG=PST
+gackern	gackerten	TAG=V,TAG=SBJV,TAG=PST,TAG=3,TAG=PL
+gackern	gackre	TAG=V,TAG=IND,TAG=PRS,TAG=1,TAG=SG
+gackern	gackere	TAG=V,TAG=SBJV,TAG=PRS,TAG=1,TAG=SG
+gackern	gackert	TAG=V,TAG=IND,TAG=PRS,TAG=3,TAG=SG
+gackern	gackeret	TAG=V,TAG=SBJV,TAG=PRS,TAG=2,TAG=PL
+gackern	gackertest	TAG=V,TAG=IND,TAG=PST,TAG=2,TAG=SG
+gackern	gackerten	TAG=V,TAG=SBJV,TAG=PST,TAG=1,TAG=PL
+gackern	gackerte	TAG=V,TAG=IND,TAG=PST,TAG=1,TAG=SG
+gackern	gackertest	TAG=V,TAG=SBJV,TAG=PST,TAG=2,TAG=SG
+gackern	gackerst	TAG=V,TAG=IND,TAG=PRS,TAG=2,TAG=SG
+gackern	gackerest	TAG=V,TAG=SBJV,TAG=PRS,TAG=2,TAG=SG
+gackern	gackerte	TAG=V,TAG=IND,TAG=PST,TAG=3,TAG=SG
+
+Schädlingsbekämpfungsmittel	Schädlingsbekämpfungsmittel	TAG=N,TAG=LEMMA
+Schädlingsbekämpfungsmittel	Schädlingsbekämpfungsmittel	TAG=N,TAG=GEN,TAG=PL
+Schädlingsbekämpfungsmittel	Schädlingsbekämpfungsmittel	TAG=N,TAG=NOM,TAG=PL
+Schädlingsbekämpfungsmittel	Schädlingsbekämpfungsmittels	TAG=N,TAG=GEN,TAG=SG
+Schädlingsbekämpfungsmittel	Schädlingsbekämpfungsmittel	TAG=N,TAG=NOM,TAG=SG
+Schädlingsbekämpfungsmittel	Schädlingsbekämpfungsmittel	TAG=N,TAG=DAT,TAG=SG
+Schädlingsbekämpfungsmittel	Schädlingsbekämpfungsmittel	TAG=N,TAG=ACC,TAG=PL
+Schädlingsbekämpfungsmittel	Schädlingsbekämpfungsmittel	TAG=N,TAG=ACC,TAG=SG
+Schädlingsbekämpfungsmittel	Schädlingsbekämpfungsmitteln	TAG=N,TAG=DAT,TAG=PL
+
+Knappe	Knappe	TAG=N,TAG=LEMMA
+Knappe	Knappen	TAG=N,TAG=GEN,TAG=PL
+Knappe	Knappen	TAG=N,TAG=NOM,TAG=PL
+Knappe	Knappen	TAG=N,TAG=GEN,TAG=SG
+Knappe	Knappe	TAG=N,TAG=NOM,TAG=SG
+Knappe	Knappen	TAG=N,TAG=DAT,TAG=SG
+Knappe	Knappen	TAG=N,TAG=ACC,TAG=PL
+Knappe	Knappen	TAG=N,TAG=ACC,TAG=SG
+Knappe	Knappen	TAG=N,TAG=DAT,TAG=PL
+
+fingieren	fingieren	TAG=V,TAG=LEMMA
+fingieren	fingieren	TAG=V,TAG=SBJV,TAG=PRS,TAG=3,TAG=PL
+fingieren	fingierte	TAG=V,TAG=SBJV,TAG=PST,TAG=1,TAG=SG
+fingieren	fingieren	TAG=V,TAG=IND,TAG=PRS,TAG=1,TAG=PL
+fingieren	fingierend	TAG=V.PTCP,TAG=PRS
+fingieren	fingiertet	TAG=V,TAG=IND,TAG=PST,TAG=2,TAG=PL
+fingieren	fingier	TAG=V,TAG=IMP,TAG=2,TAG=SG
+fingieren	fingiertet	TAG=V,TAG=SBJV,TAG=PST,TAG=2,TAG=PL
+fingieren	fingierte	TAG=V,TAG=SBJV,TAG=PST,TAG=3,TAG=SG
+fingieren	fingieren	TAG=V,TAG=NFIN
+fingieren	fingieren	TAG=V,TAG=IND,TAG=PRS,TAG=3,TAG=PL
+fingieren	fingiert	TAG=V,TAG=IND,TAG=PRS,TAG=2,TAG=PL
+fingieren	fingieren	TAG=V,TAG=SBJV,TAG=PRS,TAG=1,TAG=PL
+fingieren	fingierten	TAG=V,TAG=IND,TAG=PST,TAG=1,TAG=PL
+fingieren	fingiere	TAG=V,TAG=SBJV,TAG=PRS,TAG=3,TAG=SG
+fingieren	fingierten	TAG=V,TAG=IND,TAG=PST,TAG=3,TAG=PL
+fingieren	fingiert	TAG=V,TAG=IMP,TAG=2,TAG=PL
+fingieren	fingiert	TAG=V.PTCP,TAG=PST
+fingieren	fingierten	TAG=V,TAG=SBJV,TAG=PST,TAG=3,TAG=PL
+fingieren	fingiere	TAG=V,TAG=IND,TAG=PRS,TAG=1,TAG=SG
+fingieren	fingiere	TAG=V,TAG=SBJV,TAG=PRS,TAG=1,TAG=SG
+fingieren	fingiert	TAG=V,TAG=IND,TAG=PRS,TAG=3,TAG=SG
+fingieren	fingieret	TAG=V,TAG=SBJV,TAG=PRS,TAG=2,TAG=PL
+fingieren	fingiertest	TAG=V,TAG=IND,TAG=PST,TAG=2,TAG=SG
+fingieren	fingierten	TAG=V,TAG=SBJV,TAG=PST,TAG=1,TAG=PL
+fingieren	fingierte	TAG=V,TAG=IND,TAG=PST,TAG=1,TAG=SG
+fingieren	fingiertest	TAG=V,TAG=SBJV,TAG=PST,TAG=2,TAG=SG
+fingieren	fingierst	TAG=V,TAG=IND,TAG=PRS,TAG=2,TAG=SG
+fingieren	fingierest	TAG=V,TAG=SBJV,TAG=PRS,TAG=2,TAG=SG
+fingieren	fingierte	TAG=V,TAG=IND,TAG=PST,TAG=3,TAG=SG
+
+Antimonid	Antimonid	TAG=N,TAG=LEMMA
+Antimonid	Antimonide	TAG=N,TAG=GEN,TAG=PL
+Antimonid	Antimonide	TAG=N,TAG=NOM,TAG=PL
+Antimonid	Antimonids	TAG=N,TAG=GEN,TAG=SG
+Antimonid	Antimonid	TAG=N,TAG=NOM,TAG=SG
+Antimonid	Antimonid	TAG=N,TAG=DAT,TAG=SG
+Antimonid	Antimonide	TAG=N,TAG=ACC,TAG=PL
+Antimonid	Antimonid	TAG=N,TAG=ACC,TAG=SG
+Antimonid	Antimoniden	TAG=N,TAG=DAT,TAG=PL
+
+Palindrom	Palindrom	TAG=N,TAG=LEMMA
+Palindrom	Palindrome	TAG=N,TAG=GEN,TAG=PL
+Palindrom	Palindrome	TAG=N,TAG=NOM,TAG=PL
+Palindrom	Palindromes	TAG=N,TAG=GEN,TAG=SG
+Palindrom	Palindrom	TAG=N,TAG=NOM,TAG=SG
+Palindrom	Palindrom	TAG=N,TAG=DAT,TAG=SG
+Palindrom	Palindrome	TAG=N,TAG=ACC,TAG=PL
+Palindrom	Palindrom	TAG=N,TAG=ACC,TAG=SG
+Palindrom	Palindromen	TAG=N,TAG=DAT,TAG=PL
+
+Leierschwanz	Leierschwanz	TAG=N,TAG=LEMMA
+Leierschwanz	Leierschwänze	TAG=N,TAG=GEN,TAG=PL
+Leierschwanz	Leierschwänze	TAG=N,TAG=NOM,TAG=PL
+Leierschwanz	Leierschwanzes	TAG=N,TAG=GEN,TAG=SG
+Leierschwanz	Leierschwanz	TAG=N,TAG=NOM,TAG=SG
+Leierschwanz	Leierschwanz	TAG=N,TAG=DAT,TAG=SG
+Leierschwanz	Leierschwänze	TAG=N,TAG=ACC,TAG=PL
+Leierschwanz	Leierschwanz	TAG=N,TAG=ACC,TAG=SG
+Leierschwanz	Leierschwänzen	TAG=N,TAG=DAT,TAG=PL
+
+sabotieren	sabotieren	TAG=V,TAG=LEMMA
+sabotieren	sabotieren	TAG=V,TAG=SBJV,TAG=PRS,TAG=3,TAG=PL
+sabotieren	sabotierte	TAG=V,TAG=SBJV,TAG=PST,TAG=1,TAG=SG
+sabotieren	sabotieren	TAG=V,TAG=IND,TAG=PRS,TAG=1,TAG=PL
+sabotieren	sabotierend	TAG=V.PTCP,TAG=PRS
+sabotieren	sabotiertet	TAG=V,TAG=IND,TAG=PST,TAG=2,TAG=PL
+sabotieren	sabotier	TAG=V,TAG=IMP,TAG=2,TAG=SG
+sabotieren	sabotiertet	TAG=V,TAG=SBJV,TAG=PST,TAG=2,TAG=PL
+sabotieren	sabotierte	TAG=V,TAG=SBJV,TAG=PST,TAG=3,TAG=SG
+sabotieren	sabotieren	TAG=V,TAG=NFIN
+sabotieren	sabotieren	TAG=V,TAG=IND,TAG=PRS,TAG=3,TAG=PL
+sabotieren	sabotiert	TAG=V,TAG=IND,TAG=PRS,TAG=2,TAG=PL
+sabotieren	sabotieren	TAG=V,TAG=SBJV,TAG=PRS,TAG=1,TAG=PL
+sabotieren	sabotierten	TAG=V,TAG=IND,TAG=PST,TAG=1,TAG=PL
+sabotieren	sabotiere	TAG=V,TAG=SBJV,TAG=PRS,TAG=3,TAG=SG
+sabotieren	sabotierten	TAG=V,TAG=IND,TAG=PST,TAG=3,TAG=PL
+sabotieren	sabotiert	TAG=V,TAG=IMP,TAG=2,TAG=PL
+sabotieren	sabotiert	TAG=V.PTCP,TAG=PST
+sabotieren	sabotierten	TAG=V,TAG=SBJV,TAG=PST,TAG=3,TAG=PL
+sabotieren	sabotiere	TAG=V,TAG=IND,TAG=PRS,TAG=1,TAG=SG
+sabotieren	sabotiere	TAG=V,TAG=SBJV,TAG=PRS,TAG=1,TAG=SG
+sabotieren	sabotiert	TAG=V,TAG=IND,TAG=PRS,TAG=3,TAG=SG
+sabotieren	sabotieret	TAG=V,TAG=SBJV,TAG=PRS,TAG=2,TAG=PL
+sabotieren	sabotiertest	TAG=V,TAG=IND,TAG=PST,TAG=2,TAG=SG
+sabotieren	sabotierten	TAG=V,TAG=SBJV,TAG=PST,TAG=1,TAG=PL
+sabotieren	sabotierte	TAG=V,TAG=IND,TAG=PST,TAG=1,TAG=SG
+sabotieren	sabotiertest	TAG=V,TAG=SBJV,TAG=PST,TAG=2,TAG=SG
+sabotieren	sabotierst	TAG=V,TAG=IND,TAG=PRS,TAG=2,TAG=SG
+sabotieren	sabotierest	TAG=V,TAG=SBJV,TAG=PRS,TAG=2,TAG=SG
+sabotieren	sabotierte	TAG=V,TAG=IND,TAG=PST,TAG=3,TAG=SG
+
+Sultanat	Sultanat	TAG=N,TAG=LEMMA
+Sultanat	Sultanate	TAG=N,TAG=GEN,TAG=PL
+Sultanat	Sultanate	TAG=N,TAG=NOM,TAG=PL
+Sultanat	Sultanates	TAG=N,TAG=GEN,TAG=SG
+Sultanat	Sultanat	TAG=N,TAG=NOM,TAG=SG
+Sultanat	Sultanat	TAG=N,TAG=DAT,TAG=SG
+Sultanat	Sultanate	TAG=N,TAG=ACC,TAG=PL
+Sultanat	Sultanat	TAG=N,TAG=ACC,TAG=SG
+Sultanat	Sultanaten	TAG=N,TAG=DAT,TAG=PL
+
+Rubidiumsalz	Rubidiumsalz	TAG=N,TAG=LEMMA
+Rubidiumsalz	Rubidiumsalze	TAG=N,TAG=GEN,TAG=PL
+Rubidiumsalz	Rubidiumsalze	TAG=N,TAG=NOM,TAG=PL
+Rubidiumsalz	Rubidiumsalzes	TAG=N,TAG=GEN,TAG=SG
+Rubidiumsalz	Rubidiumsalz	TAG=N,TAG=NOM,TAG=SG
+Rubidiumsalz	Rubidiumsalz	TAG=N,TAG=DAT,TAG=SG
+Rubidiumsalz	Rubidiumsalze	TAG=N,TAG=ACC,TAG=PL
+Rubidiumsalz	Rubidiumsalz	TAG=N,TAG=ACC,TAG=SG
+Rubidiumsalz	Rubidiumsalzen	TAG=N,TAG=DAT,TAG=PL
+
+Tiefland	Tiefland	TAG=N,TAG=LEMMA
+Tiefland	Tiefländer	TAG=N,TAG=GEN,TAG=PL
+Tiefland	Tiefländer	TAG=N,TAG=NOM,TAG=PL
+Tiefland	Tieflandes	TAG=N,TAG=GEN,TAG=SG
+Tiefland	Tiefland	TAG=N,TAG=NOM,TAG=SG
+Tiefland	Tiefland	TAG=N,TAG=DAT,TAG=SG
+Tiefland	Tiefländer	TAG=N,TAG=ACC,TAG=PL
+Tiefland	Tiefland	TAG=N,TAG=ACC,TAG=SG
+Tiefland	Tiefländern	TAG=N,TAG=DAT,TAG=PL
+
+Zeitumstellung	Zeitumstellung	TAG=N,TAG=LEMMA
+Zeitumstellung	Zeitumstellungen	TAG=N,TAG=GEN,TAG=PL
+Zeitumstellung	Zeitumstellungen	TAG=N,TAG=NOM,TAG=PL
+Zeitumstellung	Zeitumstellung	TAG=N,TAG=GEN,TAG=SG
+Zeitumstellung	Zeitumstellung	TAG=N,TAG=NOM,TAG=SG
+Zeitumstellung	Zeitumstellung	TAG=N,TAG=DAT,TAG=SG
+Zeitumstellung	Zeitumstellungen	TAG=N,TAG=ACC,TAG=PL
+Zeitumstellung	Zeitumstellung	TAG=N,TAG=ACC,TAG=SG
+Zeitumstellung	Zeitumstellungen	TAG=N,TAG=DAT,TAG=PL
+
+besohlen	besohlen	TAG=V,TAG=LEMMA
+besohlen	besohlen	TAG=V,TAG=SBJV,TAG=PRS,TAG=3,TAG=PL
+besohlen	besohlte	TAG=V,TAG=SBJV,TAG=PST,TAG=1,TAG=SG
+besohlen	besohlen	TAG=V,TAG=IND,TAG=PRS,TAG=1,TAG=PL
+besohlen	besohlend	TAG=V.PTCP,TAG=PRS
+besohlen	besohltet	TAG=V,TAG=IND,TAG=PST,TAG=2,TAG=PL
+besohlen	besohl	TAG=V,TAG=IMP,TAG=2,TAG=SG
+besohlen	besohltet	TAG=V,TAG=SBJV,TAG=PST,TAG=2,TAG=PL
+besohlen	besohlte	TAG=V,TAG=SBJV,TAG=PST,TAG=3,TAG=SG
+besohlen	besohlen	TAG=V,TAG=NFIN
+besohlen	besohlen	TAG=V,TAG=IND,TAG=PRS,TAG=3,TAG=PL
+besohlen	besohlt	TAG=V,TAG=IND,TAG=PRS,TAG=2,TAG=PL
+besohlen	besohlen	TAG=V,TAG=SBJV,TAG=PRS,TAG=1,TAG=PL
+besohlen	besohlten	TAG=V,TAG=IND,TAG=PST,TAG=1,TAG=PL
+besohlen	besohle	TAG=V,TAG=SBJV,TAG=PRS,TAG=3,TAG=SG
+besohlen	besohlten	TAG=V,TAG=IND,TAG=PST,TAG=3,TAG=PL
+besohlen	besohlt	TAG=V,TAG=IMP,TAG=2,TAG=PL
+besohlen	besohlt	TAG=V.PTCP,TAG=PST
+besohlen	besohlten	TAG=V,TAG=SBJV,TAG=PST,TAG=3,TAG=PL
+besohlen	besohle	TAG=V,TAG=IND,TAG=PRS,TAG=1,TAG=SG
+besohlen	besohle	TAG=V,TAG=SBJV,TAG=PRS,TAG=1,TAG=SG
+besohlen	besohlt	TAG=V,TAG=IND,TAG=PRS,TAG=3,TAG=SG
+besohlen	besohlet	TAG=V,TAG=SBJV,TAG=PRS,TAG=2,TAG=PL
+besohlen	besohltest	TAG=V,TAG=IND,TAG=PST,TAG=2,TAG=SG
+besohlen	besohlten	TAG=V,TAG=SBJV,TAG=PST,TAG=1,TAG=PL
+besohlen	besohlte	TAG=V,TAG=IND,TAG=PST,TAG=1,TAG=SG
+besohlen	besohltest	TAG=V,TAG=SBJV,TAG=PST,TAG=2,TAG=SG
+besohlen	besohlst	TAG=V,TAG=IND,TAG=PRS,TAG=2,TAG=SG
+besohlen	besohlest	TAG=V,TAG=SBJV,TAG=PRS,TAG=2,TAG=SG
+besohlen	besohlte	TAG=V,TAG=IND,TAG=PST,TAG=3,TAG=SG
+
+Handgemenge	Handgemenge	TAG=N,TAG=LEMMA
+Handgemenge	Handgemenge	TAG=N,TAG=GEN,TAG=PL
+Handgemenge	Handgemenge	TAG=N,TAG=NOM,TAG=PL
+Handgemenge	Handgemenges	TAG=N,TAG=GEN,TAG=SG
+Handgemenge	Handgemenge	TAG=N,TAG=NOM,TAG=SG
+Handgemenge	Handgemenge	TAG=N,TAG=DAT,TAG=SG
+Handgemenge	Handgemenge	TAG=N,TAG=ACC,TAG=PL
+Handgemenge	Handgemenge	TAG=N,TAG=ACC,TAG=SG
+Handgemenge	Handgemengen	TAG=N,TAG=DAT,TAG=PL
+
+erhöhen	erhöhen	TAG=V,TAG=LEMMA
+erhöhen	erhöhen	TAG=V,TAG=SBJV,TAG=PRS,TAG=3,TAG=PL
+erhöhen	erhöhte	TAG=V,TAG=SBJV,TAG=PST,TAG=1,TAG=SG
+erhöhen	erhöhen	TAG=V,TAG=IND,TAG=PRS,TAG=1,TAG=PL
+erhöhen	erhöhend	TAG=V.PTCP,TAG=PRS
+erhöhen	erhöhtet	TAG=V,TAG=IND,TAG=PST,TAG=2,TAG=PL
+erhöhen	erhöh	TAG=V,TAG=IMP,TAG=2,TAG=SG
+erhöhen	erhöhtet	TAG=V,TAG=SBJV,TAG=PST,TAG=2,TAG=PL
+erhöhen	erhöhte	TAG=V,TAG=SBJV,TAG=PST,TAG=3,TAG=SG
+erhöhen	erhöhen	TAG=V,TAG=NFIN
+erhöhen	erhöhen	TAG=V,TAG=IND,TAG=PRS,TAG=3,TAG=PL
+erhöhen	erhöht	TAG=V,TAG=IND,TAG=PRS,TAG=2,TAG=PL
+erhöhen	erhöhen	TAG=V,TAG=SBJV,TAG=PRS,TAG=1,TAG=PL
+erhöhen	erhöhten	TAG=V,TAG=IND,TAG=PST,TAG=1,TAG=PL
+erhöhen	erhöhe	TAG=V,TAG=SBJV,TAG=PRS,TAG=3,TAG=SG
+erhöhen	erhöhten	TAG=V,TAG=IND,TAG=PST,TAG=3,TAG=PL
+erhöhen	erhöht	TAG=V,TAG=IMP,TAG=2,TAG=PL
+erhöhen	erhöhte	TAG=V.PTCP,TAG=PST
+erhöhen	erhöhten	TAG=V,TAG=SBJV,TAG=PST,TAG=3,TAG=PL
+erhöhen	erhöhe	TAG=V,TAG=IND,TAG=PRS,TAG=1,TAG=SG
+erhöhen	erhöhe	TAG=V,TAG=SBJV,TAG=PRS,TAG=1,TAG=SG
+erhöhen	erhöht	TAG=V,TAG=IND,TAG=PRS,TAG=3,TAG=SG
+erhöhen	erhöhet	TAG=V,TAG=SBJV,TAG=PRS,TAG=2,TAG=PL
+erhöhen	erhöhtest	TAG=V,TAG=IND,TAG=PST,TAG=2,TAG=SG
+erhöhen	erhöhten	TAG=V,TAG=SBJV,TAG=PST,TAG=1,TAG=PL
+erhöhen	erhöhte	TAG=V,TAG=IND,TAG=PST,TAG=1,TAG=SG
+erhöhen	erhöhtest	TAG=V,TAG=SBJV,TAG=PST,TAG=2,TAG=SG
+erhöhen	erhöhst	TAG=V,TAG=IND,TAG=PRS,TAG=2,TAG=SG
+erhöhen	erhöhest	TAG=V,TAG=SBJV,TAG=PRS,TAG=2,TAG=SG
+erhöhen	erhöhte	TAG=V,TAG=IND,TAG=PST,TAG=3,TAG=SG
+
+Kabine	Kabine	TAG=N,TAG=LEMMA
+Kabine	Kabinen	TAG=N,TAG=GEN,TAG=PL
+Kabine	Kabinen	TAG=N,TAG=NOM,TAG=PL
+Kabine	Kabine	TAG=N,TAG=GEN,TAG=SG
+Kabine	Kabine	TAG=N,TAG=NOM,TAG=SG
+Kabine	Kabine	TAG=N,TAG=DAT,TAG=SG
+Kabine	Kabinen	TAG=N,TAG=ACC,TAG=PL
+Kabine	Kabine	TAG=N,TAG=ACC,TAG=SG
+Kabine	Kabinen	TAG=N,TAG=DAT,TAG=PL
+
+schalten	schalten	TAG=V,TAG=LEMMA
+schalten	schalten	TAG=V,TAG=SBJV,TAG=PRS,TAG=3,TAG=PL
+schalten	schaltete	TAG=V,TAG=SBJV,TAG=PST,TAG=1,TAG=SG
+schalten	schalten	TAG=V,TAG=IND,TAG=PRS,TAG=1,TAG=PL
+schalten	schaltend	TAG=V.PTCP,TAG=PRS
+schalten	schaltetet	TAG=V,TAG=IND,TAG=PST,TAG=2,TAG=PL
+schalten	schalte	TAG=V,TAG=IMP,TAG=2,TAG=SG
+schalten	schaltetet	TAG=V,TAG=SBJV,TAG=PST,TAG=2,TAG=PL
+schalten	schaltete	TAG=V,TAG=SBJV,TAG=PST,TAG=3,TAG=SG
+schalten	schalten	TAG=V,TAG=NFIN
+schalten	schalten	TAG=V,TAG=IND,TAG=PRS,TAG=3,TAG=PL
+schalten	schaltet	TAG=V,TAG=IND,TAG=PRS,TAG=2,TAG=PL
+schalten	schalten	TAG=V,TAG=SBJV,TAG=PRS,TAG=1,TAG=PL
+schalten	schalteten	TAG=V,TAG=IND,TAG=PST,TAG=1,TAG=PL
+schalten	schalte	TAG=V,TAG=SBJV,TAG=PRS,TAG=3,TAG=SG
+schalten	schalteten	TAG=V,TAG=IND,TAG=PST,TAG=3,TAG=PL
+schalten	schaltet	TAG=V,TAG=IMP,TAG=2,TAG=PL
+schalten	geschaltet	TAG=V.PTCP,TAG=PST
+schalten	schalteten	TAG=V,TAG=SBJV,TAG=PST,TAG=3,TAG=PL
+schalten	schalte	TAG=V,TAG=IND,TAG=PRS,TAG=1,TAG=SG
+schalten	schalte	TAG=V,TAG=SBJV,TAG=PRS,TAG=1,TAG=SG
+schalten	schaltet	TAG=V,TAG=IND,TAG=PRS,TAG=3,TAG=SG
+schalten	schaltet	TAG=V,TAG=SBJV,TAG=PRS,TAG=2,TAG=PL
+schalten	schaltetest	TAG=V,TAG=IND,TAG=PST,TAG=2,TAG=SG
+schalten	schalteten	TAG=V,TAG=SBJV,TAG=PST,TAG=1,TAG=PL
+schalten	schaltete	TAG=V,TAG=IND,TAG=PST,TAG=1,TAG=SG
+schalten	schaltetest	TAG=V,TAG=SBJV,TAG=PST,TAG=2,TAG=SG
+schalten	schaltest	TAG=V,TAG=IND,TAG=PRS,TAG=2,TAG=SG
+schalten	schaltest	TAG=V,TAG=SBJV,TAG=PRS,TAG=2,TAG=SG
+schalten	schaltete	TAG=V,TAG=IND,TAG=PST,TAG=3,TAG=SG
+
+Traggas	Traggas	TAG=N,TAG=LEMMA
+Traggas	Traggase	TAG=N,TAG=GEN,TAG=PL
+Traggas	Traggase	TAG=N,TAG=NOM,TAG=PL
+Traggas	Traggases	TAG=N,TAG=GEN,TAG=SG
+Traggas	Traggas	TAG=N,TAG=NOM,TAG=SG
+Traggas	Traggas	TAG=N,TAG=DAT,TAG=SG
+Traggas	Traggase	TAG=N,TAG=ACC,TAG=PL
+Traggas	Traggas	TAG=N,TAG=ACC,TAG=SG
+Traggas	Traggasen	TAG=N,TAG=DAT,TAG=PL
+
+Hydrat	Hydrat	TAG=N,TAG=LEMMA
+Hydrat	Hydrate	TAG=N,TAG=GEN,TAG=PL
+Hydrat	Hydrate	TAG=N,TAG=NOM,TAG=PL
+Hydrat	Hydrates	TAG=N,TAG=GEN,TAG=SG
+Hydrat	Hydrat	TAG=N,TAG=NOM,TAG=SG
+Hydrat	Hydrat	TAG=N,TAG=DAT,TAG=SG
+Hydrat	Hydrate	TAG=N,TAG=ACC,TAG=PL
+Hydrat	Hydrat	TAG=N,TAG=ACC,TAG=SG
+Hydrat	Hydraten	TAG=N,TAG=DAT,TAG=PL
+
+Kultur	Kultur	TAG=N,TAG=LEMMA
+Kultur	Kulturen	TAG=N,TAG=GEN,TAG=PL
+Kultur	Kulturen	TAG=N,TAG=NOM,TAG=PL
+Kultur	Kultur	TAG=N,TAG=GEN,TAG=SG
+Kultur	Kultur	TAG=N,TAG=NOM,TAG=SG
+Kultur	Kultur	TAG=N,TAG=DAT,TAG=SG
+Kultur	Kulturen	TAG=N,TAG=ACC,TAG=PL
+Kultur	Kultur	TAG=N,TAG=ACC,TAG=SG
+Kultur	Kulturen	TAG=N,TAG=DAT,TAG=PL
+
+Romanistin	Romanistin	TAG=N,TAG=LEMMA
+Romanistin	Romanistinnen	TAG=N,TAG=GEN,TAG=PL
+Romanistin	Romanistinnen	TAG=N,TAG=NOM,TAG=PL
+Romanistin	Romanistin	TAG=N,TAG=GEN,TAG=SG
+Romanistin	Romanistin	TAG=N,TAG=NOM,TAG=SG
+Romanistin	Romanistin	TAG=N,TAG=DAT,TAG=SG
+Romanistin	Romanistinnen	TAG=N,TAG=ACC,TAG=PL
+Romanistin	Romanistin	TAG=N,TAG=ACC,TAG=SG
+Romanistin	Romanistinnen	TAG=N,TAG=DAT,TAG=PL
+
+Verdauungssystem	Verdauungssystem	TAG=N,TAG=LEMMA
+Verdauungssystem	Verdauungssysteme	TAG=N,TAG=GEN,TAG=PL
+Verdauungssystem	Verdauungssysteme	TAG=N,TAG=NOM,TAG=PL
+Verdauungssystem	Verdauungssystems	TAG=N,TAG=GEN,TAG=SG
+Verdauungssystem	Verdauungssystem	TAG=N,TAG=NOM,TAG=SG
+Verdauungssystem	Verdauungssystem	TAG=N,TAG=DAT,TAG=SG
+Verdauungssystem	Verdauungssysteme	TAG=N,TAG=ACC,TAG=PL
+Verdauungssystem	Verdauungssystem	TAG=N,TAG=ACC,TAG=SG
+Verdauungssystem	Verdauungssystemen	TAG=N,TAG=DAT,TAG=PL
+
+Verselbständigung	Verselbständigung	TAG=N,TAG=LEMMA
+Verselbständigung	Verselbständigungen	TAG=N,TAG=GEN,TAG=PL
+Verselbständigung	Verselbständigungen	TAG=N,TAG=NOM,TAG=PL
+Verselbständigung	Verselbständigung	TAG=N,TAG=GEN,TAG=SG
+Verselbständigung	Verselbständigung	TAG=N,TAG=NOM,TAG=SG
+Verselbständigung	Verselbständigung	TAG=N,TAG=DAT,TAG=SG
+Verselbständigung	Verselbständigungen	TAG=N,TAG=ACC,TAG=PL
+Verselbständigung	Verselbständigung	TAG=N,TAG=ACC,TAG=SG
+Verselbständigung	Verselbständigungen	TAG=N,TAG=DAT,TAG=PL
+
+Chalkogen	Chalkogen	TAG=N,TAG=LEMMA
+Chalkogen	Chalkogene	TAG=N,TAG=GEN,TAG=PL
+Chalkogen	Chalkogene	TAG=N,TAG=NOM,TAG=PL
+Chalkogen	Chalkogens	TAG=N,TAG=GEN,TAG=SG
+Chalkogen	Chalkogen	TAG=N,TAG=NOM,TAG=SG
+Chalkogen	Chalkogen	TAG=N,TAG=DAT,TAG=SG
+Chalkogen	Chalkogene	TAG=N,TAG=ACC,TAG=PL
+Chalkogen	Chalkogen	TAG=N,TAG=ACC,TAG=SG
+Chalkogen	Chalkogenen	TAG=N,TAG=DAT,TAG=PL
+

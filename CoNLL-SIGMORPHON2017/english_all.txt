@@ -1,0 +1,2100 @@
+amp	amp	TAG=V,TAG=LEMMA
+amp	amping	TAG=V,TAG=V.PTCP,TAG=PRS
+amp	amps	TAG=V,TAG=3,TAG=SG,TAG=PRS
+amp	amped	TAG=V,TAG=V.PTCP,TAG=PST
+amp	amp	TAG=V,TAG=NFIN
+amp	amped	TAG=V,TAG=PST
+
+disrupt	disrupt	TAG=V,TAG=LEMMA
+disrupt	disrupting	TAG=V,TAG=V.PTCP,TAG=PRS
+disrupt	disrupts	TAG=V,TAG=3,TAG=SG,TAG=PRS
+disrupt	disrupted	TAG=V,TAG=V.PTCP,TAG=PST
+disrupt	disrupt	TAG=V,TAG=NFIN
+disrupt	disrupted	TAG=V,TAG=PST
+
+launch	launch	TAG=V,TAG=LEMMA
+launch	launching	TAG=V,TAG=V.PTCP,TAG=PRS
+launch	launches	TAG=V,TAG=3,TAG=SG,TAG=PRS
+launch	launched	TAG=V,TAG=V.PTCP,TAG=PST
+launch	launch	TAG=V,TAG=NFIN
+launch	launched	TAG=V,TAG=PST
+
+gold	gold	TAG=V,TAG=LEMMA
+gold	golding	TAG=V,TAG=V.PTCP,TAG=PRS
+gold	golds	TAG=V,TAG=3,TAG=SG,TAG=PRS
+gold	golded	TAG=V,TAG=V.PTCP,TAG=PST
+gold	gold	TAG=V,TAG=NFIN
+gold	golded	TAG=V,TAG=PST
+
+mandate	mandate	TAG=V,TAG=LEMMA
+mandate	mandating	TAG=V,TAG=V.PTCP,TAG=PRS
+mandate	mandates	TAG=V,TAG=3,TAG=SG,TAG=PRS
+mandate	mandated	TAG=V,TAG=V.PTCP,TAG=PST
+mandate	mandate	TAG=V,TAG=NFIN
+mandate	mandated	TAG=V,TAG=PST
+
+guesstimate	guesstimate	TAG=V,TAG=LEMMA
+guesstimate	guesstimating	TAG=V,TAG=V.PTCP,TAG=PRS
+guesstimate	guesstimates	TAG=V,TAG=3,TAG=SG,TAG=PRS
+guesstimate	guesstimated	TAG=V,TAG=V.PTCP,TAG=PST
+guesstimate	guesstimate	TAG=V,TAG=NFIN
+guesstimate	guesstimated	TAG=V,TAG=PST
+
+ice	ice	TAG=V,TAG=LEMMA
+ice	icing	TAG=V,TAG=V.PTCP,TAG=PRS
+ice	ices	TAG=V,TAG=3,TAG=SG,TAG=PRS
+ice	iced	TAG=V,TAG=V.PTCP,TAG=PST
+ice	ice	TAG=V,TAG=NFIN
+ice	iced	TAG=V,TAG=PST
+
+mark	mark	TAG=V,TAG=LEMMA
+mark	marking	TAG=V,TAG=V.PTCP,TAG=PRS
+mark	marks	TAG=V,TAG=3,TAG=SG,TAG=PRS
+mark	marked	TAG=V,TAG=V.PTCP,TAG=PST
+mark	mark	TAG=V,TAG=NFIN
+mark	marked	TAG=V,TAG=PST
+
+fresco	fresco	TAG=V,TAG=LEMMA
+fresco	frescoing	TAG=V,TAG=V.PTCP,TAG=PRS
+fresco	frescoes	TAG=V,TAG=3,TAG=SG,TAG=PRS
+fresco	frescoed	TAG=V,TAG=V.PTCP,TAG=PST
+fresco	fresco	TAG=V,TAG=NFIN
+fresco	frescoed	TAG=V,TAG=PST
+
+near	near	TAG=V,TAG=LEMMA
+near	nearing	TAG=V,TAG=V.PTCP,TAG=PRS
+near	nears	TAG=V,TAG=3,TAG=SG,TAG=PRS
+near	neared	TAG=V,TAG=V.PTCP,TAG=PST
+near	near	TAG=V,TAG=NFIN
+near	neared	TAG=V,TAG=PST
+
+approve	approve	TAG=V,TAG=LEMMA
+approve	approving	TAG=V,TAG=V.PTCP,TAG=PRS
+approve	approves	TAG=V,TAG=3,TAG=SG,TAG=PRS
+approve	approved	TAG=V,TAG=V.PTCP,TAG=PST
+approve	approve	TAG=V,TAG=NFIN
+approve	approved	TAG=V,TAG=PST
+
+empower	empower	TAG=V,TAG=LEMMA
+empower	empowering	TAG=V,TAG=V.PTCP,TAG=PRS
+empower	empowers	TAG=V,TAG=3,TAG=SG,TAG=PRS
+empower	empowered	TAG=V,TAG=V.PTCP,TAG=PST
+empower	empower	TAG=V,TAG=NFIN
+empower	empowered	TAG=V,TAG=PST
+
+contribute	contribute	TAG=V,TAG=LEMMA
+contribute	contributing	TAG=V,TAG=V.PTCP,TAG=PRS
+contribute	contributes	TAG=V,TAG=3,TAG=SG,TAG=PRS
+contribute	contributed	TAG=V,TAG=V.PTCP,TAG=PST
+contribute	contribute	TAG=V,TAG=NFIN
+contribute	contributed	TAG=V,TAG=PST
+
+gather	gather	TAG=V,TAG=LEMMA
+gather	gathering	TAG=V,TAG=V.PTCP,TAG=PRS
+gather	gathers	TAG=V,TAG=3,TAG=SG,TAG=PRS
+gather	gathered	TAG=V,TAG=V.PTCP,TAG=PST
+gather	gather	TAG=V,TAG=NFIN
+gather	gathered	TAG=V,TAG=PST
+
+become	become	TAG=V,TAG=LEMMA
+become	becoming	TAG=V,TAG=V.PTCP,TAG=PRS
+become	becomes	TAG=V,TAG=3,TAG=SG,TAG=PRS
+become	become	TAG=V,TAG=V.PTCP,TAG=PST
+become	become	TAG=V,TAG=NFIN
+become	becomed	TAG=V,TAG=PST
+
+illustrate	illustrate	TAG=V,TAG=LEMMA
+illustrate	illustrating	TAG=V,TAG=V.PTCP,TAG=PRS
+illustrate	illustrates	TAG=V,TAG=3,TAG=SG,TAG=PRS
+illustrate	illustrated	TAG=V,TAG=V.PTCP,TAG=PST
+illustrate	illustrate	TAG=V,TAG=NFIN
+illustrate	illustrated	TAG=V,TAG=PST
+
+chain	chain	TAG=V,TAG=LEMMA
+chain	chaining	TAG=V,TAG=V.PTCP,TAG=PRS
+chain	chains	TAG=V,TAG=3,TAG=SG,TAG=PRS
+chain	chained	TAG=V,TAG=V.PTCP,TAG=PST
+chain	chain	TAG=V,TAG=NFIN
+chain	chained	TAG=V,TAG=PST
+
+liaison	liaison	TAG=V,TAG=LEMMA
+liaison	liaisoning	TAG=V,TAG=V.PTCP,TAG=PRS
+liaison	liaisons	TAG=V,TAG=3,TAG=SG,TAG=PRS
+liaison	liaisoned	TAG=V,TAG=V.PTCP,TAG=PST
+liaison	liaison	TAG=V,TAG=NFIN
+liaison	liaisoned	TAG=V,TAG=PST
+
+borrow	borrow	TAG=V,TAG=LEMMA
+borrow	borrowing	TAG=V,TAG=V.PTCP,TAG=PRS
+borrow	borrows	TAG=V,TAG=3,TAG=SG,TAG=PRS
+borrow	borrowed	TAG=V,TAG=V.PTCP,TAG=PST
+borrow	borrow	TAG=V,TAG=NFIN
+borrow	borrowed	TAG=V,TAG=PST
+
+bay	bay	TAG=V,TAG=LEMMA
+bay	baying	TAG=V,TAG=V.PTCP,TAG=PRS
+bay	bays	TAG=V,TAG=3,TAG=SG,TAG=PRS
+bay	bayed	TAG=V,TAG=V.PTCP,TAG=PST
+bay	bay	TAG=V,TAG=NFIN
+bay	bayed	TAG=V,TAG=PST
+
+grain	grain	TAG=V,TAG=LEMMA
+grain	graining	TAG=V,TAG=V.PTCP,TAG=PRS
+grain	grains	TAG=V,TAG=3,TAG=SG,TAG=PRS
+grain	grained	TAG=V,TAG=V.PTCP,TAG=PST
+grain	grain	TAG=V,TAG=NFIN
+grain	grained	TAG=V,TAG=PST
+
+cage	cage	TAG=V,TAG=LEMMA
+cage	caging	TAG=V,TAG=V.PTCP,TAG=PRS
+cage	cages	TAG=V,TAG=3,TAG=SG,TAG=PRS
+cage	caged	TAG=V,TAG=V.PTCP,TAG=PST
+cage	cage	TAG=V,TAG=NFIN
+cage	caged	TAG=V,TAG=PST
+
+indef	indef	TAG=V,TAG=LEMMA
+indef	indeffing	TAG=V,TAG=V.PTCP,TAG=PRS
+indef	indefs	TAG=V,TAG=3,TAG=SG,TAG=PRS
+indef	indeffed	TAG=V,TAG=V.PTCP,TAG=PST
+indef	indef	TAG=V,TAG=NFIN
+indef	indeffed	TAG=V,TAG=PST
+
+noon	noon	TAG=V,TAG=LEMMA
+noon	nooning	TAG=V,TAG=V.PTCP,TAG=PRS
+noon	noons	TAG=V,TAG=3,TAG=SG,TAG=PRS
+noon	nooned	TAG=V,TAG=V.PTCP,TAG=PST
+noon	noon	TAG=V,TAG=NFIN
+noon	nooned	TAG=V,TAG=PST
+
+null	null	TAG=V,TAG=LEMMA
+null	nulling	TAG=V,TAG=V.PTCP,TAG=PRS
+null	nulls	TAG=V,TAG=3,TAG=SG,TAG=PRS
+null	nulled	TAG=V,TAG=V.PTCP,TAG=PST
+null	null	TAG=V,TAG=NFIN
+null	nulled	TAG=V,TAG=PST
+
+broadcast	broadcast	TAG=V,TAG=LEMMA
+broadcast	broadcasting	TAG=V,TAG=V.PTCP,TAG=PRS
+broadcast	broadcasts	TAG=V,TAG=3,TAG=SG,TAG=PRS
+broadcast	broadcast	TAG=V,TAG=V.PTCP,TAG=PST
+broadcast	broadcast	TAG=V,TAG=NFIN
+broadcast	broadcast	TAG=V,TAG=PST
+
+chick	chick	TAG=V,TAG=LEMMA
+chick	chicking	TAG=V,TAG=V.PTCP,TAG=PRS
+chick	chicks	TAG=V,TAG=3,TAG=SG,TAG=PRS
+chick	chicked	TAG=V,TAG=V.PTCP,TAG=PST
+chick	chick	TAG=V,TAG=NFIN
+chick	chicked	TAG=V,TAG=PST
+
+catch	catch	TAG=V,TAG=LEMMA
+catch	catching	TAG=V,TAG=V.PTCP,TAG=PRS
+catch	catches	TAG=V,TAG=3,TAG=SG,TAG=PRS
+catch	caught	TAG=V,TAG=V.PTCP,TAG=PST
+catch	catch	TAG=V,TAG=NFIN
+catch	caught	TAG=V,TAG=PST
+
+abide	abide	TAG=V,TAG=LEMMA
+abide	abiding	TAG=V,TAG=V.PTCP,TAG=PRS
+abide	abides	TAG=V,TAG=3,TAG=SG,TAG=PRS
+abide	abode	TAG=V,TAG=V.PTCP,TAG=PST
+abide	abide	TAG=V,TAG=NFIN
+abide	abode	TAG=V,TAG=PST
+
+coauthor	coauthor	TAG=V,TAG=LEMMA
+coauthor	coauthoring	TAG=V,TAG=V.PTCP,TAG=PRS
+coauthor	coauthors	TAG=V,TAG=3,TAG=SG,TAG=PRS
+coauthor	coauthored	TAG=V,TAG=V.PTCP,TAG=PST
+coauthor	coauthor	TAG=V,TAG=NFIN
+coauthor	coauthored	TAG=V,TAG=PST
+
+birth	birth	TAG=V,TAG=LEMMA
+birth	birthing	TAG=V,TAG=V.PTCP,TAG=PRS
+birth	births	TAG=V,TAG=3,TAG=SG,TAG=PRS
+birth	birthed	TAG=V,TAG=V.PTCP,TAG=PST
+birth	birth	TAG=V,TAG=NFIN
+birth	birthed	TAG=V,TAG=PST
+
+flood	flood	TAG=V,TAG=LEMMA
+flood	flooding	TAG=V,TAG=V.PTCP,TAG=PRS
+flood	floods	TAG=V,TAG=3,TAG=SG,TAG=PRS
+flood	flooded	TAG=V,TAG=V.PTCP,TAG=PST
+flood	flood	TAG=V,TAG=NFIN
+flood	flooded	TAG=V,TAG=PST
+
+counsel	counsel	TAG=V,TAG=LEMMA
+counsel	counselling	TAG=V,TAG=V.PTCP,TAG=PRS
+counsel	counsels	TAG=V,TAG=3,TAG=SG,TAG=PRS
+counsel	counselled	TAG=V,TAG=V.PTCP,TAG=PST
+counsel	counsel	TAG=V,TAG=NFIN
+counsel	counselled	TAG=V,TAG=PST
+
+duel	duel	TAG=V,TAG=LEMMA
+duel	duelling	TAG=V,TAG=V.PTCP,TAG=PRS
+duel	duels	TAG=V,TAG=3,TAG=SG,TAG=PRS
+duel	duelled	TAG=V,TAG=V.PTCP,TAG=PST
+duel	duel	TAG=V,TAG=NFIN
+duel	duelled	TAG=V,TAG=PST
+
+articulate	articulate	TAG=V,TAG=LEMMA
+articulate	articulating	TAG=V,TAG=V.PTCP,TAG=PRS
+articulate	articulates	TAG=V,TAG=3,TAG=SG,TAG=PRS
+articulate	articulated	TAG=V,TAG=V.PTCP,TAG=PST
+articulate	articulate	TAG=V,TAG=NFIN
+articulate	articulated	TAG=V,TAG=PST
+
+derive	derive	TAG=V,TAG=LEMMA
+derive	deriving	TAG=V,TAG=V.PTCP,TAG=PRS
+derive	derives	TAG=V,TAG=3,TAG=SG,TAG=PRS
+derive	derived	TAG=V,TAG=V.PTCP,TAG=PST
+derive	derive	TAG=V,TAG=NFIN
+derive	derived	TAG=V,TAG=PST
+
+dose	dose	TAG=V,TAG=LEMMA
+dose	dosing	TAG=V,TAG=V.PTCP,TAG=PRS
+dose	doses	TAG=V,TAG=3,TAG=SG,TAG=PRS
+dose	dosed	TAG=V,TAG=V.PTCP,TAG=PST
+dose	dose	TAG=V,TAG=NFIN
+dose	dosed	TAG=V,TAG=PST
+
+campus	campus	TAG=V,TAG=LEMMA
+campus	campusing	TAG=V,TAG=V.PTCP,TAG=PRS
+campus	campuses	TAG=V,TAG=3,TAG=SG,TAG=PRS
+campus	campused	TAG=V,TAG=V.PTCP,TAG=PST
+campus	campus	TAG=V,TAG=NFIN
+campus	campused	TAG=V,TAG=PST
+
+give	give	TAG=V,TAG=LEMMA
+give	giving	TAG=V,TAG=V.PTCP,TAG=PRS
+give	gives	TAG=V,TAG=3,TAG=SG,TAG=PRS
+give	given	TAG=V,TAG=V.PTCP,TAG=PST
+give	give	TAG=V,TAG=NFIN
+give	gave	TAG=V,TAG=PST
+
+bladder	bladder	TAG=V,TAG=LEMMA
+bladder	bladdering	TAG=V,TAG=V.PTCP,TAG=PRS
+bladder	bladders	TAG=V,TAG=3,TAG=SG,TAG=PRS
+bladder	bladdered	TAG=V,TAG=V.PTCP,TAG=PST
+bladder	bladder	TAG=V,TAG=NFIN
+bladder	bladdered	TAG=V,TAG=PST
+
+marionette	marionette	TAG=V,TAG=LEMMA
+marionette	marionetting	TAG=V,TAG=V.PTCP,TAG=PRS
+marionette	marionettes	TAG=V,TAG=3,TAG=SG,TAG=PRS
+marionette	marionetted	TAG=V,TAG=V.PTCP,TAG=PST
+marionette	marionette	TAG=V,TAG=NFIN
+marionette	marionetted	TAG=V,TAG=PST
+
+depict	depict	TAG=V,TAG=LEMMA
+depict	depicting	TAG=V,TAG=V.PTCP,TAG=PRS
+depict	depicts	TAG=V,TAG=3,TAG=SG,TAG=PRS
+depict	depicted	TAG=V,TAG=V.PTCP,TAG=PST
+depict	depict	TAG=V,TAG=NFIN
+depict	depicted	TAG=V,TAG=PST
+
+lamb	lamb	TAG=V,TAG=LEMMA
+lamb	lambing	TAG=V,TAG=V.PTCP,TAG=PRS
+lamb	lambs	TAG=V,TAG=3,TAG=SG,TAG=PRS
+lamb	lambed	TAG=V,TAG=V.PTCP,TAG=PST
+lamb	lamb	TAG=V,TAG=NFIN
+lamb	lambed	TAG=V,TAG=PST
+
+mix	mix	TAG=V,TAG=LEMMA
+mix	mixing	TAG=V,TAG=V.PTCP,TAG=PRS
+mix	mixes	TAG=V,TAG=3,TAG=SG,TAG=PRS
+mix	mixt	TAG=V,TAG=V.PTCP,TAG=PST
+mix	mix	TAG=V,TAG=NFIN
+mix	mixt	TAG=V,TAG=PST
+
+cable	cable	TAG=V,TAG=LEMMA
+cable	cabling	TAG=V,TAG=V.PTCP,TAG=PRS
+cable	cables	TAG=V,TAG=3,TAG=SG,TAG=PRS
+cable	cabled	TAG=V,TAG=V.PTCP,TAG=PST
+cable	cable	TAG=V,TAG=NFIN
+cable	cabled	TAG=V,TAG=PST
+
+French	French	TAG=V,TAG=LEMMA
+French	Frenching	TAG=V,TAG=V.PTCP,TAG=PRS
+French	Frenches	TAG=V,TAG=3,TAG=SG,TAG=PRS
+French	Frenched	TAG=V,TAG=V.PTCP,TAG=PST
+French	French	TAG=V,TAG=NFIN
+French	Frenched	TAG=V,TAG=PST
+
+green	green	TAG=V,TAG=LEMMA
+green	greening	TAG=V,TAG=V.PTCP,TAG=PRS
+green	greens	TAG=V,TAG=3,TAG=SG,TAG=PRS
+green	greened	TAG=V,TAG=V.PTCP,TAG=PST
+green	green	TAG=V,TAG=NFIN
+green	greened	TAG=V,TAG=PST
+
+brevet	brevet	TAG=V,TAG=LEMMA
+brevet	brevetting	TAG=V,TAG=V.PTCP,TAG=PRS
+brevet	brevets	TAG=V,TAG=3,TAG=SG,TAG=PRS
+brevet	brevetted	TAG=V,TAG=V.PTCP,TAG=PST
+brevet	brevet	TAG=V,TAG=NFIN
+brevet	brevetted	TAG=V,TAG=PST
+
+lead	lead	TAG=V,TAG=LEMMA
+lead	leading	TAG=V,TAG=V.PTCP,TAG=PRS
+lead	leads	TAG=V,TAG=3,TAG=SG,TAG=PRS
+lead	led	TAG=V,TAG=V.PTCP,TAG=PST
+lead	lead	TAG=V,TAG=NFIN
+lead	led	TAG=V,TAG=PST
+
+occur	occur	TAG=V,TAG=LEMMA
+occur	occurring	TAG=V,TAG=V.PTCP,TAG=PRS
+occur	occurs	TAG=V,TAG=3,TAG=SG,TAG=PRS
+occur	occurred	TAG=V,TAG=V.PTCP,TAG=PST
+occur	occur	TAG=V,TAG=NFIN
+occur	occurred	TAG=V,TAG=PST
+
+crew	crew	TAG=V,TAG=LEMMA
+crew	crewing	TAG=V,TAG=V.PTCP,TAG=PRS
+crew	crews	TAG=V,TAG=3,TAG=SG,TAG=PRS
+crew	crewed	TAG=V,TAG=V.PTCP,TAG=PST
+crew	crew	TAG=V,TAG=NFIN
+crew	crewed	TAG=V,TAG=PST
+
+harp	harp	TAG=V,TAG=LEMMA
+harp	harping	TAG=V,TAG=V.PTCP,TAG=PRS
+harp	harps	TAG=V,TAG=3,TAG=SG,TAG=PRS
+harp	harped	TAG=V,TAG=V.PTCP,TAG=PST
+harp	harp	TAG=V,TAG=NFIN
+harp	harped	TAG=V,TAG=PST
+
+charter	charter	TAG=V,TAG=LEMMA
+charter	chartering	TAG=V,TAG=V.PTCP,TAG=PRS
+charter	charters	TAG=V,TAG=3,TAG=SG,TAG=PRS
+charter	chartered	TAG=V,TAG=V.PTCP,TAG=PST
+charter	charter	TAG=V,TAG=NFIN
+charter	chartered	TAG=V,TAG=PST
+
+except	except	TAG=V,TAG=LEMMA
+except	excepting	TAG=V,TAG=V.PTCP,TAG=PRS
+except	excepts	TAG=V,TAG=3,TAG=SG,TAG=PRS
+except	excepted	TAG=V,TAG=V.PTCP,TAG=PST
+except	except	TAG=V,TAG=NFIN
+except	excepted	TAG=V,TAG=PST
+
+attend	attend	TAG=V,TAG=LEMMA
+attend	attending	TAG=V,TAG=V.PTCP,TAG=PRS
+attend	attends	TAG=V,TAG=3,TAG=SG,TAG=PRS
+attend	attended	TAG=V,TAG=V.PTCP,TAG=PST
+attend	attend	TAG=V,TAG=NFIN
+attend	attended	TAG=V,TAG=PST
+
+enhance	enhance	TAG=V,TAG=LEMMA
+enhance	enhancing	TAG=V,TAG=V.PTCP,TAG=PRS
+enhance	enhances	TAG=V,TAG=3,TAG=SG,TAG=PRS
+enhance	enhanced	TAG=V,TAG=V.PTCP,TAG=PST
+enhance	enhance	TAG=V,TAG=NFIN
+enhance	enhanced	TAG=V,TAG=PST
+
+default	default	TAG=V,TAG=LEMMA
+default	defaulting	TAG=V,TAG=V.PTCP,TAG=PRS
+default	defaults	TAG=V,TAG=3,TAG=SG,TAG=PRS
+default	defaulted	TAG=V,TAG=V.PTCP,TAG=PST
+default	default	TAG=V,TAG=NFIN
+default	defaulted	TAG=V,TAG=PST
+
+gas	gas	TAG=V,TAG=LEMMA
+gas	gassing	TAG=V,TAG=V.PTCP,TAG=PRS
+gas	gasses	TAG=V,TAG=3,TAG=SG,TAG=PRS
+gas	gassed	TAG=V,TAG=V.PTCP,TAG=PST
+gas	gas	TAG=V,TAG=NFIN
+gas	gassed	TAG=V,TAG=PST
+
+compost	compost	TAG=V,TAG=LEMMA
+compost	composting	TAG=V,TAG=V.PTCP,TAG=PRS
+compost	composts	TAG=V,TAG=3,TAG=SG,TAG=PRS
+compost	composted	TAG=V,TAG=V.PTCP,TAG=PST
+compost	compost	TAG=V,TAG=NFIN
+compost	composted	TAG=V,TAG=PST
+
+begin	begin	TAG=V,TAG=LEMMA
+begin	beginning	TAG=V,TAG=V.PTCP,TAG=PRS
+begin	begins	TAG=V,TAG=3,TAG=SG,TAG=PRS
+begin	begun	TAG=V,TAG=V.PTCP,TAG=PST
+begin	begin	TAG=V,TAG=NFIN
+begin	began	TAG=V,TAG=PST
+
+cost	cost	TAG=V,TAG=LEMMA
+cost	costing	TAG=V,TAG=V.PTCP,TAG=PRS
+cost	costs	TAG=V,TAG=3,TAG=SG,TAG=PRS
+cost	cost	TAG=V,TAG=V.PTCP,TAG=PST
+cost	cost	TAG=V,TAG=NFIN
+cost	cost	TAG=V,TAG=PST
+
+draw	draw	TAG=V,TAG=LEMMA
+draw	drawing	TAG=V,TAG=V.PTCP,TAG=PRS
+draw	draws	TAG=V,TAG=3,TAG=SG,TAG=PRS
+draw	drawn	TAG=V,TAG=V.PTCP,TAG=PST
+draw	draw	TAG=V,TAG=NFIN
+draw	drew	TAG=V,TAG=PST
+
+deny	deny	TAG=V,TAG=LEMMA
+deny	denying	TAG=V,TAG=V.PTCP,TAG=PRS
+deny	denies	TAG=V,TAG=3,TAG=SG,TAG=PRS
+deny	denied	TAG=V,TAG=V.PTCP,TAG=PST
+deny	deny	TAG=V,TAG=NFIN
+deny	denied	TAG=V,TAG=PST
+
+chicken	chicken	TAG=V,TAG=LEMMA
+chicken	chickening	TAG=V,TAG=V.PTCP,TAG=PRS
+chicken	chickens	TAG=V,TAG=3,TAG=SG,TAG=PRS
+chicken	chickened	TAG=V,TAG=V.PTCP,TAG=PST
+chicken	chicken	TAG=V,TAG=NFIN
+chicken	chickened	TAG=V,TAG=PST
+
+distinguish	distinguish	TAG=V,TAG=LEMMA
+distinguish	distinguishing	TAG=V,TAG=V.PTCP,TAG=PRS
+distinguish	distinguishes	TAG=V,TAG=3,TAG=SG,TAG=PRS
+distinguish	distinguished	TAG=V,TAG=V.PTCP,TAG=PST
+distinguish	distinguish	TAG=V,TAG=NFIN
+distinguish	distinguished	TAG=V,TAG=PST
+
+north	north	TAG=V,TAG=LEMMA
+north	northing	TAG=V,TAG=V.PTCP,TAG=PRS
+north	norths	TAG=V,TAG=3,TAG=SG,TAG=PRS
+north	northed	TAG=V,TAG=V.PTCP,TAG=PST
+north	north	TAG=V,TAG=NFIN
+north	northed	TAG=V,TAG=PST
+
+curate	curate	TAG=V,TAG=LEMMA
+curate	curating	TAG=V,TAG=V.PTCP,TAG=PRS
+curate	curates	TAG=V,TAG=3,TAG=SG,TAG=PRS
+curate	curated	TAG=V,TAG=V.PTCP,TAG=PST
+curate	curate	TAG=V,TAG=NFIN
+curate	curated	TAG=V,TAG=PST
+
+firm	firm	TAG=V,TAG=LEMMA
+firm	firming	TAG=V,TAG=V.PTCP,TAG=PRS
+firm	firms	TAG=V,TAG=3,TAG=SG,TAG=PRS
+firm	firmed	TAG=V,TAG=V.PTCP,TAG=PST
+firm	firm	TAG=V,TAG=NFIN
+firm	firmed	TAG=V,TAG=PST
+
+drill	drill	TAG=V,TAG=LEMMA
+drill	drilling	TAG=V,TAG=V.PTCP,TAG=PRS
+drill	drills	TAG=V,TAG=3,TAG=SG,TAG=PRS
+drill	drilled	TAG=V,TAG=V.PTCP,TAG=PST
+drill	drill	TAG=V,TAG=NFIN
+drill	drilled	TAG=V,TAG=PST
+
+coal	coal	TAG=V,TAG=LEMMA
+coal	coaling	TAG=V,TAG=V.PTCP,TAG=PRS
+coal	coals	TAG=V,TAG=3,TAG=SG,TAG=PRS
+coal	coaled	TAG=V,TAG=V.PTCP,TAG=PST
+coal	coal	TAG=V,TAG=NFIN
+coal	coaled	TAG=V,TAG=PST
+
+chapter	chapter	TAG=V,TAG=LEMMA
+chapter	chaptering	TAG=V,TAG=V.PTCP,TAG=PRS
+chapter	chapters	TAG=V,TAG=3,TAG=SG,TAG=PRS
+chapter	chaptered	TAG=V,TAG=V.PTCP,TAG=PST
+chapter	chapter	TAG=V,TAG=NFIN
+chapter	chaptered	TAG=V,TAG=PST
+
+assess	assess	TAG=V,TAG=LEMMA
+assess	assessing	TAG=V,TAG=V.PTCP,TAG=PRS
+assess	assesses	TAG=V,TAG=3,TAG=SG,TAG=PRS
+assess	assessed	TAG=V,TAG=V.PTCP,TAG=PST
+assess	assess	TAG=V,TAG=NFIN
+assess	assessed	TAG=V,TAG=PST
+
+cite	cite	TAG=V,TAG=LEMMA
+cite	citing	TAG=V,TAG=V.PTCP,TAG=PRS
+cite	cites	TAG=V,TAG=3,TAG=SG,TAG=PRS
+cite	cited	TAG=V,TAG=V.PTCP,TAG=PST
+cite	cite	TAG=V,TAG=NFIN
+cite	cited	TAG=V,TAG=PST
+
+gut	gut	TAG=V,TAG=LEMMA
+gut	gutting	TAG=V,TAG=V.PTCP,TAG=PRS
+gut	guts	TAG=V,TAG=3,TAG=SG,TAG=PRS
+gut	gutted	TAG=V,TAG=V.PTCP,TAG=PST
+gut	gut	TAG=V,TAG=NFIN
+gut	gutted	TAG=V,TAG=PST
+
+fess	fess	TAG=V,TAG=LEMMA
+fess	fessing	TAG=V,TAG=V.PTCP,TAG=PRS
+fess	fesses	TAG=V,TAG=3,TAG=SG,TAG=PRS
+fess	fessed	TAG=V,TAG=V.PTCP,TAG=PST
+fess	fess	TAG=V,TAG=NFIN
+fess	fessed	TAG=V,TAG=PST
+
+flour	flour	TAG=V,TAG=LEMMA
+flour	flouring	TAG=V,TAG=V.PTCP,TAG=PRS
+flour	flours	TAG=V,TAG=3,TAG=SG,TAG=PRS
+flour	floured	TAG=V,TAG=V.PTCP,TAG=PST
+flour	flour	TAG=V,TAG=NFIN
+flour	floured	TAG=V,TAG=PST
+
+furnace	furnace	TAG=V,TAG=LEMMA
+furnace	furnacing	TAG=V,TAG=V.PTCP,TAG=PRS
+furnace	furnaces	TAG=V,TAG=3,TAG=SG,TAG=PRS
+furnace	furnaced	TAG=V,TAG=V.PTCP,TAG=PST
+furnace	furnace	TAG=V,TAG=NFIN
+furnace	furnaced	TAG=V,TAG=PST
+
+diss	diss	TAG=V,TAG=LEMMA
+diss	dissing	TAG=V,TAG=V.PTCP,TAG=PRS
+diss	disses	TAG=V,TAG=3,TAG=SG,TAG=PRS
+diss	dissed	TAG=V,TAG=V.PTCP,TAG=PST
+diss	diss	TAG=V,TAG=NFIN
+diss	dissed	TAG=V,TAG=PST
+
+code	code	TAG=V,TAG=LEMMA
+code	coding	TAG=V,TAG=V.PTCP,TAG=PRS
+code	codes	TAG=V,TAG=3,TAG=SG,TAG=PRS
+code	coded	TAG=V,TAG=V.PTCP,TAG=PST
+code	code	TAG=V,TAG=NFIN
+code	coded	TAG=V,TAG=PST
+
+capsize	capsize	TAG=V,TAG=LEMMA
+capsize	capsizing	TAG=V,TAG=V.PTCP,TAG=PRS
+capsize	capsizes	TAG=V,TAG=3,TAG=SG,TAG=PRS
+capsize	capsized	TAG=V,TAG=V.PTCP,TAG=PST
+capsize	capsize	TAG=V,TAG=NFIN
+capsize	capsized	TAG=V,TAG=PST
+
+cab	cab	TAG=V,TAG=LEMMA
+cab	cabbing	TAG=V,TAG=V.PTCP,TAG=PRS
+cab	cabs	TAG=V,TAG=3,TAG=SG,TAG=PRS
+cab	cabbed	TAG=V,TAG=V.PTCP,TAG=PST
+cab	cab	TAG=V,TAG=NFIN
+cab	cabbed	TAG=V,TAG=PST
+
+gown	gown	TAG=V,TAG=LEMMA
+gown	gowning	TAG=V,TAG=V.PTCP,TAG=PRS
+gown	gowns	TAG=V,TAG=3,TAG=SG,TAG=PRS
+gown	gowned	TAG=V,TAG=V.PTCP,TAG=PST
+gown	gown	TAG=V,TAG=NFIN
+gown	gowned	TAG=V,TAG=PST
+
+benefit	benefit	TAG=V,TAG=LEMMA
+benefit	benefitting	TAG=V,TAG=V.PTCP,TAG=PRS
+benefit	benefits	TAG=V,TAG=3,TAG=SG,TAG=PRS
+benefit	benefitted	TAG=V,TAG=V.PTCP,TAG=PST
+benefit	benefit	TAG=V,TAG=NFIN
+benefit	benefitted	TAG=V,TAG=PST
+
+fin	fin	TAG=V,TAG=LEMMA
+fin	finning	TAG=V,TAG=V.PTCP,TAG=PRS
+fin	fins	TAG=V,TAG=3,TAG=SG,TAG=PRS
+fin	finned	TAG=V,TAG=V.PTCP,TAG=PST
+fin	fin	TAG=V,TAG=NFIN
+fin	finned	TAG=V,TAG=PST
+
+graduate	graduate	TAG=V,TAG=LEMMA
+graduate	graduating	TAG=V,TAG=V.PTCP,TAG=PRS
+graduate	graduates	TAG=V,TAG=3,TAG=SG,TAG=PRS
+graduate	graduated	TAG=V,TAG=V.PTCP,TAG=PST
+graduate	graduate	TAG=V,TAG=NFIN
+graduate	graduated	TAG=V,TAG=PST
+
+indicate	indicate	TAG=V,TAG=LEMMA
+indicate	indicating	TAG=V,TAG=V.PTCP,TAG=PRS
+indicate	indicates	TAG=V,TAG=3,TAG=SG,TAG=PRS
+indicate	indicated	TAG=V,TAG=V.PTCP,TAG=PST
+indicate	indicate	TAG=V,TAG=NFIN
+indicate	indicated	TAG=V,TAG=PST
+
+interact	interact	TAG=V,TAG=LEMMA
+interact	interacting	TAG=V,TAG=V.PTCP,TAG=PRS
+interact	interacts	TAG=V,TAG=3,TAG=SG,TAG=PRS
+interact	interacted	TAG=V,TAG=V.PTCP,TAG=PST
+interact	interact	TAG=V,TAG=NFIN
+interact	interacted	TAG=V,TAG=PST
+
+disciple	disciple	TAG=V,TAG=LEMMA
+disciple	discipling	TAG=V,TAG=V.PTCP,TAG=PRS
+disciple	disciples	TAG=V,TAG=3,TAG=SG,TAG=PRS
+disciple	discipled	TAG=V,TAG=V.PTCP,TAG=PST
+disciple	disciple	TAG=V,TAG=NFIN
+disciple	discipled	TAG=V,TAG=PST
+
+aid	aid	TAG=V,TAG=LEMMA
+aid	aiding	TAG=V,TAG=V.PTCP,TAG=PRS
+aid	aids	TAG=V,TAG=3,TAG=SG,TAG=PRS
+aid	aided	TAG=V,TAG=V.PTCP,TAG=PST
+aid	aid	TAG=V,TAG=NFIN
+aid	aided	TAG=V,TAG=PST
+
+message	message	TAG=V,TAG=LEMMA
+message	messaging	TAG=V,TAG=V.PTCP,TAG=PRS
+message	messages	TAG=V,TAG=3,TAG=SG,TAG=PRS
+message	messaged	TAG=V,TAG=V.PTCP,TAG=PST
+message	message	TAG=V,TAG=NFIN
+message	messaged	TAG=V,TAG=PST
+
+Amazon	Amazon	TAG=V,TAG=LEMMA
+Amazon	Amazoning	TAG=V,TAG=V.PTCP,TAG=PRS
+Amazon	Amazons	TAG=V,TAG=3,TAG=SG,TAG=PRS
+Amazon	Amazoned	TAG=V,TAG=V.PTCP,TAG=PST
+Amazon	Amazon	TAG=V,TAG=NFIN
+Amazon	Amazoned	TAG=V,TAG=PST
+
+cash	cash	TAG=V,TAG=LEMMA
+cash	cashing	TAG=V,TAG=V.PTCP,TAG=PRS
+cash	cashes	TAG=V,TAG=3,TAG=SG,TAG=PRS
+cash	cashed	TAG=V,TAG=V.PTCP,TAG=PST
+cash	cash	TAG=V,TAG=NFIN
+cash	cashed	TAG=V,TAG=PST
+
+blog	blog	TAG=V,TAG=LEMMA
+blog	blogging	TAG=V,TAG=V.PTCP,TAG=PRS
+blog	blogs	TAG=V,TAG=3,TAG=SG,TAG=PRS
+blog	blogged	TAG=V,TAG=V.PTCP,TAG=PST
+blog	blog	TAG=V,TAG=NFIN
+blog	blogged	TAG=V,TAG=PST
+
+census	census	TAG=V,TAG=LEMMA
+census	censusing	TAG=V,TAG=V.PTCP,TAG=PRS
+census	censuses	TAG=V,TAG=3,TAG=SG,TAG=PRS
+census	censused	TAG=V,TAG=V.PTCP,TAG=PST
+census	census	TAG=V,TAG=NFIN
+census	censused	TAG=V,TAG=PST
+
+legitimate	legitimate	TAG=V,TAG=LEMMA
+legitimate	legitimating	TAG=V,TAG=V.PTCP,TAG=PRS
+legitimate	legitimates	TAG=V,TAG=3,TAG=SG,TAG=PRS
+legitimate	legitimated	TAG=V,TAG=V.PTCP,TAG=PST
+legitimate	legitimate	TAG=V,TAG=NFIN
+legitimate	legitimated	TAG=V,TAG=PST
+
+copy	copy	TAG=V,TAG=LEMMA
+copy	copying	TAG=V,TAG=V.PTCP,TAG=PRS
+copy	copies	TAG=V,TAG=3,TAG=SG,TAG=PRS
+copy	copied	TAG=V,TAG=V.PTCP,TAG=PST
+copy	copy	TAG=V,TAG=NFIN
+copy	copied	TAG=V,TAG=PST
+
+allow	allow	TAG=V,TAG=LEMMA
+allow	allowing	TAG=V,TAG=V.PTCP,TAG=PRS
+allow	allows	TAG=V,TAG=3,TAG=SG,TAG=PRS
+allow	allowed	TAG=V,TAG=V.PTCP,TAG=PST
+allow	allow	TAG=V,TAG=NFIN
+allow	allowed	TAG=V,TAG=PST
+
+archive	archive	TAG=V,TAG=LEMMA
+archive	archiving	TAG=V,TAG=V.PTCP,TAG=PRS
+archive	archives	TAG=V,TAG=3,TAG=SG,TAG=PRS
+archive	archived	TAG=V,TAG=V.PTCP,TAG=PST
+archive	archive	TAG=V,TAG=NFIN
+archive	archived	TAG=V,TAG=PST
+
+finance	finance	TAG=V,TAG=LEMMA
+finance	financing	TAG=V,TAG=V.PTCP,TAG=PRS
+finance	finances	TAG=V,TAG=3,TAG=SG,TAG=PRS
+finance	financed	TAG=V,TAG=V.PTCP,TAG=PST
+finance	finance	TAG=V,TAG=NFIN
+finance	financed	TAG=V,TAG=PST
+
+clerk	clerk	TAG=V,TAG=LEMMA
+clerk	clerking	TAG=V,TAG=V.PTCP,TAG=PRS
+clerk	clerks	TAG=V,TAG=3,TAG=SG,TAG=PRS
+clerk	clerked	TAG=V,TAG=V.PTCP,TAG=PST
+clerk	clerk	TAG=V,TAG=NFIN
+clerk	clerked	TAG=V,TAG=PST
+
+contact	contact	TAG=V,TAG=LEMMA
+contact	contacting	TAG=V,TAG=V.PTCP,TAG=PRS
+contact	contacts	TAG=V,TAG=3,TAG=SG,TAG=PRS
+contact	contacted	TAG=V,TAG=V.PTCP,TAG=PST
+contact	contact	TAG=V,TAG=NFIN
+contact	contacted	TAG=V,TAG=PST
+
+institute	institute	TAG=V,TAG=LEMMA
+institute	instituting	TAG=V,TAG=V.PTCP,TAG=PRS
+institute	institutes	TAG=V,TAG=3,TAG=SG,TAG=PRS
+institute	instituted	TAG=V,TAG=V.PTCP,TAG=PST
+institute	institute	TAG=V,TAG=NFIN
+institute	instituted	TAG=V,TAG=PST
+
+decline	decline	TAG=V,TAG=LEMMA
+decline	declining	TAG=V,TAG=V.PTCP,TAG=PRS
+decline	declines	TAG=V,TAG=3,TAG=SG,TAG=PRS
+decline	declined	TAG=V,TAG=V.PTCP,TAG=PST
+decline	decline	TAG=V,TAG=NFIN
+decline	declined	TAG=V,TAG=PST
+
+member	member	TAG=V,TAG=LEMMA
+member	membering	TAG=V,TAG=V.PTCP,TAG=PRS
+member	members	TAG=V,TAG=3,TAG=SG,TAG=PRS
+member	membered	TAG=V,TAG=V.PTCP,TAG=PST
+member	member	TAG=V,TAG=NFIN
+member	membered	TAG=V,TAG=PST
+
+determine	determine	TAG=V,TAG=LEMMA
+determine	determining	TAG=V,TAG=V.PTCP,TAG=PRS
+determine	determines	TAG=V,TAG=3,TAG=SG,TAG=PRS
+determine	determined	TAG=V,TAG=V.PTCP,TAG=PST
+determine	determine	TAG=V,TAG=NFIN
+determine	determined	TAG=V,TAG=PST
+
+corner	corner	TAG=V,TAG=LEMMA
+corner	cornering	TAG=V,TAG=V.PTCP,TAG=PRS
+corner	corners	TAG=V,TAG=3,TAG=SG,TAG=PRS
+corner	cornered	TAG=V,TAG=V.PTCP,TAG=PST
+corner	corner	TAG=V,TAG=NFIN
+corner	cornered	TAG=V,TAG=PST
+
+loot	loot	TAG=V,TAG=LEMMA
+loot	looting	TAG=V,TAG=V.PTCP,TAG=PRS
+loot	loots	TAG=V,TAG=3,TAG=SG,TAG=PRS
+loot	looted	TAG=V,TAG=V.PTCP,TAG=PST
+loot	loot	TAG=V,TAG=NFIN
+loot	looted	TAG=V,TAG=PST
+
+duet	duet	TAG=V,TAG=LEMMA
+duet	dueting	TAG=V,TAG=V.PTCP,TAG=PRS
+duet	duets	TAG=V,TAG=3,TAG=SG,TAG=PRS
+duet	dueted	TAG=V,TAG=V.PTCP,TAG=PST
+duet	duet	TAG=V,TAG=NFIN
+duet	dueted	TAG=V,TAG=PST
+
+displace	displace	TAG=V,TAG=LEMMA
+displace	displacing	TAG=V,TAG=V.PTCP,TAG=PRS
+displace	displaces	TAG=V,TAG=3,TAG=SG,TAG=PRS
+displace	displaced	TAG=V,TAG=V.PTCP,TAG=PST
+displace	displace	TAG=V,TAG=NFIN
+displace	displaced	TAG=V,TAG=PST
+
+calculate	calculate	TAG=V,TAG=LEMMA
+calculate	calculating	TAG=V,TAG=V.PTCP,TAG=PRS
+calculate	calculates	TAG=V,TAG=3,TAG=SG,TAG=PRS
+calculate	calculated	TAG=V,TAG=V.PTCP,TAG=PST
+calculate	calculate	TAG=V,TAG=NFIN
+calculate	calculated	TAG=V,TAG=PST
+
+insert	insert	TAG=V,TAG=LEMMA
+insert	inserting	TAG=V,TAG=V.PTCP,TAG=PRS
+insert	inserts	TAG=V,TAG=3,TAG=SG,TAG=PRS
+insert	inserted	TAG=V,TAG=V.PTCP,TAG=PST
+insert	insert	TAG=V,TAG=NFIN
+insert	inserted	TAG=V,TAG=PST
+
+ghost	ghost	TAG=V,TAG=LEMMA
+ghost	ghosting	TAG=V,TAG=V.PTCP,TAG=PRS
+ghost	ghosts	TAG=V,TAG=3,TAG=SG,TAG=PRS
+ghost	ghosted	TAG=V,TAG=V.PTCP,TAG=PST
+ghost	ghost	TAG=V,TAG=NFIN
+ghost	ghosted	TAG=V,TAG=PST
+
+card	card	TAG=V,TAG=LEMMA
+card	carding	TAG=V,TAG=V.PTCP,TAG=PRS
+card	cards	TAG=V,TAG=3,TAG=SG,TAG=PRS
+card	carded	TAG=V,TAG=V.PTCP,TAG=PST
+card	card	TAG=V,TAG=NFIN
+card	carded	TAG=V,TAG=PST
+
+facilitate	facilitate	TAG=V,TAG=LEMMA
+facilitate	facilitating	TAG=V,TAG=V.PTCP,TAG=PRS
+facilitate	facilitates	TAG=V,TAG=3,TAG=SG,TAG=PRS
+facilitate	facilitated	TAG=V,TAG=V.PTCP,TAG=PST
+facilitate	facilitate	TAG=V,TAG=NFIN
+facilitate	facilitated	TAG=V,TAG=PST
+
+abandon	abandon	TAG=V,TAG=LEMMA
+abandon	abandoning	TAG=V,TAG=V.PTCP,TAG=PRS
+abandon	abandons	TAG=V,TAG=3,TAG=SG,TAG=PRS
+abandon	abandoned	TAG=V,TAG=V.PTCP,TAG=PST
+abandon	abandon	TAG=V,TAG=NFIN
+abandon	abandoned	TAG=V,TAG=PST
+
+86	86	TAG=V,TAG=LEMMA
+86	86ing	TAG=V,TAG=V.PTCP,TAG=PRS
+86	86es	TAG=V,TAG=3,TAG=SG,TAG=PRS
+86	86ed	TAG=V,TAG=V.PTCP,TAG=PST
+86	86	TAG=V,TAG=NFIN
+86	86ed	TAG=V,TAG=PST
+
+doctor	doctor	TAG=V,TAG=LEMMA
+doctor	doctoring	TAG=V,TAG=V.PTCP,TAG=PRS
+doctor	doctors	TAG=V,TAG=3,TAG=SG,TAG=PRS
+doctor	doctored	TAG=V,TAG=V.PTCP,TAG=PST
+doctor	doctor	TAG=V,TAG=NFIN
+doctor	doctored	TAG=V,TAG=PST
+
+integrate	integrate	TAG=V,TAG=LEMMA
+integrate	integrating	TAG=V,TAG=V.PTCP,TAG=PRS
+integrate	integrates	TAG=V,TAG=3,TAG=SG,TAG=PRS
+integrate	integrated	TAG=V,TAG=V.PTCP,TAG=PST
+integrate	integrate	TAG=V,TAG=NFIN
+integrate	integrated	TAG=V,TAG=PST
+
+inspire	inspire	TAG=V,TAG=LEMMA
+inspire	inspiring	TAG=V,TAG=V.PTCP,TAG=PRS
+inspire	inspires	TAG=V,TAG=3,TAG=SG,TAG=PRS
+inspire	inspired	TAG=V,TAG=V.PTCP,TAG=PST
+inspire	inspire	TAG=V,TAG=NFIN
+inspire	inspired	TAG=V,TAG=PST
+
+grate	grate	TAG=V,TAG=LEMMA
+grate	grating	TAG=V,TAG=V.PTCP,TAG=PRS
+grate	grates	TAG=V,TAG=3,TAG=SG,TAG=PRS
+grate	grated	TAG=V,TAG=V.PTCP,TAG=PST
+grate	grate	TAG=V,TAG=NFIN
+grate	grated	TAG=V,TAG=PST
+
+hedge	hedge	TAG=V,TAG=LEMMA
+hedge	hedging	TAG=V,TAG=V.PTCP,TAG=PRS
+hedge	hedges	TAG=V,TAG=3,TAG=SG,TAG=PRS
+hedge	hedged	TAG=V,TAG=V.PTCP,TAG=PST
+hedge	hedge	TAG=V,TAG=NFIN
+hedge	hedged	TAG=V,TAG=PST
+
+anthem	anthem	TAG=V,TAG=LEMMA
+anthem	antheming	TAG=V,TAG=V.PTCP,TAG=PRS
+anthem	anthems	TAG=V,TAG=3,TAG=SG,TAG=PRS
+anthem	anthemed	TAG=V,TAG=V.PTCP,TAG=PST
+anthem	anthem	TAG=V,TAG=NFIN
+anthem	anthemed	TAG=V,TAG=PST
+
+admin	admin	TAG=V,TAG=LEMMA
+admin	adminning	TAG=V,TAG=V.PTCP,TAG=PRS
+admin	admins	TAG=V,TAG=3,TAG=SG,TAG=PRS
+admin	adminned	TAG=V,TAG=V.PTCP,TAG=PST
+admin	admin	TAG=V,TAG=NFIN
+admin	adminned	TAG=V,TAG=PST
+
+branch	branch	TAG=V,TAG=LEMMA
+branch	branching	TAG=V,TAG=V.PTCP,TAG=PRS
+branch	branches	TAG=V,TAG=3,TAG=SG,TAG=PRS
+branch	branched	TAG=V,TAG=V.PTCP,TAG=PST
+branch	branch	TAG=V,TAG=NFIN
+branch	branched	TAG=V,TAG=PST
+
+farm	farm	TAG=V,TAG=LEMMA
+farm	farming	TAG=V,TAG=V.PTCP,TAG=PRS
+farm	farms	TAG=V,TAG=3,TAG=SG,TAG=PRS
+farm	farmed	TAG=V,TAG=V.PTCP,TAG=PST
+farm	farm	TAG=V,TAG=NFIN
+farm	farmed	TAG=V,TAG=PST
+
+bar	bar	TAG=V,TAG=LEMMA
+bar	barring	TAG=V,TAG=V.PTCP,TAG=PRS
+bar	bars	TAG=V,TAG=3,TAG=SG,TAG=PRS
+bar	barred	TAG=V,TAG=V.PTCP,TAG=PST
+bar	bar	TAG=V,TAG=NFIN
+bar	barred	TAG=V,TAG=PST
+
+capture	capture	TAG=V,TAG=LEMMA
+capture	capturing	TAG=V,TAG=V.PTCP,TAG=PRS
+capture	captures	TAG=V,TAG=3,TAG=SG,TAG=PRS
+capture	captured	TAG=V,TAG=V.PTCP,TAG=PST
+capture	capture	TAG=V,TAG=NFIN
+capture	captured	TAG=V,TAG=PST
+
+contain	contain	TAG=V,TAG=LEMMA
+contain	containing	TAG=V,TAG=V.PTCP,TAG=PRS
+contain	contains	TAG=V,TAG=3,TAG=SG,TAG=PRS
+contain	contained	TAG=V,TAG=V.PTCP,TAG=PST
+contain	contain	TAG=V,TAG=NFIN
+contain	contained	TAG=V,TAG=PST
+
+chapel	chapel	TAG=V,TAG=LEMMA
+chapel	chapelling	TAG=V,TAG=V.PTCP,TAG=PRS
+chapel	chapels	TAG=V,TAG=3,TAG=SG,TAG=PRS
+chapel	chapelled	TAG=V,TAG=V.PTCP,TAG=PST
+chapel	chapel	TAG=V,TAG=NFIN
+chapel	chapelled	TAG=V,TAG=PST
+
+inn	inn	TAG=V,TAG=LEMMA
+inn	inning	TAG=V,TAG=V.PTCP,TAG=PRS
+inn	inns	TAG=V,TAG=3,TAG=SG,TAG=PRS
+inn	inned	TAG=V,TAG=V.PTCP,TAG=PST
+inn	inn	TAG=V,TAG=NFIN
+inn	inned	TAG=V,TAG=PST
+
+establish	establish	TAG=V,TAG=LEMMA
+establish	establishing	TAG=V,TAG=V.PTCP,TAG=PRS
+establish	establishes	TAG=V,TAG=3,TAG=SG,TAG=PRS
+establish	established	TAG=V,TAG=V.PTCP,TAG=PST
+establish	establish	TAG=V,TAG=NFIN
+establish	established	TAG=V,TAG=PST
+
+clutch	clutch	TAG=V,TAG=LEMMA
+clutch	clutching	TAG=V,TAG=V.PTCP,TAG=PRS
+clutch	clutches	TAG=V,TAG=3,TAG=SG,TAG=PRS
+clutch	clutched	TAG=V,TAG=V.PTCP,TAG=PST
+clutch	clutch	TAG=V,TAG=NFIN
+clutch	clutched	TAG=V,TAG=PST
+
+heat	heat	TAG=V,TAG=LEMMA
+heat	heating	TAG=V,TAG=V.PTCP,TAG=PRS
+heat	heats	TAG=V,TAG=3,TAG=SG,TAG=PRS
+heat	heated	TAG=V,TAG=V.PTCP,TAG=PST
+heat	heat	TAG=V,TAG=NFIN
+heat	heated	TAG=V,TAG=PST
+
+architect	architect	TAG=V,TAG=LEMMA
+architect	architecting	TAG=V,TAG=V.PTCP,TAG=PRS
+architect	architects	TAG=V,TAG=3,TAG=SG,TAG=PRS
+architect	architected	TAG=V,TAG=V.PTCP,TAG=PST
+architect	architect	TAG=V,TAG=NFIN
+architect	architected	TAG=V,TAG=PST
+
+commence	commence	TAG=V,TAG=LEMMA
+commence	commencing	TAG=V,TAG=V.PTCP,TAG=PRS
+commence	commences	TAG=V,TAG=3,TAG=SG,TAG=PRS
+commence	commenced	TAG=V,TAG=V.PTCP,TAG=PST
+commence	commence	TAG=V,TAG=NFIN
+commence	commenced	TAG=V,TAG=PST
+
+contest	contest	TAG=V,TAG=LEMMA
+contest	contesting	TAG=V,TAG=V.PTCP,TAG=PRS
+contest	contests	TAG=V,TAG=3,TAG=SG,TAG=PRS
+contest	contested	TAG=V,TAG=V.PTCP,TAG=PST
+contest	contest	TAG=V,TAG=NFIN
+contest	contested	TAG=V,TAG=PST
+
+extend	extend	TAG=V,TAG=LEMMA
+extend	extending	TAG=V,TAG=V.PTCP,TAG=PRS
+extend	extends	TAG=V,TAG=3,TAG=SG,TAG=PRS
+extend	extended	TAG=V,TAG=V.PTCP,TAG=PST
+extend	extend	TAG=V,TAG=NFIN
+extend	extended	TAG=V,TAG=PST
+
+fur	fur	TAG=V,TAG=LEMMA
+fur	furring	TAG=V,TAG=V.PTCP,TAG=PRS
+fur	furs	TAG=V,TAG=3,TAG=SG,TAG=PRS
+fur	furred	TAG=V,TAG=V.PTCP,TAG=PST
+fur	fur	TAG=V,TAG=NFIN
+fur	furred	TAG=V,TAG=PST
+
+cant	cant	TAG=V,TAG=LEMMA
+cant	canting	TAG=V,TAG=V.PTCP,TAG=PRS
+cant	cants	TAG=V,TAG=3,TAG=SG,TAG=PRS
+cant	canted	TAG=V,TAG=V.PTCP,TAG=PST
+cant	cant	TAG=V,TAG=NFIN
+cant	canted	TAG=V,TAG=PST
+
+hot	hot	TAG=V,TAG=LEMMA
+hot	hotting	TAG=V,TAG=V.PTCP,TAG=PRS
+hot	hots	TAG=V,TAG=3,TAG=SG,TAG=PRS
+hot	hotted	TAG=V,TAG=V.PTCP,TAG=PST
+hot	hot	TAG=V,TAG=NFIN
+hot	hotted	TAG=V,TAG=PST
+
+admire	admire	TAG=V,TAG=LEMMA
+admire	admiring	TAG=V,TAG=V.PTCP,TAG=PRS
+admire	admires	TAG=V,TAG=3,TAG=SG,TAG=PRS
+admire	admired	TAG=V,TAG=V.PTCP,TAG=PST
+admire	admire	TAG=V,TAG=NFIN
+admire	admired	TAG=V,TAG=PST
+
+honor	honor	TAG=V,TAG=LEMMA
+honor	honoring	TAG=V,TAG=V.PTCP,TAG=PRS
+honor	honors	TAG=V,TAG=3,TAG=SG,TAG=PRS
+honor	honored	TAG=V,TAG=V.PTCP,TAG=PST
+honor	honor	TAG=V,TAG=NFIN
+honor	honored	TAG=V,TAG=PST
+
+administer	administer	TAG=V,TAG=LEMMA
+administer	administering	TAG=V,TAG=V.PTCP,TAG=PRS
+administer	administers	TAG=V,TAG=3,TAG=SG,TAG=PRS
+administer	administered	TAG=V,TAG=V.PTCP,TAG=PST
+administer	administer	TAG=V,TAG=NFIN
+administer	administered	TAG=V,TAG=PST
+
+commune	commune	TAG=V,TAG=LEMMA
+commune	communing	TAG=V,TAG=V.PTCP,TAG=PRS
+commune	communes	TAG=V,TAG=3,TAG=SG,TAG=PRS
+commune	communed	TAG=V,TAG=V.PTCP,TAG=PST
+commune	commune	TAG=V,TAG=NFIN
+commune	communed	TAG=V,TAG=PST
+
+cask	cask	TAG=V,TAG=LEMMA
+cask	casking	TAG=V,TAG=V.PTCP,TAG=PRS
+cask	casks	TAG=V,TAG=3,TAG=SG,TAG=PRS
+cask	casked	TAG=V,TAG=V.PTCP,TAG=PST
+cask	cask	TAG=V,TAG=NFIN
+cask	casked	TAG=V,TAG=PST
+
+download	download	TAG=V,TAG=LEMMA
+download	downloading	TAG=V,TAG=V.PTCP,TAG=PRS
+download	downloads	TAG=V,TAG=3,TAG=SG,TAG=PRS
+download	downloaded	TAG=V,TAG=V.PTCP,TAG=PST
+download	download	TAG=V,TAG=NFIN
+download	downloaded	TAG=V,TAG=PST
+
+define	define	TAG=V,TAG=LEMMA
+define	defining	TAG=V,TAG=V.PTCP,TAG=PRS
+define	defines	TAG=V,TAG=3,TAG=SG,TAG=PRS
+define	defined	TAG=V,TAG=V.PTCP,TAG=PST
+define	define	TAG=V,TAG=NFIN
+define	defined	TAG=V,TAG=PST
+
+jitter	jitter	TAG=V,TAG=LEMMA
+jitter	jittering	TAG=V,TAG=V.PTCP,TAG=PRS
+jitter	jitters	TAG=V,TAG=3,TAG=SG,TAG=PRS
+jitter	jittered	TAG=V,TAG=V.PTCP,TAG=PST
+jitter	jitter	TAG=V,TAG=NFIN
+jitter	jittered	TAG=V,TAG=PST
+
+newspaper	newspaper	TAG=V,TAG=LEMMA
+newspaper	newspapering	TAG=V,TAG=V.PTCP,TAG=PRS
+newspaper	newspapers	TAG=V,TAG=3,TAG=SG,TAG=PRS
+newspaper	newspapered	TAG=V,TAG=V.PTCP,TAG=PST
+newspaper	newspaper	TAG=V,TAG=NFIN
+newspaper	newspapered	TAG=V,TAG=PST
+
+convene	convene	TAG=V,TAG=LEMMA
+convene	convening	TAG=V,TAG=V.PTCP,TAG=PRS
+convene	convenes	TAG=V,TAG=3,TAG=SG,TAG=PRS
+convene	convened	TAG=V,TAG=V.PTCP,TAG=PST
+convene	convene	TAG=V,TAG=NFIN
+convene	convened	TAG=V,TAG=PST
+
+bone	bone	TAG=V,TAG=LEMMA
+bone	boning	TAG=V,TAG=V.PTCP,TAG=PRS
+bone	bones	TAG=V,TAG=3,TAG=SG,TAG=PRS
+bone	boned	TAG=V,TAG=V.PTCP,TAG=PST
+bone	bone	TAG=V,TAG=NFIN
+bone	boned	TAG=V,TAG=PST
+
+flight	flight	TAG=V,TAG=LEMMA
+flight	flighting	TAG=V,TAG=V.PTCP,TAG=PRS
+flight	flights	TAG=V,TAG=3,TAG=SG,TAG=PRS
+flight	flighted	TAG=V,TAG=V.PTCP,TAG=PST
+flight	flight	TAG=V,TAG=NFIN
+flight	flighted	TAG=V,TAG=PST
+
+corpse	corpse	TAG=V,TAG=LEMMA
+corpse	corpsing	TAG=V,TAG=V.PTCP,TAG=PRS
+corpse	corpses	TAG=V,TAG=3,TAG=SG,TAG=PRS
+corpse	corpsed	TAG=V,TAG=V.PTCP,TAG=PST
+corpse	corpse	TAG=V,TAG=NFIN
+corpse	corpsed	TAG=V,TAG=PST
+
+guest	guest	TAG=V,TAG=LEMMA
+guest	guesting	TAG=V,TAG=V.PTCP,TAG=PRS
+guest	guests	TAG=V,TAG=3,TAG=SG,TAG=PRS
+guest	guested	TAG=V,TAG=V.PTCP,TAG=PST
+guest	guest	TAG=V,TAG=NFIN
+guest	guested	TAG=V,TAG=PST
+
+avoid	avoid	TAG=V,TAG=LEMMA
+avoid	avoiding	TAG=V,TAG=V.PTCP,TAG=PRS
+avoid	avoids	TAG=V,TAG=3,TAG=SG,TAG=PRS
+avoid	avoided	TAG=V,TAG=V.PTCP,TAG=PST
+avoid	avoid	TAG=V,TAG=NFIN
+avoid	avoided	TAG=V,TAG=PST
+
+offshore	offshore	TAG=V,TAG=LEMMA
+offshore	offshoring	TAG=V,TAG=V.PTCP,TAG=PRS
+offshore	offshores	TAG=V,TAG=3,TAG=SG,TAG=PRS
+offshore	offshored	TAG=V,TAG=V.PTCP,TAG=PST
+offshore	offshore	TAG=V,TAG=NFIN
+offshore	offshored	TAG=V,TAG=PST
+
+flavor	flavor	TAG=V,TAG=LEMMA
+flavor	flavoring	TAG=V,TAG=V.PTCP,TAG=PRS
+flavor	flavors	TAG=V,TAG=3,TAG=SG,TAG=PRS
+flavor	flavored	TAG=V,TAG=V.PTCP,TAG=PST
+flavor	flavor	TAG=V,TAG=NFIN
+flavor	flavored	TAG=V,TAG=PST
+
+brief	brief	TAG=V,TAG=LEMMA
+brief	briefing	TAG=V,TAG=V.PTCP,TAG=PRS
+brief	briefs	TAG=V,TAG=3,TAG=SG,TAG=PRS
+brief	briefed	TAG=V,TAG=V.PTCP,TAG=PST
+brief	brief	TAG=V,TAG=NFIN
+brief	briefed	TAG=V,TAG=PST
+
+hurt	hurt	TAG=V,TAG=LEMMA
+hurt	hurting	TAG=V,TAG=V.PTCP,TAG=PRS
+hurt	hurts	TAG=V,TAG=3,TAG=SG,TAG=PRS
+hurt	hurt	TAG=V,TAG=V.PTCP,TAG=PST
+hurt	hurt	TAG=V,TAG=NFIN
+hurt	hurt	TAG=V,TAG=PST
+
+harbor	harbor	TAG=V,TAG=LEMMA
+harbor	harboring	TAG=V,TAG=V.PTCP,TAG=PRS
+harbor	harbors	TAG=V,TAG=3,TAG=SG,TAG=PRS
+harbor	harbored	TAG=V,TAG=V.PTCP,TAG=PST
+harbor	harbor	TAG=V,TAG=NFIN
+harbor	harbored	TAG=V,TAG=PST
+
+auction	auction	TAG=V,TAG=LEMMA
+auction	auctioning	TAG=V,TAG=V.PTCP,TAG=PRS
+auction	auctions	TAG=V,TAG=3,TAG=SG,TAG=PRS
+auction	auctioned	TAG=V,TAG=V.PTCP,TAG=PST
+auction	auction	TAG=V,TAG=NFIN
+auction	auctioned	TAG=V,TAG=PST
+
+emerge	emerge	TAG=V,TAG=LEMMA
+emerge	emerging	TAG=V,TAG=V.PTCP,TAG=PRS
+emerge	emerges	TAG=V,TAG=3,TAG=SG,TAG=PRS
+emerge	emerged	TAG=V,TAG=V.PTCP,TAG=PST
+emerge	emerge	TAG=V,TAG=NFIN
+emerge	emerged	TAG=V,TAG=PST
+
+lunch	lunch	TAG=V,TAG=LEMMA
+lunch	lunching	TAG=V,TAG=V.PTCP,TAG=PRS
+lunch	lunches	TAG=V,TAG=3,TAG=SG,TAG=PRS
+lunch	lunched	TAG=V,TAG=V.PTCP,TAG=PST
+lunch	lunch	TAG=V,TAG=NFIN
+lunch	lunched	TAG=V,TAG=PST
+
+freelance	freelance	TAG=V,TAG=LEMMA
+freelance	freelancing	TAG=V,TAG=V.PTCP,TAG=PRS
+freelance	freelances	TAG=V,TAG=3,TAG=SG,TAG=PRS
+freelance	freelanced	TAG=V,TAG=V.PTCP,TAG=PST
+freelance	freelance	TAG=V,TAG=NFIN
+freelance	freelanced	TAG=V,TAG=PST
+
+jet	jet	TAG=V,TAG=LEMMA
+jet	jetting	TAG=V,TAG=V.PTCP,TAG=PRS
+jet	jets	TAG=V,TAG=3,TAG=SG,TAG=PRS
+jet	jetted	TAG=V,TAG=V.PTCP,TAG=PST
+jet	jet	TAG=V,TAG=NFIN
+jet	jetted	TAG=V,TAG=PST
+
+exhaust	exhaust	TAG=V,TAG=LEMMA
+exhaust	exhausting	TAG=V,TAG=V.PTCP,TAG=PRS
+exhaust	exhausts	TAG=V,TAG=3,TAG=SG,TAG=PRS
+exhaust	exhausted	TAG=V,TAG=V.PTCP,TAG=PST
+exhaust	exhaust	TAG=V,TAG=NFIN
+exhaust	exhausted	TAG=V,TAG=PST
+
+conference	conference	TAG=V,TAG=LEMMA
+conference	conferencing	TAG=V,TAG=V.PTCP,TAG=PRS
+conference	conferences	TAG=V,TAG=3,TAG=SG,TAG=PRS
+conference	conferenced	TAG=V,TAG=V.PTCP,TAG=PST
+conference	conference	TAG=V,TAG=NFIN
+conference	conferenced	TAG=V,TAG=PST
+
+exercise	exercise	TAG=V,TAG=LEMMA
+exercise	exercising	TAG=V,TAG=V.PTCP,TAG=PRS
+exercise	exercises	TAG=V,TAG=3,TAG=SG,TAG=PRS
+exercise	exercised	TAG=V,TAG=V.PTCP,TAG=PST
+exercise	exercise	TAG=V,TAG=NFIN
+exercise	exercised	TAG=V,TAG=PST
+
+debut	debut	TAG=V,TAG=LEMMA
+debut	debuting	TAG=V,TAG=V.PTCP,TAG=PRS
+debut	debuts	TAG=V,TAG=3,TAG=SG,TAG=PRS
+debut	debuted	TAG=V,TAG=V.PTCP,TAG=PST
+debut	debut	TAG=V,TAG=NFIN
+debut	debuted	TAG=V,TAG=PST
+
+organize	organize	TAG=V,TAG=LEMMA
+organize	organizing	TAG=V,TAG=V.PTCP,TAG=PRS
+organize	organizes	TAG=V,TAG=3,TAG=SG,TAG=PRS
+organize	organized	TAG=V,TAG=V.PTCP,TAG=PST
+organize	organize	TAG=V,TAG=NFIN
+organize	organized	TAG=V,TAG=PST
+
+egg	egg	TAG=V,TAG=LEMMA
+egg	egging	TAG=V,TAG=V.PTCP,TAG=PRS
+egg	eggs	TAG=V,TAG=3,TAG=SG,TAG=PRS
+egg	egged	TAG=V,TAG=V.PTCP,TAG=PST
+egg	egg	TAG=V,TAG=NFIN
+egg	egged	TAG=V,TAG=PST
+
+hijack	hijack	TAG=V,TAG=LEMMA
+hijack	hijacking	TAG=V,TAG=V.PTCP,TAG=PRS
+hijack	hijacks	TAG=V,TAG=3,TAG=SG,TAG=PRS
+hijack	hijacked	TAG=V,TAG=V.PTCP,TAG=PST
+hijack	hijack	TAG=V,TAG=NFIN
+hijack	hijacked	TAG=V,TAG=PST
+
+disprove	disprove	TAG=V,TAG=LEMMA
+disprove	disproving	TAG=V,TAG=V.PTCP,TAG=PRS
+disprove	disproves	TAG=V,TAG=3,TAG=SG,TAG=PRS
+disprove	disproven	TAG=V,TAG=V.PTCP,TAG=PST
+disprove	disprove	TAG=V,TAG=NFIN
+disprove	disproved	TAG=V,TAG=PST
+
+annex	annex	TAG=V,TAG=LEMMA
+annex	annexing	TAG=V,TAG=V.PTCP,TAG=PRS
+annex	annexes	TAG=V,TAG=3,TAG=SG,TAG=PRS
+annex	annexed	TAG=V,TAG=V.PTCP,TAG=PST
+annex	annex	TAG=V,TAG=NFIN
+annex	annexed	TAG=V,TAG=PST
+
+duplicate	duplicate	TAG=V,TAG=LEMMA
+duplicate	duplicating	TAG=V,TAG=V.PTCP,TAG=PRS
+duplicate	duplicates	TAG=V,TAG=3,TAG=SG,TAG=PRS
+duplicate	duplicated	TAG=V,TAG=V.PTCP,TAG=PST
+duplicate	duplicate	TAG=V,TAG=NFIN
+duplicate	duplicated	TAG=V,TAG=PST
+
+assist	assist	TAG=V,TAG=LEMMA
+assist	assisting	TAG=V,TAG=V.PTCP,TAG=PRS
+assist	assists	TAG=V,TAG=3,TAG=SG,TAG=PRS
+assist	assisted	TAG=V,TAG=V.PTCP,TAG=PST
+assist	assist	TAG=V,TAG=NFIN
+assist	assisted	TAG=V,TAG=PST
+
+affiliate	affiliate	TAG=V,TAG=LEMMA
+affiliate	affiliating	TAG=V,TAG=V.PTCP,TAG=PRS
+affiliate	affiliates	TAG=V,TAG=3,TAG=SG,TAG=PRS
+affiliate	affiliated	TAG=V,TAG=V.PTCP,TAG=PST
+affiliate	affiliate	TAG=V,TAG=NFIN
+affiliate	affiliated	TAG=V,TAG=PST
+
+downfall	downfall	TAG=V,TAG=LEMMA
+downfall	downfalling	TAG=V,TAG=V.PTCP,TAG=PRS
+downfall	downfalls	TAG=V,TAG=3,TAG=SG,TAG=PRS
+downfall	downfallen	TAG=V,TAG=V.PTCP,TAG=PST
+downfall	downfall	TAG=V,TAG=NFIN
+downfall	downfell	TAG=V,TAG=PST
+
+flex	flex	TAG=V,TAG=LEMMA
+flex	flexing	TAG=V,TAG=V.PTCP,TAG=PRS
+flex	flexes	TAG=V,TAG=3,TAG=SG,TAG=PRS
+flex	flexed	TAG=V,TAG=V.PTCP,TAG=PST
+flex	flex	TAG=V,TAG=NFIN
+flex	flexed	TAG=V,TAG=PST
+
+divide	divide	TAG=V,TAG=LEMMA
+divide	dividing	TAG=V,TAG=V.PTCP,TAG=PRS
+divide	divides	TAG=V,TAG=3,TAG=SG,TAG=PRS
+divide	divided	TAG=V,TAG=V.PTCP,TAG=PST
+divide	divide	TAG=V,TAG=NFIN
+divide	divided	TAG=V,TAG=PST
+
+knuckle	knuckle	TAG=V,TAG=LEMMA
+knuckle	knuckling	TAG=V,TAG=V.PTCP,TAG=PRS
+knuckle	knuckles	TAG=V,TAG=3,TAG=SG,TAG=PRS
+knuckle	knuckled	TAG=V,TAG=V.PTCP,TAG=PST
+knuckle	knuckle	TAG=V,TAG=NFIN
+knuckle	knuckled	TAG=V,TAG=PST
+
+elicit	elicit	TAG=V,TAG=LEMMA
+elicit	eliciting	TAG=V,TAG=V.PTCP,TAG=PRS
+elicit	elicits	TAG=V,TAG=3,TAG=SG,TAG=PRS
+elicit	elicited	TAG=V,TAG=V.PTCP,TAG=PST
+elicit	elicit	TAG=V,TAG=NFIN
+elicit	elicited	TAG=V,TAG=PST
+
+crater	crater	TAG=V,TAG=LEMMA
+crater	cratering	TAG=V,TAG=V.PTCP,TAG=PRS
+crater	craters	TAG=V,TAG=3,TAG=SG,TAG=PRS
+crater	cratered	TAG=V,TAG=V.PTCP,TAG=PST
+crater	crater	TAG=V,TAG=NFIN
+crater	cratered	TAG=V,TAG=PST
+
+attract	attract	TAG=V,TAG=LEMMA
+attract	attracting	TAG=V,TAG=V.PTCP,TAG=PRS
+attract	attracts	TAG=V,TAG=3,TAG=SG,TAG=PRS
+attract	attracted	TAG=V,TAG=V.PTCP,TAG=PST
+attract	attract	TAG=V,TAG=NFIN
+attract	attracted	TAG=V,TAG=PST
+
+defend	defend	TAG=V,TAG=LEMMA
+defend	defending	TAG=V,TAG=V.PTCP,TAG=PRS
+defend	defends	TAG=V,TAG=3,TAG=SG,TAG=PRS
+defend	defended	TAG=V,TAG=V.PTCP,TAG=PST
+defend	defend	TAG=V,TAG=NFIN
+defend	defended	TAG=V,TAG=PST
+
+caucus	caucus	TAG=V,TAG=LEMMA
+caucus	caucusing	TAG=V,TAG=V.PTCP,TAG=PRS
+caucus	caucuses	TAG=V,TAG=3,TAG=SG,TAG=PRS
+caucus	caucused	TAG=V,TAG=V.PTCP,TAG=PST
+caucus	caucus	TAG=V,TAG=NFIN
+caucus	caucused	TAG=V,TAG=PST
+
+coyote	coyote	TAG=V,TAG=LEMMA
+coyote	coyoting	TAG=V,TAG=V.PTCP,TAG=PRS
+coyote	coyotes	TAG=V,TAG=3,TAG=SG,TAG=PRS
+coyote	coyoted	TAG=V,TAG=V.PTCP,TAG=PST
+coyote	coyote	TAG=V,TAG=NFIN
+coyote	coyoted	TAG=V,TAG=PST
+
+carve	carve	TAG=V,TAG=LEMMA
+carve	carving	TAG=V,TAG=V.PTCP,TAG=PRS
+carve	carves	TAG=V,TAG=3,TAG=SG,TAG=PRS
+carve	corven	TAG=V,TAG=V.PTCP,TAG=PST
+carve	carve	TAG=V,TAG=NFIN
+carve	corve	TAG=V,TAG=PST
+
+garrison	garrison	TAG=V,TAG=LEMMA
+garrison	garrisoning	TAG=V,TAG=V.PTCP,TAG=PRS
+garrison	garrisons	TAG=V,TAG=3,TAG=SG,TAG=PRS
+garrison	garrisoned	TAG=V,TAG=V.PTCP,TAG=PST
+garrison	garrison	TAG=V,TAG=NFIN
+garrison	garrisoned	TAG=V,TAG=PST
+
+argue	argue	TAG=V,TAG=LEMMA
+argue	arguing	TAG=V,TAG=V.PTCP,TAG=PRS
+argue	argues	TAG=V,TAG=3,TAG=SG,TAG=PRS
+argue	argued	TAG=V,TAG=V.PTCP,TAG=PST
+argue	argue	TAG=V,TAG=NFIN
+argue	argued	TAG=V,TAG=PST
+
+disk	disk	TAG=V,TAG=LEMMA
+disk	disking	TAG=V,TAG=V.PTCP,TAG=PRS
+disk	disks	TAG=V,TAG=3,TAG=SG,TAG=PRS
+disk	disked	TAG=V,TAG=V.PTCP,TAG=PST
+disk	disk	TAG=V,TAG=NFIN
+disk	disked	TAG=V,TAG=PST
+
+grow	grow	TAG=V,TAG=LEMMA
+grow	growing	TAG=V,TAG=V.PTCP,TAG=PRS
+grow	grows	TAG=V,TAG=3,TAG=SG,TAG=PRS
+grow	grown	TAG=V,TAG=V.PTCP,TAG=PST
+grow	grow	TAG=V,TAG=NFIN
+grow	grew	TAG=V,TAG=PST
+
+cinder	cinder	TAG=V,TAG=LEMMA
+cinder	cindering	TAG=V,TAG=V.PTCP,TAG=PRS
+cinder	cinders	TAG=V,TAG=3,TAG=SG,TAG=PRS
+cinder	cindered	TAG=V,TAG=V.PTCP,TAG=PST
+cinder	cinder	TAG=V,TAG=NFIN
+cinder	cindered	TAG=V,TAG=PST
+
+barrage	barrage	TAG=V,TAG=LEMMA
+barrage	barraging	TAG=V,TAG=V.PTCP,TAG=PRS
+barrage	barrages	TAG=V,TAG=3,TAG=SG,TAG=PRS
+barrage	barraged	TAG=V,TAG=V.PTCP,TAG=PST
+barrage	barrage	TAG=V,TAG=NFIN
+barrage	barraged	TAG=V,TAG=PST
+
+cloister	cloister	TAG=V,TAG=LEMMA
+cloister	cloistering	TAG=V,TAG=V.PTCP,TAG=PRS
+cloister	cloisters	TAG=V,TAG=3,TAG=SG,TAG=PRS
+cloister	cloistered	TAG=V,TAG=V.PTCP,TAG=PST
+cloister	cloister	TAG=V,TAG=NFIN
+cloister	cloistered	TAG=V,TAG=PST
+
+layer	layer	TAG=V,TAG=LEMMA
+layer	layering	TAG=V,TAG=V.PTCP,TAG=PRS
+layer	layers	TAG=V,TAG=3,TAG=SG,TAG=PRS
+layer	layered	TAG=V,TAG=V.PTCP,TAG=PST
+layer	layer	TAG=V,TAG=NFIN
+layer	layered	TAG=V,TAG=PST
+
+nanny	nanny	TAG=V,TAG=LEMMA
+nanny	nannying	TAG=V,TAG=V.PTCP,TAG=PRS
+nanny	nannies	TAG=V,TAG=3,TAG=SG,TAG=PRS
+nanny	nannied	TAG=V,TAG=V.PTCP,TAG=PST
+nanny	nanny	TAG=V,TAG=NFIN
+nanny	nannied	TAG=V,TAG=PST
+
+Miranda	Miranda	TAG=V,TAG=LEMMA
+Miranda	Mirandaing	TAG=V,TAG=V.PTCP,TAG=PRS
+Miranda	Mirandas	TAG=V,TAG=3,TAG=SG,TAG=PRS
+Miranda	Mirandaed	TAG=V,TAG=V.PTCP,TAG=PST
+Miranda	Miranda	TAG=V,TAG=NFIN
+Miranda	Mirandaed	TAG=V,TAG=PST
+
+clash	clash	TAG=V,TAG=LEMMA
+clash	clashing	TAG=V,TAG=V.PTCP,TAG=PRS
+clash	clashes	TAG=V,TAG=3,TAG=SG,TAG=PRS
+clash	clashed	TAG=V,TAG=V.PTCP,TAG=PST
+clash	clash	TAG=V,TAG=NFIN
+clash	clashed	TAG=V,TAG=PST
+
+bully	bully	TAG=V,TAG=LEMMA
+bully	bullying	TAG=V,TAG=V.PTCP,TAG=PRS
+bully	bullies	TAG=V,TAG=3,TAG=SG,TAG=PRS
+bully	bullied	TAG=V,TAG=V.PTCP,TAG=PST
+bully	bully	TAG=V,TAG=NFIN
+bully	bullied	TAG=V,TAG=PST
+
+interdict	interdict	TAG=V,TAG=LEMMA
+interdict	interdicting	TAG=V,TAG=V.PTCP,TAG=PRS
+interdict	interdicts	TAG=V,TAG=3,TAG=SG,TAG=PRS
+interdict	interdicted	TAG=V,TAG=V.PTCP,TAG=PST
+interdict	interdict	TAG=V,TAG=NFIN
+interdict	interdicted	TAG=V,TAG=PST
+
+grant	grant	TAG=V,TAG=LEMMA
+grant	granting	TAG=V,TAG=V.PTCP,TAG=PRS
+grant	grants	TAG=V,TAG=3,TAG=SG,TAG=PRS
+grant	granted	TAG=V,TAG=V.PTCP,TAG=PST
+grant	grant	TAG=V,TAG=NFIN
+grant	granted	TAG=V,TAG=PST
+
+expend	expend	TAG=V,TAG=LEMMA
+expend	expending	TAG=V,TAG=V.PTCP,TAG=PRS
+expend	expends	TAG=V,TAG=3,TAG=SG,TAG=PRS
+expend	expended	TAG=V,TAG=V.PTCP,TAG=PST
+expend	expend	TAG=V,TAG=NFIN
+expend	expended	TAG=V,TAG=PST
+
+batch	batch	TAG=V,TAG=LEMMA
+batch	batching	TAG=V,TAG=V.PTCP,TAG=PRS
+batch	batches	TAG=V,TAG=3,TAG=SG,TAG=PRS
+batch	batched	TAG=V,TAG=V.PTCP,TAG=PST
+batch	batch	TAG=V,TAG=NFIN
+batch	batched	TAG=V,TAG=PST
+
+dish	dish	TAG=V,TAG=LEMMA
+dish	dishing	TAG=V,TAG=V.PTCP,TAG=PRS
+dish	dishes	TAG=V,TAG=3,TAG=SG,TAG=PRS
+dish	dished	TAG=V,TAG=V.PTCP,TAG=PST
+dish	dish	TAG=V,TAG=NFIN
+dish	dished	TAG=V,TAG=PST
+
+castle	castle	TAG=V,TAG=LEMMA
+castle	castling	TAG=V,TAG=V.PTCP,TAG=PRS
+castle	castles	TAG=V,TAG=3,TAG=SG,TAG=PRS
+castle	castled	TAG=V,TAG=V.PTCP,TAG=PST
+castle	castle	TAG=V,TAG=NFIN
+castle	castled	TAG=V,TAG=PST
+
+helicopter	helicopter	TAG=V,TAG=LEMMA
+helicopter	helicoptering	TAG=V,TAG=V.PTCP,TAG=PRS
+helicopter	helicopters	TAG=V,TAG=3,TAG=SG,TAG=PRS
+helicopter	helicoptered	TAG=V,TAG=V.PTCP,TAG=PST
+helicopter	helicopter	TAG=V,TAG=NFIN
+helicopter	helicoptered	TAG=V,TAG=PST
+
+DJ	DJ	TAG=V,TAG=LEMMA
+DJ	DJing	TAG=V,TAG=V.PTCP,TAG=PRS
+DJ	DJs	TAG=V,TAG=3,TAG=SG,TAG=PRS
+DJ	DJed	TAG=V,TAG=V.PTCP,TAG=PST
+DJ	DJ	TAG=V,TAG=NFIN
+DJ	DJed	TAG=V,TAG=PST
+
+ambush	ambush	TAG=V,TAG=LEMMA
+ambush	ambushing	TAG=V,TAG=V.PTCP,TAG=PRS
+ambush	ambushes	TAG=V,TAG=3,TAG=SG,TAG=PRS
+ambush	ambushed	TAG=V,TAG=V.PTCP,TAG=PST
+ambush	ambush	TAG=V,TAG=NFIN
+ambush	ambushed	TAG=V,TAG=PST
+
+comprise	comprise	TAG=V,TAG=LEMMA
+comprise	comprising	TAG=V,TAG=V.PTCP,TAG=PRS
+comprise	comprises	TAG=V,TAG=3,TAG=SG,TAG=PRS
+comprise	comprised	TAG=V,TAG=V.PTCP,TAG=PST
+comprise	comprise	TAG=V,TAG=NFIN
+comprise	comprised	TAG=V,TAG=PST
+
+engine	engine	TAG=V,TAG=LEMMA
+engine	engining	TAG=V,TAG=V.PTCP,TAG=PRS
+engine	engines	TAG=V,TAG=3,TAG=SG,TAG=PRS
+engine	engined	TAG=V,TAG=V.PTCP,TAG=PST
+engine	engine	TAG=V,TAG=NFIN
+engine	engined	TAG=V,TAG=PST
+
+ensue	ensue	TAG=V,TAG=LEMMA
+ensue	ensuing	TAG=V,TAG=V.PTCP,TAG=PRS
+ensue	ensues	TAG=V,TAG=3,TAG=SG,TAG=PRS
+ensue	ensued	TAG=V,TAG=V.PTCP,TAG=PST
+ensue	ensue	TAG=V,TAG=NFIN
+ensue	ensued	TAG=V,TAG=PST
+
+loam	loam	TAG=V,TAG=LEMMA
+loam	loaming	TAG=V,TAG=V.PTCP,TAG=PRS
+loam	loams	TAG=V,TAG=3,TAG=SG,TAG=PRS
+loam	loamed	TAG=V,TAG=V.PTCP,TAG=PST
+loam	loam	TAG=V,TAG=NFIN
+loam	loamed	TAG=V,TAG=PST
+
+mourn	mourn	TAG=V,TAG=LEMMA
+mourn	mourning	TAG=V,TAG=V.PTCP,TAG=PRS
+mourn	mourns	TAG=V,TAG=3,TAG=SG,TAG=PRS
+mourn	mourned	TAG=V,TAG=V.PTCP,TAG=PST
+mourn	mourn	TAG=V,TAG=NFIN
+mourn	mourned	TAG=V,TAG=PST
+
+brawl	brawl	TAG=V,TAG=LEMMA
+brawl	brawling	TAG=V,TAG=V.PTCP,TAG=PRS
+brawl	brawls	TAG=V,TAG=3,TAG=SG,TAG=PRS
+brawl	brawled	TAG=V,TAG=V.PTCP,TAG=PST
+brawl	brawl	TAG=V,TAG=NFIN
+brawl	brawled	TAG=V,TAG=PST
+
+discover	discover	TAG=V,TAG=LEMMA
+discover	discovering	TAG=V,TAG=V.PTCP,TAG=PRS
+discover	discovers	TAG=V,TAG=3,TAG=SG,TAG=PRS
+discover	discovered	TAG=V,TAG=V.PTCP,TAG=PST
+discover	discover	TAG=V,TAG=NFIN
+discover	discovered	TAG=V,TAG=PST
+
+metre	metre	TAG=V,TAG=LEMMA
+metre	metring	TAG=V,TAG=V.PTCP,TAG=PRS
+metre	metres	TAG=V,TAG=3,TAG=SG,TAG=PRS
+metre	metred	TAG=V,TAG=V.PTCP,TAG=PST
+metre	metre	TAG=V,TAG=NFIN
+metre	metred	TAG=V,TAG=PST
+
+escort	escort	TAG=V,TAG=LEMMA
+escort	escorting	TAG=V,TAG=V.PTCP,TAG=PRS
+escort	escorts	TAG=V,TAG=3,TAG=SG,TAG=PRS
+escort	escorted	TAG=V,TAG=V.PTCP,TAG=PST
+escort	escort	TAG=V,TAG=NFIN
+escort	escorted	TAG=V,TAG=PST
+
+manufacture	manufacture	TAG=V,TAG=LEMMA
+manufacture	manufacturing	TAG=V,TAG=V.PTCP,TAG=PRS
+manufacture	manufactures	TAG=V,TAG=3,TAG=SG,TAG=PRS
+manufacture	manufactured	TAG=V,TAG=V.PTCP,TAG=PST
+manufacture	manufacture	TAG=V,TAG=NFIN
+manufacture	manufactured	TAG=V,TAG=PST
+
+busy	busy	TAG=V,TAG=LEMMA
+busy	busying	TAG=V,TAG=V.PTCP,TAG=PRS
+busy	busies	TAG=V,TAG=3,TAG=SG,TAG=PRS
+busy	busied	TAG=V,TAG=V.PTCP,TAG=PST
+busy	busy	TAG=V,TAG=NFIN
+busy	busied	TAG=V,TAG=PST
+
+frog	frog	TAG=V,TAG=LEMMA
+frog	frogging	TAG=V,TAG=V.PTCP,TAG=PRS
+frog	frogs	TAG=V,TAG=3,TAG=SG,TAG=PRS
+frog	frogged	TAG=V,TAG=V.PTCP,TAG=PST
+frog	frog	TAG=V,TAG=NFIN
+frog	frogged	TAG=V,TAG=PST
+
+mules	mules	TAG=V,TAG=LEMMA
+mules	mulesing	TAG=V,TAG=V.PTCP,TAG=PRS
+mules	muleses	TAG=V,TAG=3,TAG=SG,TAG=PRS
+mules	mulesed	TAG=V,TAG=V.PTCP,TAG=PST
+mules	mules	TAG=V,TAG=NFIN
+mules	mulesed	TAG=V,TAG=PST
+
+avalanche	avalanche	TAG=V,TAG=LEMMA
+avalanche	avalanching	TAG=V,TAG=V.PTCP,TAG=PRS
+avalanche	avalanches	TAG=V,TAG=3,TAG=SG,TAG=PRS
+avalanche	avalanched	TAG=V,TAG=V.PTCP,TAG=PST
+avalanche	avalanche	TAG=V,TAG=NFIN
+avalanche	avalanched	TAG=V,TAG=PST
+
+brigade	brigade	TAG=V,TAG=LEMMA
+brigade	brigading	TAG=V,TAG=V.PTCP,TAG=PRS
+brigade	brigades	TAG=V,TAG=3,TAG=SG,TAG=PRS
+brigade	brigaded	TAG=V,TAG=V.PTCP,TAG=PST
+brigade	brigade	TAG=V,TAG=NFIN
+brigade	brigaded	TAG=V,TAG=PST
+
+decrease	decrease	TAG=V,TAG=LEMMA
+decrease	decreasing	TAG=V,TAG=V.PTCP,TAG=PRS
+decrease	decreases	TAG=V,TAG=3,TAG=SG,TAG=PRS
+decrease	decreased	TAG=V,TAG=V.PTCP,TAG=PST
+decrease	decrease	TAG=V,TAG=NFIN
+decrease	decreased	TAG=V,TAG=PST
+
+bell	bell	TAG=V,TAG=LEMMA
+bell	belling	TAG=V,TAG=V.PTCP,TAG=PRS
+bell	bells	TAG=V,TAG=3,TAG=SG,TAG=PRS
+bell	belled	TAG=V,TAG=V.PTCP,TAG=PST
+bell	bell	TAG=V,TAG=NFIN
+bell	belled	TAG=V,TAG=PST
+
+fuel	fuel	TAG=V,TAG=LEMMA
+fuel	fuelling	TAG=V,TAG=V.PTCP,TAG=PRS
+fuel	fuels	TAG=V,TAG=3,TAG=SG,TAG=PRS
+fuel	fuelled	TAG=V,TAG=V.PTCP,TAG=PST
+fuel	fuel	TAG=V,TAG=NFIN
+fuel	fuelled	TAG=V,TAG=PST
+
+narrow	narrow	TAG=V,TAG=LEMMA
+narrow	narrowing	TAG=V,TAG=V.PTCP,TAG=PRS
+narrow	narrows	TAG=V,TAG=3,TAG=SG,TAG=PRS
+narrow	narrowed	TAG=V,TAG=V.PTCP,TAG=PST
+narrow	narrow	TAG=V,TAG=NFIN
+narrow	narrowed	TAG=V,TAG=PST
+
+cohost	cohost	TAG=V,TAG=LEMMA
+cohost	cohosting	TAG=V,TAG=V.PTCP,TAG=PRS
+cohost	cohosts	TAG=V,TAG=3,TAG=SG,TAG=PRS
+cohost	cohosted	TAG=V,TAG=V.PTCP,TAG=PST
+cohost	cohost	TAG=V,TAG=NFIN
+cohost	cohosted	TAG=V,TAG=PST
+
+muddy	muddy	TAG=V,TAG=LEMMA
+muddy	muddying	TAG=V,TAG=V.PTCP,TAG=PRS
+muddy	muddies	TAG=V,TAG=3,TAG=SG,TAG=PRS
+muddy	muddied	TAG=V,TAG=V.PTCP,TAG=PST
+muddy	muddy	TAG=V,TAG=NFIN
+muddy	muddied	TAG=V,TAG=PST
+
+implode	implode	TAG=V,TAG=LEMMA
+implode	imploding	TAG=V,TAG=V.PTCP,TAG=PRS
+implode	implodes	TAG=V,TAG=3,TAG=SG,TAG=PRS
+implode	imploded	TAG=V,TAG=V.PTCP,TAG=PST
+implode	implode	TAG=V,TAG=NFIN
+implode	imploded	TAG=V,TAG=PST
+
+fortress	fortress	TAG=V,TAG=LEMMA
+fortress	fortressing	TAG=V,TAG=V.PTCP,TAG=PRS
+fortress	fortresses	TAG=V,TAG=3,TAG=SG,TAG=PRS
+fortress	fortressed	TAG=V,TAG=V.PTCP,TAG=PST
+fortress	fortress	TAG=V,TAG=NFIN
+fortress	fortressed	TAG=V,TAG=PST
+
+crack	crack	TAG=V,TAG=LEMMA
+crack	cracking	TAG=V,TAG=V.PTCP,TAG=PRS
+crack	cracks	TAG=V,TAG=3,TAG=SG,TAG=PRS
+crack	cracked	TAG=V,TAG=V.PTCP,TAG=PST
+crack	crack	TAG=V,TAG=NFIN
+crack	cracked	TAG=V,TAG=PST
+
+laser	laser	TAG=V,TAG=LEMMA
+laser	lasering	TAG=V,TAG=V.PTCP,TAG=PRS
+laser	lasers	TAG=V,TAG=3,TAG=SG,TAG=PRS
+laser	lasered	TAG=V,TAG=V.PTCP,TAG=PST
+laser	laser	TAG=V,TAG=NFIN
+laser	lasered	TAG=V,TAG=PST
+
+jacket	jacket	TAG=V,TAG=LEMMA
+jacket	jacketing	TAG=V,TAG=V.PTCP,TAG=PRS
+jacket	jackets	TAG=V,TAG=3,TAG=SG,TAG=PRS
+jacket	jacketed	TAG=V,TAG=V.PTCP,TAG=PST
+jacket	jacket	TAG=V,TAG=NFIN
+jacket	jacketed	TAG=V,TAG=PST
+
+implicate	implicate	TAG=V,TAG=LEMMA
+implicate	implicating	TAG=V,TAG=V.PTCP,TAG=PRS
+implicate	implicates	TAG=V,TAG=3,TAG=SG,TAG=PRS
+implicate	implicated	TAG=V,TAG=V.PTCP,TAG=PST
+implicate	implicate	TAG=V,TAG=NFIN
+implicate	implicated	TAG=V,TAG=PST
+
+acknowledge	acknowledge	TAG=V,TAG=LEMMA
+acknowledge	acknowledging	TAG=V,TAG=V.PTCP,TAG=PRS
+acknowledge	acknowledges	TAG=V,TAG=3,TAG=SG,TAG=PRS
+acknowledge	acknowledged	TAG=V,TAG=V.PTCP,TAG=PST
+acknowledge	acknowledge	TAG=V,TAG=NFIN
+acknowledge	acknowledged	TAG=V,TAG=PST
+
+interchange	interchange	TAG=V,TAG=LEMMA
+interchange	interchanging	TAG=V,TAG=V.PTCP,TAG=PRS
+interchange	interchanges	TAG=V,TAG=3,TAG=SG,TAG=PRS
+interchange	interchanged	TAG=V,TAG=V.PTCP,TAG=PST
+interchange	interchange	TAG=V,TAG=NFIN
+interchange	interchanged	TAG=V,TAG=PST
+
+generate	generate	TAG=V,TAG=LEMMA
+generate	generating	TAG=V,TAG=V.PTCP,TAG=PRS
+generate	generates	TAG=V,TAG=3,TAG=SG,TAG=PRS
+generate	generated	TAG=V,TAG=V.PTCP,TAG=PST
+generate	generate	TAG=V,TAG=NFIN
+generate	generated	TAG=V,TAG=PST
+
+bike	bike	TAG=V,TAG=LEMMA
+bike	biking	TAG=V,TAG=V.PTCP,TAG=PRS
+bike	bikes	TAG=V,TAG=3,TAG=SG,TAG=PRS
+bike	biked	TAG=V,TAG=V.PTCP,TAG=PST
+bike	bike	TAG=V,TAG=NFIN
+bike	biked	TAG=V,TAG=PST
+
+enjoy	enjoy	TAG=V,TAG=LEMMA
+enjoy	enjoying	TAG=V,TAG=V.PTCP,TAG=PRS
+enjoy	enjoys	TAG=V,TAG=3,TAG=SG,TAG=PRS
+enjoy	enjoyed	TAG=V,TAG=V.PTCP,TAG=PST
+enjoy	enjoy	TAG=V,TAG=NFIN
+enjoy	enjoyed	TAG=V,TAG=PST
+
+beast	beast	TAG=V,TAG=LEMMA
+beast	beasting	TAG=V,TAG=V.PTCP,TAG=PRS
+beast	beasts	TAG=V,TAG=3,TAG=SG,TAG=PRS
+beast	beasted	TAG=V,TAG=V.PTCP,TAG=PST
+beast	beast	TAG=V,TAG=NFIN
+beast	beasted	TAG=V,TAG=PST
+
+interface	interface	TAG=V,TAG=LEMMA
+interface	interfacing	TAG=V,TAG=V.PTCP,TAG=PRS
+interface	interfaces	TAG=V,TAG=3,TAG=SG,TAG=PRS
+interface	interfaced	TAG=V,TAG=V.PTCP,TAG=PST
+interface	interface	TAG=V,TAG=NFIN
+interface	interfaced	TAG=V,TAG=PST
+
+divert	divert	TAG=V,TAG=LEMMA
+divert	diverting	TAG=V,TAG=V.PTCP,TAG=PRS
+divert	diverts	TAG=V,TAG=3,TAG=SG,TAG=PRS
+divert	diverted	TAG=V,TAG=V.PTCP,TAG=PST
+divert	divert	TAG=V,TAG=NFIN
+divert	diverted	TAG=V,TAG=PST
+
+embark	embark	TAG=V,TAG=LEMMA
+embark	embarking	TAG=V,TAG=V.PTCP,TAG=PRS
+embark	embarks	TAG=V,TAG=3,TAG=SG,TAG=PRS
+embark	embarked	TAG=V,TAG=V.PTCP,TAG=PST
+embark	embark	TAG=V,TAG=NFIN
+embark	embarked	TAG=V,TAG=PST
+
+hoof	hoof	TAG=V,TAG=LEMMA
+hoof	hoofing	TAG=V,TAG=V.PTCP,TAG=PRS
+hoof	hoofs	TAG=V,TAG=3,TAG=SG,TAG=PRS
+hoof	hoofed	TAG=V,TAG=V.PTCP,TAG=PST
+hoof	hoof	TAG=V,TAG=NFIN
+hoof	hoofed	TAG=V,TAG=PST
+
+entail	entail	TAG=V,TAG=LEMMA
+entail	entailing	TAG=V,TAG=V.PTCP,TAG=PRS
+entail	entails	TAG=V,TAG=3,TAG=SG,TAG=PRS
+entail	entailed	TAG=V,TAG=V.PTCP,TAG=PST
+entail	entail	TAG=V,TAG=NFIN
+entail	entailed	TAG=V,TAG=PST
+
+dump	dump	TAG=V,TAG=LEMMA
+dump	dumping	TAG=V,TAG=V.PTCP,TAG=PRS
+dump	dumps	TAG=V,TAG=3,TAG=SG,TAG=PRS
+dump	dumped	TAG=V,TAG=V.PTCP,TAG=PST
+dump	dump	TAG=V,TAG=NFIN
+dump	dumped	TAG=V,TAG=PST
+
+intake	intake	TAG=V,TAG=LEMMA
+intake	intaking	TAG=V,TAG=V.PTCP,TAG=PRS
+intake	intakes	TAG=V,TAG=3,TAG=SG,TAG=PRS
+intake	intaken	TAG=V,TAG=V.PTCP,TAG=PST
+intake	intake	TAG=V,TAG=NFIN
+intake	intook	TAG=V,TAG=PST
+
+AND	AND	TAG=V,TAG=LEMMA
+AND	ANDing	TAG=V,TAG=V.PTCP,TAG=PRS
+AND	ANDs	TAG=V,TAG=3,TAG=SG,TAG=PRS
+AND	ANDed	TAG=V,TAG=V.PTCP,TAG=PST
+AND	AND	TAG=V,TAG=NFIN
+AND	ANDed	TAG=V,TAG=PST
+
+celebrate	celebrate	TAG=V,TAG=LEMMA
+celebrate	celebrating	TAG=V,TAG=V.PTCP,TAG=PRS
+celebrate	celebrates	TAG=V,TAG=3,TAG=SG,TAG=PRS
+celebrate	celebrated	TAG=V,TAG=V.PTCP,TAG=PST
+celebrate	celebrate	TAG=V,TAG=NFIN
+celebrate	celebrated	TAG=V,TAG=PST
+
+lust	lust	TAG=V,TAG=LEMMA
+lust	lusting	TAG=V,TAG=V.PTCP,TAG=PRS
+lust	lusts	TAG=V,TAG=3,TAG=SG,TAG=PRS
+lust	lusted	TAG=V,TAG=V.PTCP,TAG=PST
+lust	lust	TAG=V,TAG=NFIN
+lust	lusted	TAG=V,TAG=PST
+
+lease	lease	TAG=V,TAG=LEMMA
+lease	leasing	TAG=V,TAG=V.PTCP,TAG=PRS
+lease	leases	TAG=V,TAG=3,TAG=SG,TAG=PRS
+lease	leased	TAG=V,TAG=V.PTCP,TAG=PST
+lease	lease	TAG=V,TAG=NFIN
+lease	leased	TAG=V,TAG=PST
+
+lock	lock	TAG=V,TAG=LEMMA
+lock	locking	TAG=V,TAG=V.PTCP,TAG=PRS
+lock	locks	TAG=V,TAG=3,TAG=SG,TAG=PRS
+lock	locked	TAG=V,TAG=V.PTCP,TAG=PST
+lock	lock	TAG=V,TAG=NFIN
+lock	locked	TAG=V,TAG=PST
+
+converge	converge	TAG=V,TAG=LEMMA
+converge	converging	TAG=V,TAG=V.PTCP,TAG=PRS
+converge	converges	TAG=V,TAG=3,TAG=SG,TAG=PRS
+converge	converged	TAG=V,TAG=V.PTCP,TAG=PST
+converge	converge	TAG=V,TAG=NFIN
+converge	converged	TAG=V,TAG=PST
+
+accommodate	accommodate	TAG=V,TAG=LEMMA
+accommodate	accommodating	TAG=V,TAG=V.PTCP,TAG=PRS
+accommodate	accommodates	TAG=V,TAG=3,TAG=SG,TAG=PRS
+accommodate	accommodated	TAG=V,TAG=V.PTCP,TAG=PST
+accommodate	accommodate	TAG=V,TAG=NFIN
+accommodate	accommodated	TAG=V,TAG=PST
+
+avert	avert	TAG=V,TAG=LEMMA
+avert	averting	TAG=V,TAG=V.PTCP,TAG=PRS
+avert	averts	TAG=V,TAG=3,TAG=SG,TAG=PRS
+avert	averted	TAG=V,TAG=V.PTCP,TAG=PST
+avert	avert	TAG=V,TAG=NFIN
+avert	averted	TAG=V,TAG=PST
+
+bag	bag	TAG=V,TAG=LEMMA
+bag	bagging	TAG=V,TAG=V.PTCP,TAG=PRS
+bag	bags	TAG=V,TAG=3,TAG=SG,TAG=PRS
+bag	bagged	TAG=V,TAG=V.PTCP,TAG=PST
+bag	bag	TAG=V,TAG=NFIN
+bag	bagged	TAG=V,TAG=PST
+
+motor	motor	TAG=V,TAG=LEMMA
+motor	motoring	TAG=V,TAG=V.PTCP,TAG=PRS
+motor	motors	TAG=V,TAG=3,TAG=SG,TAG=PRS
+motor	motored	TAG=V,TAG=V.PTCP,TAG=PST
+motor	motor	TAG=V,TAG=NFIN
+motor	motored	TAG=V,TAG=PST
+
+categorize	categorize	TAG=V,TAG=LEMMA
+categorize	categorizing	TAG=V,TAG=V.PTCP,TAG=PRS
+categorize	categorizes	TAG=V,TAG=3,TAG=SG,TAG=PRS
+categorize	categorized	TAG=V,TAG=V.PTCP,TAG=PST
+categorize	categorize	TAG=V,TAG=NFIN
+categorize	categorized	TAG=V,TAG=PST
+
+cloak	cloak	TAG=V,TAG=LEMMA
+cloak	cloaking	TAG=V,TAG=V.PTCP,TAG=PRS
+cloak	cloaks	TAG=V,TAG=3,TAG=SG,TAG=PRS
+cloak	cloaked	TAG=V,TAG=V.PTCP,TAG=PST
+cloak	cloak	TAG=V,TAG=NFIN
+cloak	cloaked	TAG=V,TAG=PST
+
+freight	freight	TAG=V,TAG=LEMMA
+freight	freighting	TAG=V,TAG=V.PTCP,TAG=PRS
+freight	freights	TAG=V,TAG=3,TAG=SG,TAG=PRS
+freight	freighted	TAG=V,TAG=V.PTCP,TAG=PST
+freight	freight	TAG=V,TAG=NFIN
+freight	freighted	TAG=V,TAG=PST
+
+merengue	merengue	TAG=V,TAG=LEMMA
+merengue	merenguing	TAG=V,TAG=V.PTCP,TAG=PRS
+merengue	merengues	TAG=V,TAG=3,TAG=SG,TAG=PRS
+merengue	merengued	TAG=V,TAG=V.PTCP,TAG=PST
+merengue	merengue	TAG=V,TAG=NFIN
+merengue	merengued	TAG=V,TAG=PST
+
+cameo	cameo	TAG=V,TAG=LEMMA
+cameo	cameoing	TAG=V,TAG=V.PTCP,TAG=PRS
+cameo	cameos	TAG=V,TAG=3,TAG=SG,TAG=PRS
+cameo	cameoed	TAG=V,TAG=V.PTCP,TAG=PST
+cameo	cameo	TAG=V,TAG=NFIN
+cameo	cameoed	TAG=V,TAG=PST
+
+adapt	adapt	TAG=V,TAG=LEMMA
+adapt	adapting	TAG=V,TAG=V.PTCP,TAG=PRS
+adapt	adapts	TAG=V,TAG=3,TAG=SG,TAG=PRS
+adapt	adapted	TAG=V,TAG=V.PTCP,TAG=PST
+adapt	adapt	TAG=V,TAG=NFIN
+adapt	adapted	TAG=V,TAG=PST
+
+ferry	ferry	TAG=V,TAG=LEMMA
+ferry	ferrying	TAG=V,TAG=V.PTCP,TAG=PRS
+ferry	ferries	TAG=V,TAG=3,TAG=SG,TAG=PRS
+ferry	ferried	TAG=V,TAG=V.PTCP,TAG=PST
+ferry	ferry	TAG=V,TAG=NFIN
+ferry	ferried	TAG=V,TAG=PST
+
+axe	axe	TAG=V,TAG=LEMMA
+axe	axing	TAG=V,TAG=V.PTCP,TAG=PRS
+axe	axes	TAG=V,TAG=3,TAG=SG,TAG=PRS
+axe	axed	TAG=V,TAG=V.PTCP,TAG=PST
+axe	axe	TAG=V,TAG=NFIN
+axe	axed	TAG=V,TAG=PST
+
+bring	bring	TAG=V,TAG=LEMMA
+bring	bringing	TAG=V,TAG=V.PTCP,TAG=PRS
+bring	brings	TAG=V,TAG=3,TAG=SG,TAG=PRS
+bring	brought	TAG=V,TAG=V.PTCP,TAG=PST
+bring	bring	TAG=V,TAG=NFIN
+bring	brought	TAG=V,TAG=PST
+
+leap	leap	TAG=V,TAG=LEMMA
+leap	leaping	TAG=V,TAG=V.PTCP,TAG=PRS
+leap	leaps	TAG=V,TAG=3,TAG=SG,TAG=PRS
+leap	lopen	TAG=V,TAG=V.PTCP,TAG=PST
+leap	leap	TAG=V,TAG=NFIN
+leap	lope	TAG=V,TAG=PST
+
+canopy	canopy	TAG=V,TAG=LEMMA
+canopy	canopying	TAG=V,TAG=V.PTCP,TAG=PRS
+canopy	canopies	TAG=V,TAG=3,TAG=SG,TAG=PRS
+canopy	canopied	TAG=V,TAG=V.PTCP,TAG=PST
+canopy	canopy	TAG=V,TAG=NFIN
+canopy	canopied	TAG=V,TAG=PST
+
+bid	bid	TAG=V,TAG=LEMMA
+bid	bidding	TAG=V,TAG=V.PTCP,TAG=PRS
+bid	bids	TAG=V,TAG=3,TAG=SG,TAG=PRS
+bid	bid	TAG=V,TAG=V.PTCP,TAG=PST
+bid	bid	TAG=V,TAG=NFIN
+bid	bid	TAG=V,TAG=PST
+
+bigger	bigger	TAG=V,TAG=LEMMA
+bigger	biggering	TAG=V,TAG=V.PTCP,TAG=PRS
+bigger	biggers	TAG=V,TAG=3,TAG=SG,TAG=PRS
+bigger	biggered	TAG=V,TAG=V.PTCP,TAG=PST
+bigger	bigger	TAG=V,TAG=NFIN
+bigger	biggered	TAG=V,TAG=PST
+
+nest	nest	TAG=V,TAG=LEMMA
+nest	nesting	TAG=V,TAG=V.PTCP,TAG=PRS
+nest	nests	TAG=V,TAG=3,TAG=SG,TAG=PRS
+nest	nested	TAG=V,TAG=V.PTCP,TAG=PST
+nest	nest	TAG=V,TAG=NFIN
+nest	nested	TAG=V,TAG=PST
+
+deacon	deacon	TAG=V,TAG=LEMMA
+deacon	deaconing	TAG=V,TAG=V.PTCP,TAG=PRS
+deacon	deacons	TAG=V,TAG=3,TAG=SG,TAG=PRS
+deacon	deaconed	TAG=V,TAG=V.PTCP,TAG=PST
+deacon	deacon	TAG=V,TAG=NFIN
+deacon	deaconed	TAG=V,TAG=PST
+
+bicycle	bicycle	TAG=V,TAG=LEMMA
+bicycle	bicycling	TAG=V,TAG=V.PTCP,TAG=PRS
+bicycle	bicycles	TAG=V,TAG=3,TAG=SG,TAG=PRS
+bicycle	bicycled	TAG=V,TAG=V.PTCP,TAG=PST
+bicycle	bicycle	TAG=V,TAG=NFIN
+bicycle	bicycled	TAG=V,TAG=PST
+
+grey	grey	TAG=V,TAG=LEMMA
+grey	greying	TAG=V,TAG=V.PTCP,TAG=PRS
+grey	greys	TAG=V,TAG=3,TAG=SG,TAG=PRS
+grey	greyed	TAG=V,TAG=V.PTCP,TAG=PST
+grey	grey	TAG=V,TAG=NFIN
+grey	greyed	TAG=V,TAG=PST
+
+guarantee	guarantee	TAG=V,TAG=LEMMA
+guarantee	guaranteeing	TAG=V,TAG=V.PTCP,TAG=PRS
+guarantee	guarantees	TAG=V,TAG=3,TAG=SG,TAG=PRS
+guarantee	guaranteed	TAG=V,TAG=V.PTCP,TAG=PST
+guarantee	guarantee	TAG=V,TAG=NFIN
+guarantee	guaranteed	TAG=V,TAG=PST
+
+battalion	battalion	TAG=V,TAG=LEMMA
+battalion	battalioning	TAG=V,TAG=V.PTCP,TAG=PRS
+battalion	battalions	TAG=V,TAG=3,TAG=SG,TAG=PRS
+battalion	battalioned	TAG=V,TAG=V.PTCP,TAG=PST
+battalion	battalion	TAG=V,TAG=NFIN
+battalion	battalioned	TAG=V,TAG=PST
+
+nickel	nickel	TAG=V,TAG=LEMMA
+nickel	nickeling	TAG=V,TAG=V.PTCP,TAG=PRS
+nickel	nickels	TAG=V,TAG=3,TAG=SG,TAG=PRS
+nickel	nickeled	TAG=V,TAG=V.PTCP,TAG=PST
+nickel	nickel	TAG=V,TAG=NFIN
+nickel	nickeled	TAG=V,TAG=PST
+
+ally	ally	TAG=V,TAG=LEMMA
+ally	allying	TAG=V,TAG=V.PTCP,TAG=PRS
+ally	allies	TAG=V,TAG=3,TAG=SG,TAG=PRS
+ally	allied	TAG=V,TAG=V.PTCP,TAG=PST
+ally	ally	TAG=V,TAG=NFIN
+ally	allied	TAG=V,TAG=PST
+
+dine	dine	TAG=V,TAG=LEMMA
+dine	dining	TAG=V,TAG=V.PTCP,TAG=PRS
+dine	dines	TAG=V,TAG=3,TAG=SG,TAG=PRS
+dine	dined	TAG=V,TAG=V.PTCP,TAG=PST
+dine	dine	TAG=V,TAG=NFIN
+dine	dined	TAG=V,TAG=PST
+
+fill	fill	TAG=V,TAG=LEMMA
+fill	filling	TAG=V,TAG=V.PTCP,TAG=PRS
+fill	fills	TAG=V,TAG=3,TAG=SG,TAG=PRS
+fill	filled	TAG=V,TAG=V.PTCP,TAG=PST
+fill	fill	TAG=V,TAG=NFIN
+fill	filled	TAG=V,TAG=PST
+
+favorite	favorite	TAG=V,TAG=LEMMA
+favorite	favoriting	TAG=V,TAG=V.PTCP,TAG=PRS
+favorite	favorites	TAG=V,TAG=3,TAG=SG,TAG=PRS
+favorite	favorited	TAG=V,TAG=V.PTCP,TAG=PST
+favorite	favorite	TAG=V,TAG=NFIN
+favorite	favorited	TAG=V,TAG=PST
+
+alum	alum	TAG=V,TAG=LEMMA
+alum	aluming	TAG=V,TAG=V.PTCP,TAG=PRS
+alum	alums	TAG=V,TAG=3,TAG=SG,TAG=PRS
+alum	alumed	TAG=V,TAG=V.PTCP,TAG=PST
+alum	alum	TAG=V,TAG=NFIN
+alum	alumed	TAG=V,TAG=PST
+
+console	console	TAG=V,TAG=LEMMA
+console	consoling	TAG=V,TAG=V.PTCP,TAG=PRS
+console	consoles	TAG=V,TAG=3,TAG=SG,TAG=PRS
+console	consoled	TAG=V,TAG=V.PTCP,TAG=PST
+console	console	TAG=V,TAG=NFIN
+console	consoled	TAG=V,TAG=PST
+
+costar	costar	TAG=V,TAG=LEMMA
+costar	costarring	TAG=V,TAG=V.PTCP,TAG=PRS
+costar	costars	TAG=V,TAG=3,TAG=SG,TAG=PRS
+costar	costarred	TAG=V,TAG=V.PTCP,TAG=PST
+costar	costar	TAG=V,TAG=NFIN
+costar	costarred	TAG=V,TAG=PST
+
+interfere	interfere	TAG=V,TAG=LEMMA
+interfere	interfering	TAG=V,TAG=V.PTCP,TAG=PRS
+interfere	interferes	TAG=V,TAG=3,TAG=SG,TAG=PRS
+interfere	interfered	TAG=V,TAG=V.PTCP,TAG=PST
+interfere	interfere	TAG=V,TAG=NFIN
+interfere	interfered	TAG=V,TAG=PST
+
+involve	involve	TAG=V,TAG=LEMMA
+involve	involving	TAG=V,TAG=V.PTCP,TAG=PRS
+involve	involves	TAG=V,TAG=3,TAG=SG,TAG=PRS
+involve	involved	TAG=V,TAG=V.PTCP,TAG=PST
+involve	involve	TAG=V,TAG=NFIN
+involve	involved	TAG=V,TAG=PST
+
+caricature	caricature	TAG=V,TAG=LEMMA
+caricature	caricaturing	TAG=V,TAG=V.PTCP,TAG=PRS
+caricature	caricatures	TAG=V,TAG=3,TAG=SG,TAG=PRS
+caricature	caricatured	TAG=V,TAG=V.PTCP,TAG=PST
+caricature	caricature	TAG=V,TAG=NFIN
+caricature	caricatured	TAG=V,TAG=PST
+
+loaf	loaf	TAG=V,TAG=LEMMA
+loaf	loafing	TAG=V,TAG=V.PTCP,TAG=PRS
+loaf	loafs	TAG=V,TAG=3,TAG=SG,TAG=PRS
+loaf	loafed	TAG=V,TAG=V.PTCP,TAG=PST
+loaf	loaf	TAG=V,TAG=NFIN
+loaf	loafed	TAG=V,TAG=PST
+
+muscle	muscle	TAG=V,TAG=LEMMA
+muscle	muscling	TAG=V,TAG=V.PTCP,TAG=PRS
+muscle	muscles	TAG=V,TAG=3,TAG=SG,TAG=PRS
+muscle	muscled	TAG=V,TAG=V.PTCP,TAG=PST
+muscle	muscle	TAG=V,TAG=NFIN
+muscle	muscled	TAG=V,TAG=PST
+
+gross	gross	TAG=V,TAG=LEMMA
+gross	grossing	TAG=V,TAG=V.PTCP,TAG=PRS
+gross	grosses	TAG=V,TAG=3,TAG=SG,TAG=PRS
+gross	grossed	TAG=V,TAG=V.PTCP,TAG=PST
+gross	gross	TAG=V,TAG=NFIN
+gross	grossed	TAG=V,TAG=PST
+
+button	button	TAG=V,TAG=LEMMA
+button	buttoning	TAG=V,TAG=V.PTCP,TAG=PRS
+button	buttons	TAG=V,TAG=3,TAG=SG,TAG=PRS
+button	buttoned	TAG=V,TAG=V.PTCP,TAG=PST
+button	button	TAG=V,TAG=NFIN
+button	buttoned	TAG=V,TAG=PST
+
+badge	badge	TAG=V,TAG=LEMMA
+badge	badging	TAG=V,TAG=V.PTCP,TAG=PRS
+badge	badges	TAG=V,TAG=3,TAG=SG,TAG=PRS
+badge	badged	TAG=V,TAG=V.PTCP,TAG=PST
+badge	badge	TAG=V,TAG=NFIN
+badge	badged	TAG=V,TAG=PST
+
+cheer	cheer	TAG=V,TAG=LEMMA
+cheer	cheering	TAG=V,TAG=V.PTCP,TAG=PRS
+cheer	cheers	TAG=V,TAG=3,TAG=SG,TAG=PRS
+cheer	cheered	TAG=V,TAG=V.PTCP,TAG=PST
+cheer	cheer	TAG=V,TAG=NFIN
+cheer	cheered	TAG=V,TAG=PST
+
+disadvantage	disadvantage	TAG=V,TAG=LEMMA
+disadvantage	disadvantaging	TAG=V,TAG=V.PTCP,TAG=PRS
+disadvantage	disadvantages	TAG=V,TAG=3,TAG=SG,TAG=PRS
+disadvantage	disadvantaged	TAG=V,TAG=V.PTCP,TAG=PST
+disadvantage	disadvantage	TAG=V,TAG=NFIN
+disadvantage	disadvantaged	TAG=V,TAG=PST
+
+hash	hash	TAG=V,TAG=LEMMA
+hash	hashing	TAG=V,TAG=V.PTCP,TAG=PRS
+hash	hashes	TAG=V,TAG=3,TAG=SG,TAG=PRS
+hash	hashed	TAG=V,TAG=V.PTCP,TAG=PST
+hash	hash	TAG=V,TAG=NFIN
+hash	hashed	TAG=V,TAG=PST
+
+authorize	authorize	TAG=V,TAG=LEMMA
+authorize	authorizing	TAG=V,TAG=V.PTCP,TAG=PRS
+authorize	authorizes	TAG=V,TAG=3,TAG=SG,TAG=PRS
+authorize	authorized	TAG=V,TAG=V.PTCP,TAG=PST
+authorize	authorize	TAG=V,TAG=NFIN
+authorize	authorized	TAG=V,TAG=PST
+
+glove	glove	TAG=V,TAG=LEMMA
+glove	gloving	TAG=V,TAG=V.PTCP,TAG=PRS
+glove	gloves	TAG=V,TAG=3,TAG=SG,TAG=PRS
+glove	gloved	TAG=V,TAG=V.PTCP,TAG=PST
+glove	glove	TAG=V,TAG=NFIN
+glove	gloved	TAG=V,TAG=PST
+
+learn	learn	TAG=V,TAG=LEMMA
+learn	learning	TAG=V,TAG=V.PTCP,TAG=PRS
+learn	learns	TAG=V,TAG=3,TAG=SG,TAG=PRS
+learn	learnt	TAG=V,TAG=V.PTCP,TAG=PST
+learn	learn	TAG=V,TAG=NFIN
+learn	learnt	TAG=V,TAG=PST
+

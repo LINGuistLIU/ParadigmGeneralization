@@ -1,0 +1,2406 @@
+valg	valg	TAG=N,TAG=LEMMA
+valg	valgs	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+valg	valgs	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+valg	valgets	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+valg	valg	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+valg	valg	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+valg	valgenes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+svoger	svoger	TAG=N,TAG=LEMMA
+svoger	svogres	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+svoger	svogers	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+svoger	svogerens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+svoger	svogre	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+svoger	svoger	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+svoger	svogrenes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+port	port	TAG=N,TAG=LEMMA
+port	portes	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+port	ports	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+port	portens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+port	porte	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+port	port	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+port	portenes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+essens	essens	TAG=N,TAG=LEMMA
+essens	essensers	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+essens	essens'	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+essens	essensens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+essens	essenser	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+essens	essens	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+essens	essensernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+udvikling	udvikling	TAG=N,TAG=LEMMA
+udvikling	udviklingers	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+udvikling	udviklings	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+udvikling	udviklingens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+udvikling	udviklinger	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+udvikling	udvikling	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+udvikling	udviklingernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+række	række	TAG=N,TAG=LEMMA
+række	rækkers	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+række	rækkes	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+række	rækkens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+række	rækker	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+række	række	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+række	rækkernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+bror	bror	TAG=N,TAG=LEMMA
+bror	brødres	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+bror	brors	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+bror	brorens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+bror	brødre	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+bror	bror	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+bror	brødrenes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+meter	meter	TAG=N,TAG=LEMMA
+meter	meters	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+meter	meters	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+meter	meterens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+meter	meter	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+meter	meter	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+meter	meternes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+biologi	biologi	TAG=N,TAG=LEMMA
+biologi	biologiers	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+biologi	biologis	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+biologi	biologiens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+biologi	biologier	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+biologi	biologi	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+biologi	biologiernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+løb	løb	TAG=N,TAG=LEMMA
+løb	løbs	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+løb	løbs	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+løb	løbets	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+løb	løb	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+løb	løb	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+løb	løbenes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+ordre	ordre	TAG=N,TAG=LEMMA
+ordre	ordrers	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+ordre	ordres	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+ordre	ordrens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+ordre	ordrer	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+ordre	ordre	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+ordre	ordrernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+virkning	virkning	TAG=N,TAG=LEMMA
+virkning	virkningers	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+virkning	virknings	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+virkning	virkningens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+virkning	virkninger	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+virkning	virkning	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+virkning	virkningernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+bryst	bryst	TAG=N,TAG=LEMMA
+bryst	brysters	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+bryst	brysts	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+bryst	brystets	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+bryst	bryster	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+bryst	bryst	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+bryst	brysternes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+aktivitet	aktivitet	TAG=N,TAG=LEMMA
+aktivitet	aktiviteters	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+aktivitet	aktivitets	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+aktivitet	aktivitetens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+aktivitet	aktiviteter	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+aktivitet	aktivitet	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+aktivitet	aktiviteternes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+verdenskrig	verdenskrig	TAG=N,TAG=LEMMA
+verdenskrig	verdenskriges	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+verdenskrig	verdenskrigs	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+verdenskrig	verdenskrigens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+verdenskrig	verdenskrige	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+verdenskrig	verdenskrig	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+verdenskrig	verdenskrigenes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+tøj	tøj	TAG=N,TAG=LEMMA
+tøj	tøjers	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+tøj	tøjs	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+tøj	tøjets	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+tøj	tøjer	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+tøj	tøj	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+tøj	tøjernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+kaptajn	kaptajn	TAG=N,TAG=LEMMA
+kaptajn	kaptajners	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+kaptajn	kaptajns	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+kaptajn	kaptajnens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+kaptajn	kaptajner	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+kaptajn	kaptajn	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+kaptajn	kaptajnernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+system	system	TAG=N,TAG=LEMMA
+system	systemers	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+system	systems	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+system	systemets	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+system	systemer	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+system	system	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+system	systemernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+kornet	kornet	TAG=N,TAG=LEMMA
+kornet	kornetters	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+kornet	kornets	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+kornet	kornettens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+kornet	kornetter	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+kornet	kornet	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+kornet	kornetternes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+areal	areal	TAG=N,TAG=LEMMA
+areal	arealers	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+areal	areals	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+areal	arealets	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+areal	arealer	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+areal	areal	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+areal	arealernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+tjeneste	tjeneste	TAG=N,TAG=LEMMA
+tjeneste	tjenesters	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+tjeneste	tjenestes	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+tjeneste	tjenestens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+tjeneste	tjenester	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+tjeneste	tjeneste	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+tjeneste	tjenesternes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+afsnit	afsnit	TAG=N,TAG=LEMMA
+afsnit	afsnits	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+afsnit	afsnits	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+afsnit	afsnittets	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+afsnit	afsnit	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+afsnit	afsnit	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+afsnit	afsnittenes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+mulighed	mulighed	TAG=N,TAG=LEMMA
+mulighed	muligheders	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+mulighed	muligheds	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+mulighed	mulighedens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+mulighed	muligheder	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+mulighed	mulighed	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+mulighed	mulighedernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+wienerbrød	wienerbrød	TAG=N,TAG=LEMMA
+wienerbrød	wienerbrøds	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+wienerbrød	wienerbrøds	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+wienerbrød	wienerbrødets	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+wienerbrød	wienerbrød	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+wienerbrød	wienerbrød	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+wienerbrød	wienerbrødenes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+kejsersnit	kejsersnit	TAG=N,TAG=LEMMA
+kejsersnit	kejsersnits	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+kejsersnit	kejsersnits	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+kejsersnit	kejsersnittets	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+kejsersnit	kejsersnit	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+kejsersnit	kejsersnit	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+kejsersnit	kejsersnittenes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+artikel	artikel	TAG=N,TAG=LEMMA
+artikel	artiklers	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+artikel	artikels	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+artikel	artiklens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+artikel	artikler	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+artikel	artikel	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+artikel	artiklernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+resultat	resultat	TAG=N,TAG=LEMMA
+resultat	resultaters	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+resultat	resultats	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+resultat	resultatets	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+resultat	resultater	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+resultat	resultat	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+resultat	resultaternes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+film	film	TAG=N,TAG=LEMMA
+film	films	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+film	films	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+film	filmens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+film	film	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+film	film	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+film	filmenes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+guitar	guitar	TAG=N,TAG=LEMMA
+guitar	guitarers	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+guitar	guitars	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+guitar	guitarens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+guitar	guitarer	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+guitar	guitar	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+guitar	guitarernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+ballet	ballet	TAG=N,TAG=LEMMA
+ballet	balletters	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+ballet	ballets	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+ballet	ballettens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+ballet	balletter	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+ballet	ballet	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+ballet	balletternes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+sorg	sorg	TAG=N,TAG=LEMMA
+sorg	sorgers	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+sorg	sorgs	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+sorg	sorgens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+sorg	sorger	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+sorg	sorg	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+sorg	sorgernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+samarbejde	samarbejde	TAG=N,TAG=LEMMA
+samarbejde	samarbejders	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+samarbejde	samarbejdes	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+samarbejde	samarbejdets	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+samarbejde	samarbejder	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+samarbejde	samarbejde	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+samarbejde	samarbejdernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+grænse	grænse	TAG=N,TAG=LEMMA
+grænse	grænsers	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+grænse	grænses	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+grænse	grænsens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+grænse	grænser	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+grænse	grænse	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+grænse	grænsernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+betydning	betydning	TAG=N,TAG=LEMMA
+betydning	betydningers	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+betydning	betydnings	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+betydning	betydningens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+betydning	betydninger	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+betydning	betydning	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+betydning	betydningernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+nære	nære	TAG=V,TAG=LEMMA
+nære	næret	TAG=V.PTCP,TAG=PASS,TAG=PST
+nære	nær	TAG=V,TAG=ACT,TAG=IMP
+nære	næredes	TAG=V,TAG=PASS,TAG=IND,TAG=PST
+nære	nære	TAG=V,TAG=ACT,TAG=NFIN
+nære	næres	TAG=V,TAG=PASS,TAG=IND,TAG=PRS
+nære	nærende	TAG=V.PTCP,TAG=ACT,TAG=PRS
+nære	nærer	TAG=V,TAG=ACT,TAG=IND,TAG=PRS
+nære	nærede	TAG=V,TAG=ACT,TAG=IND,TAG=PST
+
+historie	historie	TAG=N,TAG=LEMMA
+historie	historiers	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+historie	histories	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+historie	historiens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+historie	historier	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+historie	historie	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+historie	historiernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+golfbane	golfbane	TAG=N,TAG=LEMMA
+golfbane	golfbaners	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+golfbane	golfbanes	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+golfbane	golfbanens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+golfbane	golfbaner	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+golfbane	golfbane	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+golfbane	golfbanernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+rigsdaler	rigsdaler	TAG=N,TAG=LEMMA
+rigsdaler	rigsdaleres	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+rigsdaler	rigsdalers	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+rigsdaler	rigsdalerens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+rigsdaler	rigsdalere	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+rigsdaler	rigsdaler	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+rigsdaler	rigsdalernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+tegneserie	tegneserie	TAG=N,TAG=LEMMA
+tegneserie	tegneseriers	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+tegneserie	tegneseries	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+tegneserie	tegneseriens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+tegneserie	tegneserier	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+tegneserie	tegneserie	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+tegneserie	tegneseriernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+viser	viser	TAG=N,TAG=LEMMA
+viser	viseres	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+viser	visers	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+viser	viserens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+viser	visere	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+viser	viser	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+viser	visernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+forlængelse	forlængelse	TAG=N,TAG=LEMMA
+forlængelse	forlængelsers	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+forlængelse	forlængelses	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+forlængelse	forlængelsens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+forlængelse	forlængelser	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+forlængelse	forlængelse	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+forlængelse	forlængelsernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+roman	roman	TAG=N,TAG=LEMMA
+roman	romaners	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+roman	romans	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+roman	romanens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+roman	romaner	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+roman	roman	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+roman	romanernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+årti	årti	TAG=N,TAG=LEMMA
+årti	årtiers	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+årti	årtis	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+årti	årtiets	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+årti	årtier	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+årti	årti	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+årti	årtiernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+vindmølle	vindmølle	TAG=N,TAG=LEMMA
+vindmølle	vindmøllers	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+vindmølle	vindmølles	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+vindmølle	vindmøllens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+vindmølle	vindmøller	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+vindmølle	vindmølle	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+vindmølle	vindmøllernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+kerne	kerne	TAG=N,TAG=LEMMA
+kerne	kerners	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+kerne	kernes	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+kerne	kernens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+kerne	kerner	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+kerne	kerne	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+kerne	kernernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+tale	tale	TAG=N,TAG=LEMMA
+tale	talers	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+tale	tales	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+tale	talens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+tale	taler	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+tale	tale	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+tale	talernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+skæbne	skæbne	TAG=N,TAG=LEMMA
+skæbne	skæbners	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+skæbne	skæbnes	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+skæbne	skæbnens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+skæbne	skæbner	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+skæbne	skæbne	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+skæbne	skæbnernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+periode	periode	TAG=N,TAG=LEMMA
+periode	perioders	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+periode	periodes	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+periode	periodens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+periode	perioder	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+periode	periode	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+periode	periodernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+kommune	kommune	TAG=N,TAG=LEMMA
+kommune	kommuners	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+kommune	kommunes	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+kommune	kommunens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+kommune	kommuner	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+kommune	kommune	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+kommune	kommunernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+øge	øge	TAG=V,TAG=LEMMA
+øge	øget	TAG=V.PTCP,TAG=PASS,TAG=PST
+øge	øg	TAG=V,TAG=ACT,TAG=IMP
+øge	øgedes	TAG=V,TAG=PASS,TAG=IND,TAG=PST
+øge	øge	TAG=V,TAG=ACT,TAG=NFIN
+øge	øges	TAG=V,TAG=PASS,TAG=IND,TAG=PRS
+øge	øgende	TAG=V.PTCP,TAG=ACT,TAG=PRS
+øge	øger	TAG=V,TAG=ACT,TAG=IND,TAG=PRS
+øge	øgede	TAG=V,TAG=ACT,TAG=IND,TAG=PST
+
+succes	succes	TAG=N,TAG=LEMMA
+succes	succesers	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+succes	succes'	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+succes	succesens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+succes	succeser	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+succes	succes	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+succes	succesernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+ændre	ændre	TAG=V,TAG=LEMMA
+ændre	ændret	TAG=V.PTCP,TAG=PASS,TAG=PST
+ændre	ændr	TAG=V,TAG=ACT,TAG=IMP
+ændre	ændredes	TAG=V,TAG=PASS,TAG=IND,TAG=PST
+ændre	ændre	TAG=V,TAG=ACT,TAG=NFIN
+ændre	ændres	TAG=V,TAG=PASS,TAG=IND,TAG=PRS
+ændre	ændrende	TAG=V.PTCP,TAG=ACT,TAG=PRS
+ændre	ændrer	TAG=V,TAG=ACT,TAG=IND,TAG=PRS
+ændre	ændrede	TAG=V,TAG=ACT,TAG=IND,TAG=PST
+
+tid	tid	TAG=N,TAG=LEMMA
+tid	tiders	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+tid	tids	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+tid	tidens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+tid	tider	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+tid	tid	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+tid	tidernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+fodboldspiller	fodboldspiller	TAG=N,TAG=LEMMA
+fodboldspiller	fodboldspilleres	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+fodboldspiller	fodboldspillers	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+fodboldspiller	fodboldspillerens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+fodboldspiller	fodboldspillere	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+fodboldspiller	fodboldspiller	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+fodboldspiller	fodboldspillernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+arkiv	arkiv	TAG=N,TAG=LEMMA
+arkiv	arkivers	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+arkiv	arkivs	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+arkiv	arkivets	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+arkiv	arkiver	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+arkiv	arkiv	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+arkiv	arkivernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+menneske	menneske	TAG=N,TAG=LEMMA
+menneske	menneskers	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+menneske	menneskes	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+menneske	menneskets	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+menneske	mennesker	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+menneske	menneske	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+menneske	menneskernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+mangel	mangel	TAG=N,TAG=LEMMA
+mangel	manglers	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+mangel	mangels	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+mangel	manglens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+mangel	mangler	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+mangel	mangel	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+mangel	manglernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+forsøg	forsøg	TAG=N,TAG=LEMMA
+forsøg	forsøgs	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+forsøg	forsøgs	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+forsøg	forsøgets	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+forsøg	forsøg	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+forsøg	forsøg	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+forsøg	forsøgenes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+kobber	kobber	TAG=N,TAG=LEMMA
+kobber	kobberes	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+kobber	kobbers	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+kobber	kobberets	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+kobber	kobbere	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+kobber	kobber	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+kobber	kobbernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+provins	provins	TAG=N,TAG=LEMMA
+provins	provinsers	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+provins	provins'	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+provins	provinsens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+provins	provinser	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+provins	provins	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+provins	provinsernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+klima	klima	TAG=N,TAG=LEMMA
+klima	klimaers	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+klima	klimas	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+klima	klimaets	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+klima	klimaer	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+klima	klima	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+klima	klimaernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+sodavand	sodavand	TAG=N,TAG=LEMMA
+sodavand	sodavanders	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+sodavand	sodavands	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+sodavand	sodavandens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+sodavand	sodavander	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+sodavand	sodavand	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+sodavand	sodavandernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+sektor	sektor	TAG=N,TAG=LEMMA
+sektor	sektorers	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+sektor	sektors	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+sektor	sektorens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+sektor	sektorer	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+sektor	sektor	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+sektor	sektorernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+skud	skud	TAG=N,TAG=LEMMA
+skud	skuds	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+skud	skuds	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+skud	skuddets	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+skud	skud	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+skud	skud	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+skud	skuddenes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+sejr	sejr	TAG=N,TAG=LEMMA
+sejr	sejres	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+sejr	sejrs	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+sejr	sejrens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+sejr	sejre	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+sejr	sejr	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+sejr	sejrenes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+musikgruppe	musikgruppe	TAG=N,TAG=LEMMA
+musikgruppe	musikgruppers	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+musikgruppe	musikgruppes	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+musikgruppe	musikgruppens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+musikgruppe	musikgrupper	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+musikgruppe	musikgruppe	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+musikgruppe	musikgruppernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+hår	hår	TAG=N,TAG=LEMMA
+hår	hårs	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+hår	hårs	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+hår	hårets	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+hår	hår	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+hår	hår	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+hår	hårenes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+regel	regel	TAG=N,TAG=LEMMA
+regel	reglers	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+regel	regels	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+regel	reglensregelens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+regel	regler	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+regel	regel	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+regel	reglernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+afsender	afsender	TAG=N,TAG=LEMMA
+afsender	afsenderes	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+afsender	afsenders	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+afsender	afsenderens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+afsender	afsendere	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+afsender	afsender	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+afsender	afsendernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+rig	rig	TAG=N,TAG=LEMMA
+rig	rigges	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+rig	rigs	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+rig	riggens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+rig	rigge	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+rig	rig	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+rig	riggenes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+halskæde	halskæde	TAG=N,TAG=LEMMA
+halskæde	halskæders	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+halskæde	halskædes	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+halskæde	halskædens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+halskæde	halskæder	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+halskæde	halskæde	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+halskæde	halskædernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+plads	plads	TAG=N,TAG=LEMMA
+plads	pladsers	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+plads	plads'	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+plads	pladsens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+plads	pladser	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+plads	plads	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+plads	pladsernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+effekt	effekt	TAG=N,TAG=LEMMA
+effekt	effekters	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+effekt	effekts	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+effekt	effektens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+effekt	effekter	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+effekt	effekt	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+effekt	effekternes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+eksempel	eksempel	TAG=N,TAG=LEMMA
+eksempel	eksemplers	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+eksempel	eksempels	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+eksempel	eksemplets	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+eksempel	eksempler	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+eksempel	eksempel	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+eksempel	eksemplernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+diskussion	diskussion	TAG=N,TAG=LEMMA
+diskussion	diskussioners	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+diskussion	diskussions	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+diskussion	diskussionens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+diskussion	diskussioner	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+diskussion	diskussion	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+diskussion	diskussionernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+parti	parti	TAG=N,TAG=LEMMA
+parti	partiers	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+parti	partis	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+parti	partiets	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+parti	partier	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+parti	parti	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+parti	partiernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+ryg	ryg	TAG=N,TAG=LEMMA
+ryg	rygges	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+ryg	rygs	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+ryg	ryggens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+ryg	rygge	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+ryg	ryg	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+ryg	ryggenes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+komponist	komponist	TAG=N,TAG=LEMMA
+komponist	komponisters	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+komponist	komponists	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+komponist	komponistens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+komponist	komponister	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+komponist	komponist	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+komponist	komponisternes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+jordskælv	jordskælv	TAG=N,TAG=LEMMA
+jordskælv	jordskælvs	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+jordskælv	jordskælvs	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+jordskælv	jordskælvets	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+jordskælv	jordskælv	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+jordskælv	jordskælv	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+jordskælv	jordskælvenes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+pen	pen	TAG=N,TAG=LEMMA
+pen	pennes	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+pen	pens	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+pen	pennens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+pen	penne	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+pen	pen	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+pen	pennenes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+hjerte	hjerte	TAG=N,TAG=LEMMA
+hjerte	hjerters	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+hjerte	hjertes	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+hjerte	hjertets	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+hjerte	hjerter	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+hjerte	hjerte	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+hjerte	hjerternes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+datter	datter	TAG=N,TAG=LEMMA
+datter	døtres	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+datter	datters	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+datter	datterens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+datter	døtre	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+datter	datter	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+datter	døtrenes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+parlament	parlament	TAG=N,TAG=LEMMA
+parlament	parlamenters	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+parlament	parlaments	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+parlament	parlamentets	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+parlament	parlamenter	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+parlament	parlament	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+parlament	parlamenternes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+måde	måde	TAG=N,TAG=LEMMA
+måde	måders	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+måde	mådes	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+måde	mådens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+måde	måder	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+måde	måde	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+måde	mådernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+arkitekt	arkitekt	TAG=N,TAG=LEMMA
+arkitekt	arkitekters	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+arkitekt	arkitekts	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+arkitekt	arkitektens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+arkitekt	arkitekter	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+arkitekt	arkitekt	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+arkitekt	arkitekternes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+damp	damp	TAG=N,TAG=LEMMA
+damp	dampes	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+damp	damps	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+damp	dampens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+damp	dampe	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+damp	damp	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+damp	dampenes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+opgave	opgave	TAG=N,TAG=LEMMA
+opgave	opgavers	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+opgave	opgaves	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+opgave	opgavens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+opgave	opgaver	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+opgave	opgave	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+opgave	opgavernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+ejendom	ejendom	TAG=N,TAG=LEMMA
+ejendom	ejendommes	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+ejendom	ejendoms	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+ejendom	ejendommens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+ejendom	ejendomme	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+ejendom	ejendom	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+ejendom	ejendommenes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+bondegård	bondegård	TAG=N,TAG=LEMMA
+bondegård	bondegårdes	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+bondegård	bondegårds	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+bondegård	bondegårdens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+bondegård	bondegårde	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+bondegård	bondegård	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+bondegård	bondegårdenes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+passager	passager	TAG=N,TAG=LEMMA
+passager	passagerers	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+passager	passagers	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+passager	passagerens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+passager	passagerer	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+passager	passager	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+passager	passagerernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+sprog	sprog	TAG=N,TAG=LEMMA
+sprog	sprogs	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+sprog	sprogs	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+sprog	sprogets	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+sprog	sprog	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+sprog	sprog	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+sprog	sprogenes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+journalist	journalist	TAG=N,TAG=LEMMA
+journalist	journalisters	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+journalist	journalists	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+journalist	journalistens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+journalist	journalister	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+journalist	journalist	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+journalist	journalisternes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+størrelse	størrelse	TAG=N,TAG=LEMMA
+størrelse	størrelsers	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+størrelse	størrelses	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+størrelse	størrelsens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+størrelse	størrelser	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+størrelse	størrelse	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+størrelse	størrelsernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+sløjfe	sløjfe	TAG=N,TAG=LEMMA
+sløjfe	sløjfers	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+sløjfe	sløjfes	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+sløjfe	sløjfens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+sløjfe	sløjfer	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+sløjfe	sløjfe	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+sløjfe	sløjfernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+lærred	lærred	TAG=N,TAG=LEMMA
+lærred	lærreders	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+lærred	lærreds	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+lærred	lærredets	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+lærred	lærreder	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+lærred	lærred	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+lærred	lærredernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+komposition	komposition	TAG=N,TAG=LEMMA
+komposition	kompositioners	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+komposition	kompositions	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+komposition	kompositionens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+komposition	kompositioner	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+komposition	komposition	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+komposition	kompositionernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+oplysning	oplysning	TAG=N,TAG=LEMMA
+oplysning	oplysningers	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+oplysning	oplysnings	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+oplysning	oplysningens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+oplysning	oplysninger	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+oplysning	oplysning	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+oplysning	oplysningernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+bæk	bæk	TAG=N,TAG=LEMMA
+bæk	bækkes	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+bæk	bæks	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+bæk	bækkens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+bæk	bække	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+bæk	bæk	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+bæk	bækkenes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+grundlov	grundlov	TAG=N,TAG=LEMMA
+grundlov	grundloves	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+grundlov	grundlovs	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+grundlov	grundlovens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+grundlov	grundlove	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+grundlov	grundlov	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+grundlov	grundlovenes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+kunde	kunde	TAG=N,TAG=LEMMA
+kunde	kunders	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+kunde	kundes	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+kunde	kundens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+kunde	kunder	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+kunde	kunde	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+kunde	kundernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+interesse	interesse	TAG=N,TAG=LEMMA
+interesse	interessers	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+interesse	interesses	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+interesse	interessens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+interesse	interesser	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+interesse	interesse	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+interesse	interessernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+karakter	karakter	TAG=N,TAG=LEMMA
+karakter	karakterers	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+karakter	karakters	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+karakter	karakterens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+karakter	karakterer	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+karakter	karakter	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+karakter	karakterernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+information	information	TAG=N,TAG=LEMMA
+information	informationers	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+information	informations	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+information	informationens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+information	informationer	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+information	information	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+information	informationernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+modstand	modstand	TAG=N,TAG=LEMMA
+modstand	modstandes	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+modstand	modstands	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+modstand	modstandens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+modstand	modstande	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+modstand	modstand	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+modstand	modstandenes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+knap	knap	TAG=N,TAG=LEMMA
+knap	knappers	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+knap	knaps	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+knap	knappens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+knap	knapper	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+knap	knap	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+knap	knappernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+handler	handler	TAG=N,TAG=LEMMA
+handler	handleres	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+handler	handlers	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+handler	handlerens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+handler	handlere	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+handler	handler	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+handler	handlernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+kejser	kejser	TAG=N,TAG=LEMMA
+kejser	kejseres	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+kejser	kejsers	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+kejser	kejserens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+kejser	kejsere	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+kejser	kejser	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+kejser	kejsernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+rektor	rektor	TAG=N,TAG=LEMMA
+rektor	rektorers	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+rektor	rektors	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+rektor	rektorens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+rektor	rektorer	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+rektor	rektor	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+rektor	rektorernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+park	park	TAG=N,TAG=LEMMA
+park	parkers	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+park	parks	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+park	parkens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+park	parker	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+park	park	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+park	parkernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+hånd	hånd	TAG=N,TAG=LEMMA
+hånd	hænders	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+hånd	hånds	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+hånd	håndens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+hånd	hænder	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+hånd	hånd	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+hånd	hændernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+art	art	TAG=N,TAG=LEMMA
+art	arters	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+art	arts	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+art	artens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+art	arter	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+art	art	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+art	arternes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+kultur	kultur	TAG=N,TAG=LEMMA
+kultur	kulturers	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+kultur	kulturs	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+kultur	kulturens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+kultur	kulturer	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+kultur	kultur	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+kultur	kulturernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+jubilæum	jubilæum	TAG=N,TAG=LEMMA
+jubilæum	jubilæers	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+jubilæum	jubilæums	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+jubilæum	jubilæets	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+jubilæum	jubilæer	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+jubilæum	jubilæum	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+jubilæum	jubilæernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+konkurs	konkurs	TAG=N,TAG=LEMMA
+konkurs	konkursers	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+konkurs	konkurs'	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+konkurs	konkursens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+konkurs	konkurser	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+konkurs	konkurs	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+konkurs	konkursernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+antal	antal	TAG=N,TAG=LEMMA
+antal	antals	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+antal	antals	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+antal	antallets	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+antal	antal	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+antal	antal	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+antal	antallenes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+tyttebær	tyttebær	TAG=N,TAG=LEMMA
+tyttebær	tyttebærs	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+tyttebær	tyttebærs	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+tyttebær	tyttebærrets	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+tyttebær	tyttebær	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+tyttebær	tyttebær	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+tyttebær	tyttebærrenes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+cirkel	cirkel	TAG=N,TAG=LEMMA
+cirkel	cirklers	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+cirkel	cirkels	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+cirkel	cirklens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+cirkel	cirkler	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+cirkel	cirkel	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+cirkel	cirklernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+and	and	TAG=N,TAG=LEMMA
+and	ænders	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+and	ands	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+and	andens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+and	ænder	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+and	and	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+and	ændernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+samling	samling	TAG=N,TAG=LEMMA
+samling	samlingers	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+samling	samlings	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+samling	samlingens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+samling	samlinger	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+samling	samling	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+samling	samlingernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+flod	flod	TAG=N,TAG=LEMMA
+flod	floders	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+flod	flods	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+flod	flodens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+flod	floder	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+flod	flod	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+flod	flodernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+håndboldspiller	håndboldspiller	TAG=N,TAG=LEMMA
+håndboldspiller	håndboldspilleres	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+håndboldspiller	håndboldspillers	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+håndboldspiller	håndboldspillerens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+håndboldspiller	håndboldspillere	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+håndboldspiller	håndboldspiller	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+håndboldspiller	håndboldspillerenes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+das	das	TAG=N,TAG=LEMMA
+das	dassers	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+das	das'	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+das	dassets	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+das	dasser	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+das	das	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+das	dassernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+kilometer	kilometer	TAG=N,TAG=LEMMA
+kilometer	kilometers	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+kilometer	kilometers	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+kilometer	kilometerens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+kilometer	kilometer	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+kilometer	kilometer	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+kilometer	kilometernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+løsesum	løsesum	TAG=N,TAG=LEMMA
+løsesum	løsesummers	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+løsesum	løsesums	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+løsesum	løsesummens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+løsesum	løsesummer	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+løsesum	løsesum	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+løsesum	løsesummernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+tæller	tæller	TAG=N,TAG=LEMMA
+tæller	tælleres	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+tæller	tællers	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+tæller	tællerens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+tæller	tællere	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+tæller	tæller	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+tæller	tællerne	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+bred	bred	TAG=N,TAG=LEMMA
+bred	bredders	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+bred	breds	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+bred	breddens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+bred	bredder	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+bred	bred	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+bred	breddernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+nul	nul	TAG=N,TAG=LEMMA
+nul	nullers	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+nul	nuls	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+nul	nullets	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+nul	nuller	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+nul	nul	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+nul	nullernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+fader	fader	TAG=N,TAG=LEMMA
+fader	fædres	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+fader	faders	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+fader	faderens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+fader	fædre	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+fader	fader	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+fader	fædrenes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+rygsæk	rygsæk	TAG=N,TAG=LEMMA
+rygsæk	rygsækkes	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+rygsæk	rygsæks	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+rygsæk	rygsækkens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+rygsæk	rygsække	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+rygsæk	rygsæk	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+rygsæk	rygsækkenes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+tusinde	tusinde	TAG=N,TAG=LEMMA
+tusinde	tusinders	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+tusinde	tusindes	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+tusinde	tusindets	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+tusinde	tusinder	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+tusinde	tusinde	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+tusinde	tusindernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+samfund	samfund	TAG=N,TAG=LEMMA
+samfund	samfunds	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+samfund	samfunds	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+samfund	samfundets	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+samfund	samfund	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+samfund	samfund	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+samfund	samfundenes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+videospil	videospil	TAG=N,TAG=LEMMA
+videospil	videospils	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+videospil	videospils	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+videospil	videospillets	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+videospil	videospil	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+videospil	videospil	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+videospil	videospillenes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+ble	ble	TAG=N,TAG=LEMMA
+ble	bleers	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+ble	bles	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+ble	bleens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+ble	bleer	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+ble	ble	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+ble	bleernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+partner	partner	TAG=N,TAG=LEMMA
+partner	partneres	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+partner	partners	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+partner	partnerens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+partner	partnere	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+partner	partner	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+partner	partnernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+euro	euro	TAG=N,TAG=LEMMA
+euro	euroers	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+euro	euros	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+euro	euroens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+euro	euroer	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+euro	euro	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+euro	euroernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+vogn	vogn	TAG=N,TAG=LEMMA
+vogn	vognes	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+vogn	vogns	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+vogn	vognens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+vogn	vogne	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+vogn	vogn	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+vogn	vognenes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+uge	uge	TAG=N,TAG=LEMMA
+uge	ugers	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+uge	uges	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+uge	ugens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+uge	uger	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+uge	uge	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+uge	ugernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+graviditet	graviditet	TAG=N,TAG=LEMMA
+graviditet	graviditeters	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+graviditet	graviditets	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+graviditet	graviditetens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+graviditet	graviditeter	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+graviditet	graviditet	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+graviditet	graviditeternes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+kontakt	kontakt	TAG=N,TAG=LEMMA
+kontakt	kontakters	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+kontakt	kontakts	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+kontakt	kontaktens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+kontakt	kontakter	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+kontakt	kontakt	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+kontakt	kontakternes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+far	far	TAG=N,TAG=LEMMA
+far	fædres	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+far	fars	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+far	farens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+far	fædre	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+far	far	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+far	fædrenes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+kor	kor	TAG=N,TAG=LEMMA
+kor	kors	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+kor	kors	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+kor	korets	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+kor	kor	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+kor	kor	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+kor	korenes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+katalog	katalog	TAG=N,TAG=LEMMA
+katalog	katalogers	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+katalog	katalogs	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+katalog	katalogets	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+katalog	kataloger	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+katalog	katalog	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+katalog	katalogernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+rotte	rotte	TAG=N,TAG=LEMMA
+rotte	rotters	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+rotte	rottes	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+rotte	rottens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+rotte	rotter	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+rotte	rotte	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+rotte	rotternes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+materiale	materiale	TAG=N,TAG=LEMMA
+materiale	materialers	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+materiale	materiales	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+materiale	materialets	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+materiale	materialer	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+materiale	materiale	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+materiale	materialernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+start	start	TAG=N,TAG=LEMMA
+start	starters	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+start	starts	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+start	startens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+start	starter	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+start	start	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+start	starternes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+skuespil	skuespil	TAG=N,TAG=LEMMA
+skuespil	skuespils	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+skuespil	skuespils	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+skuespil	skuespillets	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+skuespil	skuespil	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+skuespil	skuespil	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+skuespil	skuespillenes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+alting	alting	TAG=N,TAG=LEMMA
+alting	altings	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+alting	altings	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+alting	altingets	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+alting	alting	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+alting	alting	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+alting	altingenes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+kopi	kopi	TAG=N,TAG=LEMMA
+kopi	kopiers	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+kopi	kopis	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+kopi	kopiens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+kopi	kopier	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+kopi	kopi	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+kopi	kopiernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+kappe	kappe	TAG=N,TAG=LEMMA
+kappe	kappers	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+kappe	kappes	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+kappe	kappens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+kappe	kapper	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+kappe	kappe	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+kappe	kappernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+kubikmeter	kubikmeter	TAG=N,TAG=LEMMA
+kubikmeter	kubikmeters	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+kubikmeter	kubikmeters	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+kubikmeter	kubikmeterens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+kubikmeter	kubikmeter	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+kubikmeter	kubikmeter	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+kubikmeter	kubikmeternes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+spørgsmål	spørgsmål	TAG=N,TAG=LEMMA
+spørgsmål	spørgsmåls	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+spørgsmål	spørgsmåls	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+spørgsmål	spørgsmålets	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+spørgsmål	spørgsmål	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+spørgsmål	spørgsmål	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+spørgsmål	spørgsmålenes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+familie	familie	TAG=N,TAG=LEMMA
+familie	familiers	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+familie	families	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+familie	familiens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+familie	familier	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+familie	familie	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+familie	familiernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+fjernbetjening	fjernbetjening	TAG=N,TAG=LEMMA
+fjernbetjening	fjernbetjeningers	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+fjernbetjening	fjernbetjenings	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+fjernbetjening	fjernbetjeningens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+fjernbetjening	fjernbetjeninger	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+fjernbetjening	fjernbetjening	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+fjernbetjening	fjernbetjeningernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+fund	fund	TAG=N,TAG=LEMMA
+fund	funds	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+fund	funds	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+fund	fundets	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+fund	fund	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+fund	fund	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+fund	fundenes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+millimeter	millimeter	TAG=N,TAG=LEMMA
+millimeter	millimeters	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+millimeter	millimeters	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+millimeter	millimeterens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+millimeter	millimeter	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+millimeter	millimeter	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+millimeter	millimeternes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+len	len	TAG=N,TAG=LEMMA
+len	lens	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+len	lens	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+len	lenets	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+len	len	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+len	len	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+len	lenenes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+skib	skib	TAG=N,TAG=LEMMA
+skib	skibes	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+skib	skibs	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+skib	skibets	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+skib	skibe	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+skib	skib	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+skib	skibenes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+præsident	præsident	TAG=N,TAG=LEMMA
+præsident	præsidenters	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+præsident	præsidents	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+præsident	præsidentens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+præsident	præsidenter	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+præsident	præsident	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+præsident	præsidenternes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+tilstand	tilstand	TAG=N,TAG=LEMMA
+tilstand	tilstandes	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+tilstand	tilstands	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+tilstand	tilstandens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+tilstand	tilstande	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+tilstand	tilstand	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+tilstand	tilstandenes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+tandpasta	tandpasta	TAG=N,TAG=LEMMA
+tandpasta	tandpastaers	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+tandpasta	tandpastas	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+tandpasta	tandpastaens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+tandpasta	tandpastaer	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+tandpasta	tandpasta	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+tandpasta	tandpastaernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+ven	ven	TAG=N,TAG=LEMMA
+ven	venners	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+ven	vens	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+ven	vennens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+ven	venner	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+ven	ven	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+ven	vennernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+kirke	kirke	TAG=N,TAG=LEMMA
+kirke	kirkers	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+kirke	kirkes	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+kirke	kirkens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+kirke	kirker	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+kirke	kirke	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+kirke	kirkernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+præst	præst	TAG=N,TAG=LEMMA
+præst	præsters	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+præst	præsts	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+præst	præstens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+præst	præster	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+præst	præst	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+præst	præsternes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+knob	knob	TAG=N,TAG=LEMMA
+knob	knobs	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+knob	knobs	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+knob	knobets	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+knob	knob	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+knob	knob	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+knob	knobenes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+forbrydelse	forbrydelse	TAG=N,TAG=LEMMA
+forbrydelse	forbrydelsers	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+forbrydelse	forbrydelses	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+forbrydelse	forbrydelsens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+forbrydelse	forbrydelser	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+forbrydelse	forbrydelse	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+forbrydelse	forbrydelsernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+gennembrud	gennembrud	TAG=N,TAG=LEMMA
+gennembrud	gennembruds	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+gennembrud	gennembruds	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+gennembrud	gennembruddets	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+gennembrud	gennembrud	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+gennembrud	gennembrud	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+gennembrud	gennembruddenes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+hjemmeside	hjemmeside	TAG=N,TAG=LEMMA
+hjemmeside	hjemmesiders	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+hjemmeside	hjemmesides	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+hjemmeside	hjemmesidens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+hjemmeside	hjemmesider	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+hjemmeside	hjemmeside	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+hjemmeside	hjemmesidernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+monarki	monarki	TAG=N,TAG=LEMMA
+monarki	monarkiers	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+monarki	monarkis	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+monarki	monarkiets	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+monarki	monarkier	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+monarki	monarki	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+monarki	monarkiernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+skulptur	skulptur	TAG=N,TAG=LEMMA
+skulptur	skulpturers	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+skulptur	skulpturs	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+skulptur	skulpturens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+skulptur	skulpturer	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+skulptur	skulptur	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+skulptur	skulpturernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+kirkegård	kirkegård	TAG=N,TAG=LEMMA
+kirkegård	kirkegårdes	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+kirkegård	kirkegårds	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+kirkegård	kirkegårdens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+kirkegård	kirkegårde	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+kirkegård	kirkegård	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+kirkegård	kirkegårdenes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+ask	ask	TAG=N,TAG=LEMMA
+ask	askes	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+ask	asks	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+ask	askens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+ask	aske	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+ask	ask	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+ask	askenes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+længde	længde	TAG=N,TAG=LEMMA
+længde	længders	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+længde	længdes	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+længde	længdens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+længde	længder	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+længde	længde	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+længde	længdernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+mester	mester	TAG=N,TAG=LEMMA
+mester	mestres	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+mester	mesters	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+mester	mesterens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+mester	mestre	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+mester	mester	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+mester	mestrenes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+halvbror	halvbror	TAG=N,TAG=LEMMA
+halvbror	halvbrødres	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+halvbror	halvbrors	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+halvbror	halvbrorens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+halvbror	halvbrødre	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+halvbror	halvbror	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+halvbror	halvbrødrenes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+tvivl	tvivl	TAG=N,TAG=LEMMA
+tvivl	tvivls	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+tvivl	tvivls	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+tvivl	tvivlens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+tvivl	tvivl	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+tvivl	tvivl	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+tvivl	tvivlenes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+flåde	flåde	TAG=N,TAG=LEMMA
+flåde	flåders	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+flåde	flådes	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+flåde	flådens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+flåde	flåder	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+flåde	flåde	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+flåde	flådernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+politiker	politiker	TAG=N,TAG=LEMMA
+politiker	politikeres	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+politiker	politikers	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+politiker	politikerens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+politiker	politikere	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+politiker	politiker	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+politiker	politikernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+flertal	flertal	TAG=N,TAG=LEMMA
+flertal	flertals	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+flertal	flertals	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+flertal	flertallets	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+flertal	flertal	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+flertal	flertal	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+flertal	flertallenes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+oprør	oprør	TAG=N,TAG=LEMMA
+oprør	oprørs	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+oprør	oprørs	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+oprør	oprørets	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+oprør	oprør	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+oprør	oprør	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+oprør	oprørenes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+græs	græs	TAG=N,TAG=LEMMA
+græs	græssers	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+græs	græs'	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+græs	græssets	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+græs	græsser	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+græs	græs	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+græs	græssernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+delstat	delstat	TAG=N,TAG=LEMMA
+delstat	delstaters	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+delstat	delstats	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+delstat	delstatens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+delstat	delstater	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+delstat	delstat	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+delstat	delstaternes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+debut	debut	TAG=N,TAG=LEMMA
+debut	debuters	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+debut	debuts	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+debut	debutens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+debut	debuter	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+debut	debut	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+debut	debuternes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+eksistens	eksistens	TAG=N,TAG=LEMMA
+eksistens	eksistensers	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+eksistens	eksistens'	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+eksistens	eksistensens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+eksistens	eksistenser	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+eksistens	eksistens	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+eksistens	eksistensernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+prins	prins	TAG=N,TAG=LEMMA
+prins	prinsers	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+prins	prins'	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+prins	prinsens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+prins	prinser	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+prins	prins	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+prins	prinsernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+kreds	kreds	TAG=N,TAG=LEMMA
+kreds	kredses	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+kreds	kreds'	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+kreds	kredsens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+kreds	kredse	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+kreds	kreds	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+kreds	kredsenes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+mængde	mængde	TAG=N,TAG=LEMMA
+mængde	mængders	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+mængde	mængdes	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+mængde	mængdens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+mængde	mængder	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+mængde	mængde	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+mængde	mængdernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+guvernør	guvernør	TAG=N,TAG=LEMMA
+guvernør	guvernørers	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+guvernør	guvernørs	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+guvernør	guvernørens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+guvernør	guvernører	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+guvernør	guvernør	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+guvernør	guvernørernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+tidspunkt	tidspunkt	TAG=N,TAG=LEMMA
+tidspunkt	tidspunkters	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+tidspunkt	tidspunkts	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+tidspunkt	tidspunktets	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+tidspunkt	tidspunkter	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+tidspunkt	tidspunkt	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+tidspunkt	tidspunkternes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+album	album	TAG=N,TAG=LEMMA
+album	albummers	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+album	albums	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+album	albummets	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+album	albummer	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+album	album	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+album	albummernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+sortering	sortering	TAG=N,TAG=LEMMA
+sortering	sorteringers	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+sortering	sorterings	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+sortering	sorteringens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+sortering	sorteringer	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+sortering	sortering	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+sortering	sorteringernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+hoppe	hoppe	TAG=N,TAG=LEMMA
+hoppe	hoppers	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+hoppe	hoppes	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+hoppe	hoppens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+hoppe	hopper	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+hoppe	hoppe	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+hoppe	hoppernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+boykot	boykot	TAG=N,TAG=LEMMA
+boykot	boykotters	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+boykot	boykots	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+boykot	boykottens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+boykot	boykotter	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+boykot	boykot	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+boykot	boykotternes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+lag	lag	TAG=N,TAG=LEMMA
+lag	lags	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+lag	lags	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+lag	lagets	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+lag	lag	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+lag	lag	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+lag	lagenes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+etape	etape	TAG=N,TAG=LEMMA
+etape	etapers	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+etape	etapes	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+etape	etapens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+etape	etaper	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+etape	etape	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+etape	etapernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+musikvideo	musikvideo	TAG=N,TAG=LEMMA
+musikvideo	musikvideoers	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+musikvideo	musikvideos	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+musikvideo	musikvideoens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+musikvideo	musikvideoer	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+musikvideo	musikvideo	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+musikvideo	musikvideoernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+delmængde	delmængde	TAG=N,TAG=LEMMA
+delmængde	delmængders	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+delmængde	delmængdes	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+delmængde	delmængdens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+delmængde	delmængder	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+delmængde	delmængde	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+delmængde	delmængdernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+pattedyr	pattedyr	TAG=N,TAG=LEMMA
+pattedyr	pattedyrs	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+pattedyr	pattedyrs	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+pattedyr	pattedyrets	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+pattedyr	pattedyr	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+pattedyr	pattedyr	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+pattedyr	pattedyrenes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+grundlag	grundlag	TAG=N,TAG=LEMMA
+grundlag	grundlags	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+grundlag	grundlags	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+grundlag	grundlagets	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+grundlag	grundlag	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+grundlag	grundlag	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+grundlag	grundlagenes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+skuespiller	skuespiller	TAG=N,TAG=LEMMA
+skuespiller	skuespilleres	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+skuespiller	skuespillers	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+skuespiller	skuespillerens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+skuespiller	skuespillere	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+skuespiller	skuespiller	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+skuespiller	skuespillernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+vakuum	vakuum	TAG=N,TAG=LEMMA
+vakuum	vakuummers	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+vakuum	vakuums	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+vakuum	vakuummets	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+vakuum	vakuummer	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+vakuum	vakuum	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+vakuum	vakuummernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+betegnelse	betegnelse	TAG=N,TAG=LEMMA
+betegnelse	betegnelsers	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+betegnelse	betegnelses	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+betegnelse	betegnelsens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+betegnelse	betegnelser	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+betegnelse	betegnelse	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+betegnelse	betegnelsernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+greve	greve	TAG=N,TAG=LEMMA
+greve	grevers	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+greve	greves	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+greve	grevens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+greve	grever	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+greve	greve	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+greve	grevernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+navne	navne	TAG=N,TAG=LEMMA
+navne	navners	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+navne	navnes	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+navne	navnens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+navne	navner	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+navne	navne	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+navne	navnernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+centimeter	centimeter	TAG=N,TAG=LEMMA
+centimeter	centimeters	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+centimeter	centimeters	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+centimeter	centimeterens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+centimeter	centimeter	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+centimeter	centimeter	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+centimeter	centimeternes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+linje	linje	TAG=N,TAG=LEMMA
+linje	linjers	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+linje	linjes	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+linje	linjens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+linje	linjer	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+linje	linje	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+linje	linjernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+masse	masse	TAG=N,TAG=LEMMA
+masse	massers	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+masse	masses	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+masse	massens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+masse	masser	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+masse	masse	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+masse	massernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+løg	løg	TAG=N,TAG=LEMMA
+løg	løgs	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+løg	løgs	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+løg	løgets	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+løg	løg	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+løg	løg	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+løg	løgenes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+integrere	integrere	TAG=V,TAG=LEMMA
+integrere	integreret	TAG=V.PTCP,TAG=PASS,TAG=PST
+integrere	integrer	TAG=V,TAG=ACT,TAG=IMP
+integrere	integreredes	TAG=V,TAG=PASS,TAG=IND,TAG=PST
+integrere	integrere	TAG=V,TAG=ACT,TAG=NFIN
+integrere	integreres	TAG=V,TAG=PASS,TAG=IND,TAG=PRS
+integrere	integrerende	TAG=V.PTCP,TAG=ACT,TAG=PRS
+integrere	integrerer	TAG=V,TAG=ACT,TAG=IND,TAG=PRS
+integrere	integrerede	TAG=V,TAG=ACT,TAG=IND,TAG=PST
+
+onkel	onkel	TAG=N,TAG=LEMMA
+onkel	onklers	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+onkel	onkels	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+onkel	onklensonkelens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+onkel	onkler	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+onkel	onkel	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+onkel	onklernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+musiker	musiker	TAG=N,TAG=LEMMA
+musiker	musikeres	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+musiker	musikers	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+musiker	musikerens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+musiker	musikere	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+musiker	musiker	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+musiker	musikernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+råb	råb	TAG=N,TAG=LEMMA
+råb	råbs	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+råb	råbs	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+råb	råbets	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+råb	råb	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+råb	råb	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+råb	råbenes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+hus	hus	TAG=N,TAG=LEMMA
+hus	huses	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+hus	hus'	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+hus	husets	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+hus	huse	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+hus	hus	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+hus	husenes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+flag	flag	TAG=N,TAG=LEMMA
+flag	flags	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+flag	flags	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+flag	flagets	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+flag	flag	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+flag	flag	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+flag	flagenes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+tomme	tomme	TAG=N,TAG=LEMMA
+tomme	tommers	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+tomme	tommes	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+tomme	tommens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+tomme	tommer	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+tomme	tomme	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+tomme	tommernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+wiki	wiki	TAG=N,TAG=LEMMA
+wiki	wikiers	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+wiki	wikis	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+wiki	wikiens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+wiki	wikier	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+wiki	wiki	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+wiki	wikiernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+enhed	enhed	TAG=N,TAG=LEMMA
+enhed	enheders	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+enhed	enheds	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+enhed	enhedens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+enhed	enheder	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+enhed	enhed	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+enhed	enhedernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+ændring	ændring	TAG=N,TAG=LEMMA
+ændring	ændringers	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+ændring	ændrings	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+ændring	ændringens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+ændring	ændringer	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+ændring	ændring	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+ændring	ændringernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+ædelsten	ædelsten	TAG=N,TAG=LEMMA
+ædelsten	ædelstens	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+ædelsten	ædelstens	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+ædelsten	ædelstenens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+ædelsten	ædelsten	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+ædelsten	ædelsten	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+ædelsten	ædelstenenes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+grunde	grunde	TAG=V,TAG=LEMMA
+grunde	grundet	TAG=V.PTCP,TAG=PASS,TAG=PST
+grunde	grund	TAG=V,TAG=ACT,TAG=IMP
+grunde	grundedes	TAG=V,TAG=PASS,TAG=IND,TAG=PST
+grunde	grunde	TAG=V,TAG=ACT,TAG=NFIN
+grunde	grundes	TAG=V,TAG=PASS,TAG=IND,TAG=PRS
+grunde	grundende	TAG=V.PTCP,TAG=ACT,TAG=PRS
+grunde	grunder	TAG=V,TAG=ACT,TAG=IND,TAG=PRS
+grunde	grundede	TAG=V,TAG=ACT,TAG=IND,TAG=PST
+
+middel	middel	TAG=N,TAG=LEMMA
+middel	midlers	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+middel	middels	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+middel	midletsmiddelets	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+middel	midler	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+middel	middel	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+middel	midlernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+stjerne	stjerne	TAG=N,TAG=LEMMA
+stjerne	stjerners	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+stjerne	stjernes	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+stjerne	stjernens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+stjerne	stjerner	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+stjerne	stjerne	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+stjerne	stjernernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+kurv	kurv	TAG=N,TAG=LEMMA
+kurv	kurves	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+kurv	kurvs	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+kurv	kurvens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+kurv	kurve	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+kurv	kurv	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+kurv	kurvenes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+funktion	funktion	TAG=N,TAG=LEMMA
+funktion	funktioners	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+funktion	funktions	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+funktion	funktionens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+funktion	funktioner	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+funktion	funktion	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+funktion	funktionernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+målmand	målmand	TAG=N,TAG=LEMMA
+målmand	målmænds	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+målmand	målmands	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+målmand	målmandens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+målmand	målmænd	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+målmand	målmand	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+målmand	målmændenes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+vulkan	vulkan	TAG=N,TAG=LEMMA
+vulkan	vulkaners	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+vulkan	vulkans	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+vulkan	vulkanens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+vulkan	vulkaner	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+vulkan	vulkan	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+vulkan	vulkanernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+avis	avis	TAG=N,TAG=LEMMA
+avis	avisers	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+avis	avis'	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+avis	avisens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+avis	aviser	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+avis	avis	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+avis	avisernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+horn	horn	TAG=N,TAG=LEMMA
+horn	horns	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+horn	horns	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+horn	hornets	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+horn	horn	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+horn	horn	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+horn	hornenes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+flanke	flanke	TAG=N,TAG=LEMMA
+flanke	flankers	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+flanke	flankes	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+flanke	flankens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+flanke	flanker	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+flanke	flanke	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+flanke	flankernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+tanke	tanke	TAG=N,TAG=LEMMA
+tanke	tankers	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+tanke	tankes	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+tanke	tankens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+tanke	tanker	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+tanke	tanke	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+tanke	tankernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+data	data	TAG=N,TAG=LEMMA
+data	datas	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+data	datas	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+data	dataets	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+data	data	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+data	data	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+data	dataenes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+trin	trin	TAG=N,TAG=LEMMA
+trin	trins	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+trin	trins	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+trin	trinets	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+trin	trin	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+trin	trin	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+trin	trinenes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+bidrag	bidrag	TAG=N,TAG=LEMMA
+bidrag	bidrags	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+bidrag	bidrags	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+bidrag	bidragets	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+bidrag	bidrag	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+bidrag	bidrag	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+bidrag	bidragenes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+tilladelse	tilladelse	TAG=N,TAG=LEMMA
+tilladelse	tilladelsers	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+tilladelse	tilladelses	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+tilladelse	tilladelsens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+tilladelse	tilladelser	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+tilladelse	tilladelse	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+tilladelse	tilladelsernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+tryk	tryk	TAG=N,TAG=LEMMA
+tryk	tryks	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+tryk	tryks	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+tryk	trykkets	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+tryk	tryk	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+tryk	tryk	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+tryk	trykkenes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+patient	patient	TAG=N,TAG=LEMMA
+patient	patienters	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+patient	patients	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+patient	patientens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+patient	patienter	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+patient	patient	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+patient	patienternes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+vasal	vasal	TAG=N,TAG=LEMMA
+vasal	vasallers	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+vasal	vasals	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+vasal	vasallens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+vasal	vasaller	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+vasal	vasal	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+vasal	vasallernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+værelse	værelse	TAG=N,TAG=LEMMA
+værelse	værelsers	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+værelse	værelses	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+værelse	værelsets	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+værelse	værelser	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+værelse	værelse	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+værelse	værelsernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+konsekvens	konsekvens	TAG=N,TAG=LEMMA
+konsekvens	konsekvensers	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+konsekvens	konsekvens'	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+konsekvens	konsekvensens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+konsekvens	konsekvenser	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+konsekvens	konsekvens	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+konsekvens	konsekvensernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+brand	brand	TAG=N,TAG=LEMMA
+brand	brandes	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+brand	brands	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+brand	brandens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+brand	brande	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+brand	brand	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+brand	brandenes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+slange	slange	TAG=N,TAG=LEMMA
+slange	slangers	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+slange	slanges	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+slange	slangens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+slange	slanger	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+slange	slange	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+slange	slangernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+håb	håb	TAG=N,TAG=LEMMA
+håb	håbs	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+håb	håbs	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+håb	håbets	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+håb	håb	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+håb	håb	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+håb	håbenes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+revolution	revolution	TAG=N,TAG=LEMMA
+revolution	revolutioners	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+revolution	revolutions	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+revolution	revolutionens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+revolution	revolutioner	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+revolution	revolution	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+revolution	revolutionernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+klare	klare	TAG=V,TAG=LEMMA
+klare	klaret	TAG=V.PTCP,TAG=PASS,TAG=PST
+klare	klar	TAG=V,TAG=ACT,TAG=IMP
+klare	klaredes	TAG=V,TAG=PASS,TAG=IND,TAG=PST
+klare	klare	TAG=V,TAG=ACT,TAG=NFIN
+klare	klares	TAG=V,TAG=PASS,TAG=IND,TAG=PRS
+klare	klarende	TAG=V.PTCP,TAG=ACT,TAG=PRS
+klare	klarer	TAG=V,TAG=ACT,TAG=IND,TAG=PRS
+klare	klarede	TAG=V,TAG=ACT,TAG=IND,TAG=PST
+
+sten	sten	TAG=N,TAG=LEMMA
+sten	stens	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+sten	stens	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+sten	stenens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+sten	sten	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+sten	sten	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+sten	stenenes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+sydvest	sydvest	TAG=N,TAG=LEMMA
+sydvest	sydvestes	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+sydvest	sydvests	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+sydvest	sydvestens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+sydvest	sydveste	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+sydvest	sydvest	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+sydvest	sydvestenes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+tennisspiller	tennisspiller	TAG=N,TAG=LEMMA
+tennisspiller	tennisspilleres	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+tennisspiller	tennisspillers	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+tennisspiller	tennisspillerens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+tennisspiller	tennisspillere	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+tennisspiller	tennisspiller	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+tennisspiller	tennisspillernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+brugernavn	brugernavn	TAG=N,TAG=LEMMA
+brugernavn	brugernavnes	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+brugernavn	brugernavns	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+brugernavn	brugernavnets	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+brugernavn	brugernavne	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+brugernavn	brugernavn	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+brugernavn	brugernavnenes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+fange	fange	TAG=N,TAG=LEMMA
+fange	fangers	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+fange	fanges	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+fange	fangens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+fange	fanger	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+fange	fange	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+fange	fangernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+diskutere	diskutere	TAG=V,TAG=LEMMA
+diskutere	diskuteret	TAG=V.PTCP,TAG=PASS,TAG=PST
+diskutere	diskuter	TAG=V,TAG=ACT,TAG=IMP
+diskutere	diskuteredes	TAG=V,TAG=PASS,TAG=IND,TAG=PST
+diskutere	diskutere	TAG=V,TAG=ACT,TAG=NFIN
+diskutere	diskuteres	TAG=V,TAG=PASS,TAG=IND,TAG=PRS
+diskutere	diskuterende	TAG=V.PTCP,TAG=ACT,TAG=PRS
+diskutere	diskuterer	TAG=V,TAG=ACT,TAG=IND,TAG=PRS
+diskutere	diskuterede	TAG=V,TAG=ACT,TAG=IND,TAG=PST
+
+hustru	hustru	TAG=N,TAG=LEMMA
+hustru	hustruers	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+hustru	hustrus	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+hustru	hustruens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+hustru	hustruer	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+hustru	hustru	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+hustru	hustruernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+møde	møde	TAG=N,TAG=LEMMA
+møde	møders	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+møde	mødes	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+møde	mødets	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+møde	møder	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+møde	møde	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+møde	mødernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+landsby	landsby	TAG=N,TAG=LEMMA
+landsby	landsbyers	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+landsby	landsbys	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+landsby	landsbyens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+landsby	landsbyer	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+landsby	landsby	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+landsby	landsbyernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+talord	talord	TAG=N,TAG=LEMMA
+talord	talords	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+talord	talords	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+talord	talordets	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+talord	talord	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+talord	talord	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+talord	talordenes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+bryllup	bryllup	TAG=N,TAG=LEMMA
+bryllup	brylluppers	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+bryllup	bryllups	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+bryllup	brylluppets	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+bryllup	bryllupper	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+bryllup	bryllup	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+bryllup	brylluppernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+cigaretskod	cigaretskod	TAG=N,TAG=LEMMA
+cigaretskod	cigaretskods	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+cigaretskod	cigaretskods	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+cigaretskod	cigaretskoddets	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+cigaretskod	cigaretskod	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+cigaretskod	cigaretskod	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+cigaretskod	cigaretskoddenes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+hypnotisør	hypnotisør	TAG=N,TAG=LEMMA
+hypnotisør	hypnotisørers	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+hypnotisør	hypnotisørs	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+hypnotisør	hypnotisørens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+hypnotisør	hypnotisører	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+hypnotisør	hypnotisør	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+hypnotisør	hypnotisørernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+tradition	tradition	TAG=N,TAG=LEMMA
+tradition	traditioners	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+tradition	traditions	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+tradition	traditionens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+tradition	traditioner	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+tradition	tradition	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+tradition	traditionernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+standard	standard	TAG=N,TAG=LEMMA
+standard	standarders	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+standard	standards	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+standard	standardens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+standard	standarder	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+standard	standard	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+standard	standardernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+granit	granit	TAG=N,TAG=LEMMA
+granit	granitters	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+granit	granits	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+granit	granittens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+granit	granitter	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+granit	granit	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+granit	granitternes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+psykologi	psykologi	TAG=N,TAG=LEMMA
+psykologi	psykologiers	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+psykologi	psykologis	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+psykologi	psykologiens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+psykologi	psykologier	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+psykologi	psykologi	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+psykologi	psykologiernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+renovere	renovere	TAG=V,TAG=LEMMA
+renovere	renoveret	TAG=V.PTCP,TAG=PASS,TAG=PST
+renovere	renover	TAG=V,TAG=ACT,TAG=IMP
+renovere	renoveredes	TAG=V,TAG=PASS,TAG=IND,TAG=PST
+renovere	renovere	TAG=V,TAG=ACT,TAG=NFIN
+renovere	renoveres	TAG=V,TAG=PASS,TAG=IND,TAG=PRS
+renovere	renoverende	TAG=V.PTCP,TAG=ACT,TAG=PRS
+renovere	renoverer	TAG=V,TAG=ACT,TAG=IND,TAG=PRS
+renovere	renoverede	TAG=V,TAG=ACT,TAG=IND,TAG=PST
+
+bydel	bydel	TAG=N,TAG=LEMMA
+bydel	bydeles	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+bydel	bydels	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+bydel	bydelens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+bydel	bydele	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+bydel	bydel	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+bydel	bydelenes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+sanger	sanger	TAG=N,TAG=LEMMA
+sanger	sangeres	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+sanger	sangers	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+sanger	sangerens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+sanger	sangere	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+sanger	sanger	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+sanger	sangernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+maskine	maskine	TAG=N,TAG=LEMMA
+maskine	maskiners	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+maskine	maskines	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+maskine	maskinens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+maskine	maskiner	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+maskine	maskine	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+maskine	maskinernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+stræde	stræde	TAG=N,TAG=LEMMA
+stræde	stræders	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+stræde	strædes	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+stræde	strædets	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+stræde	stræder	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+stræde	stræde	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+stræde	strædernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+spor	spor	TAG=N,TAG=LEMMA
+spor	spors	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+spor	spors	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+spor	sporets	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+spor	spor	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+spor	spor	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+spor	sporenes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+bevis	bevis	TAG=N,TAG=LEMMA
+bevis	bevisers	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+bevis	beviss	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+bevis	bevisets	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+bevis	beviser	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+bevis	bevis	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+bevis	bevisernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+længsel	længsel	TAG=N,TAG=LEMMA
+længsel	længslers	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+længsel	længsels	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+længsel	længslens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+længsel	længsler	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+længsel	længsel	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+længsel	længslernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+pulver	pulver	TAG=N,TAG=LEMMA
+pulver	pulveres	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+pulver	pulvers	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+pulver	pulverets	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+pulver	pulvere	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+pulver	pulver	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+pulver	pulvernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+mandag	mandag	TAG=N,TAG=LEMMA
+mandag	mandages	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+mandag	mandags	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+mandag	mandagens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+mandag	mandage	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+mandag	mandag	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+mandag	mandagenes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+faster	faster	TAG=N,TAG=LEMMA
+faster	fastres	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+faster	fasters	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+faster	fasterens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+faster	fastre	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+faster	faster	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+faster	fastrenes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+ægte	ægte	TAG=V,TAG=LEMMA
+ægte	ægtet	TAG=V.PTCP,TAG=PASS,TAG=PST
+ægte	ægt	TAG=V,TAG=ACT,TAG=IMP
+ægte	ægtedes	TAG=V,TAG=PASS,TAG=IND,TAG=PST
+ægte	ægte	TAG=V,TAG=ACT,TAG=NFIN
+ægte	ægtes	TAG=V,TAG=PASS,TAG=IND,TAG=PRS
+ægte	ægtende	TAG=V.PTCP,TAG=ACT,TAG=PRS
+ægte	ægter	TAG=V,TAG=ACT,TAG=IND,TAG=PRS
+ægte	ægtede	TAG=V,TAG=ACT,TAG=IND,TAG=PST
+
+kategori	kategori	TAG=N,TAG=LEMMA
+kategori	kategoriers	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+kategori	kategoris	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+kategori	kategoriens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+kategori	kategorier	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+kategori	kategori	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+kategori	kategoriernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+oprindelse	oprindelse	TAG=N,TAG=LEMMA
+oprindelse	oprindelsers	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+oprindelse	oprindelses	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+oprindelse	oprindelsens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+oprindelse	oprindelser	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+oprindelse	oprindelse	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+oprindelse	oprindelsernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+nødvendighed	nødvendighed	TAG=N,TAG=LEMMA
+nødvendighed	nødvendigheders	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+nødvendighed	nødvendigheds	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+nødvendighed	nødvendighedens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+nødvendighed	nødvendigheder	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+nødvendighed	nødvendighed	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+nødvendighed	nødvendighedernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+oversættelse	oversættelse	TAG=N,TAG=LEMMA
+oversættelse	oversættelsers	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+oversættelse	oversættelses	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+oversættelse	oversættelsens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+oversættelse	oversættelser	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+oversættelse	oversættelse	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+oversættelse	oversættelsernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+ubåd	ubåd	TAG=N,TAG=LEMMA
+ubåd	ubådes	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+ubåd	ubåds	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+ubåd	ubådens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+ubåd	ubåde	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+ubåd	ubåd	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+ubåd	ubådenes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+genvej	genvej	TAG=N,TAG=LEMMA
+genvej	genvejes	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+genvej	genvejs	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+genvej	genvejens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+genvej	genveje	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+genvej	genvej	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+genvej	genvejenes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+mur	mur	TAG=N,TAG=LEMMA
+mur	mures	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+mur	murs	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+mur	murens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+mur	mure	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+mur	mur	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+mur	murenes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+skifte	skifte	TAG=N,TAG=LEMMA
+skifte	skifters	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+skifte	skiftes	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+skifte	skiftets	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+skifte	skifter	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+skifte	skifte	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+skifte	skifternes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+vurdering	vurdering	TAG=N,TAG=LEMMA
+vurdering	vurderingers	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+vurdering	vurderings	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+vurdering	vurderingens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+vurdering	vurderinger	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+vurdering	vurdering	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+vurdering	vurderingernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+gren	gren	TAG=N,TAG=LEMMA
+gren	grenes	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+gren	grens	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+gren	grenens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+gren	grene	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+gren	gren	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+gren	grenenes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+hjelm	hjelm	TAG=N,TAG=LEMMA
+hjelm	hjelmes	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+hjelm	hjelms	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+hjelm	hjelmens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+hjelm	hjelme	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+hjelm	hjelm	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+hjelm	hjelmenes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+kontor	kontor	TAG=N,TAG=LEMMA
+kontor	kontorers	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+kontor	kontors	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+kontor	kontorets	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+kontor	kontorer	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+kontor	kontor	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+kontor	kontorernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+ridder	ridder	TAG=N,TAG=LEMMA
+ridder	ridderes	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+ridder	ridders	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+ridder	ridderens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+ridder	riddere	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+ridder	ridder	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+ridder	riddernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+kystlinje	kystlinje	TAG=N,TAG=LEMMA
+kystlinje	kystlinjers	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+kystlinje	kystlinjes	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+kystlinje	kystlinjens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+kystlinje	kystlinjer	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+kystlinje	kystlinje	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+kystlinje	kystlinjernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+blomst	blomst	TAG=N,TAG=LEMMA
+blomst	blomsters	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+blomst	blomsts	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+blomst	blomstens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+blomst	blomster	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+blomst	blomst	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+blomst	blomsternes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+individ	individ	TAG=N,TAG=LEMMA
+individ	individers	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+individ	individs	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+individ	individets	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+individ	individer	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+individ	individ	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+individ	individernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+bogstav	bogstav	TAG=N,TAG=LEMMA
+bogstav	bogstavers	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+bogstav	bogstavs	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+bogstav	bogstavets	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+bogstav	bogstaver	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+bogstav	bogstav	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+bogstav	bogstavernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+erklære	erklære	TAG=V,TAG=LEMMA
+erklære	erklæret	TAG=V.PTCP,TAG=PASS,TAG=PST
+erklære	erklær	TAG=V,TAG=ACT,TAG=IMP
+erklære	erklæredes	TAG=V,TAG=PASS,TAG=IND,TAG=PST
+erklære	erklære	TAG=V,TAG=ACT,TAG=NFIN
+erklære	erklæres	TAG=V,TAG=PASS,TAG=IND,TAG=PRS
+erklære	erklærende	TAG=V.PTCP,TAG=ACT,TAG=PRS
+erklære	erklærer	TAG=V,TAG=ACT,TAG=IND,TAG=PRS
+erklære	erklærede	TAG=V,TAG=ACT,TAG=IND,TAG=PST
+
+bil	bil	TAG=N,TAG=LEMMA
+bil	bilers	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+bil	bils	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+bil	bilens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+bil	biler	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+bil	bil	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+bil	bilernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+elev	elev	TAG=N,TAG=LEMMA
+elev	elevers	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+elev	elevs	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+elev	elevens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+elev	elever	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+elev	elev	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+elev	elevernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+guddom	guddom	TAG=N,TAG=LEMMA
+guddom	guddommes	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+guddom	guddoms	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+guddom	guddommens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+guddom	guddomme	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+guddom	guddom	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+guddom	guddommenes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+begivenhed	begivenhed	TAG=N,TAG=LEMMA
+begivenhed	begivenheders	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+begivenhed	begivenheds	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+begivenhed	begivenhedens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+begivenhed	begivenheder	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+begivenhed	begivenhed	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+begivenhed	begivenhedernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+opmærksomhed	opmærksomhed	TAG=N,TAG=LEMMA
+opmærksomhed	opmærksomheders	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+opmærksomhed	opmærksomheds	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+opmærksomhed	opmærksomhedens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+opmærksomhed	opmærksomheder	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+opmærksomhed	opmærksomhed	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+opmærksomhed	opmærksomhedernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+resurse	resurse	TAG=N,TAG=LEMMA
+resurse	resursers	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+resurse	resurses	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+resurse	resursens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+resurse	resurser	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+resurse	resurse	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+resurse	resursernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+drager	drager	TAG=N,TAG=LEMMA
+drager	drageres	TAG=N,TAG=INDF,TAG=GEN,TAG=PL
+drager	dragers	TAG=N,TAG=INDF,TAG=GEN,TAG=SG
+drager	dragerens	TAG=N,TAG=DEF,TAG=NOM,TAG=SG
+drager	dragere	TAG=N,TAG=INDF,TAG=NOM,TAG=PL
+drager	drager	TAG=N,TAG=INDF,TAG=NOM,TAG=SG
+drager	dragernes	TAG=N,TAG=DEF,TAG=NOM,TAG=PL
+
+reparere	reparere	TAG=V,TAG=LEMMA
+reparere	repareret	TAG=V.PTCP,TAG=PASS,TAG=PST
+reparere	reparer	TAG=V,TAG=ACT,TAG=IMP
+reparere	repareredes	TAG=V,TAG=PASS,TAG=IND,TAG=PST
+reparere	reparere	TAG=V,TAG=ACT,TAG=NFIN
+reparere	repareres	TAG=V,TAG=PASS,TAG=IND,TAG=PRS
+reparere	reparerende	TAG=V.PTCP,TAG=ACT,TAG=PRS
+reparere	reparerer	TAG=V,TAG=ACT,TAG=IND,TAG=PRS
+reparere	reparerede	TAG=V,TAG=ACT,TAG=IND,TAG=PST
+
