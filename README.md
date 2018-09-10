@@ -24,6 +24,8 @@ $ python paradigmGeneralDurrettDeNero.py
 
 This will store the counts in paradigmCountDurrettDeNero.csv.
 
+
+
 To get the counts of 1st-order (i.e. paradigms extracted from inflection tables) and 2nd-order (i.e. more abstract paradigms generalized on top of 1st-order paradigms) paradigms on CoNLL-SIGMORPHON2017 data set,
 
 $ python paradigmGeneralCoNLL-SIGMORPHON2017.py
