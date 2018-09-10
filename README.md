@@ -16,7 +16,7 @@ The second data set is the combination of the training, development and testing 
 
 ## Scripts
 
-The script for 1st-order paradigm extraction, i.e. to extract paradigms from inflection tables, is from https://github.com/marfors/paradigmextract with minor changes.
+The script in the directory paradigmextract/ is for 1st-order paradigm extraction, i.e. to extract paradigms from inflection tables. It is from https://github.com/marfors/paradigmextract with minor changes.
 
 -------------------------------------------------------------
 
