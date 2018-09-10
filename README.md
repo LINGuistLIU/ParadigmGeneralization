@@ -18,6 +18,8 @@ The second data set is the combination of the training, development and testing 
 
 The script for 1st-order paradigm extraction, i.e. to extract paradigms from inflection tables, is from https://github.com/marfors/paradigmextract with minor changes.
 
+-------------------------------------------------------------
+
 To get the counts of 1st-order (i.e. paradigms extracted from inflection tables) and 2nd-order (i.e. more abstract paradigms generalized on top of 1st-order paradigms) paradigms on DurrettDeNero data set,
 
 $ python paradigmGeneralDurrettDeNero.py
