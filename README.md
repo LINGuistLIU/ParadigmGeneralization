@@ -24,11 +24,11 @@ To get the counts of 1st-order (i.e. paradigms extracted from inflection tables)
 
 $ python paradigmGeneralDurrettDeNero.py
 
-This will store the counts in paradigmCountDurrettDeNero.csv.
+- This will store the counts in paradigmCountDurrettDeNero.csv.
 
-1st-order paradigms will be stored in the directory paradigmsDurrettDeNero/.
+- 1st-order paradigms will be stored in the directory paradigmsDurrettDeNero/.
 
-2nd-order paradigms will be stored in the directory paradigmsDurrettDeNero/2nd_order/.
+- 2nd-order paradigms will be stored in the directory paradigmsDurrettDeNero/2nd_order/.
 
 -------------------------------------------------------------
 
