@@ -26,6 +26,10 @@ $ python paradigmGeneralDurrettDeNero.py
 
 This will store the counts in paradigmCountDurrettDeNero.csv.
 
+1st-order paradigms will be stored in the directory paradigmsDurrettDeNero/.
+
+2nd-order paradigms will be stored in the directory paradigmsDurrettDeNero/2nd_order/.
+
 -------------------------------------------------------------
 
 To get the counts of 1st-order (i.e. paradigms extracted from inflection tables) and 2nd-order (i.e. more abstract paradigms generalized on top of 1st-order paradigms) paradigms on CoNLL-SIGMORPHON2017 data set,
@@ -33,5 +37,9 @@ To get the counts of 1st-order (i.e. paradigms extracted from inflection tables)
 $ python paradigmGeneralCoNLL-SIGMORPHON2017.py
 
 This will store the counts in paradigmCountCoNLL-SIGMORPHON2017.csv.
+
+1st-order paradigms will be stored in the directory paradigmsCoNLL-SIGMORPHON2017/.
+
+2nd-order paradigms will be stored in the directory paradigmsCoNLL-SIGMORPHON2017/2nd_order/.
 
 
