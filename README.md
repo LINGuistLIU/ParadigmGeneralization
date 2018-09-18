@@ -36,10 +36,10 @@ To get the counts of 1st-order (i.e. paradigms extracted from inflection tables)
 
 $ python paradigmGeneralCoNLL-SIGMORPHON2017.py
 
-This will store the counts in paradigmCountCoNLL-SIGMORPHON2017.csv.
+- This will store the counts in paradigmCountCoNLL-SIGMORPHON2017.csv.
 
-1st-order paradigms will be stored in the directory paradigmsCoNLL-SIGMORPHON2017/.
+- 1st-order paradigms will be stored in the directory paradigmsCoNLL-SIGMORPHON2017/.
 
-2nd-order paradigms will be stored in the directory paradigmsCoNLL-SIGMORPHON2017/2nd_order/.
+- 2nd-order paradigms will be stored in the directory paradigmsCoNLL-SIGMORPHON2017/2nd_order/.
 
 
