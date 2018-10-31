@@ -8,7 +8,7 @@ This repository is the scripts and data we used for paradigm generalization in
 
 Two data sets are used for experiments on paradigm generalization.
 
-The first data set is the combination of the training dan development sets used by Durrett and DeNero (2013) which are reformatted for current experiment. It is in the directory DurrettDeNero/.
+The first data set is the combination of the training and development sets used by Durrett and DeNero (2013) which are reformatted for current experiment. It is in the directory DurrettDeNero/.
 
 The second data set is the combination of the training, development and testing part of the low, medium, high data setting for each of the 33 languages in CoNLL-SIGMORPHON 2017 shared task data (Cotterell et al. 2017). Only complete tables are used for each language. The data is reformatted and stored in the directory CoNLL-SIGMORPHON2017/. The complete table size for each part-of-speech of each language is as follows:
 
