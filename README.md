@@ -2,7 +2,7 @@
 
 This repository is the scripts and data we used for paradigm generalization in 
 
-[Silfverberg, M.; Liu, L.; Hulden, M. (2018). A Computational Model for the Linguistic Notion of Morphological Paradigm. In Proceedings of the 27th International Conference on Computational Linguistics (pp. 1615-1626).] (http://aclweb.org/anthology/C18-1137)
+[Silfverberg, M.; Liu, L.; Hulden, M. (2018). A Computational Model for the Linguistic Notion of Morphological Paradigm. In Proceedings of the 27th International Conference on Computational Linguistics (pp. 1615-1626).](http://aclweb.org/anthology/C18-1137)
 
 ## Datasets
 
