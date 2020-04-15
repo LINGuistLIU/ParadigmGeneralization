@@ -22,7 +22,7 @@ The script in the directory paradigmextract/ is for 1st-order paradigm extractio
 
 To get the counts of 1st-order (i.e. paradigms extracted from inflection tables) and 2nd-order (i.e. more abstract paradigms generalized on top of 1st-order paradigms) paradigms on DurrettDeNero data set,
 
-$ python paradigmGeneralDurrettDeNero.py
+```$ python paradigmGeneralDurrettDeNero.py```
 
 - This will store the counts in paradigmCountDurrettDeNero.csv.
 
@@ -34,7 +34,7 @@ $ python paradigmGeneralDurrettDeNero.py
 
 To get the counts of 1st-order (i.e. paradigms extracted from inflection tables) and 2nd-order (i.e. more abstract paradigms generalized on top of 1st-order paradigms) paradigms on CoNLL-SIGMORPHON2017 data set,
 
-$ python paradigmGeneralCoNLL-SIGMORPHON2017.py
+```$ python paradigmGeneralCoNLL-SIGMORPHON2017.py```
 
 - This will store the counts in paradigmCountCoNLL-SIGMORPHON2017.csv.
 
